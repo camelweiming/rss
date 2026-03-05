@@ -11,7 +11,6 @@ load_dotenv()
 
 from config import RSS_SOURCES, CACHE_FILE, REQUEST_HEADERS
 from email_sender import send_email
-from util import convert_to_beijing_time
 from content_cache import update_content_cache
 
 
@@ -105,8 +104,9 @@ def generate_email_content(entries):
         link = entry.get('link', '#')
         pub_date = entry.get('published', '')
         
-        # 将发布时间转换为北京时间
-        pub_date = convert_to_beijing_time(pub_date)
+        # 保留原始时间
+        if pub_date:
+            pub_date = pub_date[:30]  # 限制长度，避免过长
             
         source = entry.get('source_name', '未知来源')
         
