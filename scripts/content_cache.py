@@ -4,7 +4,7 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 # 内容缓存文件
-CONTENT_CACHE_FILE = "rss_content_cache.json"
+CONTENT_CACHE_FILE = "docs/rss_content_cache.json"
 # 保留的最大条目数
 MAX_CACHE_SIZE = 100
 
