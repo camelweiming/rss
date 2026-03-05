@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RSS 内容列表</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            border-bottom: 2px solid #007bff;
+            padding-bottom: 10px;
+        }
+        .article {
+            margin-bottom: 20px;
+            padding: 15px;
+            border-left: 4px solid #007bff;
+            background-color: #f8f9fa;
+        }
+        .article h2 {
+            margin-top: 0;
+            font-size: 18px;
+            color: #222;
+        }
+        .article-meta {
+            font-size: 12px;
+            margin-bottom: 10px;
+        }
+        .source {
+            font-weight: 700;
+            color: #007bff;
+            background: #e3f2fd;
+            padding: 2px 6px;
+            border-radius: 3px;
+            margin-right: 10px;
+        }
+        .date {
+            color: #666;
+        }
+        .summary {
+            font-size: 14px;
+            color: #333;
+            margin-bottom: 10px;
+            line-height: 1.5;
+        }
+        .read-more {
+            font-size: 12px;
+        }
+        .read-more a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        .read-more a:hover {
+            text-decoration: underline;
+        }
+        .loading {
+            text-align: center;
+            padding: 50px;
+            color: #666;
+        }
+        .error {
+            text-align: center;
+            padding: 50px;
+            color: #dc3545;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>RSS 内容列表</h1>
+        <div id="articles-container">
+            <div class="loading">加载中...</div>
+        </div>
+    </div>
+    
+    <script>
+        // 加载内容缓存
+        async function loadContent() {
+            const container = document.getElementById('articles-container');
+            
+            try {
+                // 尝试加载本地的 content_cache.json 文件
+                const response = await fetch('rss_content_cache.json');
+                if (!response.ok) {
+                    throw new Error('无法加载缓存文件');
+                }
+                
+                const cache = await response.json();
+                
+                if (cache.length === 0) {
+                    container.innerHTML = '<div class="error">暂无内容</div>';
+                    return;
+                }
+                
+                // 生成文章列表
+                let html = '';
+                cache.forEach(item => {
+                    // 移除 HTML 标签
+                    const summary = item.summary ? item.summary.replace(/<[^<]+?>/g, '') : '';
+                    
+                    // 转换时间为北京时间
+                    let pubDate = item.published;
+                    try {
+                        const date = new Date(item.published);
+                        pubDate = date.toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' });
+                    } catch (e) {
+                        // 保持原始时间格式
+                    }
+                    
+                    html += `
+                        <div class="article">
+                            <h2>${item.title}</h2>
+                            <div class="article-meta">
+                                <span class="source">${item.source_name}</span>
+                                <span class="date">${pubDate}</span>
+                            </div>
+                            <div class="summary">${summary}</div>
+                            <div class="read-more">
+                                <a href="${item.link}" target="_blank">查看原文</a>
+                            </div>
+                        </div>
+                    `;
+                });
+                
+                container.innerHTML = html;
+            } catch (error) {
+                container.innerHTML = `<div class="error">加载失败：${error.message}</div>`;
+                console.error('加载内容失败:', error);
+            }
+        }
+        
+        // 页面加载完成后加载内容
+        window.onload = loadContent;
+    </script>
+</body>
+</html>

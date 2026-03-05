@@ -12,6 +12,7 @@ load_dotenv()
 from config import RSS_SOURCES, CACHE_FILE, REQUEST_HEADERS
 from email_sender import send_email
 from util import convert_to_beijing_time
+from content_cache import update_content_cache
 
 
 def read_cache():
@@ -167,10 +168,17 @@ def main():
     # 生成邮件内容
     email_content = generate_email_content(all_new_entries)
     
-    # 发送邮件
-    if send_email(email_content, len(all_new_entries)):
-        # 更新缓存
-        update_cache(cached_guids)
+    # 暂时注释掉发送邮件的逻辑，只测试页面方式
+    # if send_email(email_content, len(all_new_entries)):
+    #     # 更新缓存
+    #     update_cache(cached_guids)
+    #     # 更新内容缓存
+    #     update_content_cache(all_new_entries)
+    
+    # 直接更新缓存和内容缓存
+    update_cache(cached_guids)
+    update_content_cache(all_new_entries)
+    print(f"✅ 已更新缓存，跳过邮件发送")
 
 
 if __name__ == "__main__":
