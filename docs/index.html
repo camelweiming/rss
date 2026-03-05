@@ -93,8 +93,8 @@
             const container = document.getElementById('articles-container');
             
             try {
-                // 尝试加载本地的 content_cache.json 文件
-                const response = await fetch('rss_content_cache.json');
+                // 尝试加载根目录的 content_cache.json 文件
+                const response = await fetch('../rss_content_cache.json');
                 if (!response.ok) {
                     throw new Error('无法加载缓存文件');
                 }
