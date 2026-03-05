@@ -2,3 +2,36 @@
 node_modules/
 .env
 .DS_Store
+
+# Python
+venv/
+python_env/
+env/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python egg files
+*.egg
+*.egg-info/
+
+# Python distribution files
+dist/
+build/
+
+# Python IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python testing files
+.pytest_cache/
+.tox/
+
+# Python cache files
+*.pyc
+__pycache__/
