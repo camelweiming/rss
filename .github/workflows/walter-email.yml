@@ -24,7 +24,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install feedparser python-dotenv requests
+          pip install feedparser python-dotenv requests python-dateutil
           pip list  # 打印已安装包，确认依赖
 
       - name: Fetch multi RSS and send email
