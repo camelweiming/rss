@@ -44,12 +44,9 @@ jobs:
 
           # ===================== 改用稳定的公共RSS源（无需Cloudflare中转） =====================
           RSS_SOURCES = {
-              # Walter Bloomberg：改用RSS镜像源（避开Nitter反爬）
-              "Walter Bloomberg": "https://rsshub.app/nitter/DeItaone",
-              # 路透社：改用无反爬的RSS源
-              "路透社": "https://rsshub.app/reuters/worldnews",
-              # 彭博：改用第三方镜像RSS源
-              "彭博": "https://rsshub.app/bloomberg/news"
+              "reuters": "https://feeds.reuters.com/reuters/topNews",
+              "ft": "https://www.ft.com/?format=rss",
+              "美联社": "https://hosted2.ap.org/APDEFAULT/3d826f4870f84218835fca680356a236/Article_90000000000000000000000000000000/feed/rss.xml"
           }
           CACHE_FILE = "rss_cache.json"
           ALL_NEW_ENTRIES = []
