@@ -8,11 +8,11 @@ jobs:
   send-email:
     runs-on: ubuntu-latest
     steps:
-      # 替换为完整SHA的checkout Action
+      # 使用完整SHA的checkout Action
       - name: Checkout code
         uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11
 
-      # 替换为完整SHA的setup-python Action
+      # 使用完整SHA的setup-python Action
       - name: Set up Python
         uses: actions/setup-python@39cd14951b08e74b54015e9e001cdefcf80e669f
         with:
@@ -21,7 +21,8 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install feedparser smtplib ssl email python-dotenv
+          # 只安装需要的第三方库（smtplib/ssl/email是内置库，无需安装）
+          pip install feedparser python-dotenv
 
       - name: Fetch multi RSS and send email
         env:
@@ -33,7 +34,9 @@ jobs:
         run: |
           import feedparser
           import smtplib
+          import ssl  # 内置库，无需安装
           from email.mime.text import MIMEText
+          from email.utils import formataddr  # 避免邮件格式警告
           import json
           from datetime import datetime
           import os
@@ -65,7 +68,7 @@ jobs:
               # 筛选新内容
               for entry in feed.entries[:5]:  # 每个源取最新5条
                   if hasattr(entry, 'guid') and entry.guid not in cached_guids:
-                      entry['source_name'] = source_name  # 标记来源
+                      entry['source_name'] = source_name
                       ALL_NEW_ENTRIES.append(entry)
                       cached_guids.add(entry.guid)
 
@@ -80,7 +83,7 @@ jobs:
           # 生成聚合邮件内容
           email_content = f"<h2>全球资讯新内容汇总 {datetime.now().strftime('%Y-%m-%d %H:%M')}</h2>"
           for entry in ALL_NEW_ENTRIES:
-              title = entry.get('title', '无标题')
+              title = entry.get('title', '无标题').replace('<', '&lt;').replace('>', '&gt;')  # 转义特殊字符
               link = entry.get('link', '#')
               pub_date = entry.get('published', '未知时间')
               source = entry.get('source_name', '未知来源')
@@ -93,23 +96,28 @@ jobs:
               </div>
               """
 
-          # 发送邮件
+          # 发送邮件（优化格式，避免报错）
           msg = MIMEText(email_content, 'html', 'utf-8')
           msg['Subject'] = f"【全球资讯】新增 {len(ALL_NEW_ENTRIES)} 条内容 {datetime.now().strftime('%Y-%m-%d %H:%M')}"
-          msg['From'] = os.environ['SMTP_USER']
+          msg['From'] = formataddr(('全球资讯推送', os.environ['SMTP_USER']))  # 优化发件人格式
           msg['To'] = os.environ['TO_EMAIL']
 
-          # 连接SMTP服务器
-          server = smtplib.SMTP_SSL(os.environ['SMTP_HOST'], int(os.environ['SMTP_PORT']))
-          server.login(os.environ['SMTP_USER'], os.environ['SMTP_PASS'])
-          server.send_message(msg)
-          server.quit()
+          # 连接SMTP服务器（添加超时处理）
+          try:
+              server = smtplib.SMTP_SSL(os.environ['SMTP_HOST'], int(os.environ['SMTP_PORT']), timeout=30)
+              server.login(os.environ['SMTP_USER'], os.environ['SMTP_PASS'])
+              server.send_message(msg)
+              print(f"发送成功！共{len(ALL_NEW_ENTRIES)}条新内容")
+          except Exception as e:
+              print(f"邮件发送失败：{str(e)}")
+              exit(1)
+          finally:
+              server.quit()
 
           # 更新缓存
           with open(CACHE_FILE, 'w') as f:
               json.dump(list(cached_guids), f)
 
-          print(f"发送成功！共{len(ALL_NEW_ENTRIES)}条新内容")
         shell: python
 
       - name: Save cache to GitHub
