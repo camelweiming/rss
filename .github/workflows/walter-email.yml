@@ -50,12 +50,15 @@ jobs:
           CACHE_FILE = "rss_cache.json"
           ALL_NEW_ENTRIES = []
 
-          # 读取缓存
+          # 读取缓存（首次运行自动创建空缓存）
           try:
               with open(CACHE_FILE, 'r') as f:
                   cached_guids = set(json.load(f))
           except FileNotFoundError:
               cached_guids = set()
+              # 首次运行创建空缓存文件，避免git add报错
+              with open(CACHE_FILE, 'w') as f:
+                  json.dump(list(cached_guids), f)
 
           # 遍历所有RSS源，抓取内容
           for source_name, rss_url in RSS_SOURCES.items():
@@ -72,7 +75,7 @@ jobs:
                       ALL_NEW_ENTRIES.append(entry)
                       cached_guids.add(entry.guid)
 
-          # 无新内容则退出
+          # 无新内容则退出（但保留缓存文件）
           if not ALL_NEW_ENTRIES:
               print("无新内容，退出")
               exit(0)
@@ -124,6 +127,8 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add rss_cache.json
+          # 兼容缓存文件不存在的情况，失败不终止
+          git add rss_cache.json || true
+          # 提交时忽略“无修改”的情况
           git commit -m "Update RSS cache $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
-          git push origin main
+          git push origin main || echo "Push failed (no changes or permission issue)"
