@@ -21,8 +21,8 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          # 只安装需要的第三方库（smtplib/ssl/email是内置库，无需安装）
-          pip install feedparser python-dotenv
+          pip install feedparser python-dotenv requests  # 新增requests库用于调试
+          pip list  # 打印已安装包，确认依赖
 
       - name: Fetch multi RSS and send email
         env:
@@ -34,59 +34,103 @@ jobs:
         run: |
           import feedparser
           import smtplib
-          import ssl  # 内置库，无需安装
+          import ssl
+          import requests  # 新增：手动请求查看HTTP状态
           from email.mime.text import MIMEText
-          from email.utils import formataddr  # 避免邮件格式警告
+          from email.utils import formataddr
           import json
           from datetime import datetime
           import os
 
           # ===================== 配置多个RSS源 =====================
           RSS_SOURCES = {
-              "Walter Bloomberg": "https://rss.camelweiming.workers.dev/?url=https://nitter.poast.org/DeItaone/rss",
-              "路透社": "https://rss.camelweiming.workers.dev/?url=https://www.reuters.com/rssFeed/topNews",
-              "彭博": "https://rss.camelweiming.workers.dev/?url=https://www.bloomberg.com/feed.rss"
+              "Walter Bloomberg": "https://rss.camelweiming.workers.dev/?url=https://nitter.fly.dev/DeItaone/rss",
+              "路透社": "https://rss.camelweiming.workers.dev/?url=https://feeds.reuters.com/Reuters/worldNews",
+              "彭博": "https://rss.camelweiming.workers.dev/?url=https://www.bloomberg.com/news/rss"
           }
           CACHE_FILE = "rss_cache.json"
           ALL_NEW_ENTRIES = []
 
-          # 读取缓存（首次运行自动创建空缓存）
+          # 读取缓存
           try:
               with open(CACHE_FILE, 'r') as f:
                   cached_guids = set(json.load(f))
+              print(f"✅ 缓存文件读取成功，已缓存 {len(cached_guids)} 条内容")
           except FileNotFoundError:
               cached_guids = set()
-              # 首次运行创建空缓存文件，避免git add报错
               with open(CACHE_FILE, 'w') as f:
                   json.dump(list(cached_guids), f)
+              print(f"✅ 缓存文件不存在，已创建空缓存")
 
-          # 遍历所有RSS源，抓取内容
+          # 遍历所有RSS源，抓取内容（带详细调试）
           for source_name, rss_url in RSS_SOURCES.items():
-              print(f"正在抓取 {source_name}...")
-              feed = feedparser.parse(rss_url)
-              if not feed.entries:
-                  print(f"{source_name} 无内容")
+              print(f"\n========== 开始抓取 {source_name} ==========")
+              print(f"📌 中转地址：{rss_url}")
+          
+              # 第一步：手动请求，查看HTTP状态和原始内容
+              try:
+                  resp = requests.get(rss_url, timeout=10, headers={
+                      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
+                  })
+                  print(f"🌐 HTTP状态码：{resp.status_code}")
+                  print(f"📄 返回内容长度：{len(resp.text)} 字符")
+                  print(f"🔍 前200字符内容：{resp.text[:200]}")
+          
+                  if resp.status_code != 200:
+                      print(f"❌ {source_name} Worker中转失败，HTTP状态码：{resp.status_code}")
+                      continue
+              except Exception as e:
+                  print(f"❌ {source_name} 请求失败：{str(e)}")
                   continue
           
-              # 筛选新内容
-              for entry in feed.entries[:5]:  # 每个源取最新5条
-                  if hasattr(entry, 'guid') and entry.guid not in cached_guids:
+              # 第二步：用feedparser解析RSS
+              try:
+                  feed = feedparser.parse(resp.text)  # 用原始文本解析，避免重复请求
+                  entry_count = len(feed.entries)
+                  print(f"📊 feedparser解析到条目数：{entry_count}")
+          
+                  if entry_count == 0:
+                      # 尝试手动解析XML，排查feedparser问题
+                      import xml.etree.ElementTree as ET
+                      try:
+                          root = ET.fromstring(resp.text)
+                          xml_items = root.findall('.//item')
+                          print(f"📊 手动XML解析到条目数：{len(xml_items)}")
+                          if len(xml_items) > 0:
+                              print(f"⚠️ feedparser解析失败，但XML本身有内容！")
+                      except:
+                          print(f"❌ XML格式错误，无法手动解析")
+                      print(f"❌ {source_name} 无可用内容")
+                      continue
+              except Exception as e:
+                  print(f"❌ {source_name} 解析失败：{str(e)}")
+                  continue
+          
+              # 第三步：筛选新内容（兼容guid/link字段）
+              new_count = 0
+              for entry in feed.entries[:5]:
+                  # 优先用guid，没有则用link
+                  unique_id = entry.get('guid', entry.get('link', ''))
+                  if unique_id and unique_id not in cached_guids:
                       entry['source_name'] = source_name
                       ALL_NEW_ENTRIES.append(entry)
-                      cached_guids.add(entry.guid)
+                      cached_guids.add(unique_id)
+                      new_count += 1
+              print(f"✨ {source_name} 找到 {new_count} 条新内容（总计{entry_count}条）")
 
-          # 无新内容则退出（但保留缓存文件）
+          # 无新内容则退出
           if not ALL_NEW_ENTRIES:
-              print("无新内容，退出")
+              print(f"\n📝 最终结果：所有源均无新内容")
               exit(0)
 
           # 按发布时间排序
           ALL_NEW_ENTRIES.sort(key=lambda x: x.get('published', ''), reverse=True)
+          print(f"\n✅ 总计找到 {len(ALL_NEW_ENTRIES)} 条新内容，开始发送邮件")
 
           # 生成聚合邮件内容
           email_content = f"<h2>全球资讯新内容汇总 {datetime.now().strftime('%Y-%m-%d %H:%M')}</h2>"
           for entry in ALL_NEW_ENTRIES:
-              title = entry.get('title', '无标题').replace('<', '&lt;').replace('>', '&gt;')  # 转义特殊字符
+              title = entry.get('title', '无标题').replace('<', '&lt;').replace('>', '&gt;')
               link = entry.get('link', '#')
               pub_date = entry.get('published', '未知时间')
               source = entry.get('source_name', '未知来源')
@@ -99,20 +143,19 @@ jobs:
               </div>
               """
 
-          # 发送邮件（优化格式，避免报错）
+          # 发送邮件
           msg = MIMEText(email_content, 'html', 'utf-8')
           msg['Subject'] = f"【全球资讯】新增 {len(ALL_NEW_ENTRIES)} 条内容 {datetime.now().strftime('%Y-%m-%d %H:%M')}"
-          msg['From'] = formataddr(('全球资讯推送', os.environ['SMTP_USER']))  # 优化发件人格式
+          msg['From'] = formataddr(('全球资讯推送', os.environ['SMTP_USER']))
           msg['To'] = os.environ['TO_EMAIL']
 
-          # 连接SMTP服务器（添加超时处理）
           try:
               server = smtplib.SMTP_SSL(os.environ['SMTP_HOST'], int(os.environ['SMTP_PORT']), timeout=30)
               server.login(os.environ['SMTP_USER'], os.environ['SMTP_PASS'])
               server.send_message(msg)
-              print(f"发送成功！共{len(ALL_NEW_ENTRIES)}条新内容")
+              print(f"📧 邮件发送成功！已发送到 {os.environ['TO_EMAIL']}")
           except Exception as e:
-              print(f"邮件发送失败：{str(e)}")
+              print(f"❌ 邮件发送失败：{str(e)}")
               exit(1)
           finally:
               server.quit()
@@ -120,6 +163,7 @@ jobs:
           # 更新缓存
           with open(CACHE_FILE, 'w') as f:
               json.dump(list(cached_guids), f)
+          print(f"💾 缓存已更新，当前缓存 {len(cached_guids)} 条内容")
 
         shell: python
 
@@ -127,8 +171,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          # 兼容缓存文件不存在的情况，失败不终止
           git add rss_cache.json || true
-          # 提交时忽略“无修改”的情况
           git commit -m "Update RSS cache $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
           git push origin main || echo "Push failed (no changes or permission issue)"
