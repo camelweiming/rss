@@ -1,1 +1,13 @@
-test
+# Cloudflare RSS Proxy
+基于Cloudflare Worker的RSS中转工具，解决国内访问海外RSS源（如Walter Bloomberg/路透/彭博）的问题。
+
+## 使用方式
+1. 部署后访问：`https://你的worker域名.dev/?url=RSS地址`
+2. 示例：
+   - Walter Bloomberg: `https://rss-proxy-demo.workers.dev/?url=https://nitter.poast.org/DeItaone/rss`
+   - 路透社: `https://rss-proxy-demo.workers.dev/?url=https://www.reuters.com/rssFeed/topNews`
+
+## 部署步骤
+1. 安装wrangler: `npm install -g wrangler`
+2. 登录Cloudflare: `wrangler login`
+3. 部署: `wrangler deploy`
