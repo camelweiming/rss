@@ -1,13 +1,15 @@
 import feedparser
-import smtplib
 import requests
-from email.mime.text import MIMEText
-from email.utils import formataddr
 import json
 from datetime import datetime
 import os
-from zoneinfo import ZoneInfo
+from dotenv import load_dotenv
+
+# 加载 .env 文件
+load_dotenv()
+
 from config import RSS_SOURCES, CACHE_FILE, REQUEST_HEADERS
+from email_sender import send_email
 
 
 def read_cache():
@@ -119,42 +121,26 @@ def generate_email_content(entries):
         
         # 取正文（兼容各种RSS格式）
         summary = entry.get('summary', entry.get('description', ''))
-        summary = summary.replace('<', '&lt;').replace('>', '&gt;').replace('\n', ' ')
-        summary = summary[:180]  # 控制长度，不刷屏
+        # 移除 HTML 标签
+        import re
+        summary = re.sub('<[^<]+?>', '', summary)
+        # 替换特殊字符
+        summary = summary.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;').replace('\n', ' ')
+        # 不去截取长度
         
         email_content += f"""
-        <div style="margin:0 0 10px; padding:8px; border-left:3px solid #007bff; background:#f8f9fa;">
-        <div style="font-size:15px; font-weight:600; color:#222;">{title}</div>
-        <div style="font-size:12px; margin:2px 0;"><span style="font-weight:600; color:#007bff;">{source}</span> • <span style="color:#666;">{pub_date}</span></div>
-        <div style="font-size:14px; color:#333; margin:4px 0; line-height:1.4;">{summary}</div>
-        <div style="font-size:12px;"><a href="{link}" style="color:#007bff; text-decoration:none;">查看原文</a></div>
+        <div style="margin:0 0 15px; padding:12px; border-left:4px solid #007bff; background:#f8f9fa;">
+        <div style="font-size:15px; font-weight:600; color:#222; margin-bottom:6px;">{title}</div>
+        <div style="font-size:12px; margin-bottom:8px;"><span style="font-weight:700; color:#007bff; background:#e3f2fd; padding:2px 6px; border-radius:3px;">{source}</span> <span style="color:#666;">{pub_date}</span></div>
+        <div style="font-size:14px; color:#333; line-height:1.5;">{summary}</div>
+        <div style="font-size:12px; margin-top:8px;"><a href="{link}" style="color:#007bff; text-decoration:none;">查看原文</a></div>
         </div>
         """
     
     return email_content
 
 
-def send_email(email_content, entries_count, smtp_config):
-    """发送邮件"""
-    msg = MIMEText(email_content, 'html', 'utf-8')
-    # 转换为北京时间
-    beijing_time = datetime.now(ZoneInfo('Asia/Shanghai'))
-    msg['Subject'] = f"新增 {entries_count} 条内容 {beijing_time.strftime('%Y-%m-%d %H:%M')}"
-    msg['From'] = formataddr(('全球资讯推送', smtp_config['user']))
-    msg['To'] = smtp_config['to_email']
 
-    try:
-        server = smtplib.SMTP_SSL(smtp_config['host'], int(smtp_config['port']), timeout=30)
-        server.login(smtp_config['user'], smtp_config['pass'])
-        server.send_message(msg)
-        print(f"📧 邮件发送成功！已发送到 {smtp_config['to_email']}")
-    except Exception as e:
-        print(f"❌ 邮件发送失败：{str(e)}")
-        return False
-    finally:
-        server.quit()
-    
-    return True
 
 
 def update_cache(cached_guids):
@@ -191,17 +177,8 @@ def main():
     # 生成邮件内容
     email_content = generate_email_content(all_new_entries)
     
-    # 准备SMTP配置
-    smtp_config = {
-        'host': os.environ['SMTP_HOST'],
-        'port': os.environ['SMTP_PORT'],
-        'user': os.environ['SMTP_USER'],
-        'pass': os.environ['SMTP_PASS'],
-        'to_email': os.environ['TO_EMAIL']
-    }
-    
     # 发送邮件
-    if send_email(email_content, len(all_new_entries), smtp_config):
+    if send_email(email_content, len(all_new_entries)):
         # 更新缓存
         update_cache(cached_guids)
 
