@@ -1,0 +1,92 @@
+name: Walter RSS Auto Email
+on:
+  schedule:
+    - cron: '*/10 * * * *'  # 每10分钟运行一次
+  workflow_dispatch:       # 手动触发按钮
+
+jobs:
+  send-email:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser smtplib email
+
+      - name: Fetch RSS and send email
+        env:
+          # 需在GitHub Secrets中配置以下变量
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          TO_EMAIL: ${{ secrets.TO_EMAIL }}
+        run: |
+          import feedparser
+          import smtplib
+          from email.mime.text import MIMEText
+          import json
+          from datetime import datetime
+
+          # 你的Cloudflare Worker中转地址（Walter）
+          RSS_URL = "https://rss.camelweiming.workers.dev/?url=https://nitter.poast.org/DeItaone/rss"
+          CACHE_FILE = "rss_cache.json"
+
+          # 抓取RSS内容
+          feed = feedparser.parse(RSS_URL)
+          if not feed.entries:
+              print("无RSS内容")
+              exit(0)
+
+          # 读取缓存，筛选新内容
+          new_entries = []
+          try:
+              with open(CACHE_FILE, 'r') as f:
+                  cached_guids = set(json.load(f))
+          except FileNotFoundError:
+              cached_guids = set()
+
+          for entry in feed.entries[:5]:  # 取最新5条
+              if entry.guid not in cached_guids:
+                  new_entries.append(entry)
+                  cached_guids.add(entry.guid)
+
+          if not new_entries:
+              print("无新内容")
+              exit(0)
+
+          # 生成邮件内容
+          content = "<h3>Walter Bloomberg 最新快讯</h3>"
+          for entry in new_entries:
+              content += f"<p><strong>{entry.title}</strong><br>链接：<a href='{entry.link}'>{entry.link}</a></p><hr>"
+
+          # 发送邮件
+          msg = MIMEText(content, 'html', 'utf-8')
+          msg['Subject'] = f"[Walter] 新快讯 {datetime.now().strftime('%Y-%m-%d %H:%M')}"
+          msg['From'] = "${{ secrets.SMTP_USER }}"
+          msg['To'] = "${{ secrets.TO_EMAIL }}"
+
+          server = smtplib.SMTP_SSL("${{ secrets.SMTP_HOST }}", int("${{ secrets.SMTP_PORT }}"))
+          server.login("${{ secrets.SMTP_USER }}", "${{ secrets.SMTP_PASS }}")
+          server.send_message(msg)
+          server.quit()
+
+          # 更新缓存
+          with open(CACHE_FILE, 'w') as f:
+              json.dump(list(cached_guids), f)
+
+          print(f"发送成功！共{len(new_entries)}条新内容")
+        shell: python
+
+      - name: Save cache
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add rss_cache.json
+          git commit -m "Update cache $(date)" || echo "No changes"
+          git push
