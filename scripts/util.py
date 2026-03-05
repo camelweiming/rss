@@ -37,3 +37,32 @@ def convert_to_beijing_time(pub_date):
     except:
         # 如果解析失败，使用原始时间
         return pub_date[:30]
+
+
+def get_timestamp(item):
+    """获取条目的时间戳用于排序
+    
+    Args:
+        item (dict): RSS条目
+    
+    Returns:
+        float: 时间戳
+    """
+    published = item.get('published', '')
+    if not published:
+        return 0
+    try:
+        # 尝试解析日期
+        dt = dateutil.parser.parse(published)
+        # 转换为时间戳
+        return dt.timestamp()
+    except:
+        # 如果解析失败，使用缓存时间
+        cached_at = item.get('cached_at', '')
+        if cached_at:
+            try:
+                dt = datetime.fromisoformat(cached_at)
+                return dt.timestamp()
+            except:
+                pass
+        return 0

@@ -2,6 +2,7 @@ import json
 import os
 from datetime import datetime
 from zoneinfo import ZoneInfo
+from util import get_timestamp
 
 # 内容缓存文件
 CONTENT_CACHE_FILE = "docs/rss_content_cache.json"
@@ -62,8 +63,8 @@ def update_content_cache(new_entries):
                 'cached_at': datetime.now(ZoneInfo('Asia/Shanghai')).isoformat()
             })
     
-    # 按发布时间排序（降序）
-    cache.sort(key=lambda x: x.get('published', ''), reverse=True)
+    # 按时间戳降序排序
+    cache.sort(key=get_timestamp, reverse=True)
     
     # 限制缓存大小
     if len(cache) > MAX_CACHE_SIZE:
@@ -84,6 +85,6 @@ def get_content_cache():
         list: 缓存的 RSS 条目列表，按发布时间降序排序
     """
     cache = read_content_cache()
-    # 确保按发布时间排序
-    cache.sort(key=lambda x: x.get('published', ''), reverse=True)
+    # 按时间戳降序排序
+    cache.sort(key=get_timestamp, reverse=True)
     return cache
