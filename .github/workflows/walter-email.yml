@@ -140,20 +140,26 @@ jobs:
           print(f"\n✅ 总计找到 {len(ALL_NEW_ENTRIES)} 条新内容，开始发送邮件")
 
           # 生成聚合邮件内容
-          email_content = f"<h2>全球资讯新内容汇总 {datetime.now().strftime('%Y-%m-%d %H:%M')}</h2>"
+          email_content = f"<h3>📈 美股&财经快讯 {datetime.now().strftime('%m-%d %H:%M')}</h3>"
           for entry in ALL_NEW_ENTRIES:
-              title = entry.get('title', '无标题').replace('<', '&lt;').replace('>', '&gt;')
-              link = entry.get('link', '#')
-              pub_date = entry.get('published', '未知时间')
-              source = entry.get('source_name', '未知来源')
-              email_content += f"""
-              <div style="border:1px solid #eee; padding:10px; margin:10px 0;">
-                <h3>{title}</h3>
-                <p>来源：{source}</p>
-                <p>发布时间：{pub_date}</p>
-                <p>链接：<a href="{link}" target="_blank">{link}</a></p>
-              </div>
-              """
+            title = entry.get('title', '无标题').replace('<', '&lt;').replace('>', '&gt;')
+            link = entry.get('link', '#')
+            pub_date = entry.get('published', '')[:30]  # 只留前30位，不冗长
+            source = entry.get('source_name', '未知来源')
+            
+            # 取正文（兼容各种RSS格式）
+            summary = entry.get('summary', entry.get('description', ''))
+            summary = summary.replace('<', '&lt;').replace('>', '&gt;').replace('\n', ' ')
+            summary = summary[:180]  # 控制长度，不刷屏
+            
+            email_content += f"""
+            <div style="margin:0 0 10px; padding:8px; border-left:3px solid #007bff; background:#f8f9fa;">
+            <div style="font-size:15px; font-weight:600; color:#222;">{title}</div>
+            <div style="font-size:12px; color:#666; margin:2px 0;">{source} • {pub_date}</div>
+            <div style="font-size:14px; color:#333; margin:4px 0; line-height:1.4;">{summary}</div>
+            <div style="font-size:12px;"><a href="{link}" style="color:#007bff; text-decoration:none;">查看原文</a></div>
+            </div>
+            """
 
           # 发送邮件
           msg = MIMEText(email_content, 'html', 'utf-8')
