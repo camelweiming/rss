@@ -46,7 +46,8 @@ jobs:
           RSS_SOURCES = {
               "reuters": "https://feeds.reuters.com/reuters/topNews",
               "ft": "https://www.ft.com/?format=rss",
-              "美联社": "https://hosted2.ap.org/APDEFAULT/3d826f4870f84218835fca680356a236/Article_90000000000000000000000000000000/feed/rss.xml"
+              "美联社": "https://hosted2.ap.org/APDEFAULT/3d826f4870f84218835fca680356a236/Article_90000000000000000000000000000000/feed/rss.xml",
+              "DeItaone": "https://rsshub.app/nitter/DeItaone"
           }
           CACHE_FILE = "rss_cache.json"
           ALL_NEW_ENTRIES = []
@@ -140,7 +141,7 @@ jobs:
           print(f"\n✅ 总计找到 {len(ALL_NEW_ENTRIES)} 条新内容，开始发送邮件")
 
           # 生成聚合邮件内容
-          email_content = f"<h3>📈 美股&财经快讯 {datetime.now().strftime('%m-%d %H:%M')}</h3>"
+          email_content = ""  # 清空副标题，只保留主标题
           for entry in ALL_NEW_ENTRIES:
             title = entry.get('title', '无标题').replace('<', '&lt;').replace('>', '&gt;')
             link = entry.get('link', '#')
@@ -160,6 +161,9 @@ jobs:
             <div style="font-size:12px;"><a href="{link}" style="color:#007bff; text-decoration:none;">查看原文</a></div>
             </div>
             """
+          
+          # 同时修改邮件的Subject，让它更简洁
+          msg['Subject'] = f"【全球资讯】新增 {len(ALL_NEW_ENTRIES)} 条内容 {datetime.now().strftime('%Y-%m-%d %H:%M')}"
 
           # 发送邮件
           msg = MIMEText(email_content, 'html', 'utf-8')
