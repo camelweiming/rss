@@ -1,50 +1,5 @@
 [
   {
-    "guid": "2029342660876705940",
-    "title": "JAPAN'S NIKKEI AVERAGE FUTURES UP 3.8% IN EARLY TRADE",
-    "link": "https://nitter.net/DeItaone/status/2029342660876705940#m",
-    "published": "Wed, 04 Mar 2026 23:46:08 GMT",
-    "source_name": "DeItaone",
-    "summary": "<p>JAPAN'S NIKKEI AVERAGE FUTURES UP 3.8% IN EARLY TRADE</p>",
-    "cached_at": "2026-03-05T18:52:36.022623+08:00"
-  },
-  {
-    "guid": "https://www.bbc.com/news/articles/c5yjj28jjd0o#1",
-    "title": "US Senate vote fails to rein in Trump war powers on Iran",
-    "link": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 04 Mar 2026 23:42:08 GMT",
-    "source_name": "BBC",
-    "summary": "The measure, passed largely along party lines, would halt US military action until approved by Congress.",
-    "cached_at": "2026-03-05T18:52:36.022645+08:00"
-  },
-  {
-    "guid": "2029334953582825705",
-    "title": "White House says Trump using preventative skin treatment for neck rash, offers no other details",
-    "link": "https://nitter.net/DeItaone/status/2029334953582825705#m",
-    "published": "Wed, 04 Mar 2026 23:15:30 GMT",
-    "source_name": "DeItaone",
-    "summary": "<p>White House says Trump using preventative skin treatment for neck rash, offers no other details</p>",
-    "cached_at": "2026-03-05T18:52:36.022660+08:00"
-  },
-  {
-    "guid": "https://www.bbc.com/news/articles/cdxzzqe82d2o#1",
-    "title": "How depleted weapons stockpiles could affect the Iran conflict",
-    "link": "https://www.bbc.com/news/articles/cdxzzqe82d2o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 04 Mar 2026 20:57:50 GMT",
-    "source_name": "BBC",
-    "summary": "Weapons stocks will not alone decide the outcome of this conflict, but it's certainly a significant factor, writes the BBC's Jonathan Beale.",
-    "cached_at": "2026-03-05T18:52:36.022676+08:00"
-  },
-  {
-    "guid": "fe0d828d-ef51-4568-b2d7-1c286d464723",
-    "title": "US in talks with Iranian Kurdish militants over anti-regime operations",
-    "link": "https://www.ft.com/content/fe0d828d-ef51-4568-b2d7-1c286d464723",
-    "published": "Wed, 04 Mar 2026 20:08:25 GMT",
-    "source_name": "FT",
-    "summary": "Iraq-based groups have asked Trump administration for intelligence, weapons and training support",
-    "cached_at": "2026-03-05T18:52:36.022684+08:00"
-  },
-  {
     "guid": "https://www.bbc.com/news/articles/cj4zze5lzjpo#1",
     "title": "Checkpoints everywhere and queues for bread: Fear in Iran as US-Israeli strikes intensify",
     "link": "https://www.bbc.com/news/articles/cj4zze5lzjpo?at_medium=RSS&at_campaign=rss",
@@ -70,6 +25,15 @@
     "source_name": "FT",
     "summary": "Stocks recover some losses after President Lee Jae Myung orders activation of $68bn market stabilisation fund",
     "cached_at": "2026-03-05T18:52:36.022705+08:00"
+  },
+  {
+    "guid": "https://www.bbc.com/news/articles/c2k88y1147jo#1",
+    "title": "Iran targets headquarters of Iranian Kurdish forces in Iraq",
+    "link": "https://www.bbc.com/news/articles/c2k88y1147jo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 05 Mar 2026 08:18:19 GMT",
+    "source_name": "BBC",
+    "summary": "The Iranian military's strikes come amid speculation that the US wants Iranian Kurdish groups to join its conflict with Iran.",
+    "cached_at": "2026-03-05T19:11:45.727903+08:00"
   },
   {
     "guid": "https://www.bbc.com/news/articles/c0e55g03v2zo#1",
@@ -133,5 +97,50 @@
     "source_name": "FT",
     "summary": "US Senate votes down effort to stop Trump from taking more military action without congressional approval",
     "cached_at": "2026-03-05T18:52:36.022753+08:00"
+  },
+  {
+    "guid": "2029342660876705940",
+    "title": "JAPAN'S NIKKEI AVERAGE FUTURES UP 3.8% IN EARLY TRADE",
+    "link": "https://nitter.net/DeItaone/status/2029342660876705940#m",
+    "published": "Wed, 04 Mar 2026 23:46:08 GMT",
+    "source_name": "DeItaone",
+    "summary": "<p>JAPAN'S NIKKEI AVERAGE FUTURES UP 3.8% IN EARLY TRADE</p>",
+    "cached_at": "2026-03-05T18:52:36.022623+08:00"
+  },
+  {
+    "guid": "https://www.bbc.com/news/articles/c5yjj28jjd0o#1",
+    "title": "US Senate vote fails to rein in Trump war powers on Iran",
+    "link": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 04 Mar 2026 23:42:08 GMT",
+    "source_name": "BBC",
+    "summary": "The measure, passed largely along party lines, would halt US military action until approved by Congress.",
+    "cached_at": "2026-03-05T18:52:36.022645+08:00"
+  },
+  {
+    "guid": "2029334953582825705",
+    "title": "White House says Trump using preventative skin treatment for neck rash, offers no other details",
+    "link": "https://nitter.net/DeItaone/status/2029334953582825705#m",
+    "published": "Wed, 04 Mar 2026 23:15:30 GMT",
+    "source_name": "DeItaone",
+    "summary": "<p>White House says Trump using preventative skin treatment for neck rash, offers no other details</p>",
+    "cached_at": "2026-03-05T18:52:36.022660+08:00"
+  },
+  {
+    "guid": "https://www.bbc.com/news/articles/cdxzzqe82d2o#1",
+    "title": "How depleted weapons stockpiles could affect the Iran conflict",
+    "link": "https://www.bbc.com/news/articles/cdxzzqe82d2o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 04 Mar 2026 20:57:50 GMT",
+    "source_name": "BBC",
+    "summary": "Weapons stocks will not alone decide the outcome of this conflict, but it's certainly a significant factor, writes the BBC's Jonathan Beale.",
+    "cached_at": "2026-03-05T18:52:36.022676+08:00"
+  },
+  {
+    "guid": "fe0d828d-ef51-4568-b2d7-1c286d464723",
+    "title": "US in talks with Iranian Kurdish militants over anti-regime operations",
+    "link": "https://www.ft.com/content/fe0d828d-ef51-4568-b2d7-1c286d464723",
+    "published": "Wed, 04 Mar 2026 20:08:25 GMT",
+    "source_name": "FT",
+    "summary": "Iraq-based groups have asked Trump administration for intelligence, weapons and training support",
+    "cached_at": "2026-03-05T18:52:36.022684+08:00"
   }
 ]
