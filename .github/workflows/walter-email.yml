@@ -1,4 +1,4 @@
-name: Walter RSS Auto Email
+name: 多RSS源自动抓取+邮件推送
 on:
   schedule:
     - cron: '*/10 * * * *'  # 每10分钟运行一次
@@ -8,19 +8,23 @@ jobs:
   send-email:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      # 替换为完整SHA的checkout Action
+      - name: Checkout code
+        uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11
 
+      # 替换为完整SHA的setup-python Action
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@39cd14951b08e74b54015e9e001cdefcf80e669f
         with:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install feedparser smtplib email
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser smtplib ssl email python-dotenv
 
-      - name: Fetch RSS and send email
+      - name: Fetch multi RSS and send email
         env:
-          # 需在GitHub Secrets中配置以下变量
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
           SMTP_USER: ${{ secrets.SMTP_USER }}
@@ -32,47 +36,72 @@ jobs:
           from email.mime.text import MIMEText
           import json
           from datetime import datetime
+          import os
 
-          # 你的Cloudflare Worker中转地址（Walter）
-          RSS_URL = "https://rss.camelweiming.workers.dev/?url=https://nitter.poast.org/DeItaone/rss"
+          # ===================== 配置多个RSS源 =====================
+          RSS_SOURCES = {
+              "Walter Bloomberg": "https://rss.camelweiming.workers.dev/?url=https://nitter.poast.org/DeItaone/rss",
+              "路透社": "https://rss.camelweiming.workers.dev/?url=https://www.reuters.com/rssFeed/topNews",
+              "彭博": "https://rss.camelweiming.workers.dev/?url=https://www.bloomberg.com/feed.rss"
+          }
           CACHE_FILE = "rss_cache.json"
+          ALL_NEW_ENTRIES = []
 
-          # 抓取RSS内容
-          feed = feedparser.parse(RSS_URL)
-          if not feed.entries:
-              print("无RSS内容")
-              exit(0)
-
-          # 读取缓存，筛选新内容
-          new_entries = []
+          # 读取缓存
           try:
               with open(CACHE_FILE, 'r') as f:
                   cached_guids = set(json.load(f))
           except FileNotFoundError:
               cached_guids = set()
 
-          for entry in feed.entries[:5]:  # 取最新5条
-              if entry.guid not in cached_guids:
-                  new_entries.append(entry)
-                  cached_guids.add(entry.guid)
+          # 遍历所有RSS源，抓取内容
+          for source_name, rss_url in RSS_SOURCES.items():
+              print(f"正在抓取 {source_name}...")
+              feed = feedparser.parse(rss_url)
+              if not feed.entries:
+                  print(f"{source_name} 无内容")
+                  continue
+          
+              # 筛选新内容
+              for entry in feed.entries[:5]:  # 每个源取最新5条
+                  if hasattr(entry, 'guid') and entry.guid not in cached_guids:
+                      entry['source_name'] = source_name  # 标记来源
+                      ALL_NEW_ENTRIES.append(entry)
+                      cached_guids.add(entry.guid)
 
-          if not new_entries:
-              print("无新内容")
+          # 无新内容则退出
+          if not ALL_NEW_ENTRIES:
+              print("无新内容，退出")
               exit(0)
 
-          # 生成邮件内容
-          content = "<h3>Walter Bloomberg 最新快讯</h3>"
-          for entry in new_entries:
-              content += f"<p><strong>{entry.title}</strong><br>链接：<a href='{entry.link}'>{entry.link}</a></p><hr>"
+          # 按发布时间排序
+          ALL_NEW_ENTRIES.sort(key=lambda x: x.get('published', ''), reverse=True)
+
+          # 生成聚合邮件内容
+          email_content = f"<h2>全球资讯新内容汇总 {datetime.now().strftime('%Y-%m-%d %H:%M')}</h2>"
+          for entry in ALL_NEW_ENTRIES:
+              title = entry.get('title', '无标题')
+              link = entry.get('link', '#')
+              pub_date = entry.get('published', '未知时间')
+              source = entry.get('source_name', '未知来源')
+              email_content += f"""
+              <div style="border:1px solid #eee; padding:10px; margin:10px 0;">
+                <h3>{title}</h3>
+                <p>来源：{source}</p>
+                <p>发布时间：{pub_date}</p>
+                <p>链接：<a href="{link}" target="_blank">{link}</a></p>
+              </div>
+              """
 
           # 发送邮件
-          msg = MIMEText(content, 'html', 'utf-8')
-          msg['Subject'] = f"[Walter] 新快讯 {datetime.now().strftime('%Y-%m-%d %H:%M')}"
-          msg['From'] = "${{ secrets.SMTP_USER }}"
-          msg['To'] = "${{ secrets.TO_EMAIL }}"
+          msg = MIMEText(email_content, 'html', 'utf-8')
+          msg['Subject'] = f"【全球资讯】新增 {len(ALL_NEW_ENTRIES)} 条内容 {datetime.now().strftime('%Y-%m-%d %H:%M')}"
+          msg['From'] = os.environ['SMTP_USER']
+          msg['To'] = os.environ['TO_EMAIL']
 
-          server = smtplib.SMTP_SSL("${{ secrets.SMTP_HOST }}", int("${{ secrets.SMTP_PORT }}"))
-          server.login("${{ secrets.SMTP_USER }}", "${{ secrets.SMTP_PASS }}")
+          # 连接SMTP服务器
+          server = smtplib.SMTP_SSL(os.environ['SMTP_HOST'], int(os.environ['SMTP_PORT']))
+          server.login(os.environ['SMTP_USER'], os.environ['SMTP_PASS'])
           server.send_message(msg)
           server.quit()
 
@@ -80,13 +109,13 @@ jobs:
           with open(CACHE_FILE, 'w') as f:
               json.dump(list(cached_guids), f)
 
-          print(f"发送成功！共{len(new_entries)}条新内容")
+          print(f"发送成功！共{len(ALL_NEW_ENTRIES)}条新内容")
         shell: python
 
-      - name: Save cache
+      - name: Save cache to GitHub
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add rss_cache.json
-          git commit -m "Update cache $(date)" || echo "No changes"
-          git push
+          git commit -m "Update RSS cache $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
+          git push origin main
