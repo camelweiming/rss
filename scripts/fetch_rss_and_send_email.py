@@ -6,6 +6,7 @@ from email.utils import formataddr
 import json
 from datetime import datetime
 import os
+from zoneinfo import ZoneInfo
 from config import RSS_SOURCES, CACHE_FILE, REQUEST_HEADERS
 
 
@@ -97,7 +98,23 @@ def generate_email_content(entries):
     for entry in entries:
         title = entry.get('title', '无标题').replace('<', '&lt;').replace('>', '&gt;')
         link = entry.get('link', '#')
-        pub_date = entry.get('published', '')[:30]  # 只留前30位，不冗长
+        pub_date = entry.get('published', '')
+        
+        # 尝试将发布时间转换为北京时间
+        if pub_date:
+            try:
+                # 解析原始时间
+                original_time = feedparser.parse(pub_date).published_parsed
+                if original_time:
+                    # 转换为北京时间
+                    beijing_time = datetime(*original_time[:6], tzinfo=ZoneInfo('UTC')).astimezone(ZoneInfo('Asia/Shanghai'))
+                    pub_date = beijing_time.strftime('%Y-%m-%d %H:%M')
+            except:
+                # 如果解析失败，使用原始时间
+                pub_date = pub_date[:30]
+        else:
+            pub_date = ''
+            
         source = entry.get('source_name', '未知来源')
         
         # 取正文（兼容各种RSS格式）
@@ -108,7 +125,7 @@ def generate_email_content(entries):
         email_content += f"""
         <div style="margin:0 0 10px; padding:8px; border-left:3px solid #007bff; background:#f8f9fa;">
         <div style="font-size:15px; font-weight:600; color:#222;">{title}</div>
-        <div style="font-size:12px; color:#666; margin:2px 0;">{source} • {pub_date}</div>
+        <div style="font-size:12px; margin:2px 0;"><span style="font-weight:600; color:#007bff;">{source}</span> • <span style="color:#666;">{pub_date}</span></div>
         <div style="font-size:14px; color:#333; margin:4px 0; line-height:1.4;">{summary}</div>
         <div style="font-size:12px;"><a href="{link}" style="color:#007bff; text-decoration:none;">查看原文</a></div>
         </div>
@@ -120,7 +137,9 @@ def generate_email_content(entries):
 def send_email(email_content, entries_count, smtp_config):
     """发送邮件"""
     msg = MIMEText(email_content, 'html', 'utf-8')
-    msg['Subject'] = f"【全球资讯】{datetime.now().strftime('%Y-%m-%d %H:%M')}"
+    # 转换为北京时间
+    beijing_time = datetime.now(ZoneInfo('Asia/Shanghai'))
+    msg['Subject'] = f"新增 {entries_count} 条内容 {beijing_time.strftime('%Y-%m-%d %H:%M')}"
     msg['From'] = formataddr(('全球资讯推送', smtp_config['user']))
     msg['To'] = smtp_config['to_email']
 
