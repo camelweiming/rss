@@ -120,7 +120,7 @@ def generate_email_content(entries):
 def send_email(email_content, entries_count, smtp_config):
     """发送邮件"""
     msg = MIMEText(email_content, 'html', 'utf-8')
-    msg['Subject'] = f"【全球资讯】新增 {entries_count} 条内容 {datetime.now().strftime('%Y-%m-%d %H:%M')}"
+    msg['Subject'] = f"【全球资讯】{datetime.now().strftime('%Y-%m-%d %H:%M')}"
     msg['From'] = formataddr(('全球资讯推送', smtp_config['user']))
     msg['To'] = smtp_config['to_email']
 

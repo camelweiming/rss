@@ -1,9 +1,10 @@
 # RSS 源配置
 RSS_SOURCES = {
-    "reuters": "https://feeds.reuters.com/reuters/topNews",
-    "ft": "https://www.ft.com/?format=rss",
-    "美联社": "https://hosted2.ap.org/APDEFAULT/3d826f4870f84218835fca680356a236/Article_90000000000000000000000000000000/feed/rss.xml",
-    "DeItaone": "https://rsshub.app/nitter/DeItaone"
+    "路透社": "https://feeds.reuters.com/reuters/worldNews",
+    "FT": "https://www.ft.com/?format=rss",
+    "美联社": "https://apnews.com/rss",
+    "BBC": "https://www.bbc.com/news/rss.xml",
+    "DeItaone": "https://nitter.net/DeItaone/rss"
 }
 
 # 缓存文件路径
