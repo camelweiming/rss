@@ -1,8 +1,7 @@
 # RSS 源配置
 RSS_SOURCES = {
-    "路透社": "https://feeds.reuters.com/reuters/worldNews",
+    "路透社": "https://www.reuters.com/rssFeed/topNews",
     "FT": "https://www.ft.com/?format=rss",
-    "美联社": "https://apnews.com/rss",
     "BBC": "https://www.bbc.com/news/rss.xml",
     "DeItaone": "https://nitter.net/DeItaone/rss"
 }
