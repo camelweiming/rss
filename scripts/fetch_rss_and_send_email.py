@@ -10,7 +10,7 @@ load_dotenv()
 
 from config import RSS_SOURCES, REQUEST_HEADERS
 from email_sender import send_email
-from util import get_timestamp
+from util import get_timestamp, convert_to_beijing_time
 from cache_manager import read_cache, update_cache
 
 
@@ -121,9 +121,8 @@ def generate_email_content(entries, last_time):
         link = entry.get('link', '#')
         pub_date = entry.get('published', '')
         
-        # 保留原始时间
-        if pub_date:
-            pub_date = pub_date[:30]  # 限制长度，避免过长
+        # 转换为北京时间
+        pub_date = convert_to_beijing_time(pub_date)
             
         source = entry.get('source_name', '未知来源')
         
@@ -147,11 +146,11 @@ def generate_email_content(entries, last_time):
     
     # 添加调试信息
     email_content += f"""
-    <div style="margin-top:20px; padding:10px; background:#f0f0f0; font-size:12px; color:#666;">
-    <p><strong>调试信息：</strong></p>
-    <p>上次处理时间：{last_time or '无'}</p>
-    <p>本次处理时间：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}</p>
-    <p>处理条目数：{len(entries)}</p>
+    <div style="margin-top:10px; padding:6px; background:#f8f9fa; font-size:10px; color:#888; border-top:1px solid #e9ecef;">
+    <span style="font-weight:500;">调试：</span>
+    上次处理 {last_time or '无'} | 
+    本次处理 {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} | 
+    条目数 {len(entries)}
     </div>
     """
     

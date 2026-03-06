@@ -48,7 +48,7 @@ def send_email(email_content, entries_count):
     msg = MIMEText(email_content, 'html', 'utf-8')
     # 转换为北京时间
     beijing_time = datetime.now(ZoneInfo('Asia/Shanghai'))
-    msg['Subject'] = f"新增 {entries_count} 条内容 {beijing_time.strftime('%Y-%m-%d %H:%M')}"
+    msg['Subject'] = f"{beijing_time.strftime('%Y-%m-%d %H:%M')} ({entries_count})"
     msg['From'] = formataddr(('全球资讯推送', smtp_config['user']))
     msg['To'] = smtp_config['to_email']
 

@@ -5,8 +5,7 @@ RSS_SOURCES = {
     "DeItaone": "https://nitter.net/DeItaone/rss"
 }
 
-# 缓存文件路径
-CACHE_FILE = "rss_cache.json"
+
 
 # 模拟真人请求头（关键：避开反爬）
 REQUEST_HEADERS = {
