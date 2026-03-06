@@ -95,7 +95,11 @@ def filter_new_entries(entries, last_time):
     # 解析上次处理时间
     try:
         from dateutil.parser import parse
+        from zoneinfo import ZoneInfo
         last_dt = parse(last_time)
+        # 添加北京时间时区信息
+        if last_dt.tzinfo is None:
+            last_dt = last_dt.replace(tzinfo=ZoneInfo('Asia/Shanghai'))
         last_timestamp = last_dt.timestamp()
     except:
         return entries
@@ -110,7 +114,7 @@ def filter_new_entries(entries, last_time):
     return new_entries
 
 
-def generate_email_content(entries, last_time):
+def generate_email_content(entries, last_time, source_stats):
     """生成邮件内容"""
     email_content = ""
     
@@ -141,18 +145,25 @@ def generate_email_content(entries, last_time):
         <div style="font-size:12px; margin-top:8px;"><a href="{link}" style="color:#007bff; text-decoration:none;">查看原文</a></div>
         </div>
         """
+
+    # last_time 已经是北京时间格式，直接使用
+    last_time_beijing = last_time if last_time else '无'
     
-    # 添加调试信息
-    # 转换时间为北京时间
-    from zoneinfo import ZoneInfo
-    current_time = datetime.now(ZoneInfo('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S')
-    
-    # 转换上次处理时间为北京时间
-    last_time_beijing = convert_to_beijing_time_full(last_time)
+    # 构建统计信息
+    stats_html = ""
+    for source_name, stats in source_stats.items():
+        stats_html += f"<div style='margin:2px 0;'><span style='font-weight:500; color:#495057;'>{source_name} : </span> ( <span style='color:#28a745;'>{stats['success']}</span> / <span style='color:#dc3545;'>{stats['failure']}</span> )</div>"
     
     email_content += f"""
-    <div style="margin-top:10px; padding:6px; background:#f8f9fa; font-size:10px; color:#888; border-top:1px solid #e9ecef;">
-    上次处理 {last_time_beijing} | 本次处理 {current_time} | 条数 {len(entries)}
+    <div style="margin-top:15px; padding:12px; background:#f8f9fa; border-radius:6px; border:1px solid #e9ecef;">
+    <div style="font-size:12px; font-weight:600; color:#495057; margin-bottom:8px;">运行信息</div>
+    <div style="font-size:11px; color:#6c757d; line-height:1.4;">
+    <div style="margin:2px 0;">最后更新时间：<span style='color:#495057;'>{last_time_beijing}</span></div>
+    </div>
+    <div style="font-size:11px; color:#6c757d; line-height:1.4; margin-top:8px;">
+    <div style="font-size:12px; font-weight:600; color:#495057; margin-bottom:6px;">源站统计</div>
+    {stats_html}
+    </div>
     </div>
     """
 
@@ -163,11 +174,18 @@ def generate_email_content(entries, last_time):
 def main():
     """主函数"""
     # 读取缓存
-    cache = read_cache()
+    cache = read_cache(RSS_SOURCES)
     last_time = cache.get('last_time')
     
     # 收集所有内容
     all_entries = []
+    
+    # 从缓存中获取统计信息
+    source_stats = cache.get('source_stats', {})
+    # 确保所有源站都有统计信息
+    for source_name in RSS_SOURCES.keys():
+        if source_name not in source_stats:
+            source_stats[source_name] = {'success': 0, 'failure': 0}
     
     # 遍历所有RSS源
     for source_name, rss_url in RSS_SOURCES.items():
@@ -175,6 +193,9 @@ def main():
         if feed:
             entries = process_rss_entries(feed, source_name)
             all_entries.extend(entries)
+            source_stats[source_name]['success'] += 1
+        else:
+            source_stats[source_name]['failure'] += 1
     
     # 按发布时间排序（降序）
     all_entries.sort(key=get_timestamp, reverse=True)
@@ -183,21 +204,26 @@ def main():
     # 过滤出新内容
     new_entries = filter_new_entries(all_entries, last_time)
     
-    # 无新内容则退出
+    # 生成当前时间（用于更新缓存）
+    from zoneinfo import ZoneInfo
+    current_time = datetime.now(ZoneInfo('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S')
+    
+    # 无新内容则更新缓存并退出
     if not new_entries:
         print(f"\n📝 最终结果：无新内容")
+        # 更新缓存（包括统计信息）
+        update_cache(current_time, source_stats)
         exit(0)
     
     print(f"\n✅ 总计找到 {len(new_entries)} 条新内容，开始发送邮件")
     
     # 生成邮件内容
-    email_content = generate_email_content(new_entries, last_time)
+    email_content = generate_email_content(new_entries, last_time, source_stats)
     
     # 发送邮件
     if send_email(email_content, len(new_entries)):
-        # 更新缓存
-        current_time = datetime.now().isoformat()
-        update_cache(current_time)
+        # 更新缓存为北京时间格式
+        update_cache(current_time, source_stats)
         print(f"✅ 邮件发送成功，已更新缓存时间")
 
 

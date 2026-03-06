@@ -54,6 +54,10 @@ def get_timestamp(item):
     try:
         # 尝试解析日期
         dt = dateutil.parser.parse(published)
+        # 确保dt有时区信息
+        if dt.tzinfo is None:
+            # 假设是UTC时间
+            dt = dt.replace(tzinfo=ZoneInfo('UTC'))
         # 转换为时间戳
         return dt.timestamp()
     except:
