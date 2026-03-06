@@ -1,8 +1,6 @@
 import feedparser
 import requests
-import json
 from datetime import datetime
-import os
 from dotenv import load_dotenv
 
 # 加载 .env 文件
@@ -10,7 +8,7 @@ load_dotenv()
 
 from config import RSS_SOURCES, REQUEST_HEADERS
 from email_sender import send_email
-from util import get_timestamp, convert_to_beijing_time
+from util import get_timestamp, convert_to_beijing_time, convert_to_beijing_time_full
 from cache_manager import read_cache, update_cache
 
 
@@ -145,14 +143,19 @@ def generate_email_content(entries, last_time):
         """
     
     # 添加调试信息
+    # 转换时间为北京时间
+    from zoneinfo import ZoneInfo
+    current_time = datetime.now(ZoneInfo('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S')
+    
+    # 转换上次处理时间为北京时间
+    last_time_beijing = convert_to_beijing_time_full(last_time)
+    
     email_content += f"""
     <div style="margin-top:10px; padding:6px; background:#f8f9fa; font-size:10px; color:#888; border-top:1px solid #e9ecef;">
-    <span style="font-weight:500;">调试：</span>
-    上次处理 {last_time or '无'} | 
-    本次处理 {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} | 
-    条目数 {len(entries)}
+    上次处理 {last_time_beijing} | 本次处理 {current_time} | 条数 {len(entries)}
     </div>
     """
+
     
     return email_content
 

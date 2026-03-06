@@ -66,3 +66,30 @@ def get_timestamp(item):
             except:
                 pass
         return 0
+
+
+def convert_to_beijing_time_full(pub_date):
+    """将发布时间转换为北京时间（完整格式）
+    
+    Args:
+        pub_date (str): 原始发布时间字符串
+    
+    Returns:
+        str: 转换后的北京时间字符串，格式为 'YYYY-MM-DD HH:MM:SS'
+    """
+    if not pub_date:
+        return '无'
+    
+    try:
+        # 解析原始时间
+        dt = dateutil.parser.parse(pub_date)
+        # 确保dt有时区信息
+        if dt.tzinfo is None:
+            # 假设是UTC时间
+            dt = dt.replace(tzinfo=ZoneInfo('UTC'))
+        # 转换为北京时间
+        beijing_time = dt.astimezone(ZoneInfo('Asia/Shanghai'))
+        return beijing_time.strftime('%Y-%m-%d %H:%M:%S')
+    except:
+        # 如果解析失败，使用原始时间
+        return pub_date
