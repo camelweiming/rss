@@ -1,7 +1,7 @@
 name: 多RSS源自动抓取+邮件推送
 on:
   schedule:
-    - cron: '*/10 * * * *'  # 保留原定时规则
+    - cron: '1-59/10 * * * *'
   workflow_dispatch:       # 手动触发（不影响自动运行）
   # 可选：添加push触发，验证代码提交后是否运行
   # 排除缓存文件的更改，避免无限循环
@@ -17,6 +17,8 @@ permissions:
 jobs:
   send-email:
     runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Shanghai
     steps:
       # 使用完整SHA的checkout Action
       - name: Checkout code
