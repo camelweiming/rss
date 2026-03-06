@@ -1,4 +1,3 @@
-from zoneinfo import ZoneInfo
 import feedparser
 import requests
 import json
@@ -9,23 +8,10 @@ from dotenv import load_dotenv
 # 加载 .env 文件
 load_dotenv()
 
-from config import RSS_SOURCES, CACHE_FILE, REQUEST_HEADERS
+from config import RSS_SOURCES, REQUEST_HEADERS
 from email_sender import send_email
-from content_cache import update_content_cache
-
-
-def read_cache():
-    """读取缓存文件"""
-    try:
-        with open(CACHE_FILE, 'r') as f:
-            cached_guids = set(json.load(f))
-        print(f"✅ 缓存文件读取成功，已缓存 {len(cached_guids)} 条内容")
-    except FileNotFoundError:
-        cached_guids = set()
-        with open(CACHE_FILE, 'w') as f:
-            json.dump(list(cached_guids), f)
-        print(f"✅ 缓存文件不存在，已创建空缓存")
-    return cached_guids
+from util import get_timestamp
+from cache_manager import read_cache, update_cache
 
 
 def fetch_rss_content(source_name, rss_url):
@@ -78,24 +64,55 @@ def fetch_rss_content(source_name, rss_url):
     return feed
 
 
-def process_rss_entries(feed, source_name, cached_guids):
-    """处理RSS条目，筛选新内容"""
-    new_entries = []
-    new_count = 0
+def process_rss_entries(feed, source_name):
+    """处理RSS条目"""
+    entries = []
+    count = 0
     
     for entry in feed.entries[:5]:
-        unique_id = entry.get('guid', entry.get('link', ''))
-        if unique_id and unique_id not in cached_guids:
-            entry['source_name'] = source_name
-            new_entries.append(entry)
-            cached_guids.add(unique_id)
-            new_count += 1
+        entry['source_name'] = source_name
+        entries.append(entry)
+        count += 1
     
-    print(f"✨ {source_name} 找到 {new_count} 条新内容（总计{len(feed.entries)}条）")
+    print(f"✨ {source_name} 处理 {count} 条内容（总计{len(feed.entries)}条）")
+    return entries
+
+
+def filter_new_entries(entries, last_time):
+    """过滤出新的条目
+    
+    Args:
+        entries (list): RSS条目列表
+        last_time (str): 上次处理时间
+    
+    Returns:
+        list: 新的条目列表
+    """
+    if not last_time:
+        return entries
+    
+    new_entries = []
+    last_timestamp = None
+    
+    # 解析上次处理时间
+    try:
+        from dateutil.parser import parse
+        last_dt = parse(last_time)
+        last_timestamp = last_dt.timestamp()
+    except:
+        return entries
+    
+    # 过滤出时间戳大于上次处理时间的条目
+    for entry in entries:
+        entry_timestamp = get_timestamp(entry)
+        if entry_timestamp > last_timestamp:
+            new_entries.append(entry)
+    
+    print(f"✅ 过滤出 {len(new_entries)} 条新内容")
     return new_entries
 
 
-def generate_email_content(entries):
+def generate_email_content(entries, last_time):
     """生成邮件内容"""
     email_content = ""
     
@@ -128,57 +145,58 @@ def generate_email_content(entries):
         </div>
         """
     
+    # 添加调试信息
+    email_content += f"""
+    <div style="margin-top:20px; padding:10px; background:#f0f0f0; font-size:12px; color:#666;">
+    <p><strong>调试信息：</strong></p>
+    <p>上次处理时间：{last_time or '无'}</p>
+    <p>本次处理时间：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}</p>
+    <p>处理条目数：{len(entries)}</p>
+    </div>
+    """
+    
     return email_content
-
-
-
-
-
-def update_cache(cached_guids):
-    """更新缓存"""
-    with open(CACHE_FILE, 'w') as f:
-        json.dump(list(cached_guids), f)
-    print(f"💾 缓存已更新，当前缓存 {len(cached_guids)} 条内容")
 
 
 def main():
     """主函数"""
     # 读取缓存
-    cached_guids = read_cache()
+    cache = read_cache()
+    last_time = cache.get('last_time')
     
-    # 收集所有新内容
-    all_new_entries = []
+    # 收集所有内容
+    all_entries = []
     
     # 遍历所有RSS源
     for source_name, rss_url in RSS_SOURCES.items():
         feed = fetch_rss_content(source_name, rss_url)
         if feed:
-            new_entries = process_rss_entries(feed, source_name, cached_guids)
-            all_new_entries.extend(new_entries)
+            entries = process_rss_entries(feed, source_name)
+            all_entries.extend(entries)
+    
+    # 按发布时间排序（降序）
+    all_entries.sort(key=get_timestamp, reverse=True)
+    print(f"\n✅ 总计处理 {len(all_entries)} 条内容，按时间倒序排列")
+    
+    # 过滤出新内容
+    new_entries = filter_new_entries(all_entries, last_time)
     
     # 无新内容则退出
-    if not all_new_entries:
-        print(f"\n📝 最终结果：所有源均无新内容")
+    if not new_entries:
+        print(f"\n📝 最终结果：无新内容")
         exit(0)
     
-    # 按发布时间排序
-    all_new_entries.sort(key=lambda x: x.get('published', ''), reverse=True)
-    print(f"\n✅ 总计找到 {len(all_new_entries)} 条新内容，开始发送邮件")
+    print(f"\n✅ 总计找到 {len(new_entries)} 条新内容，开始发送邮件")
     
     # 生成邮件内容
-    email_content = generate_email_content(all_new_entries)
+    email_content = generate_email_content(new_entries, last_time)
     
-    # 暂时注释掉发送邮件的逻辑，只测试页面方式
-    # if send_email(email_content, len(all_new_entries)):
-    #     # 更新缓存
-    #     update_cache(cached_guids)
-    #     # 更新内容缓存
-    #     update_content_cache(all_new_entries)
-    
-    # 直接更新缓存和内容缓存
-    update_cache(cached_guids)
-    update_content_cache(all_new_entries)
-    print(f"✅ 已更新缓存，跳过邮件发送")
+    # 发送邮件
+    if send_email(email_content, len(new_entries)):
+        # 更新缓存
+        current_time = datetime.now().isoformat()
+        update_cache(current_time)
+        print(f"✅ 邮件发送成功，已更新缓存时间")
 
 
 if __name__ == "__main__":
