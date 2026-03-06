@@ -10,7 +10,8 @@ on:
     paths-ignore:
       - 'docs/rss_content_cache.json'
       - 'rss_cache.json'
-
+  repository_dispatch:
+    types: [run]
 permissions:
   contents: write
 
