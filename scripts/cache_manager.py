@@ -16,12 +16,25 @@ def read_cache():
     try:
         with open(CACHE_FILE, 'r') as f:
             cache = json.load(f)
+        
+        # 处理旧格式的缓存（列表）
+        if isinstance(cache, list):
+            print(f"⚠️ 检测到旧格式缓存，已转换为新格式")
+            cache = {'last_time': None}
+            with open(CACHE_FILE, 'w') as f:
+                json.dump(cache, f)
+        
         print(f"✅ 缓存读取成功，上次处理时间：{cache.get('last_time', '无')}")
     except FileNotFoundError:
         cache = {'last_time': None}
         with open(CACHE_FILE, 'w') as f:
             json.dump(cache, f)
         print(f"✅ 缓存文件不存在，已创建空缓存")
+    except Exception as e:
+        print(f"⚠️ 缓存格式错误：{str(e)}，已重置缓存")
+        cache = {'last_time': None}
+        with open(CACHE_FILE, 'w') as f:
+            json.dump(cache, f)
     return cache
 
 
