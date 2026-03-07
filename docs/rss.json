@@ -1,6 +1,14 @@
 {
-  "last_update_time": "2026-03-08 02:38:23",
+  "last_update_time": "2026-03-08 02:57:45",
   "rss": [
+    {
+      "guid": "https://www.bbc.com/news/articles/c0432n5gl1zo#1",
+      "link": "https://www.bbc.com/news/articles/c0432n5gl1zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-07 18:36:40",
+      "source_name": "BBC",
+      "summary": "The flight is due to depart from Dubai early next week for British nationals wanting to leave the region.",
+      "title": "UK to charter flight for British nationals out of Dubai"
+    },
     {
       "guid": "2030351236030194110",
       "link": "https://nitter.net/DeItaone/status/2030351236030194110#m",
@@ -392,30 +400,22 @@
       "source_name": "BBC",
       "summary": "Ukraine has embarked on a programme to deploy armed robots on the battlefield against Russian forces.",
       "title": "Armed robots take to the battlefield in Ukraine war"
-    },
-    {
-      "guid": "2030066017288835127",
-      "link": "https://nitter.net/DeItaone/status/2030066017288835127#m",
-      "published": "2026-03-06 23:40:29",
-      "source_name": "DeItaone",
-      "summary": "<p>KALSHI, POLYMARKET EACH EYEING ROUGHLY $20B VALUATIONS: WSJ</p>",
-      "title": "KALSHI, POLYMARKET EACH EYEING ROUGHLY $20B VALUATIONS: WSJ"
     }
   ],
   "stats": [
     {
       "source": "FT",
-      "success": 12,
+      "success": 13,
       "failed": 0
     },
     {
       "source": "BBC",
-      "success": 12,
+      "success": 13,
       "failed": 0
     },
     {
       "source": "DeItaone",
-      "success": 12,
+      "success": 13,
       "failed": 0
     }
   ],
@@ -423,6 +423,6 @@
   "summary": {
     "rss_count": 50,
     "stats_count": 3,
-    "update_time": "2026-03-08 02:38:23"
+    "update_time": "2026-03-08 02:57:45"
   }
 }
