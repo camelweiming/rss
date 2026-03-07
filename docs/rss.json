@@ -1,6 +1,14 @@
 {
-  "last_update_time": "2026-03-08 06:59:09",
+  "last_update_time": "2026-03-08 07:28:38",
   "rss": [
+    {
+      "guid": "2030419521828274365",
+      "link": "https://nitter.net/DeItaone/status/2030419521828274365#m",
+      "published": "2026-03-07 23:05:12",
+      "source_name": "DeItaone",
+      "summary": "<p>IRANIAN ATTACK TARGETS FACILITY NEAR BAHRAIN'S SALMAN PORT - BAHRAIN INTERIOR MINISTRY</p>",
+      "title": "IRANIAN ATTACK TARGETS FACILITY NEAR BAHRAIN'S SALMAN PORT - BAHRAIN INTERIOR MINISTRY"
+    },
     {
       "guid": "https://www.bbc.com/news/articles/c5yk7qxz4kgo#1",
       "link": "https://www.bbc.com/news/articles/c5yk7qxz4kgo?at_medium=RSS&at_campaign=rss",
@@ -392,30 +400,22 @@
       "source_name": "DeItaone",
       "summary": "<p>IRANIAN PARLIAMENT'S NATIONAL SECURITY COMMITTEE IN A STATEMENT: THE WAR AGAINST OUR ENEMIES WILL CONTINUE UNTIL THE LEADER'S KILLING IS AVENGED - STATE MEDIA</p>",
       "title": "IRANIAN PARLIAMENT'S NATIONAL SECURITY COMMITTEE IN A STATEMENT: THE WAR AGAINST OUR ENEMIES WILL CONTINUE UNTIL THE LEADER'S KILLING IS AVENGED - STATE MEDIA"
-    },
-    {
-      "guid": "2030272249656144356",
-      "link": "https://nitter.net/DeItaone/status/2030272249656144356#m",
-      "published": "2026-03-07 13:19:59",
-      "source_name": "DeItaone",
-      "summary": "<p>IRANIAN REVOLUTIONARY GUARDS SAYS THEY HIT A MARSHALL ISLANDS-FLAGGED TANKER  IN STRAIT OF HORMUZ- IRANIAN STATE MEDIA</p>",
-      "title": "IRANIAN REVOLUTIONARY GUARDS SAYS THEY HIT A MARSHALL ISLANDS-FLAGGED TANKER  IN STRAIT OF HORMUZ- IRANIAN STATE MEDIA"
     }
   ],
   "stats": [
     {
       "source": "FT",
-      "success": 33,
+      "success": 34,
       "failed": 0
     },
     {
       "source": "BBC",
-      "success": 33,
+      "success": 34,
       "failed": 0
     },
     {
       "source": "DeItaone",
-      "success": 33,
+      "success": 34,
       "failed": 0
     }
   ],
@@ -423,6 +423,6 @@
   "summary": {
     "rss_count": 50,
     "stats_count": 3,
-    "update_time": "2026-03-08 06:59:09"
+    "update_time": "2026-03-08 07:28:38"
   }
 }
