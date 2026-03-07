@@ -1,6 +1,110 @@
 {
-  "last_update_time": "2026-03-07 16:24:13",
+  "last_update_time": "2026-03-07 18:12:32",
   "rss": [
+    {
+      "guid": "bbd79c63-8131-4b20-9d2d-708bc8acea38",
+      "link": "https://www.ft.com/content/bbd79c63-8131-4b20-9d2d-708bc8acea38",
+      "published": "2026-03-07 10:11:45",
+      "source_name": "FT",
+      "summary": "Hizbollah said it had engaged Israeli forces in the Bekaa Valley",
+      "title": "Iran calls halt to attacks on neighbours as Israel strikes more targets"
+    },
+    {
+      "guid": "https://www.bbc.com/news/articles/c80jmm00379o#1",
+      "link": "https://www.bbc.com/news/articles/c80jmm00379o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-07 09:55:09",
+      "source_name": "BBC",
+      "summary": "Huntley, who was serving a life sentence for murdering two schoolgirls, had been on life support following an attack by another inmate.",
+      "title": "Soham murderer Ian Huntley dies after prison attack"
+    },
+    {
+      "guid": "59cfcbfb-34e2-4d26-b687-5d768dcc5650",
+      "link": "https://www.ft.com/content/59cfcbfb-34e2-4d26-b687-5d768dcc5650",
+      "published": "2026-03-07 09:00:07",
+      "source_name": "FT",
+      "summary": "Israeli and US strikes have targeted regime infrastructure and also struck civilian sites. Here are some of the key buildings hit",
+      "title": "The bombing of Tehran — in maps and satellite images"
+    },
+    {
+      "guid": "https://www.bbc.com/news/videos/cx2r4wdgkzxo#1",
+      "link": "https://www.bbc.com/news/videos/cx2r4wdgkzxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-07 07:08:58",
+      "source_name": "BBC",
+      "summary": "A series of tornadoes tore through several cities, uprooting trees and destroying homes.",
+      "title": "Deadly storms and tornadoes strike US state of Michigan"
+    },
+    {
+      "guid": "ddb4a3fd-2f99-43a4-8ae6-330c6d29c14a",
+      "link": "https://www.ft.com/content/ddb4a3fd-2f99-43a4-8ae6-330c6d29c14a",
+      "published": "2026-03-07 05:00:26",
+      "source_name": "FT",
+      "summary": "US allies in the Arab world have been plunged into a conflict they neither wanted nor consented to. Historian Eugene Rogan on what it means for the Middle East",
+      "title": "Trump’s war on Iran is spreading. Where does it stop?"
+    },
+    {
+      "guid": "https://www.bbc.com/news/articles/c62662gzlp8o#1",
+      "link": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-07 00:36:19",
+      "source_name": "BBC",
+      "summary": "Ukraine has embarked on a programme to deploy armed robots on the battlefield against Russian forces.",
+      "title": "Armed robots take to the battlefield in Ukraine war"
+    },
+    {
+      "guid": "2030066017288835127",
+      "link": "https://nitter.net/DeItaone/status/2030066017288835127#m",
+      "published": "2026-03-06 23:40:29",
+      "source_name": "DeItaone",
+      "summary": "<p>KALSHI, POLYMARKET EACH EYEING ROUGHLY $20B VALUATIONS: WSJ</p>",
+      "title": "KALSHI, POLYMARKET EACH EYEING ROUGHLY $20B VALUATIONS: WSJ"
+    },
+    {
+      "guid": "d3e2c2a1-73aa-4952-b1f1-08c87042b507",
+      "link": "https://www.ft.com/content/d3e2c2a1-73aa-4952-b1f1-08c87042b507",
+      "published": "2026-03-06 21:52:35",
+      "source_name": "FT",
+      "summary": "Goldman Sachs warns crude will soar past 2008 peak if action is not taken to reopen Strait of Hormuz",
+      "title": "Oil hits highest level since 2023 as Iran war triggers historic surge"
+    },
+    {
+      "guid": "2030037133814100154",
+      "link": "https://nitter.net/DeItaone/status/2030037133814100154#m",
+      "published": "2026-03-06 21:45:43",
+      "source_name": "DeItaone",
+      "summary": "<p>BESSENT, ON SAFE PASSAGE OF SHIPS IN STRAIT OF HORMUZ, SAYS U.S. IS ON TRACK TO GET THIS SOLVED  -FOX BUSINESS</p>",
+      "title": "BESSENT, ON SAFE PASSAGE OF SHIPS IN STRAIT OF HORMUZ, SAYS U.S. IS ON TRACK TO GET THIS SOLVED  -FOX BUSINESS"
+    },
+    {
+      "guid": "2030036317401165958",
+      "link": "https://nitter.net/DeItaone/status/2030036317401165958#m",
+      "published": "2026-03-06 21:42:28",
+      "source_name": "DeItaone",
+      "summary": "<p>BESSENT: WE MAY UNSANCTION OTHER RUSSIAN OIL -FOX BUSINESS</p>",
+      "title": "BESSENT: WE MAY UNSANCTION OTHER RUSSIAN OIL -FOX BUSINESS"
+    },
+    {
+      "guid": "2030030023273406861",
+      "link": "https://nitter.net/DeItaone/status/2030030023273406861#m",
+      "published": "2026-03-06 21:17:28",
+      "source_name": "DeItaone",
+      "summary": "<p>U.S. MILITARY DAMAGES OR DESTROYS 43 IRANIAN WARSHIPS SO FAR, U.S. CENTRAL COMMAND SAYS</p>",
+      "title": "U.S. MILITARY DAMAGES OR DESTROYS 43 IRANIAN WARSHIPS SO FAR, U.S. CENTRAL COMMAND SAYS"
+    },
+    {
+      "guid": "2030029921649557940",
+      "link": "https://nitter.net/DeItaone/status/2030029921649557940#m",
+      "published": "2026-03-06 21:17:04",
+      "source_name": "DeItaone",
+      "summary": "<p>IRAN UN ENVOY: TRUMP STATEMENT ON CHOOSING NEW SUPREME LEADER IN IRAN CONSTITUTES VIOLATION OF PRINCIPLE OF NON INTERFERENCE IN INTERNAL AFFAIRS OF STATES</p>",
+      "title": "IRAN UN ENVOY: TRUMP STATEMENT ON CHOOSING NEW SUPREME LEADER IN IRAN CONSTITUTES VIOLATION OF PRINCIPLE OF NON INTERFERENCE IN INTERNAL AFFAIRS OF STATES"
+    },
+    {
+      "guid": "https://www.bbc.com/news/articles/c2lrwv5p7e7o#1",
+      "link": "https://www.bbc.com/news/articles/c2lrwv5p7e7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-06 21:06:49",
+      "source_name": "BBC",
+      "summary": "The women have been interviewed under suspicion of aiding and abetting rape and human trafficking, the Met Police says.",
+      "title": "Three women interviewed on suspicion of sex trafficking in Al Fayed investigation"
+    },
     {
       "guid": "https://36kr.com/p/3711367816556675?f=rss",
       "link": "https://36kr.com/p/3711367816556675?f=rss",
@@ -8,28 +112,45 @@
       "source_name": "36kr",
       "summary": "test",
       "title": "test2"
+    },
+    {
+      "guid": "5a74c0f8-1cf2-4a6b-9339-a098fcbeb100",
+      "link": "https://www.ft.com/content/5a74c0f8-1cf2-4a6b-9339-a098fcbeb100",
+      "published": "2026-03-06 18:23:27",
+      "source_name": "FT",
+      "summary": "The Iran crisis is unfolding in a world in which oil and gas supplies are more diversified than in previous decades",
+      "title": "Is the nightmare scenario for global energy here?"
+    },
+    {
+      "guid": "https://www.bbc.com/news/articles/c4g0dzg6e4mo#1",
+      "link": "https://www.bbc.com/news/articles/c4g0dzg6e4mo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-06 17:58:33",
+      "source_name": "BBC",
+      "summary": "The Department of Justice said the released files had been \"incorrectly coded as duplicative\" and inadvertently not published.",
+      "title": "Withheld Epstein files with accusations against Trump released by justice department"
     }
   ],
   "stats": [
     {
       "source": "FT",
-      "success": 0,
+      "success": 1,
       "failed": 7
     },
     {
       "source": "BBC",
-      "success": 0,
+      "success": 1,
       "failed": 7
     },
     {
       "source": "DeItaone",
-      "success": 0,
+      "success": 1,
       "failed": 7
     }
   ],
   "stats_date": "2026-03-07",
   "summary": {
-    "rss_count": 5,
-    "stats_count": 4
+    "rss_count": 16,
+    "stats_count": 3,
+    "update_time": "2026-03-07 18:12:32"
   }
 }
