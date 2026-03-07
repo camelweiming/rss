@@ -1,5 +1,5 @@
 {
-  "last_update_time": "2026-03-07 18:33:55",
+  "last_update_time": "2026-03-07 18:53:33",
   "rss": [
     {
       "guid": "bbd79c63-8131-4b20-9d2d-708bc8acea38",
@@ -8,6 +8,14 @@
       "source_name": "FT",
       "summary": "Hizbollah said it had engaged Israeli forces in the Bekaa Valley",
       "title": "Iran calls halt to attacks on neighbours as Israel strikes more targets"
+    },
+    {
+      "guid": "https://www.bbc.com/news/articles/c9wnn8nn5p8o#1",
+      "link": "https://www.bbc.com/news/articles/c9wnn8nn5p8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-07 10:03:11",
+      "source_name": "BBC",
+      "summary": "The trauma and aftermath of events in 2002 are still having an impact on the Cambridgeshire village.",
+      "title": "The legacy of Holly and Jessica's murders: Soham 'won't waste their breath' on Huntley"
     },
     {
       "guid": "https://www.bbc.com/news/articles/c80jmm00379o#1",
@@ -133,24 +141,24 @@
   "stats": [
     {
       "source": "FT",
-      "success": 4,
+      "success": 5,
       "failed": 7
     },
     {
       "source": "BBC",
-      "success": 4,
+      "success": 5,
       "failed": 7
     },
     {
       "source": "DeItaone",
-      "success": 4,
+      "success": 5,
       "failed": 7
     }
   ],
   "stats_date": "2026-03-07",
   "summary": {
-    "rss_count": 16,
+    "rss_count": 17,
     "stats_count": 3,
-    "update_time": "2026-03-07 18:33:55"
+    "update_time": "2026-03-07 18:53:33"
   }
 }
