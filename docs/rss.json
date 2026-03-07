@@ -1,6 +1,30 @@
 {
-  "last_update_time": "2026-03-07 21:58:38",
+  "last_update_time": "2026-03-07 22:27:54",
   "rss": [
+    {
+      "guid": "https://www.bbc.com/news/articles/cq6qp458zv1o#1",
+      "link": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-07 14:11:37",
+      "source_name": "BBC",
+      "summary": "Seyed Ali Mousavi tells Laura Kuenssberg Iran's response depends on the actions of the US and Israel.",
+      "title": "Iran will continue to defend itself against aggression, ambassador to UK says"
+    },
+    {
+      "guid": "2030283506480292098",
+      "link": "https://nitter.net/DeItaone/status/2030283506480292098#m",
+      "published": "2026-03-07 14:04:43",
+      "source_name": "DeItaone",
+      "summary": "<p>SENIOR IRANIAN REVOLUTIONARY GUARD OFFICIAL NAQDI TO STATE TV: AN OPPORTUNITY HAS ARISEN TO ELIMINATE ISRAEL</p>",
+      "title": "SENIOR IRANIAN REVOLUTIONARY GUARD OFFICIAL NAQDI TO STATE TV: AN OPPORTUNITY HAS ARISEN TO ELIMINATE ISRAEL"
+    },
+    {
+      "guid": "2030280699781997041",
+      "link": "https://nitter.net/DeItaone/status/2030280699781997041#m",
+      "published": "2026-03-07 13:53:34",
+      "source_name": "DeItaone",
+      "summary": "<p>WE HAVE NOT ATTACKED FRIENDLY NEIGHBORING COUNTRIES, BUT RATHER TARGETED U.S. MILITARY BASES, INSTALLATIONS, AND FACILITIES IN THE REGION - IRAN'S PEZESHKIAN ON X</p>",
+      "title": "WE HAVE NOT ATTACKED FRIENDLY NEIGHBORING COUNTRIES, BUT RATHER TARGETED U.S. MILITARY BASES, INSTALLATIONS, AND FACILITIES IN THE REGION - IRAN'S PEZESHKIAN ON X"
+    },
     {
       "guid": "2030278805189747019",
       "link": "https://nitter.net/DeItaone/status/2030278805189747019#m",
@@ -277,24 +301,24 @@
   "stats": [
     {
       "source": "FT",
-      "success": 14,
+      "success": 15,
       "failed": 7
     },
     {
       "source": "BBC",
-      "success": 14,
+      "success": 15,
       "failed": 7
     },
     {
       "source": "DeItaone",
-      "success": 14,
+      "success": 15,
       "failed": 7
     }
   ],
   "stats_date": "2026-03-07",
   "summary": {
-    "rss_count": 34,
+    "rss_count": 37,
     "stats_count": 3,
-    "update_time": "2026-03-07 21:58:38"
+    "update_time": "2026-03-07 22:27:54"
   }
 }
