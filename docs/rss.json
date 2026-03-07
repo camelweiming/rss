@@ -1,6 +1,14 @@
 {
-  "last_update_time": "2026-03-08 04:47:37",
+  "last_update_time": "2026-03-08 04:59:34",
   "rss": [
+    {
+      "guid": "2030385431938744506",
+      "link": "https://nitter.net/DeItaone/status/2030385431938744506#m",
+      "published": "2026-03-07 20:49:44",
+      "source_name": "DeItaone",
+      "summary": "<p>JUMP AT THE PUMP?<br />\n<br />\nForecast for US gas prices just hit $4.20, climbing steadily since the start of March.<br />\n<a href=\"https://kalshi.com/markets/kxaaagasm/us-gas-price/kxaaagasm-26mar31?utm_source=walterbloomberg\">kalshi.com/markets/kxaaagasm…</a></p>\n<img src=\"https://nitter.net/pic/media%2FHC1gumgWgAEmvR3.png\" />",
+      "title": "Pinned: JUMP AT THE PUMP?\n\nForecast for US gas prices just hit $4.20, climbing steadily since the start of March.\nhttps://kalshi.com/markets/kxaaagasm/us-gas-price/kxaaagasm-26mar31?utm_source=walterbloomberg"
+    },
     {
       "guid": "2030380242053771577",
       "link": "https://nitter.net/DeItaone/status/2030380242053771577#m",
@@ -250,6 +258,14 @@
       "title": "SENIOR IRANIAN REVOLUTIONARY GUARD OFFICIAL NAQDI TO STATE TV: AN OPPORTUNITY HAS ARISEN TO ELIMINATE ISRAEL"
     },
     {
+      "guid": "bbd79c63-8131-4b20-9d2d-708bc8acea38",
+      "link": "https://www.ft.com/content/bbd79c63-8131-4b20-9d2d-708bc8acea38",
+      "published": "2026-03-07 14:01:42",
+      "source_name": "FT",
+      "summary": "Iran’s army says it will continue to target US and Israeli military sites",
+      "title": "Trump vows to hit Iran hard after Israel launches wave of air attacks"
+    },
+    {
       "guid": "2030280699781997041",
       "link": "https://nitter.net/DeItaone/status/2030280699781997041#m",
       "published": "2026-03-07 13:53:34",
@@ -384,38 +400,22 @@
       "source_name": "DeItaone",
       "summary": "<p>TRUMP: IRAN, WHICH IS BEING BEAT TO HELL, HAS APOLOGIZED AND SURRENDERED TO ITS MIDDLE EAST NEIGHBORS, AND PROMISED THAT IT WILL NOT SHOOT AT THEM ANYMORE</p>",
       "title": "TRUMP: IRAN, WHICH IS BEING BEAT TO HELL, HAS APOLOGIZED AND SURRENDERED TO ITS MIDDLE EAST NEIGHBORS, AND PROMISED THAT IT WILL NOT SHOOT AT THEM ANYMORE"
-    },
-    {
-      "guid": "7ec4acb7-8c49-4da5-a7f3-83410e873e5a",
-      "link": "https://www.ft.com/content/7ec4acb7-8c49-4da5-a7f3-83410e873e5a",
-      "published": "2026-03-07 11:00:08",
-      "source_name": "FT",
-      "summary": "The conflict with Iran is unpopular with the American public and is roiling markets and the economy",
-      "title": "A week of war in charts: the impact on the US"
-    },
-    {
-      "guid": "https://www.bbc.com/news/articles/czd87d0jq37o#1",
-      "link": "https://www.bbc.com/news/articles/czd87d0jq37o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-03-07 10:37:38",
-      "source_name": "BBC",
-      "summary": "Andrew Mountbatten-Windsor was arrested on suspicion of misconduct in public office last month.",
-      "title": "Canada's PM calls for Andrew to be removed from line of succession"
     }
   ],
   "stats": [
     {
       "source": "FT",
-      "success": 22,
+      "success": 23,
       "failed": 0
     },
     {
       "source": "BBC",
-      "success": 22,
+      "success": 23,
       "failed": 0
     },
     {
       "source": "DeItaone",
-      "success": 22,
+      "success": 23,
       "failed": 0
     }
   ],
@@ -423,6 +423,6 @@
   "summary": {
     "rss_count": 50,
     "stats_count": 3,
-    "update_time": "2026-03-08 04:47:37"
+    "update_time": "2026-03-08 04:59:34"
   }
 }
