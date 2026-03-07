@@ -1,6 +1,14 @@
 {
-  "last_update_time": "2026-03-07 23:32:35",
+  "last_update_time": "2026-03-07 23:51:26",
   "rss": [
+    {
+      "guid": "2030307007433933120",
+      "link": "https://nitter.net/DeItaone/status/2030307007433933120#m",
+      "published": "2026-03-07 15:38:06",
+      "source_name": "DeItaone",
+      "summary": "<p>IRAN REVOLUTIONARY GUARDS TARGET U.S. FORCES IN BAHRAIN'S JUFAIR BASE IN RETALIATION FOR US STRIKE ON DESALINATION PLANT ON IRAN'S QESHM ISLAND - IRANIAN STATE MEDIA</p>",
+      "title": "IRAN REVOLUTIONARY GUARDS TARGET U.S. FORCES IN BAHRAIN'S JUFAIR BASE IN RETALIATION FOR US STRIKE ON DESALINATION PLANT ON IRAN'S QESHM ISLAND - IRANIAN STATE MEDIA"
+    },
     {
       "guid": "2030299594341396840",
       "link": "https://nitter.net/DeItaone/status/2030299594341396840#m",
@@ -40,6 +48,14 @@
       "source_name": "DeItaone",
       "summary": "<p>TRUMP: I'M THE ONE THAT ENDED EIGHT WARS</p>",
       "title": "TRUMP: I'M THE ONE THAT ENDED EIGHT WARS"
+    },
+    {
+      "guid": "https://www.bbc.com/news/articles/c39w2nj1rk8o#1",
+      "link": "https://www.bbc.com/news/articles/c39w2nj1rk8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-07 14:52:59",
+      "source_name": "BBC",
+      "summary": "This may raise speculation HMS Prince of Wales could be sent to defend British interests during the Middle East conflict.",
+      "title": "Navy readying aircraft carrier for deployment as Iran conflict deepens"
     },
     {
       "guid": "2030292211183583342",
@@ -357,24 +373,24 @@
   "stats": [
     {
       "source": "FT",
-      "success": 21,
+      "success": 22,
       "failed": 7
     },
     {
       "source": "BBC",
-      "success": 21,
+      "success": 22,
       "failed": 7
     },
     {
       "source": "DeItaone",
-      "success": 21,
+      "success": 22,
       "failed": 7
     }
   ],
   "stats_date": "2026-03-07",
   "summary": {
-    "rss_count": 44,
+    "rss_count": 46,
     "stats_count": 3,
-    "update_time": "2026-03-07 23:32:35"
+    "update_time": "2026-03-07 23:51:26"
   }
 }
