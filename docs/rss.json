@@ -1,6 +1,38 @@
 {
-  "last_update_time": "2026-03-08 01:52:21",
+  "last_update_time": "2026-03-08 02:07:21",
   "rss": [
+    {
+      "guid": "2030343621275209930",
+      "link": "https://nitter.net/DeItaone/status/2030343621275209930#m",
+      "published": "2026-03-07 18:03:35",
+      "source_name": "DeItaone",
+      "summary": "<p>MORE THAN 150 IRANIAN NATIONALS, INCLUDING DIPLOMATS AND THEIR FAMILIES, LEAVE LEBANON ON SATURDAY-LEBANESE SECURITY SOURCE</p>",
+      "title": "MORE THAN 150 IRANIAN NATIONALS, INCLUDING DIPLOMATS AND THEIR FAMILIES, LEAVE LEBANON ON SATURDAY-LEBANESE SECURITY SOURCE"
+    },
+    {
+      "guid": "2030343166524527084",
+      "link": "https://nitter.net/DeItaone/status/2030343166524527084#m",
+      "published": "2026-03-07 18:01:47",
+      "source_name": "DeItaone",
+      "summary": "<p>HORMUZ DISRUPTION FORCES ADNOC TO ADJUST OUTPUT<br />\n<br />\nThe Abu Dhabi National Oil Company says it is managing offshore production to cope with storage limits as tensions in the Middle East disrupt shipping.<br />\n<br />\nThe company is using export routes that bypass the Strait of Hormuz and relying on international storage to keep supplies flowing to global customers.<br />\n<br />\nFighting in the region has nearly shut the key waterway linking the Persian Gulf to open seas, blocking a major export route for Middle Eastern oil and gas.</p>",
+      "title": "HORMUZ DISRUPTION FORCES ADNOC TO ADJUST OUTPUT\n\nThe Abu Dhabi National Oil Company says it is managing offshore production to cope with storage limits as tensions in the Middle East disrupt shipping.\n\nThe company is using export routes that bypass the Strait of Hormuz and relying on international storage to keep supplies flowing to global customers.\n\nFighting in the region has nearly shut the key waterway linking the Persian Gulf to open seas, blocking a major export route for Middle Eastern oil and gas."
+    },
+    {
+      "guid": "2030341180672577829",
+      "link": "https://nitter.net/DeItaone/status/2030341180672577829#m",
+      "published": "2026-03-07 17:53:54",
+      "source_name": "DeItaone",
+      "summary": "<p>IRAN SAYS RESPONSIBILITY FOR ANY INTENSIFICATION OF IRAN'S EXERCISE OF SELF-DEFENSE 'WILL LIE SQUARELY' WITH THE U.S.</p>",
+      "title": "IRAN SAYS RESPONSIBILITY FOR ANY INTENSIFICATION OF IRAN'S EXERCISE OF SELF-DEFENSE 'WILL LIE SQUARELY' WITH THE U.S."
+    },
+    {
+      "guid": "2030340997012459770",
+      "link": "https://nitter.net/DeItaone/status/2030340997012459770#m",
+      "published": "2026-03-07 17:53:10",
+      "source_name": "DeItaone",
+      "summary": "<p>IRANIAN FOREIGN MINISTER SAYS PEZESHKIAN'S OPENNESS TO REGIONAL DE-ESCALATION WAS 'ALMOST IMMEDIATELY KILLED BY PRESIDENT TRUMP'S MISINTERPRETATION OF OUR CAPABILITIES'</p>",
+      "title": "IRANIAN FOREIGN MINISTER SAYS PEZESHKIAN'S OPENNESS TO REGIONAL DE-ESCALATION WAS 'ALMOST IMMEDIATELY KILLED BY PRESIDENT TRUMP'S MISINTERPRETATION OF OUR CAPABILITIES'"
+    },
     {
       "guid": "2030340394429370839",
       "link": "https://nitter.net/DeItaone/status/2030340394429370839#m",
@@ -368,54 +400,22 @@
       "source_name": "DeItaone",
       "summary": "<p>BESSENT: WE MAY UNSANCTION OTHER RUSSIAN OIL -FOX BUSINESS</p>",
       "title": "BESSENT: WE MAY UNSANCTION OTHER RUSSIAN OIL -FOX BUSINESS"
-    },
-    {
-      "guid": "2030030023273406861",
-      "link": "https://nitter.net/DeItaone/status/2030030023273406861#m",
-      "published": "2026-03-06 21:17:28",
-      "source_name": "DeItaone",
-      "summary": "<p>U.S. MILITARY DAMAGES OR DESTROYS 43 IRANIAN WARSHIPS SO FAR, U.S. CENTRAL COMMAND SAYS</p>",
-      "title": "U.S. MILITARY DAMAGES OR DESTROYS 43 IRANIAN WARSHIPS SO FAR, U.S. CENTRAL COMMAND SAYS"
-    },
-    {
-      "guid": "2030029921649557940",
-      "link": "https://nitter.net/DeItaone/status/2030029921649557940#m",
-      "published": "2026-03-06 21:17:04",
-      "source_name": "DeItaone",
-      "summary": "<p>IRAN UN ENVOY: TRUMP STATEMENT ON CHOOSING NEW SUPREME LEADER IN IRAN CONSTITUTES VIOLATION OF PRINCIPLE OF NON INTERFERENCE IN INTERNAL AFFAIRS OF STATES</p>",
-      "title": "IRAN UN ENVOY: TRUMP STATEMENT ON CHOOSING NEW SUPREME LEADER IN IRAN CONSTITUTES VIOLATION OF PRINCIPLE OF NON INTERFERENCE IN INTERNAL AFFAIRS OF STATES"
-    },
-    {
-      "guid": "https://www.bbc.com/news/articles/c2lrwv5p7e7o#1",
-      "link": "https://www.bbc.com/news/articles/c2lrwv5p7e7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-03-06 21:06:49",
-      "source_name": "BBC",
-      "summary": "The women have been interviewed under suspicion of aiding and abetting rape and human trafficking, the Met Police says.",
-      "title": "Three women interviewed on suspicion of sex trafficking in Al Fayed investigation"
-    },
-    {
-      "guid": "https://36kr.com/p/3711367816556675?f=rss",
-      "link": "https://36kr.com/p/3711367816556675?f=rss",
-      "published": "2026-03-06 19:19:44",
-      "source_name": "36kr",
-      "summary": "test",
-      "title": "test2"
     }
   ],
   "stats": [
     {
       "source": "FT",
-      "success": 9,
+      "success": 10,
       "failed": 0
     },
     {
       "source": "BBC",
-      "success": 9,
+      "success": 10,
       "failed": 0
     },
     {
       "source": "DeItaone",
-      "success": 9,
+      "success": 10,
       "failed": 0
     }
   ],
@@ -423,6 +423,6 @@
   "summary": {
     "rss_count": 50,
     "stats_count": 3,
-    "update_time": "2026-03-08 01:52:21"
+    "update_time": "2026-03-08 02:07:21"
   }
 }
