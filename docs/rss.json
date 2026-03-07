@@ -1,6 +1,22 @@
 {
-  "last_update_time": "2026-03-07 21:38:48",
+  "last_update_time": "2026-03-07 21:58:38",
   "rss": [
+    {
+      "guid": "2030278805189747019",
+      "link": "https://nitter.net/DeItaone/status/2030278805189747019#m",
+      "published": "2026-03-07 13:46:02",
+      "source_name": "DeItaone",
+      "summary": "<p>IRAN SEEKS FRIENDLY RELATIONS WITH REGIONAL STATES, BUT THIS DOES NOT NEGATE IRAN'S RIGHT TO DEFEND ITSELF FROM U.S., ISRAELI 'AGGRESSION' -IRAN'S PESZESHKIAN ON X</p>",
+      "title": "IRAN SEEKS FRIENDLY RELATIONS WITH REGIONAL STATES, BUT THIS DOES NOT NEGATE IRAN'S RIGHT TO DEFEND ITSELF FROM U.S., ISRAELI 'AGGRESSION' -IRAN'S PESZESHKIAN ON X"
+    },
+    {
+      "guid": "2030278583331987756",
+      "link": "https://nitter.net/DeItaone/status/2030278583331987756#m",
+      "published": "2026-03-07 13:45:09",
+      "source_name": "DeItaone",
+      "summary": "<p>IRANIAN PARLIAMENT'S NATIONAL SECURITY COMMITTEE IN A STATEMENT: THE WAR AGAINST OUR ENEMIES WILL CONTINUE UNTIL THE LEADER'S KILLING IS AVENGED - STATE MEDIA</p>",
+      "title": "IRANIAN PARLIAMENT'S NATIONAL SECURITY COMMITTEE IN A STATEMENT: THE WAR AGAINST OUR ENEMIES WILL CONTINUE UNTIL THE LEADER'S KILLING IS AVENGED - STATE MEDIA"
+    },
     {
       "guid": "2030272249656144356",
       "link": "https://nitter.net/DeItaone/status/2030272249656144356#m",
@@ -261,24 +277,24 @@
   "stats": [
     {
       "source": "FT",
-      "success": 13,
+      "success": 14,
       "failed": 7
     },
     {
       "source": "BBC",
-      "success": 13,
+      "success": 14,
       "failed": 7
     },
     {
       "source": "DeItaone",
-      "success": 13,
+      "success": 14,
       "failed": 7
     }
   ],
   "stats_date": "2026-03-07",
   "summary": {
-    "rss_count": 32,
+    "rss_count": 34,
     "stats_count": 3,
-    "update_time": "2026-03-07 21:38:48"
+    "update_time": "2026-03-07 21:58:38"
   }
 }
