@@ -12,10 +12,21 @@ class RSSManager:
         self.rss_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), "docs", "rss.json")
         # 最大保留条目数
         self.max_entries = 50
+        # 输出初始化信息
+        print(f"📁 RSS文件路径：{self.rss_file}")
+        print(f"📁 目录是否存在：{os.path.exists(os.path.dirname(self.rss_file))}")
+        print(f"📄 文件是否存在：{os.path.exists(self.rss_file)}")
     
     def _ensure_file_exists(self):
         """确保RSS文件存在"""
+        # 确保目录存在
+        dir_path = os.path.dirname(self.rss_file)
+        if not os.path.exists(dir_path):
+            print(f"📁 目录不存在，创建目录：{dir_path}")
+            os.makedirs(dir_path, exist_ok=True)
+        
         if not os.path.exists(self.rss_file):
+            print(f"📄 文件不存在，创建初始文件：{self.rss_file}")
             # 创建初始结构
             initial_data = {
                 "last_update_time": None,
@@ -24,6 +35,9 @@ class RSSManager:
             }
             with open(self.rss_file, 'w') as f:
                 json.dump(initial_data, f, ensure_ascii=False, indent=2)
+            print(f"✅ 初始文件创建成功")
+        else:
+            print(f"✅ 文件已存在：{self.rss_file}")
     
     def _reset_stats_if_needed(self, data):
         """检查并重置统计信息（每天0点）"""
@@ -223,12 +237,25 @@ class RSSManager:
             "summary": {
                 "rss_count": len(all_entries),
                 "stats_count": len(stats),
+                "update_time": current_time
             }
         })
         
         # 写入文件
-        with open(self.rss_file, 'w') as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
+        try:
+            print(f"💾 开始写入文件：{self.rss_file}")
+            print(f"📋 写入的RSS条目数：{len(all_entries)}")
+            print(f"📈 写入的统计信息数：{len(stats)}")
+            
+            with open(self.rss_file, 'w') as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+            
+            print(f"✅ 文件写入成功")
+            print(f"📁 文件大小：{os.path.getsize(self.rss_file)} 字节")
+        except Exception as e:
+            print(f"❌ 文件写入失败：{str(e)}")
+            import traceback
+            traceback.print_exc()
         
         print(f"💾 RSS数据已更新，上次更新时间：{current_time}")
         print(f"📋 存储的RSS条目数：{len(all_entries)}")
