@@ -1,6 +1,14 @@
 {
-  "last_update_time": "2026-03-08 04:59:34",
+  "last_update_time": "2026-03-08 05:14:05",
   "rss": [
+    {
+      "guid": "2030386753232630122",
+      "link": "https://nitter.net/DeItaone/status/2030386753232630122#m",
+      "published": "2026-03-07 20:54:59",
+      "source_name": "DeItaone",
+      "summary": "<p>🚨 RIYADH HAS TOLD IRAN THAT CONTINUED STRIKES ON SAUDI ARABIA AND ITS ENERGY SECTOR COULD PUSH IT TO RESPOND IN KIND</p>",
+      "title": "🚨 RIYADH HAS TOLD IRAN THAT CONTINUED STRIKES ON SAUDI ARABIA AND ITS ENERGY SECTOR COULD PUSH IT TO RESPOND IN KIND"
+    },
     {
       "guid": "2030385431938744506",
       "link": "https://nitter.net/DeItaone/status/2030385431938744506#m",
@@ -392,30 +400,22 @@
       "source_name": "DeItaone",
       "summary": "<p>TRUMP SAYS UNDER SERIOUS CONSIDERATION FOR COMPLETE DESTRUCTION AND CERTAIN DEATH, BECAUSE OF IRAN'S BAD BEHAVIOR, ARE AREAS AND GROUPS OF PEOPLE THAT WERE NOT CONSIDERED FOR TARGETING UP UNTIL THIS MOMENT IN TIME</p>",
       "title": "TRUMP SAYS UNDER SERIOUS CONSIDERATION FOR COMPLETE DESTRUCTION AND CERTAIN DEATH, BECAUSE OF IRAN'S BAD BEHAVIOR, ARE AREAS AND GROUPS OF PEOPLE THAT WERE NOT CONSIDERED FOR TARGETING UP UNTIL THIS MOMENT IN TIME"
-    },
-    {
-      "guid": "2030249100990390768",
-      "link": "https://nitter.net/DeItaone/status/2030249100990390768#m",
-      "published": "2026-03-07 11:48:00",
-      "source_name": "DeItaone",
-      "summary": "<p>TRUMP: IRAN, WHICH IS BEING BEAT TO HELL, HAS APOLOGIZED AND SURRENDERED TO ITS MIDDLE EAST NEIGHBORS, AND PROMISED THAT IT WILL NOT SHOOT AT THEM ANYMORE</p>",
-      "title": "TRUMP: IRAN, WHICH IS BEING BEAT TO HELL, HAS APOLOGIZED AND SURRENDERED TO ITS MIDDLE EAST NEIGHBORS, AND PROMISED THAT IT WILL NOT SHOOT AT THEM ANYMORE"
     }
   ],
   "stats": [
     {
       "source": "FT",
-      "success": 23,
+      "success": 24,
       "failed": 0
     },
     {
       "source": "BBC",
-      "success": 23,
+      "success": 24,
       "failed": 0
     },
     {
       "source": "DeItaone",
-      "success": 23,
+      "success": 24,
       "failed": 0
     }
   ],
@@ -423,6 +423,6 @@
   "summary": {
     "rss_count": 50,
     "stats_count": 3,
-    "update_time": "2026-03-08 04:59:34"
+    "update_time": "2026-03-08 05:14:05"
   }
 }
