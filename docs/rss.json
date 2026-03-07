@@ -1,6 +1,46 @@
 {
-  "last_update_time": "2026-03-08 04:22:33",
+  "last_update_time": "2026-03-08 04:42:32",
   "rss": [
+    {
+      "guid": "2030380242053771577",
+      "link": "https://nitter.net/DeItaone/status/2030380242053771577#m",
+      "published": "2026-03-07 20:29:07",
+      "source_name": "DeItaone",
+      "summary": "<p>TEHRAN REFINERY SOUTH OF THE IRANIAN CAPITAL ON FIRE AFTER STRIKE - STATE TV</p>",
+      "title": "TEHRAN REFINERY SOUTH OF THE IRANIAN CAPITAL ON FIRE AFTER STRIKE - STATE TV"
+    },
+    {
+      "guid": "2030378922907467875",
+      "link": "https://nitter.net/DeItaone/status/2030378922907467875#m",
+      "published": "2026-03-07 20:23:52",
+      "source_name": "DeItaone",
+      "summary": "<p>DRONE TARGETS U.S. MILITARY BASE NEAR ERBIL AIRPORT – SECURITY SOURCES</p>",
+      "title": "DRONE TARGETS U.S. MILITARY BASE NEAR ERBIL AIRPORT – SECURITY SOURCES"
+    },
+    {
+      "guid": "2030378017055244750",
+      "link": "https://nitter.net/DeItaone/status/2030378017055244750#m",
+      "published": "2026-03-07 20:20:16",
+      "source_name": "DeItaone",
+      "summary": "<p>FUEL DEPOTS HIT BY STRIKES IN THREE AREAS INCLUDING KARAJ WEST OF THE CAPITAL TEHRAN - IRANIAN OIL MINISTRY SOURCE CITED BY LOCAL NEWS AGENCIES</p>",
+      "title": "FUEL DEPOTS HIT BY STRIKES IN THREE AREAS INCLUDING KARAJ WEST OF THE CAPITAL TEHRAN - IRANIAN OIL MINISTRY SOURCE CITED BY LOCAL NEWS AGENCIES"
+    },
+    {
+      "guid": "2030377959899496728",
+      "link": "https://nitter.net/DeItaone/status/2030377959899496728#m",
+      "published": "2026-03-07 20:20:02",
+      "source_name": "DeItaone",
+      "summary": "<p>IRAN'S LARIJANI SAYS TRUMP HAS FAILED TO REACH HIS AIMS BY STRIKING IRAN<br />\n<br />\nIRAN'S LARIJANI SAYS REGIONAL COUNTRIES ARE AWARE THAT US CANNOT SECURE THEIR SECURITY ANYMORE<br />\n<br />\nIRAN'S LARIJANI SAYS THE U.S. IS STUCK IN THE QUAGMIRE OF ITS OWN MISCALCULATIONS</p>",
+      "title": "IRAN'S LARIJANI SAYS TRUMP HAS FAILED TO REACH HIS AIMS BY STRIKING IRAN\n\nIRAN'S LARIJANI SAYS REGIONAL COUNTRIES ARE AWARE THAT US CANNOT SECURE THEIR SECURITY ANYMORE\n\nIRAN'S LARIJANI SAYS THE U.S. IS STUCK IN THE QUAGMIRE OF ITS OWN MISCALCULATIONS"
+    },
+    {
+      "guid": "2030377771092881829",
+      "link": "https://nitter.net/DeItaone/status/2030377771092881829#m",
+      "published": "2026-03-07 20:19:17",
+      "source_name": "DeItaone",
+      "summary": "<p>IRAN'S LARIJANI SAYS US MUST PAY FOR ITS ACTIONS</p>",
+      "title": "IRAN'S LARIJANI SAYS US MUST PAY FOR ITS ACTIONS"
+    },
     {
       "guid": "2030370215230337419",
       "link": "https://nitter.net/DeItaone/status/2030370215230337419#m",
@@ -360,62 +400,22 @@
       "source_name": "FT",
       "summary": "Hizbollah said it had engaged Israeli forces in the Bekaa Valley",
       "title": "Iran calls halt to attacks on neighbours as Israel strikes more targets"
-    },
-    {
-      "guid": "https://www.bbc.com/news/articles/c9wnn8nn5p8o#1",
-      "link": "https://www.bbc.com/news/articles/c9wnn8nn5p8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-03-07 10:03:11",
-      "source_name": "BBC",
-      "summary": "The trauma and aftermath of events in 2002 are still having an impact on the Cambridgeshire village.",
-      "title": "The legacy of Holly and Jessica's murders: Soham 'won't waste their breath' on Huntley"
-    },
-    {
-      "guid": "https://www.bbc.com/news/articles/c80jmm00379o#1",
-      "link": "https://www.bbc.com/news/articles/c80jmm00379o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-03-07 09:55:09",
-      "source_name": "BBC",
-      "summary": "Huntley, who was serving a life sentence for murdering two schoolgirls, had been on life support following an attack by another inmate.",
-      "title": "Soham murderer Ian Huntley dies after prison attack"
-    },
-    {
-      "guid": "59cfcbfb-34e2-4d26-b687-5d768dcc5650",
-      "link": "https://www.ft.com/content/59cfcbfb-34e2-4d26-b687-5d768dcc5650",
-      "published": "2026-03-07 09:00:07",
-      "source_name": "FT",
-      "summary": "Israeli and US strikes have targeted regime infrastructure and also struck civilian sites. Here are some of the key buildings hit",
-      "title": "The bombing of Tehran — in maps and satellite images"
-    },
-    {
-      "guid": "https://www.bbc.com/news/videos/cx2r4wdgkzxo#1",
-      "link": "https://www.bbc.com/news/videos/cx2r4wdgkzxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-03-07 07:08:58",
-      "source_name": "BBC",
-      "summary": "A series of tornadoes tore through several cities, uprooting trees and destroying homes.",
-      "title": "Deadly storms and tornadoes strike US state of Michigan"
-    },
-    {
-      "guid": "0b16e3e8-d52b-4b87-a212-bba90af39ceb",
-      "link": "https://www.ft.com/content/0b16e3e8-d52b-4b87-a212-bba90af39ceb",
-      "published": "2026-03-07 05:00:27",
-      "source_name": "FT",
-      "summary": "Israel and the US have achieved many military aims in Iran, but the unpredictable fallout poses threats to everyone",
-      "title": "The war of unintended consequences"
     }
   ],
   "stats": [
     {
       "source": "FT",
-      "success": 20,
+      "success": 21,
       "failed": 0
     },
     {
       "source": "BBC",
-      "success": 20,
+      "success": 21,
       "failed": 0
     },
     {
       "source": "DeItaone",
-      "success": 20,
+      "success": 21,
       "failed": 0
     }
   ],
@@ -423,6 +423,6 @@
   "summary": {
     "rss_count": 50,
     "stats_count": 3,
-    "update_time": "2026-03-08 04:22:33"
+    "update_time": "2026-03-08 04:42:32"
   }
 }
