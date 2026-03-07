@@ -1,6 +1,22 @@
 {
-  "last_update_time": "2026-03-08 00:02:03",
+  "last_update_time": "2026-03-08 00:24:21",
   "rss": [
+    {
+      "guid": "2030317248754201052",
+      "link": "https://nitter.net/DeItaone/status/2030317248754201052#m",
+      "published": "2026-03-07 16:18:48",
+      "source_name": "DeItaone",
+      "summary": "<p>IRAN'S FOREIGN MINISTRY'S STATEMENT: TEHRAN WILL CONTINUE UNTIL THE AGGRESSION STOPS OR UNTIL THE UNITED NATIONS SECURITY COUNCIL FULFILLS ITS DUTY BY IDENTIFYING THE AGGRESSORS</p>",
+      "title": "IRAN'S FOREIGN MINISTRY'S STATEMENT: TEHRAN WILL CONTINUE UNTIL THE AGGRESSION STOPS OR UNTIL THE UNITED NATIONS SECURITY COUNCIL FULFILLS ITS DUTY BY IDENTIFYING THE AGGRESSORS"
+    },
+    {
+      "guid": "2030313601358049763",
+      "link": "https://nitter.net/DeItaone/status/2030313601358049763#m",
+      "published": "2026-03-07 16:04:18",
+      "source_name": "DeItaone",
+      "summary": "<p>IRAN'S ASSEMBLY OF EXPERTS TO MEET WITHIN ONE DAY TO CHOSE NEW SUPREME LEADER, SAYS ASSEMBLY MEMBER AYATOLLAH MOZAFARI CITED BY IRANIAN MEDIA</p>",
+      "title": "IRAN'S ASSEMBLY OF EXPERTS TO MEET WITHIN ONE DAY TO CHOSE NEW SUPREME LEADER, SAYS ASSEMBLY MEMBER AYATOLLAH MOZAFARI CITED BY IRANIAN MEDIA"
+    },
     {
       "guid": "2030307007433933120",
       "link": "https://nitter.net/DeItaone/status/2030307007433933120#m",
@@ -373,24 +389,24 @@
   "stats": [
     {
       "source": "FT",
-      "success": 1,
+      "success": 2,
       "failed": 0
     },
     {
       "source": "BBC",
-      "success": 1,
+      "success": 2,
       "failed": 0
     },
     {
       "source": "DeItaone",
-      "success": 1,
+      "success": 2,
       "failed": 0
     }
   ],
   "stats_date": "2026-03-08",
   "summary": {
-    "rss_count": 46,
+    "rss_count": 48,
     "stats_count": 3,
-    "update_time": "2026-03-08 00:02:03"
+    "update_time": "2026-03-08 00:24:21"
   }
 }
