@@ -220,11 +220,11 @@ def main():
     # 生成邮件内容
     email_content = generate_email_content(new_entries, last_time, source_stats)
     
-    # 发送邮件
-    if send_email(email_content, len(new_entries)):
-        # 更新缓存为北京时间格式
-        update_cache(current_time, source_stats)
-        print(f"✅ 邮件发送成功，已更新缓存时间")
+    # 暂时屏蔽邮件发送
+    print(f"⚠️ 邮件发送已暂时屏蔽")
+    # 更新缓存为北京时间格式
+    update_cache(current_time, source_stats)
+    print(f"✅ 已更新缓存时间")
 
 
 if __name__ == "__main__":
