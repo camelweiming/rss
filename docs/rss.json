@@ -1,6 +1,38 @@
 {
-  "last_update_time": "2026-03-07 19:58:40",
+  "last_update_time": "2026-03-07 20:55:48",
   "rss": [
+    {
+      "guid": "2030263338672812482",
+      "link": "https://nitter.net/DeItaone/status/2030263338672812482#m",
+      "published": "2026-03-07 12:44:35",
+      "source_name": "DeItaone",
+      "summary": "<p>KUWAIT NATIONAL GUARD: INTERCEPTED A DRONE</p>",
+      "title": "KUWAIT NATIONAL GUARD: INTERCEPTED A DRONE"
+    },
+    {
+      "guid": "7c6ee5e8-c379-40c0-9d9f-d1ecc7b69261",
+      "link": "https://www.ft.com/content/7c6ee5e8-c379-40c0-9d9f-d1ecc7b69261",
+      "published": "2026-03-07 12:42:39",
+      "source_name": "FT",
+      "summary": "Masoud Pezeshkian had said Tehran would stop attacks on Gulf neighbours",
+      "title": "Iran warns it will hit US bases across region hours after president’s apology"
+    },
+    {
+      "guid": "https://www.bbc.com/news/articles/cddnqd2z864o#1",
+      "link": "https://www.bbc.com/news/articles/cddnqd2z864o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-07 12:11:11",
+      "source_name": "BBC",
+      "summary": "Sir Richard Knighton \"completely rejects\" criticism that the UK had been ill-prepared.",
+      "title": "Military chief defends UK response to Middle East conflict"
+    },
+    {
+      "guid": "https://www.bbc.com/news/articles/cx281xz2qjqo#1",
+      "link": "https://www.bbc.com/news/articles/cx281xz2qjqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-07 11:57:14",
+      "source_name": "BBC",
+      "summary": "In an interview, the Oscar-nominee danced into some online controversy after claiming no one cares about ballet and opera.",
+      "title": "Timothée Chalamet triggers backlash over ballet and opera remarks"
+    },
     {
       "guid": "2030249514586550679",
       "link": "https://nitter.net/DeItaone/status/2030249514586550679#m",
@@ -189,24 +221,24 @@
   "stats": [
     {
       "source": "FT",
-      "success": 10,
+      "success": 11,
       "failed": 7
     },
     {
       "source": "BBC",
-      "success": 10,
+      "success": 11,
       "failed": 7
     },
     {
       "source": "DeItaone",
-      "success": 10,
+      "success": 11,
       "failed": 7
     }
   ],
   "stats_date": "2026-03-07",
   "summary": {
-    "rss_count": 23,
+    "rss_count": 27,
     "stats_count": 3,
-    "update_time": "2026-03-07 19:58:40"
+    "update_time": "2026-03-07 20:55:48"
   }
 }
