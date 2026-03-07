@@ -1,6 +1,22 @@
 {
-  "last_update_time": "2026-03-07 22:49:54",
+  "last_update_time": "2026-03-07 22:59:45",
   "rss": [
+    {
+      "guid": "2030292211183583342",
+      "link": "https://nitter.net/DeItaone/status/2030292211183583342#m",
+      "published": "2026-03-07 14:39:18",
+      "source_name": "DeItaone",
+      "summary": "<p>TRUMP: KNOCKED OUT 42 IRANIAN NAVY SHIPS IN 3 DAYS</p>",
+      "title": "TRUMP: KNOCKED OUT 42 IRANIAN NAVY SHIPS IN 3 DAYS"
+    },
+    {
+      "guid": "2030292018711110095",
+      "link": "https://nitter.net/DeItaone/status/2030292018711110095#m",
+      "published": "2026-03-07 14:38:32",
+      "source_name": "DeItaone",
+      "summary": "<p>TRUMP: ANNOUNCING NEW MILITARY COALITION TO ERADICATE CARTELS</p>",
+      "title": "TRUMP: ANNOUNCING NEW MILITARY COALITION TO ERADICATE CARTELS"
+    },
     {
       "guid": "https://www.bbc.com/news/articles/cq6qp458zv1o#1",
       "link": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss",
@@ -301,24 +317,24 @@
   "stats": [
     {
       "source": "FT",
-      "success": 17,
+      "success": 18,
       "failed": 7
     },
     {
       "source": "BBC",
-      "success": 17,
+      "success": 18,
       "failed": 7
     },
     {
       "source": "DeItaone",
-      "success": 17,
+      "success": 18,
       "failed": 7
     }
   ],
   "stats_date": "2026-03-07",
   "summary": {
-    "rss_count": 37,
+    "rss_count": 39,
     "stats_count": 3,
-    "update_time": "2026-03-07 22:49:54"
+    "update_time": "2026-03-07 22:59:45"
   }
 }
