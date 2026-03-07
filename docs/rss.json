@@ -1,5 +1,5 @@
 {
-  "last_update_time": "2026-03-08 05:44:50",
+  "last_update_time": "2026-03-08 05:45:02",
   "rss": [
     {
       "guid": "2030397243325329554",
@@ -226,6 +226,14 @@
       "title": "KUWAIT PETROLEUM CO DECLARES FORCE MAJEURE DUE TO MIDEAST CONFLICT - TRADE NOTICE"
     },
     {
+      "guid": "7c6ee5e8-c379-40c0-9d9f-d1ecc7b69261",
+      "link": "https://www.ft.com/content/7c6ee5e8-c379-40c0-9d9f-d1ecc7b69261",
+      "published": "2026-03-07 16:31:43",
+      "source_name": "FT",
+      "summary": "Masoud Pezeshkian had said Tehran would stop attacks on Gulf neighbours",
+      "title": "Iran warns it will hit US bases across region hours after president’s apology"
+    },
+    {
       "guid": "2030317248754201052",
       "link": "https://nitter.net/DeItaone/status/2030317248754201052#m",
       "published": "2026-03-07 16:18:48",
@@ -392,30 +400,22 @@
       "source_name": "DeItaone",
       "summary": "<p>*IDF: IDENTIFIED MISSILES LAUNCHED FROM IRAN TOWARD ISRAEL</p>",
       "title": "*IDF: IDENTIFIED MISSILES LAUNCHED FROM IRAN TOWARD ISRAEL"
-    },
-    {
-      "guid": "2030265229200752808",
-      "link": "https://nitter.net/DeItaone/status/2030265229200752808#m",
-      "published": "2026-03-07 12:52:05",
-      "source_name": "DeItaone",
-      "summary": "<p>DEPUTY HEAD OF PEZESHKIAN'S OFFICE: IRAN WILL NEVER SUBMIT TO COERCION AND ITS ARMED FORCES WILL GIVE A FIRM RESPONSE TO ATTACKS FROM U.S. BASES IN THE REGION</p>",
-      "title": "DEPUTY HEAD OF PEZESHKIAN'S OFFICE: IRAN WILL NEVER SUBMIT TO COERCION AND ITS ARMED FORCES WILL GIVE A FIRM RESPONSE TO ATTACKS FROM U.S. BASES IN THE REGION"
     }
   ],
   "stats": [
     {
       "source": "FT",
-      "success": 26,
+      "success": 27,
       "failed": 0
     },
     {
       "source": "BBC",
-      "success": 26,
+      "success": 27,
       "failed": 0
     },
     {
       "source": "DeItaone",
-      "success": 26,
+      "success": 27,
       "failed": 0
     }
   ],
@@ -423,6 +423,6 @@
   "summary": {
     "rss_count": 50,
     "stats_count": 3,
-    "update_time": "2026-03-08 05:44:50"
+    "update_time": "2026-03-08 05:45:02"
   }
 }
