@@ -1,6 +1,46 @@
 {
-  "last_update_time": "2026-03-08 05:14:05",
+  "last_update_time": "2026-03-08 05:28:10",
   "rss": [
+    {
+      "guid": "2030393382686667249",
+      "link": "https://nitter.net/DeItaone/status/2030393382686667249#m",
+      "published": "2026-03-07 21:21:19",
+      "source_name": "DeItaone",
+      "summary": "<p>TRUMP: WE ARE NOT LOOKING TO SETTLE ON IRAN</p>",
+      "title": "TRUMP: WE ARE NOT LOOKING TO SETTLE ON IRAN"
+    },
+    {
+      "guid": "2030393077844648276",
+      "link": "https://nitter.net/DeItaone/status/2030393077844648276#m",
+      "published": "2026-03-07 21:20:07",
+      "source_name": "DeItaone",
+      "summary": "<p>TRUMP: WE WANT TO PICK A PRESIDENT IN IRAN THAT IS NOT GOING TO LEAD THAT COUNTRY INTO WAR</p>",
+      "title": "TRUMP: WE WANT TO PICK A PRESIDENT IN IRAN THAT IS NOT GOING TO LEAD THAT COUNTRY INTO WAR"
+    },
+    {
+      "guid": "2030392879110062567",
+      "link": "https://nitter.net/DeItaone/status/2030392879110062567#m",
+      "published": "2026-03-07 21:19:19",
+      "source_name": "DeItaone",
+      "summary": "<p>TRUMP, ASKED IF U.S. BOMBED SCHOOL, SAYS IT WAS IRAN</p>",
+      "title": "TRUMP, ASKED IF U.S. BOMBED SCHOOL, SAYS IT WAS IRAN"
+    },
+    {
+      "guid": "2030392693986050224",
+      "link": "https://nitter.net/DeItaone/status/2030392693986050224#m",
+      "published": "2026-03-07 21:18:35",
+      "source_name": "DeItaone",
+      "summary": "<p>TRUMP: WE WILL START FILLING UP THE SPR AT THE RIGHT TIME</p>",
+      "title": "TRUMP: WE WILL START FILLING UP THE SPR AT THE RIGHT TIME"
+    },
+    {
+      "guid": "2030392621802062098",
+      "link": "https://nitter.net/DeItaone/status/2030392621802062098#m",
+      "published": "2026-03-07 21:18:18",
+      "source_name": "DeItaone",
+      "summary": "<p>*TRUMP DECLINES TO PROJECT WAR TIMELINE, 'WHATEVER IT TAKES'</p>",
+      "title": "*TRUMP DECLINES TO PROJECT WAR TIMELINE, 'WHATEVER IT TAKES'"
+    },
     {
       "guid": "2030386753232630122",
       "link": "https://nitter.net/DeItaone/status/2030386753232630122#m",
@@ -360,62 +400,22 @@
       "source_name": "BBC",
       "summary": "Sir Richard Knighton \"completely rejects\" criticism that the UK had been ill-prepared.",
       "title": "Military chief defends UK response to Middle East conflict"
-    },
-    {
-      "guid": "https://www.bbc.com/news/articles/cx281xz2qjqo#1",
-      "link": "https://www.bbc.com/news/articles/cx281xz2qjqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-03-07 11:57:14",
-      "source_name": "BBC",
-      "summary": "In an interview, the Oscar-nominee danced into some online controversy after claiming no one cares about ballet and opera.",
-      "title": "Timothée Chalamet triggers backlash over ballet and opera remarks"
-    },
-    {
-      "guid": "https://www.bbc.com/news/articles/c9wnn8nn5p8o#1",
-      "link": "https://www.bbc.com/news/articles/c9wnn8nn5p8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-03-07 11:56:34",
-      "source_name": "BBC",
-      "summary": "The trauma and aftermath of events in 2002 are still having an impact on the Cambridgeshire village.",
-      "title": "The legacy of Holly and Jessica's murders: Soham 'won't waste its breath' on Huntley"
-    },
-    {
-      "guid": "2030249514586550679",
-      "link": "https://nitter.net/DeItaone/status/2030249514586550679#m",
-      "published": "2026-03-07 11:49:39",
-      "source_name": "DeItaone",
-      "summary": "<p>INDIA GOVT SOURCE: INDIA WILL CONSIDER BUYING RUSSIAN LNG IF OFFERED</p>",
-      "title": "INDIA GOVT SOURCE: INDIA WILL CONSIDER BUYING RUSSIAN LNG IF OFFERED"
-    },
-    {
-      "guid": "2030249344566268127",
-      "link": "https://nitter.net/DeItaone/status/2030249344566268127#m",
-      "published": "2026-03-07 11:48:58",
-      "source_name": "DeItaone",
-      "summary": "<p>TRUMP SAYS TODAY IRAN WILL BE HIT VERY HARD</p>",
-      "title": "TRUMP SAYS TODAY IRAN WILL BE HIT VERY HARD"
-    },
-    {
-      "guid": "2030249245358297111",
-      "link": "https://nitter.net/DeItaone/status/2030249245358297111#m",
-      "published": "2026-03-07 11:48:34",
-      "source_name": "DeItaone",
-      "summary": "<p>TRUMP SAYS UNDER SERIOUS CONSIDERATION FOR COMPLETE DESTRUCTION AND CERTAIN DEATH, BECAUSE OF IRAN'S BAD BEHAVIOR, ARE AREAS AND GROUPS OF PEOPLE THAT WERE NOT CONSIDERED FOR TARGETING UP UNTIL THIS MOMENT IN TIME</p>",
-      "title": "TRUMP SAYS UNDER SERIOUS CONSIDERATION FOR COMPLETE DESTRUCTION AND CERTAIN DEATH, BECAUSE OF IRAN'S BAD BEHAVIOR, ARE AREAS AND GROUPS OF PEOPLE THAT WERE NOT CONSIDERED FOR TARGETING UP UNTIL THIS MOMENT IN TIME"
     }
   ],
   "stats": [
     {
       "source": "FT",
-      "success": 24,
+      "success": 25,
       "failed": 0
     },
     {
       "source": "BBC",
-      "success": 24,
+      "success": 25,
       "failed": 0
     },
     {
       "source": "DeItaone",
-      "success": 24,
+      "success": 25,
       "failed": 0
     }
   ],
@@ -423,6 +423,6 @@
   "summary": {
     "rss_count": 50,
     "stats_count": 3,
-    "update_time": "2026-03-08 05:14:05"
+    "update_time": "2026-03-08 05:28:10"
   }
 }
