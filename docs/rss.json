@@ -1,6 +1,46 @@
 {
-  "last_update_time": "2026-03-07 23:00:53",
+  "last_update_time": "2026-03-07 23:30:50",
   "rss": [
+    {
+      "guid": "2030299594341396840",
+      "link": "https://nitter.net/DeItaone/status/2030299594341396840#m",
+      "published": "2026-03-07 15:08:39",
+      "source_name": "DeItaone",
+      "summary": "<p>TRUMP: I WOULD THINK A DEAL WOULD BE MADE VERY EASILY WITH CUBA... IT'S IN ITS LAST MOMENTS OF LIFE.  BUT OUR FOCUS RIGHT NOW IS ON IRAN</p>",
+      "title": "TRUMP: I WOULD THINK A DEAL WOULD BE MADE VERY EASILY WITH CUBA... IT'S IN ITS LAST MOMENTS OF LIFE.  BUT OUR FOCUS RIGHT NOW IS ON IRAN"
+    },
+    {
+      "guid": "2030299548166328321",
+      "link": "https://nitter.net/DeItaone/status/2030299548166328321#m",
+      "published": "2026-03-07 15:08:28",
+      "source_name": "DeItaone",
+      "summary": "<p>TRUMP: CUBA IS AT THE END OF THE LINE</p>",
+      "title": "TRUMP: CUBA IS AT THE END OF THE LINE"
+    },
+    {
+      "guid": "2030299357849763892",
+      "link": "https://nitter.net/DeItaone/status/2030299357849763892#m",
+      "published": "2026-03-07 15:07:42",
+      "source_name": "DeItaone",
+      "summary": "<p>TRUMP: THIS WEEK WE'VE FORMALLY RECOGNIZED THE VENEZUELAN GOVERNMENT, WILL FACILITATE THE SALE OF VENEZUELAN GOLD</p>",
+      "title": "TRUMP: THIS WEEK WE'VE FORMALLY RECOGNIZED THE VENEZUELAN GOVERNMENT, WILL FACILITATE THE SALE OF VENEZUELAN GOLD"
+    },
+    {
+      "guid": "2030296622874157370",
+      "link": "https://nitter.net/DeItaone/status/2030296622874157370#m",
+      "published": "2026-03-07 14:56:50",
+      "source_name": "DeItaone",
+      "summary": "<p>IRANIAN MILITARY SPOKESPERSON SAYS ENEMY SHIPS ENTERING THE GULF 'WILL END UP AT THE BOTTOM' OF THE WATERWAY- STATE MEDIA</p>",
+      "title": "IRANIAN MILITARY SPOKESPERSON SAYS ENEMY SHIPS ENTERING THE GULF 'WILL END UP AT THE BOTTOM' OF THE WATERWAY- STATE MEDIA"
+    },
+    {
+      "guid": "2030296544499413346",
+      "link": "https://nitter.net/DeItaone/status/2030296544499413346#m",
+      "published": "2026-03-07 14:56:31",
+      "source_name": "DeItaone",
+      "summary": "<p>TRUMP: I'M THE ONE THAT ENDED EIGHT WARS</p>",
+      "title": "TRUMP: I'M THE ONE THAT ENDED EIGHT WARS"
+    },
     {
       "guid": "2030292211183583342",
       "link": "https://nitter.net/DeItaone/status/2030292211183583342#m",
@@ -317,24 +357,24 @@
   "stats": [
     {
       "source": "FT",
-      "success": 19,
+      "success": 20,
       "failed": 7
     },
     {
       "source": "BBC",
-      "success": 19,
+      "success": 20,
       "failed": 7
     },
     {
       "source": "DeItaone",
-      "success": 19,
+      "success": 20,
       "failed": 7
     }
   ],
   "stats_date": "2026-03-07",
   "summary": {
-    "rss_count": 39,
+    "rss_count": 44,
     "stats_count": 3,
-    "update_time": "2026-03-07 23:00:53"
+    "update_time": "2026-03-07 23:30:50"
   }
 }
