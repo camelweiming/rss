@@ -1,6 +1,14 @@
 {
-  "last_update_time": "2026-03-08 00:49:58",
+  "last_update_time": "2026-03-08 01:02:09",
   "rss": [
+    {
+      "guid": "2030322049642578221",
+      "link": "https://nitter.net/DeItaone/status/2030322049642578221#m",
+      "published": "2026-03-07 16:37:52",
+      "source_name": "DeItaone",
+      "summary": "<p>KUWAIT PETROLEUM CO DECLARES FORCE MAJEURE DUE TO MIDEAST CONFLICT - TRADE NOTICE</p>",
+      "title": "KUWAIT PETROLEUM CO DECLARES FORCE MAJEURE DUE TO MIDEAST CONFLICT - TRADE NOTICE"
+    },
     {
       "guid": "2030317248754201052",
       "link": "https://nitter.net/DeItaone/status/2030317248754201052#m",
@@ -389,24 +397,24 @@
   "stats": [
     {
       "source": "FT",
-      "success": 4,
+      "success": 5,
       "failed": 0
     },
     {
       "source": "BBC",
-      "success": 4,
+      "success": 5,
       "failed": 0
     },
     {
       "source": "DeItaone",
-      "success": 4,
+      "success": 5,
       "failed": 0
     }
   ],
   "stats_date": "2026-03-08",
   "summary": {
-    "rss_count": 48,
+    "rss_count": 49,
     "stats_count": 3,
-    "update_time": "2026-03-08 00:49:58"
+    "update_time": "2026-03-08 01:02:09"
   }
 }
