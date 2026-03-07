@@ -1,6 +1,30 @@
 {
-  "last_update_time": "2026-03-08 05:28:10",
+  "last_update_time": "2026-03-08 05:44:50",
   "rss": [
+    {
+      "guid": "2030397243325329554",
+      "link": "https://nitter.net/DeItaone/status/2030397243325329554#m",
+      "published": "2026-03-07 21:36:40",
+      "source_name": "DeItaone",
+      "summary": "<p>*TRUMP ON TROOPS FOR IRAN NUCLEAR SITES: MAYBE AT SOME POINT</p>",
+      "title": "*TRUMP ON TROOPS FOR IRAN NUCLEAR SITES: MAYBE AT SOME POINT"
+    },
+    {
+      "guid": "2030394745789272105",
+      "link": "https://nitter.net/DeItaone/status/2030394745789272105#m",
+      "published": "2026-03-07 21:26:44",
+      "source_name": "DeItaone",
+      "summary": "<p>TRUMP ON IRAN: I DON'T WANT THE KURDS TO GO IN</p>",
+      "title": "TRUMP ON IRAN: I DON'T WANT THE KURDS TO GO IN"
+    },
+    {
+      "guid": "2030394167629615111",
+      "link": "https://nitter.net/DeItaone/status/2030394167629615111#m",
+      "published": "2026-03-07 21:24:27",
+      "source_name": "DeItaone",
+      "summary": "<p>WITKOFF SAYS HE HAS COMMUNICATED TO RUSSIA TO NOT SEND TARGETING INFO AND OTHER ASSISTANCE TO IRAN</p>",
+      "title": "WITKOFF SAYS HE HAS COMMUNICATED TO RUSSIA TO NOT SEND TARGETING INFO AND OTHER ASSISTANCE TO IRAN"
+    },
     {
       "guid": "2030393382686667249",
       "link": "https://nitter.net/DeItaone/status/2030393382686667249#m",
@@ -376,46 +400,22 @@
       "source_name": "DeItaone",
       "summary": "<p>DEPUTY HEAD OF PEZESHKIAN'S OFFICE: IRAN WILL NEVER SUBMIT TO COERCION AND ITS ARMED FORCES WILL GIVE A FIRM RESPONSE TO ATTACKS FROM U.S. BASES IN THE REGION</p>",
       "title": "DEPUTY HEAD OF PEZESHKIAN'S OFFICE: IRAN WILL NEVER SUBMIT TO COERCION AND ITS ARMED FORCES WILL GIVE A FIRM RESPONSE TO ATTACKS FROM U.S. BASES IN THE REGION"
-    },
-    {
-      "guid": "2030263338672812482",
-      "link": "https://nitter.net/DeItaone/status/2030263338672812482#m",
-      "published": "2026-03-07 12:44:35",
-      "source_name": "DeItaone",
-      "summary": "<p>KUWAIT NATIONAL GUARD: INTERCEPTED A DRONE</p>",
-      "title": "KUWAIT NATIONAL GUARD: INTERCEPTED A DRONE"
-    },
-    {
-      "guid": "7c6ee5e8-c379-40c0-9d9f-d1ecc7b69261",
-      "link": "https://www.ft.com/content/7c6ee5e8-c379-40c0-9d9f-d1ecc7b69261",
-      "published": "2026-03-07 12:42:39",
-      "source_name": "FT",
-      "summary": "Masoud Pezeshkian had said Tehran would stop attacks on Gulf neighbours",
-      "title": "Iran warns it will hit US bases across region hours after president’s apology"
-    },
-    {
-      "guid": "https://www.bbc.com/news/articles/cddnqd2z864o#1",
-      "link": "https://www.bbc.com/news/articles/cddnqd2z864o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-03-07 12:11:11",
-      "source_name": "BBC",
-      "summary": "Sir Richard Knighton \"completely rejects\" criticism that the UK had been ill-prepared.",
-      "title": "Military chief defends UK response to Middle East conflict"
     }
   ],
   "stats": [
     {
       "source": "FT",
-      "success": 25,
+      "success": 26,
       "failed": 0
     },
     {
       "source": "BBC",
-      "success": 25,
+      "success": 26,
       "failed": 0
     },
     {
       "source": "DeItaone",
-      "success": 25,
+      "success": 26,
       "failed": 0
     }
   ],
@@ -423,6 +423,6 @@
   "summary": {
     "rss_count": 50,
     "stats_count": 3,
-    "update_time": "2026-03-08 05:28:10"
+    "update_time": "2026-03-08 05:44:50"
   }
 }
