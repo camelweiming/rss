@@ -1,6 +1,22 @@
 {
-  "last_update_time": "2026-03-07 18:58:52",
+  "last_update_time": "2026-03-07 19:17:59",
   "rss": [
+    {
+      "guid": "7ec4acb7-8c49-4da5-a7f3-83410e873e5a",
+      "link": "https://www.ft.com/content/7ec4acb7-8c49-4da5-a7f3-83410e873e5a",
+      "published": "2026-03-07 11:00:08",
+      "source_name": "FT",
+      "summary": "The conflict with Iran is unpopular with the American public and is roiling markets and the economy",
+      "title": "A week of war in charts: the impact on the US"
+    },
+    {
+      "guid": "https://www.bbc.com/news/articles/czd87d0jq37o#1",
+      "link": "https://www.bbc.com/news/articles/czd87d0jq37o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-07 10:37:38",
+      "source_name": "BBC",
+      "summary": "Andrew Mountbatten-Windsor was arrested on suspicion of misconduct in public office last month.",
+      "title": "Canada's PM calls for Andrew to be removed from line of succession"
+    },
     {
       "guid": "bbd79c63-8131-4b20-9d2d-708bc8acea38",
       "link": "https://www.ft.com/content/bbd79c63-8131-4b20-9d2d-708bc8acea38",
@@ -141,24 +157,24 @@
   "stats": [
     {
       "source": "FT",
-      "success": 6,
+      "success": 7,
       "failed": 7
     },
     {
       "source": "BBC",
-      "success": 6,
+      "success": 7,
       "failed": 7
     },
     {
       "source": "DeItaone",
-      "success": 6,
+      "success": 7,
       "failed": 7
     }
   ],
   "stats_date": "2026-03-07",
   "summary": {
-    "rss_count": 17,
+    "rss_count": 19,
     "stats_count": 3,
-    "update_time": "2026-03-07 18:58:52"
+    "update_time": "2026-03-07 19:17:59"
   }
 }
