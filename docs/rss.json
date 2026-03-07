@@ -1,5 +1,5 @@
 {
-  "last_update_time": "2026-03-08 02:07:21",
+  "last_update_time": "2026-03-08 02:29:59",
   "rss": [
     {
       "guid": "2030343621275209930",
@@ -354,6 +354,14 @@
       "title": "Deadly storms and tornadoes strike US state of Michigan"
     },
     {
+      "guid": "0b16e3e8-d52b-4b87-a212-bba90af39ceb",
+      "link": "https://www.ft.com/content/0b16e3e8-d52b-4b87-a212-bba90af39ceb",
+      "published": "2026-03-07 05:00:27",
+      "source_name": "FT",
+      "summary": "Israel and the US have achieved many military aims in Iran, but the unpredictable fallout poses threats to everyone",
+      "title": "The war of unintended consequences"
+    },
+    {
       "guid": "ddb4a3fd-2f99-43a4-8ae6-330c6d29c14a",
       "link": "https://www.ft.com/content/ddb4a3fd-2f99-43a4-8ae6-330c6d29c14a",
       "published": "2026-03-07 05:00:26",
@@ -392,30 +400,22 @@
       "source_name": "DeItaone",
       "summary": "<p>BESSENT, ON SAFE PASSAGE OF SHIPS IN STRAIT OF HORMUZ, SAYS U.S. IS ON TRACK TO GET THIS SOLVED  -FOX BUSINESS</p>",
       "title": "BESSENT, ON SAFE PASSAGE OF SHIPS IN STRAIT OF HORMUZ, SAYS U.S. IS ON TRACK TO GET THIS SOLVED  -FOX BUSINESS"
-    },
-    {
-      "guid": "2030036317401165958",
-      "link": "https://nitter.net/DeItaone/status/2030036317401165958#m",
-      "published": "2026-03-06 21:42:28",
-      "source_name": "DeItaone",
-      "summary": "<p>BESSENT: WE MAY UNSANCTION OTHER RUSSIAN OIL -FOX BUSINESS</p>",
-      "title": "BESSENT: WE MAY UNSANCTION OTHER RUSSIAN OIL -FOX BUSINESS"
     }
   ],
   "stats": [
     {
       "source": "FT",
-      "success": 10,
+      "success": 11,
       "failed": 0
     },
     {
       "source": "BBC",
-      "success": 10,
+      "success": 11,
       "failed": 0
     },
     {
       "source": "DeItaone",
-      "success": 10,
+      "success": 11,
       "failed": 0
     }
   ],
@@ -423,6 +423,6 @@
   "summary": {
     "rss_count": 50,
     "stats_count": 3,
-    "update_time": "2026-03-08 02:07:21"
+    "update_time": "2026-03-08 02:29:59"
   }
 }
