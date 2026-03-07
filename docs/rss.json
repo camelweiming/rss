@@ -1,6 +1,22 @@
 {
-  "last_update_time": "2026-03-08 07:28:38",
+  "last_update_time": "2026-03-08 07:47:03",
   "rss": [
+    {
+      "guid": "2030426256274084276",
+      "link": "https://nitter.net/DeItaone/status/2030426256274084276#m",
+      "published": "2026-03-07 23:31:57",
+      "source_name": "DeItaone",
+      "summary": "<p>ISRAEL'S UN AMBASSADOR: THIS WILL NOT BE A LONG WAR</p>",
+      "title": "ISRAEL'S UN AMBASSADOR: THIS WILL NOT BE A LONG WAR"
+    },
+    {
+      "guid": "2030425745869160865",
+      "link": "https://nitter.net/DeItaone/status/2030425745869160865#m",
+      "published": "2026-03-07 23:29:55",
+      "source_name": "DeItaone",
+      "summary": "<p>KUWAITI ARMY SAYS FUEL STORAGE TANKS BELONGING TO KUWAIT INTERNATIONAL AIRPORT WERE TARGETED IN DRONE ATTACK</p>",
+      "title": "KUWAITI ARMY SAYS FUEL STORAGE TANKS BELONGING TO KUWAIT INTERNATIONAL AIRPORT WERE TARGETED IN DRONE ATTACK"
+    },
     {
       "guid": "2030419521828274365",
       "link": "https://nitter.net/DeItaone/status/2030419521828274365#m",
@@ -384,38 +400,22 @@
       "source_name": "DeItaone",
       "summary": "<p>WE HAVE NOT ATTACKED FRIENDLY NEIGHBORING COUNTRIES, BUT RATHER TARGETED U.S. MILITARY BASES, INSTALLATIONS, AND FACILITIES IN THE REGION - IRAN'S PEZESHKIAN ON X</p>",
       "title": "WE HAVE NOT ATTACKED FRIENDLY NEIGHBORING COUNTRIES, BUT RATHER TARGETED U.S. MILITARY BASES, INSTALLATIONS, AND FACILITIES IN THE REGION - IRAN'S PEZESHKIAN ON X"
-    },
-    {
-      "guid": "2030278805189747019",
-      "link": "https://nitter.net/DeItaone/status/2030278805189747019#m",
-      "published": "2026-03-07 13:46:02",
-      "source_name": "DeItaone",
-      "summary": "<p>IRAN SEEKS FRIENDLY RELATIONS WITH REGIONAL STATES, BUT THIS DOES NOT NEGATE IRAN'S RIGHT TO DEFEND ITSELF FROM U.S., ISRAELI 'AGGRESSION' -IRAN'S PESZESHKIAN ON X</p>",
-      "title": "IRAN SEEKS FRIENDLY RELATIONS WITH REGIONAL STATES, BUT THIS DOES NOT NEGATE IRAN'S RIGHT TO DEFEND ITSELF FROM U.S., ISRAELI 'AGGRESSION' -IRAN'S PESZESHKIAN ON X"
-    },
-    {
-      "guid": "2030278583331987756",
-      "link": "https://nitter.net/DeItaone/status/2030278583331987756#m",
-      "published": "2026-03-07 13:45:09",
-      "source_name": "DeItaone",
-      "summary": "<p>IRANIAN PARLIAMENT'S NATIONAL SECURITY COMMITTEE IN A STATEMENT: THE WAR AGAINST OUR ENEMIES WILL CONTINUE UNTIL THE LEADER'S KILLING IS AVENGED - STATE MEDIA</p>",
-      "title": "IRANIAN PARLIAMENT'S NATIONAL SECURITY COMMITTEE IN A STATEMENT: THE WAR AGAINST OUR ENEMIES WILL CONTINUE UNTIL THE LEADER'S KILLING IS AVENGED - STATE MEDIA"
     }
   ],
   "stats": [
     {
       "source": "FT",
-      "success": 34,
+      "success": 35,
       "failed": 0
     },
     {
       "source": "BBC",
-      "success": 34,
+      "success": 35,
       "failed": 0
     },
     {
       "source": "DeItaone",
-      "success": 34,
+      "success": 35,
       "failed": 0
     }
   ],
@@ -423,6 +423,6 @@
   "summary": {
     "rss_count": 50,
     "stats_count": 3,
-    "update_time": "2026-03-08 07:28:38"
+    "update_time": "2026-03-08 07:47:03"
   }
 }
