@@ -1,6 +1,38 @@
 {
-  "last_update_time": "2026-03-07 19:49:49",
+  "last_update_time": "2026-03-07 19:58:40",
   "rss": [
+    {
+      "guid": "2030249514586550679",
+      "link": "https://nitter.net/DeItaone/status/2030249514586550679#m",
+      "published": "2026-03-07 11:49:39",
+      "source_name": "DeItaone",
+      "summary": "<p>INDIA GOVT SOURCE: INDIA WILL CONSIDER BUYING RUSSIAN LNG IF OFFERED</p>",
+      "title": "INDIA GOVT SOURCE: INDIA WILL CONSIDER BUYING RUSSIAN LNG IF OFFERED"
+    },
+    {
+      "guid": "2030249344566268127",
+      "link": "https://nitter.net/DeItaone/status/2030249344566268127#m",
+      "published": "2026-03-07 11:48:58",
+      "source_name": "DeItaone",
+      "summary": "<p>TRUMP SAYS TODAY IRAN WILL BE HIT VERY HARD</p>",
+      "title": "TRUMP SAYS TODAY IRAN WILL BE HIT VERY HARD"
+    },
+    {
+      "guid": "2030249245358297111",
+      "link": "https://nitter.net/DeItaone/status/2030249245358297111#m",
+      "published": "2026-03-07 11:48:34",
+      "source_name": "DeItaone",
+      "summary": "<p>TRUMP SAYS UNDER SERIOUS CONSIDERATION FOR COMPLETE DESTRUCTION AND CERTAIN DEATH, BECAUSE OF IRAN'S BAD BEHAVIOR, ARE AREAS AND GROUPS OF PEOPLE THAT WERE NOT CONSIDERED FOR TARGETING UP UNTIL THIS MOMENT IN TIME</p>",
+      "title": "TRUMP SAYS UNDER SERIOUS CONSIDERATION FOR COMPLETE DESTRUCTION AND CERTAIN DEATH, BECAUSE OF IRAN'S BAD BEHAVIOR, ARE AREAS AND GROUPS OF PEOPLE THAT WERE NOT CONSIDERED FOR TARGETING UP UNTIL THIS MOMENT IN TIME"
+    },
+    {
+      "guid": "2030249100990390768",
+      "link": "https://nitter.net/DeItaone/status/2030249100990390768#m",
+      "published": "2026-03-07 11:48:00",
+      "source_name": "DeItaone",
+      "summary": "<p>TRUMP: IRAN, WHICH IS BEING BEAT TO HELL, HAS APOLOGIZED AND SURRENDERED TO ITS MIDDLE EAST NEIGHBORS, AND PROMISED THAT IT WILL NOT SHOOT AT THEM ANYMORE</p>",
+      "title": "TRUMP: IRAN, WHICH IS BEING BEAT TO HELL, HAS APOLOGIZED AND SURRENDERED TO ITS MIDDLE EAST NEIGHBORS, AND PROMISED THAT IT WILL NOT SHOOT AT THEM ANYMORE"
+    },
     {
       "guid": "7ec4acb7-8c49-4da5-a7f3-83410e873e5a",
       "link": "https://www.ft.com/content/7ec4acb7-8c49-4da5-a7f3-83410e873e5a",
@@ -157,24 +189,24 @@
   "stats": [
     {
       "source": "FT",
-      "success": 9,
+      "success": 10,
       "failed": 7
     },
     {
       "source": "BBC",
-      "success": 9,
+      "success": 10,
       "failed": 7
     },
     {
       "source": "DeItaone",
-      "success": 9,
+      "success": 10,
       "failed": 7
     }
   ],
   "stats_date": "2026-03-07",
   "summary": {
-    "rss_count": 19,
+    "rss_count": 23,
     "stats_count": 3,
-    "update_time": "2026-03-07 19:49:49"
+    "update_time": "2026-03-07 19:58:40"
   }
 }
