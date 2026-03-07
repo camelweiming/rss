@@ -1,6 +1,14 @@
 {
-  "last_update_time": "2026-03-08 07:47:03",
+  "last_update_time": "2026-03-08 07:58:07",
   "rss": [
+    {
+      "guid": "2030429662317253108",
+      "link": "https://nitter.net/DeItaone/status/2030429662317253108#m",
+      "published": "2026-03-07 23:45:29",
+      "source_name": "DeItaone",
+      "summary": "<p>STRIKE TARGETS APARTMENT IN HOTEL BUILDING IN CENTRAL BEIRUT - SECURITY SOURCE</p>",
+      "title": "STRIKE TARGETS APARTMENT IN HOTEL BUILDING IN CENTRAL BEIRUT - SECURITY SOURCE"
+    },
     {
       "guid": "2030426256274084276",
       "link": "https://nitter.net/DeItaone/status/2030426256274084276#m",
@@ -392,30 +400,22 @@
       "source_name": "FT",
       "summary": "Iran’s army says it will continue to target US and Israeli military sites",
       "title": "Trump vows to hit Iran hard after Israel launches wave of air attacks"
-    },
-    {
-      "guid": "2030280699781997041",
-      "link": "https://nitter.net/DeItaone/status/2030280699781997041#m",
-      "published": "2026-03-07 13:53:34",
-      "source_name": "DeItaone",
-      "summary": "<p>WE HAVE NOT ATTACKED FRIENDLY NEIGHBORING COUNTRIES, BUT RATHER TARGETED U.S. MILITARY BASES, INSTALLATIONS, AND FACILITIES IN THE REGION - IRAN'S PEZESHKIAN ON X</p>",
-      "title": "WE HAVE NOT ATTACKED FRIENDLY NEIGHBORING COUNTRIES, BUT RATHER TARGETED U.S. MILITARY BASES, INSTALLATIONS, AND FACILITIES IN THE REGION - IRAN'S PEZESHKIAN ON X"
     }
   ],
   "stats": [
     {
       "source": "FT",
-      "success": 35,
+      "success": 36,
       "failed": 0
     },
     {
       "source": "BBC",
-      "success": 35,
+      "success": 36,
       "failed": 0
     },
     {
       "source": "DeItaone",
-      "success": 35,
+      "success": 36,
       "failed": 0
     }
   ],
@@ -423,6 +423,6 @@
   "summary": {
     "rss_count": 50,
     "stats_count": 3,
-    "update_time": "2026-03-08 07:47:03"
+    "update_time": "2026-03-08 07:58:07"
   }
 }
