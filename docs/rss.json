@@ -1,5 +1,5 @@
 {
-  "last_update_time": "2026-03-08 04:42:32",
+  "last_update_time": "2026-03-08 04:47:37",
   "rss": [
     {
       "guid": "2030380242053771577",
@@ -346,6 +346,14 @@
       "title": "Timothée Chalamet triggers backlash over ballet and opera remarks"
     },
     {
+      "guid": "https://www.bbc.com/news/articles/c9wnn8nn5p8o#1",
+      "link": "https://www.bbc.com/news/articles/c9wnn8nn5p8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-07 11:56:34",
+      "source_name": "BBC",
+      "summary": "The trauma and aftermath of events in 2002 are still having an impact on the Cambridgeshire village.",
+      "title": "The legacy of Holly and Jessica's murders: Soham 'won't waste its breath' on Huntley"
+    },
+    {
       "guid": "2030249514586550679",
       "link": "https://nitter.net/DeItaone/status/2030249514586550679#m",
       "published": "2026-03-07 11:49:39",
@@ -392,30 +400,22 @@
       "source_name": "BBC",
       "summary": "Andrew Mountbatten-Windsor was arrested on suspicion of misconduct in public office last month.",
       "title": "Canada's PM calls for Andrew to be removed from line of succession"
-    },
-    {
-      "guid": "bbd79c63-8131-4b20-9d2d-708bc8acea38",
-      "link": "https://www.ft.com/content/bbd79c63-8131-4b20-9d2d-708bc8acea38",
-      "published": "2026-03-07 10:11:45",
-      "source_name": "FT",
-      "summary": "Hizbollah said it had engaged Israeli forces in the Bekaa Valley",
-      "title": "Iran calls halt to attacks on neighbours as Israel strikes more targets"
     }
   ],
   "stats": [
     {
       "source": "FT",
-      "success": 21,
+      "success": 22,
       "failed": 0
     },
     {
       "source": "BBC",
-      "success": 21,
+      "success": 22,
       "failed": 0
     },
     {
       "source": "DeItaone",
-      "success": 21,
+      "success": 22,
       "failed": 0
     }
   ],
@@ -423,6 +423,6 @@
   "summary": {
     "rss_count": 50,
     "stats_count": 3,
-    "update_time": "2026-03-08 04:42:32"
+    "update_time": "2026-03-08 04:47:37"
   }
 }
