@@ -1,6 +1,30 @@
 {
-  "last_update_time": "2026-03-08 01:35:50",
+  "last_update_time": "2026-03-08 01:52:21",
   "rss": [
+    {
+      "guid": "2030340394429370839",
+      "link": "https://nitter.net/DeItaone/status/2030340394429370839#m",
+      "published": "2026-03-07 17:50:46",
+      "source_name": "DeItaone",
+      "summary": "<p>*IRAN'S ARAGHCHI: IF TRUMP WANTS ESCALATION HE'LL GET IT</p>",
+      "title": "*IRAN'S ARAGHCHI: IF TRUMP WANTS ESCALATION HE'LL GET IT"
+    },
+    {
+      "guid": "2030340324485161078",
+      "link": "https://nitter.net/DeItaone/status/2030340324485161078#m",
+      "published": "2026-03-07 17:50:29",
+      "source_name": "DeItaone",
+      "summary": "<p>*ADNOC IS ‘MANAGING’ OFFSHORE OIL OUTPUT LEVELS DUE TO STORAGE</p>",
+      "title": "*ADNOC IS ‘MANAGING’ OFFSHORE OIL OUTPUT LEVELS DUE TO STORAGE"
+    },
+    {
+      "guid": "2030340126052622790",
+      "link": "https://nitter.net/DeItaone/status/2030340126052622790#m",
+      "published": "2026-03-07 17:49:42",
+      "source_name": "DeItaone",
+      "summary": "<p>*IDF IDENTIFIES MISSILES LAUNCHED FROM IRAN TOWARD ISRAEL</p>",
+      "title": "*IDF IDENTIFIES MISSILES LAUNCHED FROM IRAN TOWARD ISRAEL"
+    },
     {
       "guid": "2030322049642578221",
       "link": "https://nitter.net/DeItaone/status/2030322049642578221#m",
@@ -376,45 +400,29 @@
       "source_name": "36kr",
       "summary": "test",
       "title": "test2"
-    },
-    {
-      "guid": "5a74c0f8-1cf2-4a6b-9339-a098fcbeb100",
-      "link": "https://www.ft.com/content/5a74c0f8-1cf2-4a6b-9339-a098fcbeb100",
-      "published": "2026-03-06 18:23:27",
-      "source_name": "FT",
-      "summary": "The Iran crisis is unfolding in a world in which oil and gas supplies are more diversified than in previous decades",
-      "title": "Is the nightmare scenario for global energy here?"
-    },
-    {
-      "guid": "https://www.bbc.com/news/articles/c4g0dzg6e4mo#1",
-      "link": "https://www.bbc.com/news/articles/c4g0dzg6e4mo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-03-06 17:58:33",
-      "source_name": "BBC",
-      "summary": "The Department of Justice said the released files had been \"incorrectly coded as duplicative\" and inadvertently not published.",
-      "title": "Withheld Epstein files with accusations against Trump released by justice department"
     }
   ],
   "stats": [
     {
       "source": "FT",
-      "success": 8,
+      "success": 9,
       "failed": 0
     },
     {
       "source": "BBC",
-      "success": 8,
+      "success": 9,
       "failed": 0
     },
     {
       "source": "DeItaone",
-      "success": 8,
+      "success": 9,
       "failed": 0
     }
   ],
   "stats_date": "2026-03-08",
   "summary": {
-    "rss_count": 49,
+    "rss_count": 50,
     "stats_count": 3,
-    "update_time": "2026-03-08 01:35:50"
+    "update_time": "2026-03-08 01:52:21"
   }
 }
