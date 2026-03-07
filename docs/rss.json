@@ -1,6 +1,22 @@
 {
-  "last_update_time": "2026-03-08 02:29:59",
+  "last_update_time": "2026-03-08 02:38:23",
   "rss": [
+    {
+      "guid": "2030351236030194110",
+      "link": "https://nitter.net/DeItaone/status/2030351236030194110#m",
+      "published": "2026-03-07 18:33:51",
+      "source_name": "DeItaone",
+      "summary": "<p>TURKISH FOREIGN MINISTER WARNS IRAN AGAINST FIRING ANY MORE MISSILES TOWARDS TURKEY</p>",
+      "title": "TURKISH FOREIGN MINISTER WARNS IRAN AGAINST FIRING ANY MORE MISSILES TOWARDS TURKEY"
+    },
+    {
+      "guid": "2030351009713623296",
+      "link": "https://nitter.net/DeItaone/status/2030351009713623296#m",
+      "published": "2026-03-07 18:32:57",
+      "source_name": "DeItaone",
+      "summary": "<p>KATYUSHA ROCKETS TARGET U.S. EMBASSY IN BAGHDAD -SECURITY SOURCES</p>",
+      "title": "KATYUSHA ROCKETS TARGET U.S. EMBASSY IN BAGHDAD -SECURITY SOURCES"
+    },
     {
       "guid": "2030343621275209930",
       "link": "https://nitter.net/DeItaone/status/2030343621275209930#m",
@@ -384,38 +400,22 @@
       "source_name": "DeItaone",
       "summary": "<p>KALSHI, POLYMARKET EACH EYEING ROUGHLY $20B VALUATIONS: WSJ</p>",
       "title": "KALSHI, POLYMARKET EACH EYEING ROUGHLY $20B VALUATIONS: WSJ"
-    },
-    {
-      "guid": "d3e2c2a1-73aa-4952-b1f1-08c87042b507",
-      "link": "https://www.ft.com/content/d3e2c2a1-73aa-4952-b1f1-08c87042b507",
-      "published": "2026-03-06 21:52:35",
-      "source_name": "FT",
-      "summary": "Goldman Sachs warns crude will soar past 2008 peak if action is not taken to reopen Strait of Hormuz",
-      "title": "Oil hits highest level since 2023 as Iran war triggers historic surge"
-    },
-    {
-      "guid": "2030037133814100154",
-      "link": "https://nitter.net/DeItaone/status/2030037133814100154#m",
-      "published": "2026-03-06 21:45:43",
-      "source_name": "DeItaone",
-      "summary": "<p>BESSENT, ON SAFE PASSAGE OF SHIPS IN STRAIT OF HORMUZ, SAYS U.S. IS ON TRACK TO GET THIS SOLVED  -FOX BUSINESS</p>",
-      "title": "BESSENT, ON SAFE PASSAGE OF SHIPS IN STRAIT OF HORMUZ, SAYS U.S. IS ON TRACK TO GET THIS SOLVED  -FOX BUSINESS"
     }
   ],
   "stats": [
     {
       "source": "FT",
-      "success": 11,
+      "success": 12,
       "failed": 0
     },
     {
       "source": "BBC",
-      "success": 11,
+      "success": 12,
       "failed": 0
     },
     {
       "source": "DeItaone",
-      "success": 11,
+      "success": 12,
       "failed": 0
     }
   ],
@@ -423,6 +423,6 @@
   "summary": {
     "rss_count": 50,
     "stats_count": 3,
-    "update_time": "2026-03-08 02:29:59"
+    "update_time": "2026-03-08 02:38:23"
   }
 }
