@@ -1,6 +1,22 @@
 {
-  "last_update_time": "2026-03-08 03:43:09",
+  "last_update_time": "2026-03-08 03:56:21",
   "rss": [
+    {
+      "guid": "2030370215230337419",
+      "link": "https://nitter.net/DeItaone/status/2030370215230337419#m",
+      "published": "2026-03-07 19:49:16",
+      "source_name": "DeItaone",
+      "summary": "<p>IRAN'S LARIJANI SAYS BY HITTING SCHOOLS AND HOSPITALS IN IRAN, THE U.S. AND ISRAEL WANT TO BRING PEOPLE INTO STREETS, BUT THEY FAILED</p>",
+      "title": "IRAN'S LARIJANI SAYS BY HITTING SCHOOLS AND HOSPITALS IN IRAN, THE U.S. AND ISRAEL WANT TO BRING PEOPLE INTO STREETS, BUT THEY FAILED"
+    },
+    {
+      "guid": "2030369590358806758",
+      "link": "https://nitter.net/DeItaone/status/2030369590358806758#m",
+      "published": "2026-03-07 19:46:47",
+      "source_name": "DeItaone",
+      "summary": "<p>*IRAN READY TO CONTINUE WAR FOR FOR AT LEAST 6 MONTHS: STATE TV</p>",
+      "title": "*IRAN READY TO CONTINUE WAR FOR FOR AT LEAST 6 MONTHS: STATE TV"
+    },
     {
       "guid": "https://www.bbc.com/news/articles/c0432n5gl1zo#1",
       "link": "https://www.bbc.com/news/articles/c0432n5gl1zo?at_medium=RSS&at_campaign=rss",
@@ -384,38 +400,22 @@
       "source_name": "FT",
       "summary": "Israel and the US have achieved many military aims in Iran, but the unpredictable fallout poses threats to everyone",
       "title": "The war of unintended consequences"
-    },
-    {
-      "guid": "ddb4a3fd-2f99-43a4-8ae6-330c6d29c14a",
-      "link": "https://www.ft.com/content/ddb4a3fd-2f99-43a4-8ae6-330c6d29c14a",
-      "published": "2026-03-07 05:00:26",
-      "source_name": "FT",
-      "summary": "US allies in the Arab world have been plunged into a conflict they neither wanted nor consented to. Historian Eugene Rogan on what it means for the Middle East",
-      "title": "Trump’s war on Iran is spreading. Where does it stop?"
-    },
-    {
-      "guid": "https://www.bbc.com/news/articles/c62662gzlp8o#1",
-      "link": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-03-07 00:36:19",
-      "source_name": "BBC",
-      "summary": "Ukraine has embarked on a programme to deploy armed robots on the battlefield against Russian forces.",
-      "title": "Armed robots take to the battlefield in Ukraine war"
     }
   ],
   "stats": [
     {
       "source": "FT",
-      "success": 17,
+      "success": 18,
       "failed": 0
     },
     {
       "source": "BBC",
-      "success": 17,
+      "success": 18,
       "failed": 0
     },
     {
       "source": "DeItaone",
-      "success": 17,
+      "success": 18,
       "failed": 0
     }
   ],
@@ -423,6 +423,6 @@
   "summary": {
     "rss_count": 50,
     "stats_count": 3,
-    "update_time": "2026-03-08 03:43:09"
+    "update_time": "2026-03-08 03:56:21"
   }
 }
