@@ -1,5 +1,5 @@
 {
-  "last_update_time": "2026-03-08 03:40:24",
+  "last_update_time": "2026-03-08 03:43:09",
   "rss": [
     {
       "guid": "https://www.bbc.com/news/articles/c0432n5gl1zo#1",
@@ -405,17 +405,17 @@
   "stats": [
     {
       "source": "FT",
-      "success": 16,
+      "success": 17,
       "failed": 0
     },
     {
       "source": "BBC",
-      "success": 16,
+      "success": 17,
       "failed": 0
     },
     {
       "source": "DeItaone",
-      "success": 16,
+      "success": 17,
       "failed": 0
     }
   ],
@@ -423,6 +423,6 @@
   "summary": {
     "rss_count": 50,
     "stats_count": 3,
-    "update_time": "2026-03-08 03:40:24"
+    "update_time": "2026-03-08 03:43:09"
   }
 }
