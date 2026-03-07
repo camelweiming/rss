@@ -118,11 +118,22 @@ class RSSManager:
                 guid = entry.get('link')
             
             if guid and guid not in existing_guids:
+                # 处理时间格式
+                published = entry.get('published', '')
+                if published:
+                    from dateutil.parser import parse
+                    try:
+                        dt = parse(published)
+                        # 转换为"yyyy-MM-dd HH:mm:ss"格式
+                        published = dt.strftime('%Y-%m-%d %H:%M:%S')
+                    except:
+                        pass
+                
                 # 确保条目标结构完整
                 rss_item = {
                     "guid": guid,
                     "link": entry.get('link', ''),
-                    "published": entry.get('published', ''),
+                    "published": published,
                     "source_name": entry.get('source_name', ''),
                     "summary": entry.get('summary', entry.get('description', '')),
                     "title": entry.get('title', '')
@@ -132,6 +143,18 @@ class RSSManager:
         
         # 合并所有条目
         all_entries = new_entries + data['rss']
+        
+        # 统一处理时间格式
+        for entry in all_entries:
+            published = entry.get('published', '')
+            if published:
+                from dateutil.parser import parse
+                try:
+                    dt = parse(published)
+                    # 转换为"yyyy-MM-dd HH:mm:ss"格式
+                    entry['published'] = dt.strftime('%Y-%m-%d %H:%M:%S')
+                except:
+                    pass
         
         # 按发布时间排序（降序）
         def get_entry_timestamp(entry):
