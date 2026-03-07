@@ -1,18 +1,18 @@
 {
-  "last_time": "2026-03-07 15:06:20",
+  "last_time": "2026-03-06 21:10:02",
   "source_stats": {
     "FT": {
-      "success": 9,
+      "success": 28,
       "failure": 0
     },
     "BBC": {
-      "success": 9,
+      "success": 28,
       "failure": 0
     },
     "DeItaone": {
-      "success": 9,
+      "success": 28,
       "failure": 0
     }
   },
-  "stats_date": "2026-03-07"
+  "stats_date": "2026-03-06"
 }

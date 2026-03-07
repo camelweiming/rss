@@ -1,0 +1,236 @@
+import json
+import os
+from datetime import datetime
+from zoneinfo import ZoneInfo
+
+class RSSManager:
+    """RSS存储管理类"""
+    
+    def __init__(self):
+        """初始化RSS管理器"""
+        # RSS存储文件路径
+        self.rss_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), "docs", "rss.json")
+        # 最大保留条目数
+        self.max_entries = 50
+    
+    def _ensure_file_exists(self):
+        """确保RSS文件存在"""
+        if not os.path.exists(self.rss_file):
+            # 创建初始结构
+            initial_data = {
+                "last_update_time": None,
+                "rss": [],
+                "stats": []
+            }
+            with open(self.rss_file, 'w') as f:
+                json.dump(initial_data, f, ensure_ascii=False, indent=2)
+    
+    def _reset_stats_if_needed(self, data):
+        """检查并重置统计信息（每天0点）"""
+        # 获取当前北京时间日期
+        current_date = datetime.now(ZoneInfo('Asia/Shanghai')).strftime('%Y-%m-%d')
+        
+        # 检查缓存中的统计日期
+        stats_date = data.get('stats_date')
+        
+        # 如果日期不同，重置统计信息
+        if stats_date != current_date:
+            print(f"📅 日期变更，重置统计信息（{stats_date} → {current_date}")
+            data['stats_date'] = current_date
+            data['stats'] = []
+        
+        return data
+    
+    def read_rss_data(self):
+        """读取RSS数据
+        
+        Returns:
+            dict: RSS数据，包含 last_update_time、rss 和 stats 字段
+        """
+        self._ensure_file_exists()
+        
+        try:
+            with open(self.rss_file, 'r') as f:
+                data = json.load(f)
+            
+            # 确保数据结构完整
+            if 'last_update_time' not in data:
+                data['last_update_time'] = None
+            if 'rss' not in data:
+                data['rss'] = []
+            if 'stats' not in data:
+                data['stats'] = []
+            
+            # 检查并重置统计信息
+            data = self._reset_stats_if_needed(data)
+            
+            print(f"✅ RSS数据读取成功，上次更新时间：{data.get('last_update_time', '无')}")
+            print(f"📊 当前统计日期：{data.get('stats_date', '无')}")
+            print(f"📋 存储的RSS条目数：{len(data.get('rss', []))}")
+            print(f"📈 统计信息条数：{len(data.get('stats', []))}")
+        except Exception as e:
+            print(f"⚠️ RSS文件读取错误：{str(e)}，已重置数据")
+            # 创建初始结构
+            data = {
+                "last_update_time": None,
+                "rss": [],
+                "stats": [],
+                "stats_date": datetime.now(ZoneInfo('Asia/Shanghai')).strftime('%Y-%m-%d')
+            }
+            with open(self.rss_file, 'w') as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+        
+        return data
+    
+    def update_rss_data(self, entries, source_stats):
+        """更新RSS数据
+        
+        Args:
+            entries (list): 新的RSS条目列表
+            source_stats (dict): 源站统计信息
+        """
+        # 读取现有数据
+        data = self.read_rss_data()
+        
+        # 获取当前北京时间
+        current_time = datetime.now(ZoneInfo('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S')
+        current_date = datetime.now(ZoneInfo('Asia/Shanghai')).strftime('%Y-%m-%d')
+        
+        # 合并并去重RSS条目
+        existing_guids = set()
+        for item in data['rss']:
+            guid = item.get('guid')
+            if guid:
+                existing_guids.add(guid)
+            else:
+                # 使用link作为备选唯一标识符
+                link = item.get('link')
+                if link:
+                    existing_guids.add(link)
+        
+        new_entries = []
+        
+        for entry in entries:
+            # 优先使用guid作为唯一标识符
+            guid = entry.get('guid')
+            if not guid:
+                # 如果没有guid，使用link作为备选
+                guid = entry.get('link')
+            
+            if guid and guid not in existing_guids:
+                # 确保条目标结构完整
+                rss_item = {
+                    "guid": guid,
+                    "link": entry.get('link', ''),
+                    "published": entry.get('published', ''),
+                    "source_name": entry.get('source_name', ''),
+                    "summary": entry.get('summary', entry.get('description', '')),
+                    "title": entry.get('title', '')
+                }
+                new_entries.append(rss_item)
+                existing_guids.add(guid)
+        
+        # 合并所有条目
+        all_entries = new_entries + data['rss']
+        
+        # 按发布时间排序（降序）
+        def get_entry_timestamp(entry):
+            """获取条目的时间戳"""
+            from dateutil.parser import parse
+            try:
+                pub_date = entry.get('published', '')
+                if pub_date:
+                    dt = parse(pub_date)
+                    return dt.timestamp()
+            except:
+                pass
+            return 0
+        
+        all_entries.sort(key=get_entry_timestamp, reverse=True)
+        
+        # 限制条目数量
+        all_entries = all_entries[:self.max_entries]
+        
+        # 更新统计信息
+        # 检查当前日期是否与存储的统计日期相同
+        if data.get('stats_date') == current_date:
+            # 当天的统计信息需要累加
+            existing_stats = {}
+            for stat in data.get('stats', []):
+                existing_stats[stat['source']] = {
+                    'success': stat.get('success', 0),
+                    'failed': stat.get('failed', 0)
+                }
+            
+            # 累加统计信息
+            for source_name, stat in source_stats.items():
+                if source_name in existing_stats:
+                    existing_stats[source_name]['success'] += stat.get('success', 0)
+                    existing_stats[source_name]['failed'] += stat.get('failure', 0)
+                else:
+                    existing_stats[source_name] = {
+                        'success': stat.get('success', 0),
+                        'failed': stat.get('failure', 0)
+                    }
+            
+            # 转换为列表格式
+            stats = []
+            for source_name, stat in existing_stats.items():
+                stats.append({
+                    "source": source_name,
+                    "success": stat['success'],
+                    "failed": stat['failed']
+                })
+        else:
+            # 新的一天，重置统计信息
+            stats = []
+            for source_name, stat in source_stats.items():
+                stats.append({
+                    "source": source_name,
+                    "success": stat.get('success', 0),
+                    "failed": stat.get('failure', 0)
+                })
+        
+        # 更新数据
+        data.update({
+            "last_update_time": current_time,
+            "rss": all_entries,
+            "stats": stats,
+            "stats_date": current_date,
+            "summary": {
+                "rss_count": len(all_entries),
+                "stats_count": len(stats),
+            }
+        })
+        
+        # 写入文件
+        with open(self.rss_file, 'w') as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+        
+        print(f"💾 RSS数据已更新，上次更新时间：{current_time}")
+        print(f"📋 存储的RSS条目数：{len(all_entries)}")
+        print(f"📈 统计信息已更新，共{len(stats)}个源站")
+    
+    def get_last_update_time(self):
+        """获取上次更新时间
+        
+        Returns:
+            str: 上次更新时间
+        """
+        data = self.read_rss_data()
+        return data.get('last_update_time')
+    
+    def get_source_stats(self):
+        """获取源站统计信息
+        
+        Returns:
+            dict: 源站统计信息
+        """
+        data = self.read_rss_data()
+        stats = {}
+        for stat in data.get('stats', []):
+            stats[stat['source']] = {
+                'success': stat.get('success', 0),
+                'failure': stat.get('failed', 0)
+            }
+        return stats

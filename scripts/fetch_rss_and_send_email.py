@@ -9,7 +9,7 @@ load_dotenv()
 from config import RSS_SOURCES, REQUEST_HEADERS
 from email_sender import send_email
 from util import get_timestamp, convert_to_beijing_time, convert_to_beijing_time_full
-from cache_manager import read_cache, update_cache
+from rss_manager import RSSManager
 
 
 def fetch_rss_content(source_name, rss_url):
@@ -173,19 +173,19 @@ def generate_email_content(entries, last_time, source_stats):
 
 def main():
     """主函数"""
-    # 读取缓存
-    cache = read_cache(RSS_SOURCES)
-    last_time = cache.get('last_time')
+    # 初始化RSS管理器
+    rss_manager = RSSManager()
+    
+    # 读取上次更新时间
+    last_time = rss_manager.get_last_update_time()
     
     # 收集所有内容
     all_entries = []
     
-    # 从缓存中获取统计信息
-    source_stats = cache.get('source_stats', {})
-    # 确保所有源站都有统计信息
+    # 初始化源站统计信息
+    source_stats = {}
     for source_name in RSS_SOURCES.keys():
-        if source_name not in source_stats:
-            source_stats[source_name] = {'success': 0, 'failure': 0}
+        source_stats[source_name] = {'success': 0, 'failure': 0}
     
     # 遍历所有RSS源
     for source_name, rss_url in RSS_SOURCES.items():
@@ -204,15 +204,11 @@ def main():
     # 过滤出新内容
     new_entries = filter_new_entries(all_entries, last_time)
     
-    # 生成当前时间（用于更新缓存）
-    from zoneinfo import ZoneInfo
-    current_time = datetime.now(ZoneInfo('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S')
-    
-    # 无新内容则更新缓存并退出
+    # 无新内容则更新RSS数据并退出
     if not new_entries:
         print(f"\n📝 最终结果：无新内容")
-        # 更新缓存（包括统计信息）
-        update_cache(current_time, source_stats)
+        # 更新RSS数据（包括统计信息）
+        rss_manager.update_rss_data(all_entries, source_stats)
         exit(0)
     
     print(f"\n✅ 总计找到 {len(new_entries)} 条新内容，开始发送邮件")
@@ -222,9 +218,9 @@ def main():
     
     # 暂时屏蔽邮件发送
     print(f"⚠️ 邮件发送已暂时屏蔽")
-    # 更新缓存为北京时间格式
-    update_cache(current_time, source_stats)
-    print(f"✅ 已更新缓存时间")
+    # 更新RSS数据
+    rss_manager.update_rss_data(all_entries, source_stats)
+    print(f"✅ 已更新RSS数据")
 
 
 if __name__ == "__main__":
