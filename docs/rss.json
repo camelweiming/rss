@@ -1,5 +1,5 @@
 {
-  "last_update_time": "2026-03-07 19:17:59",
+  "last_update_time": "2026-03-07 19:36:03",
   "rss": [
     {
       "guid": "7ec4acb7-8c49-4da5-a7f3-83410e873e5a",
@@ -157,17 +157,17 @@
   "stats": [
     {
       "source": "FT",
-      "success": 7,
+      "success": 8,
       "failed": 7
     },
     {
       "source": "BBC",
-      "success": 7,
+      "success": 8,
       "failed": 7
     },
     {
       "source": "DeItaone",
-      "success": 7,
+      "success": 8,
       "failed": 7
     }
   ],
@@ -175,6 +175,6 @@
   "summary": {
     "rss_count": 19,
     "stats_count": 3,
-    "update_time": "2026-03-07 19:17:59"
+    "update_time": "2026-03-07 19:36:03"
   }
 }
