@@ -4,8 +4,24 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 04:08:55 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 04:18:55 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>RUSSIAN, UAE FOREIGN MINISTERS CALL FOR END TO ATTACKS ON IRAN, GULF STATES, SEEK RENEWED DIPLOMACY FOR REGION'S LONG-TERM SECURITY, RUSSIAN FOREIGN MINISTRY SAYS</title>
+      <link>https://nitter.net/DeItaone/status/2030738576527282214#m</link>
+      <description>&lt;p&gt;RUSSIAN, UAE FOREIGN MINISTERS CALL FOR END TO ATTACKS ON IRAN, GULF STATES, SEEK RENEWED DIPLOMACY FOR REGION'S LONG-TERM SECURITY, RUSSIAN FOREIGN MINISTRY SAYS&lt;/p&gt;</description>
+      <guid isPermaLink="false">2030738576527282214</guid>
+      <pubDate>Sun, 08 Mar 2026 20:13:00 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
+    <item>
+      <title>SEVENTH U.S. SERVICEMEMBER KILLED IN ACTION DURING OPERATIONS AGAINST IRAN, U.S. MILITARY SAYS</title>
+      <link>https://nitter.net/DeItaone/status/2030736969626538448#m</link>
+      <description>&lt;p&gt;SEVENTH U.S. SERVICEMEMBER KILLED IN ACTION DURING OPERATIONS AGAINST IRAN, U.S. MILITARY SAYS&lt;/p&gt;</description>
+      <guid isPermaLink="false">2030736969626538448</guid>
+      <pubDate>Sun, 08 Mar 2026 20:06:37 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>IRAN'S QALIBAF SAYS TEHRAN IS NOT SEEKING CEASEFIRE, AGGRESSORS SHOULD BE PUNISHED</title>
       <link>https://nitter.net/DeItaone/status/2030730884484137266#m</link>
@@ -462,22 +478,6 @@ The plan under discussion is not a large invasion, officials say, but small targ
       <guid isPermaLink="false">2030403155737895355</guid>
       <pubDate>Sat, 07 Mar 2026 22:00:10 +0000</pubDate>
       <source>DeItaone</source>
-    </item>
-    <item>
-      <title>Navy readying aircraft carrier for deployment as Iran conflict deepens</title>
-      <link>https://www.bbc.com/news/articles/c39w2nj1rk8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The move may raise speculation HMS Prince of Wales could be sent to defend British interests during the Middle East conflict.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c39w2nj1rk8o#1</guid>
-      <pubDate>Sat, 07 Mar 2026 21:44:58 +0000</pubDate>
-      <source>BBC</source>
-    </item>
-    <item>
-      <title>Iran warns it will hit US bases across region hours after president’s apology</title>
-      <link>https://www.ft.com/content/7c6ee5e8-c379-40c0-9d9f-d1ecc7b69261</link>
-      <description>Masoud Pezeshkian had said Tehran would stop attacks on Gulf neighbours</description>
-      <guid isPermaLink="false">7c6ee5e8-c379-40c0-9d9f-d1ecc7b69261</guid>
-      <pubDate>Sat, 07 Mar 2026 16:31:43 +0000</pubDate>
-      <source>FT</source>
     </item>
   </channel>
 </rss>
