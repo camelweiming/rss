@@ -4,8 +4,28 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 06:59:56 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 07:09:19 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>A SMALL PRICE FOR PEACE
+
+“Temporary oil price hikes are a small price for U.S. and world security. Prices will drop fast once Iran’s nuclear threat is gone. Only fools think otherwise.” — President DJT</title>
+      <link>https://nitter.net/DeItaone/status/2030780226049868169#m</link>
+      <description>&lt;p&gt;A SMALL PRICE FOR PEACE&lt;br /&gt;
+&lt;br /&gt;
+“Temporary oil price hikes are a small price for U.S. and world security. Prices will drop fast once Iran’s nuclear threat is gone. Only fools think otherwise.” — President DJT&lt;/p&gt;</description>
+      <guid isPermaLink="false">2030780226049868169</guid>
+      <pubDate>Sun, 08 Mar 2026 22:58:30 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
+    <item>
+      <title>BRENT CRUDE FUTURES &lt;LCOc1&gt; RISE AS MUCH AS $18.35 TO $111.04/BBL</title>
+      <link>https://nitter.net/DeItaone/status/2030778758005723208#m</link>
+      <description>&lt;p&gt;BRENT CRUDE FUTURES &amp;lt;LCOc1&amp;gt; RISE AS MUCH AS $18.35 TO $111.04/BBL&lt;/p&gt;</description>
+      <guid isPermaLink="false">2030778758005723208</guid>
+      <pubDate>Sun, 08 Mar 2026 22:52:40 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>IRAN'S REVOLUTIONARY GUARDS SAY THEY ARE READY TO FOLLOW NEW SUPREME LEADER MOJTABA -STATEMENT</title>
       <link>https://nitter.net/DeItaone/status/2030764532864369111#m</link>
@@ -462,22 +482,6 @@ The plan under discussion is not a large invasion, officials say, but small targ
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c3rz2d2xr8go#1</guid>
       <pubDate>Sun, 08 Mar 2026 01:18:22 +0000</pubDate>
       <source>BBC</source>
-    </item>
-    <item>
-      <title>'Our children paid the ultimate price' – How the Dunblane school shooting changed Britain</title>
-      <link>https://www.bbc.com/news/articles/cp9m8zmxe25o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>A new BBC documentary charts how the murders of 16 children and their teacher in March 1996 led to a handgun ban in the UK.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cp9m8zmxe25o#1</guid>
-      <pubDate>Sun, 08 Mar 2026 01:14:23 +0000</pubDate>
-      <source>BBC</source>
-    </item>
-    <item>
-      <title>Trump hits out at Starmer over UK reluctance to support Iran attacks</title>
-      <link>https://www.ft.com/content/0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682</link>
-      <description>Comments come as London considers deploying aircraft carrier to the region</description>
-      <guid isPermaLink="false">0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682</guid>
-      <pubDate>Sun, 08 Mar 2026 00:58:56 +0000</pubDate>
-      <source>FT</source>
     </item>
   </channel>
 </rss>
