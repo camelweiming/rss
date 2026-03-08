@@ -1,6 +1,14 @@
 {
-  "last_update_time": "2026-03-08 12:22:33",
+  "last_update_time": "2026-03-08 13:28:00",
   "rss": [
+    {
+      "guid": "https://www.bbc.com/news/articles/c9dn3j04lydo#1",
+      "link": "https://www.bbc.com/news/articles/c9dn3j04lydo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-08 01:31:10",
+      "source_name": "BBC",
+      "summary": "The remarks come after a public back-and-forth between Trump and Sir Keir Starmer over UK involvement the US's joint offensive with Israel against Iran.",
+      "title": "Trump says he does not need UK aircraft carriers to win war with Iran"
+    },
     {
       "guid": "https://www.bbc.com/news/articles/c3rz2d2xr8go#1",
       "link": "https://www.bbc.com/news/articles/c3rz2d2xr8go?at_medium=RSS&at_campaign=rss",
@@ -392,30 +400,22 @@
       "source_name": "BBC",
       "summary": "This may raise speculation HMS Prince of Wales could be sent to defend British interests during the Middle East conflict.",
       "title": "Navy readying aircraft carrier for deployment as Iran conflict deepens"
-    },
-    {
-      "guid": "2030292211183583342",
-      "link": "https://nitter.net/DeItaone/status/2030292211183583342#m",
-      "published": "2026-03-07 14:39:18",
-      "source_name": "DeItaone",
-      "summary": "<p>TRUMP: KNOCKED OUT 42 IRANIAN NAVY SHIPS IN 3 DAYS</p>",
-      "title": "TRUMP: KNOCKED OUT 42 IRANIAN NAVY SHIPS IN 3 DAYS"
     }
   ],
   "stats": [
     {
       "source": "FT",
-      "success": 38,
+      "success": 39,
       "failed": 0
     },
     {
       "source": "BBC",
-      "success": 38,
+      "success": 39,
       "failed": 0
     },
     {
       "source": "DeItaone",
-      "success": 38,
+      "success": 39,
       "failed": 0
     }
   ],
@@ -423,6 +423,6 @@
   "summary": {
     "rss_count": 50,
     "stats_count": 3,
-    "update_time": "2026-03-08 12:22:33"
+    "update_time": "2026-03-08 13:28:00"
   }
 }
