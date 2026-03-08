@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sun, 08 Mar 2026 11:49:09 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 13:33:00 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Trump says he does not need UK aircraft carriers to win war with Iran</title>
+      <link>https://www.bbc.com/news/articles/c9dn3j04lydo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The remarks come after a public back-and-forth between Trump and Sir Keir Starmer over UK involvement the US's joint offensive with Israel against Iran.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c9dn3j04lydo#1</guid>
+      <pubDate>Sun, 08 Mar 2026 01:31:10 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>Jessie Buckley says acting helped her overcome eating disorder as a teenager</title>
       <link>https://www.bbc.com/news/articles/c3rz2d2xr8go?at_medium=RSS&amp;at_campaign=rss</link>
@@ -101,6 +109,22 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c9wnn8nn5p8o#1</guid>
       <pubDate>Sat, 07 Mar 2026 11:56:34 +0000</pubDate>
       <source>BBC</source>
+    </item>
+    <item>
+      <title>US faced with few good options to tamp down surging oil prices</title>
+      <link>https://www.ft.com/content/5bd03549-22b2-4d7a-a6d6-44a9aa5c3842</link>
+      <description>Experts say reopening Strait of Hormuz remains most viable option as ideas such as influencing futures market fade</description>
+      <guid isPermaLink="false">5bd03549-22b2-4d7a-a6d6-44a9aa5c3842</guid>
+      <pubDate>Sat, 07 Mar 2026 11:00:08 +0000</pubDate>
+      <source>FT</source>
+    </item>
+    <item>
+      <title>A week of war in charts: the impact on the US</title>
+      <link>https://www.ft.com/content/7ec4acb7-8c49-4da5-a7f3-83410e873e5a</link>
+      <description>The conflict with Iran is unpopular with the American public and is roiling markets and the economy</description>
+      <guid isPermaLink="false">7ec4acb7-8c49-4da5-a7f3-83410e873e5a</guid>
+      <pubDate>Sat, 07 Mar 2026 11:00:08 +0000</pubDate>
+      <source>FT</source>
     </item>
     <item>
       <title>The bombing of Tehran — in maps and satellite images</title>
