@@ -4,8 +4,24 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 01:36:24 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 01:46:28 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>HOSSEINALI ESHKEVARI SAYS THE NEW LEADER HAS BEEN SELECTED</title>
+      <link>https://nitter.net/DeItaone/status/2030697602904100916#m</link>
+      <description>&lt;p&gt;HOSSEINALI ESHKEVARI SAYS THE NEW LEADER HAS BEEN SELECTED&lt;/p&gt;</description>
+      <guid isPermaLink="false">2030697602904100916</guid>
+      <pubDate>Sun, 08 Mar 2026 17:30:11 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
+    <item>
+      <title>KHAMENEI'S NAME AS IRAN'S LEADER WILL CONTINUE, SAYS A MEMBER OF THE ASSEMBLY OF EXPERTS</title>
+      <link>https://nitter.net/DeItaone/status/2030697461619036291#m</link>
+      <description>&lt;p&gt;KHAMENEI'S NAME AS IRAN'S LEADER WILL CONTINUE, SAYS A MEMBER OF THE ASSEMBLY OF EXPERTS&lt;/p&gt;</description>
+      <guid isPermaLink="false">2030697461619036291</guid>
+      <pubDate>Sun, 08 Mar 2026 17:29:38 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>'Mind boggles' at doubts over legality of Iran war, Israeli president says</title>
       <link>https://www.bbc.com/news/articles/clyxp780xvro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -461,22 +477,6 @@ The plan under discussion is not a large invasion, officials say, but small targ
       <description>Israeli and US strikes have targeted regime infrastructure and also struck civilian sites. Here are some of the key buildings hit</description>
       <guid isPermaLink="false">59cfcbfb-34e2-4d26-b687-5d768dcc5650</guid>
       <pubDate>Sat, 07 Mar 2026 09:00:07 +0000</pubDate>
-      <source>FT</source>
-    </item>
-    <item>
-      <title>The war of unintended consequences</title>
-      <link>https://www.ft.com/content/0b16e3e8-d52b-4b87-a212-bba90af39ceb</link>
-      <description>Israel and the US have achieved many military aims in Iran, but the unpredictable fallout poses threats to everyone</description>
-      <guid isPermaLink="false">0b16e3e8-d52b-4b87-a212-bba90af39ceb</guid>
-      <pubDate>Sat, 07 Mar 2026 05:00:27 +0000</pubDate>
-      <source>FT</source>
-    </item>
-    <item>
-      <title>Trump’s war on Iran is spreading. Where does it stop?</title>
-      <link>https://www.ft.com/content/ddb4a3fd-2f99-43a4-8ae6-330c6d29c14a</link>
-      <description>US allies in the Arab world have been plunged into a conflict they neither wanted nor consented to. Historian Eugene Rogan on what it means for the Middle East</description>
-      <guid isPermaLink="false">ddb4a3fd-2f99-43a4-8ae6-330c6d29c14a</guid>
-      <pubDate>Sat, 07 Mar 2026 05:00:26 +0000</pubDate>
       <source>FT</source>
     </item>
   </channel>
