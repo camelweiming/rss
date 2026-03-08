@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 03:27:58 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 03:38:13 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>IRAN'S QALIBAF: IF THEY ATTACK IRAN'S INFRASTRUCTURE, WE WILL HIT THEIR INFRASTRUCTURE IN RETURN WITHOUT DELAY</title>
+      <link>https://nitter.net/DeItaone/status/2030724944242364449#m</link>
+      <description>&lt;p&gt;IRAN'S QALIBAF: IF THEY ATTACK IRAN'S INFRASTRUCTURE, WE WILL HIT THEIR INFRASTRUCTURE IN RETURN WITHOUT DELAY&lt;/p&gt;</description>
+      <guid isPermaLink="false">2030724944242364449</guid>
+      <pubDate>Sun, 08 Mar 2026 19:18:50 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>FRANCE'S MACRON:IRAN MUST END CLOSURE OF STRAIT OF HORMUZ</title>
       <link>https://nitter.net/DeItaone/status/2030714530318184456#m</link>
@@ -470,14 +478,6 @@ The plan under discussion is not a large invasion, officials say, but small targ
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c9wnn8nn5p8o#1</guid>
       <pubDate>Sat, 07 Mar 2026 11:56:34 +0000</pubDate>
       <source>BBC</source>
-    </item>
-    <item>
-      <title>US faced with few good options to tamp down surging oil prices</title>
-      <link>https://www.ft.com/content/5bd03549-22b2-4d7a-a6d6-44a9aa5c3842</link>
-      <description>Experts say reopening Strait of Hormuz remains most viable option as ideas such as influencing futures market fade</description>
-      <guid isPermaLink="false">5bd03549-22b2-4d7a-a6d6-44a9aa5c3842</guid>
-      <pubDate>Sat, 07 Mar 2026 11:00:08 +0000</pubDate>
-      <source>FT</source>
     </item>
   </channel>
 </rss>
