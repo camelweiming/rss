@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 02:42:13 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 02:47:25 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>FRANCE'S MACRON:IRAN MUST END CLOSURE OF STRAIT OF HORMUZ</title>
+      <link>https://nitter.net/DeItaone/status/2030714530318184456#m</link>
+      <description>&lt;p&gt;FRANCE'S MACRON:IRAN MUST END CLOSURE OF STRAIT OF HORMUZ&lt;/p&gt;</description>
+      <guid isPermaLink="false">2030714530318184456</guid>
+      <pubDate>Sun, 08 Mar 2026 18:37:27 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>Trump raises the stakes in Iran by weighing deployment of US ground forces</title>
       <link>https://www.ft.com/content/8cc179e7-e674-44f4-9728-f8438564d072</link>
@@ -468,14 +476,6 @@ The plan under discussion is not a large invasion, officials say, but small targ
       <link>https://www.ft.com/content/5bd03549-22b2-4d7a-a6d6-44a9aa5c3842</link>
       <description>Experts say reopening Strait of Hormuz remains most viable option as ideas such as influencing futures market fade</description>
       <guid isPermaLink="false">5bd03549-22b2-4d7a-a6d6-44a9aa5c3842</guid>
-      <pubDate>Sat, 07 Mar 2026 11:00:08 +0000</pubDate>
-      <source>FT</source>
-    </item>
-    <item>
-      <title>A week of war in charts: the impact on the US</title>
-      <link>https://www.ft.com/content/7ec4acb7-8c49-4da5-a7f3-83410e873e5a</link>
-      <description>The conflict with Iran is unpopular with the American public and is roiling markets and the economy</description>
-      <guid isPermaLink="false">7ec4acb7-8c49-4da5-a7f3-83410e873e5a</guid>
       <pubDate>Sat, 07 Mar 2026 11:00:08 +0000</pubDate>
       <source>FT</source>
     </item>
