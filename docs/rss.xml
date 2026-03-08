@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sun, 08 Mar 2026 14:03:23 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 14:58:39 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>Gulf businesses buy up political violence insurance as conflict spreads</title>
@@ -101,6 +101,14 @@
       <guid isPermaLink="false">2030419521828274365</guid>
       <pubDate>Sat, 07 Mar 2026 23:05:12 +0000</pubDate>
       <source>DeItaone</source>
+    </item>
+    <item>
+      <title>King reflects on 'pressures of conflict' in Commonwealth message</title>
+      <link>https://www.bbc.com/news/articles/c5yk7qxz4kgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>King Charles hails the value of the Commonwealth in divided times in his annual message.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yk7qxz4kgo#1</guid>
+      <pubDate>Sat, 07 Mar 2026 22:00:49 +0000</pubDate>
+      <source>BBC</source>
     </item>
     <item>
       <title>IRAN'S LARIJANI: IT HAS BEEN REPORTED TO ME THAT SEVERAL AMERICAN SOLDIERS HAVE BEEN TAKEN PRISONER -POST ON X</title>
