@@ -1,6 +1,14 @@
 {
-  "last_update_time": "2026-03-08 07:58:07",
+  "last_update_time": "2026-03-08 10:25:42",
   "rss": [
+    {
+      "guid": "0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682",
+      "link": "https://www.ft.com/content/0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682",
+      "published": "2026-03-08 00:58:56",
+      "source_name": "FT",
+      "summary": "Comments come as London considers deploying aircraft carrier to the region",
+      "title": "Trump hits out at Starmer over UK reluctance to support Iran attacks"
+    },
     {
       "guid": "2030429662317253108",
       "link": "https://nitter.net/DeItaone/status/2030429662317253108#m",
@@ -392,30 +400,22 @@
       "source_name": "DeItaone",
       "summary": "<p>SENIOR IRANIAN REVOLUTIONARY GUARD OFFICIAL NAQDI TO STATE TV: AN OPPORTUNITY HAS ARISEN TO ELIMINATE ISRAEL</p>",
       "title": "SENIOR IRANIAN REVOLUTIONARY GUARD OFFICIAL NAQDI TO STATE TV: AN OPPORTUNITY HAS ARISEN TO ELIMINATE ISRAEL"
-    },
-    {
-      "guid": "bbd79c63-8131-4b20-9d2d-708bc8acea38",
-      "link": "https://www.ft.com/content/bbd79c63-8131-4b20-9d2d-708bc8acea38",
-      "published": "2026-03-07 14:01:42",
-      "source_name": "FT",
-      "summary": "Iran’s army says it will continue to target US and Israeli military sites",
-      "title": "Trump vows to hit Iran hard after Israel launches wave of air attacks"
     }
   ],
   "stats": [
     {
       "source": "FT",
-      "success": 36,
+      "success": 37,
       "failed": 0
     },
     {
       "source": "BBC",
-      "success": 36,
+      "success": 37,
       "failed": 0
     },
     {
       "source": "DeItaone",
-      "success": 36,
+      "success": 37,
       "failed": 0
     }
   ],
@@ -423,6 +423,6 @@
   "summary": {
     "rss_count": 50,
     "stats_count": 3,
-    "update_time": "2026-03-08 07:58:07"
+    "update_time": "2026-03-08 10:25:42"
   }
 }
