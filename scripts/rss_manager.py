@@ -1,5 +1,5 @@
-import json
 import os
+import xml.etree.ElementTree as ET
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
@@ -9,7 +9,7 @@ class RSSManager:
     def __init__(self):
         """初始化RSS管理器"""
         # RSS存储文件路径
-        self.rss_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), "docs", "rss.json")
+        self.rss_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), "docs", "rss.xml")
         # 最大保留条目数
         self.max_entries = 50
         # 输出初始化信息
@@ -27,14 +27,23 @@ class RSSManager:
         
         if not os.path.exists(self.rss_file):
             print(f"📄 文件不存在，创建初始文件：{self.rss_file}")
-            # 创建初始结构
-            initial_data = {
-                "last_update_time": None,
-                "rss": [],
-                "stats": []
-            }
-            with open(self.rss_file, 'w') as f:
-                json.dump(initial_data, f, ensure_ascii=False, indent=2)
+            # 创建标准的RSS 2.0 XML结构
+            rss = ET.Element('rss')
+            rss.set('version', '2.0')
+            channel = ET.SubElement(rss, 'channel')
+            title = ET.SubElement(channel, 'title')
+            title.text = 'RSS汇总'
+            link = ET.SubElement(channel, 'link')
+            link.text = 'https://example.com'
+            description = ET.SubElement(channel, 'description')
+            description.text = '多个RSS源的汇总'
+            lastBuildDate = ET.SubElement(channel, 'lastBuildDate')
+            lastBuildDate.text = datetime.now(ZoneInfo('Asia/Shanghai')).strftime('%a, %d %b %Y %H:%M:%S %z')
+            
+            # 写入文件
+            tree = ET.ElementTree(rss)
+            with open(self.rss_file, 'wb') as f:
+                tree.write(f, encoding='utf-8', xml_declaration=True)
             print(f"✅ 初始文件创建成功")
         else:
             print(f"✅ 文件已存在：{self.rss_file}")
@@ -64,16 +73,34 @@ class RSSManager:
         self._ensure_file_exists()
         
         try:
-            with open(self.rss_file, 'r') as f:
-                data = json.load(f)
+            # 解析XML文件
+            tree = ET.parse(self.rss_file)
+            root = tree.getroot()
+            channel = root.find('channel')
             
-            # 确保数据结构完整
-            if 'last_update_time' not in data:
-                data['last_update_time'] = None
-            if 'rss' not in data:
-                data['rss'] = []
-            if 'stats' not in data:
-                data['stats'] = []
+            # 提取RSS条目
+            rss_items = []
+            for item in channel.findall('item'):
+                rss_item = {
+                    "guid": item.findtext('guid', ''),
+                    "link": item.findtext('link', ''),
+                    "published": item.findtext('pubDate', ''),
+                    "source_name": item.findtext('source', ''),
+                    "summary": item.findtext('description', ''),
+                    "title": item.findtext('title', '')
+                }
+                rss_items.append(rss_item)
+            
+            # 提取lastBuildDate
+            last_update_time = channel.findtext('lastBuildDate', '')
+            
+            # 构建返回数据
+            data = {
+                "last_update_time": last_update_time,
+                "rss": rss_items,
+                "stats": [],
+                "stats_date": datetime.now(ZoneInfo('Asia/Shanghai')).strftime('%Y-%m-%d')
+            }
             
             # 检查并重置统计信息
             data = self._reset_stats_if_needed(data)
@@ -91,8 +118,8 @@ class RSSManager:
                 "stats": [],
                 "stats_date": datetime.now(ZoneInfo('Asia/Shanghai')).strftime('%Y-%m-%d')
             }
-            with open(self.rss_file, 'w') as f:
-                json.dump(data, f, ensure_ascii=False, indent=2)
+            # 重新创建XML文件
+            self._ensure_file_exists()
         
         return data
     
@@ -107,8 +134,10 @@ class RSSManager:
         data = self.read_rss_data()
         
         # 获取当前北京时间
-        current_time = datetime.now(ZoneInfo('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S')
-        current_date = datetime.now(ZoneInfo('Asia/Shanghai')).strftime('%Y-%m-%d')
+        current_time = datetime.now(ZoneInfo('Asia/Shanghai'))
+        current_date = current_time.strftime('%Y-%m-%d')
+        # 标准RSS时间格式：Wed, 02 Oct 2002 08:00:00 EST
+        rss_time_format = current_time.strftime('%a, %d %b %Y %H:%M:%S %z')
         
         # 合并并去重RSS条目
         existing_guids = set()
@@ -134,12 +163,13 @@ class RSSManager:
             if guid and guid not in existing_guids:
                 # 处理时间格式
                 published = entry.get('published', '')
+                rss_published = ''
                 if published:
                     from dateutil.parser import parse
                     try:
                         dt = parse(published)
-                        # 转换为"yyyy-MM-dd HH:mm:ss"格式
-                        published = dt.strftime('%Y-%m-%d %H:%M:%S')
+                        # 转换为标准RSS时间格式
+                        rss_published = dt.strftime('%a, %d %b %Y %H:%M:%S %z')
                     except:
                         pass
                 
@@ -147,7 +177,7 @@ class RSSManager:
                 rss_item = {
                     "guid": guid,
                     "link": entry.get('link', ''),
-                    "published": published,
+                    "published": rss_published,
                     "source_name": entry.get('source_name', ''),
                     "summary": entry.get('summary', entry.get('description', '')),
                     "title": entry.get('title', '')
@@ -165,8 +195,8 @@ class RSSManager:
                 from dateutil.parser import parse
                 try:
                     dt = parse(published)
-                    # 转换为"yyyy-MM-dd HH:mm:ss"格式
-                    entry['published'] = dt.strftime('%Y-%m-%d %H:%M:%S')
+                    # 转换为标准RSS时间格式
+                    entry['published'] = dt.strftime('%a, %d %b %Y %H:%M:%S %z')
                 except:
                     pass
         
@@ -228,18 +258,39 @@ class RSSManager:
                     "failed": stat.get('failure', 0)
                 })
         
-        # 更新数据
-        data.update({
-            "last_update_time": current_time,
-            "rss": all_entries,
-            "stats": stats,
-            "stats_date": current_date,
-            "summary": {
-                "rss_count": len(all_entries),
-                "stats_count": len(stats),
-                "update_time": current_time
-            }
-        })
+        # 生成标准的RSS 2.0 XML结构
+        rss = ET.Element('rss')
+        rss.set('version', '2.0')
+        channel = ET.SubElement(rss, 'channel')
+        
+        # 频道信息
+        title = ET.SubElement(channel, 'title')
+        title.text = 'RSS汇总'
+        link = ET.SubElement(channel, 'link')
+        link.text = 'https://example.com'
+        description = ET.SubElement(channel, 'description')
+        description.text = '多个RSS源的汇总'
+        lastBuildDate = ET.SubElement(channel, 'lastBuildDate')
+        lastBuildDate.text = rss_time_format
+        language = ET.SubElement(channel, 'language')
+        language.text = 'zh-CN'
+        
+        # 添加RSS条目
+        for entry in all_entries:
+            item = ET.SubElement(channel, 'item')
+            item_title = ET.SubElement(item, 'title')
+            item_title.text = entry.get('title', '')
+            item_link = ET.SubElement(item, 'link')
+            item_link.text = entry.get('link', '')
+            item_description = ET.SubElement(item, 'description')
+            item_description.text = entry.get('summary', '')
+            item_guid = ET.SubElement(item, 'guid')
+            item_guid.text = entry.get('guid', '')
+            item_guid.set('isPermaLink', 'false')
+            item_pubDate = ET.SubElement(item, 'pubDate')
+            item_pubDate.text = entry.get('published', '')
+            item_source = ET.SubElement(item, 'source')
+            item_source.text = entry.get('source_name', '')
         
         # 写入文件
         try:
@@ -247,8 +298,27 @@ class RSSManager:
             print(f"📋 写入的RSS条目数：{len(all_entries)}")
             print(f"📈 写入的统计信息数：{len(stats)}")
             
-            with open(self.rss_file, 'w') as f:
-                json.dump(data, f, ensure_ascii=False, indent=2)
+            # 美化XML输出
+            def indent(elem, level=0):
+                i = "\n" + level*"  "
+                if len(elem):
+                    if not elem.text or not elem.text.strip():
+                        elem.text = i + "  "
+                    if not elem.tail or not elem.tail.strip():
+                        elem.tail = i
+                    for elem in elem:
+                        indent(elem, level+1)
+                    if not elem.tail or not elem.tail.strip():
+                        elem.tail = i
+                else:
+                    if level and (not elem.tail or not elem.tail.strip()):
+                        elem.tail = i
+            
+            indent(rss)
+            
+            tree = ET.ElementTree(rss)
+            with open(self.rss_file, 'wb') as f:
+                tree.write(f, encoding='utf-8', xml_declaration=True)
             
             print(f"✅ 文件写入成功")
             print(f"📁 文件大小：{os.path.getsize(self.rss_file)} 字节")
@@ -257,7 +327,7 @@ class RSSManager:
             import traceback
             traceback.print_exc()
         
-        print(f"💾 RSS数据已更新，上次更新时间：{current_time}")
+        print(f"💾 RSS数据已更新，上次更新时间：{rss_time_format}")
         print(f"📋 存储的RSS条目数：{len(all_entries)}")
         print(f"📈 统计信息已更新，共{len(stats)}个源站")
     
