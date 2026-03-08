@@ -4,8 +4,24 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 07:29:16 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 07:32:25 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>EURO DOWN 0.77%; STERLING DOWN 0.85%</title>
+      <link>https://nitter.net/DeItaone/status/2030787483919933499#m</link>
+      <description>&lt;p&gt;EURO DOWN 0.77%; STERLING DOWN 0.85%&lt;/p&gt;</description>
+      <guid isPermaLink="false">2030787483919933499</guid>
+      <pubDate>Sun, 08 Mar 2026 23:27:21 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
+    <item>
+      <title>*IDF: IDENTIFIED MISSILES LAUNCHED FROM IRAN TOWARD ISRAEL</title>
+      <link>https://nitter.net/DeItaone/status/2030784983283945652#m</link>
+      <description>&lt;p&gt;*IDF: IDENTIFIED MISSILES LAUNCHED FROM IRAN TOWARD ISRAEL&lt;/p&gt;</description>
+      <guid isPermaLink="false">2030784983283945652</guid>
+      <pubDate>Sun, 08 Mar 2026 23:17:24 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>Mojtaba Khamenei’s appointment is a sign Iran’s hardline policies will continue</title>
       <link>https://www.ft.com/content/65af8f74-ebc9-4886-a91c-059288a0c729</link>
@@ -465,22 +481,6 @@ The plan under discussion is not a large invasion, officials say, but small targ
       <description>Data centres, energy projects and hotels move to limit potential losses</description>
       <guid isPermaLink="false">c892e180-5747-49bc-80ef-9f8b81554102</guid>
       <pubDate>Sun, 08 Mar 2026 05:00:14 +0000</pubDate>
-      <source>FT</source>
-    </item>
-    <item>
-      <title>America chose this war — and must now choose how to end it</title>
-      <link>https://www.ft.com/content/0321036f-6fd0-415f-b016-12958cc8b04b</link>
-      <description>However this conflict concludes, the US and Iran’s new leaders will have to revisit the same issues that sparked hostilities</description>
-      <guid isPermaLink="false">0321036f-6fd0-415f-b016-12958cc8b04b</guid>
-      <pubDate>Sun, 08 Mar 2026 05:00:06 +0000</pubDate>
-      <source>FT</source>
-    </item>
-    <item>
-      <title>‘Most dangerous job on earth’: the life of an Iranian ballistic missile crew</title>
-      <link>https://www.ft.com/content/b2b316ca-3484-4c6c-89e9-dc4c1633bc7f</link>
-      <description>Tehran’s missiles are key to its retaliation against Israel and the US. But launching them brings an immediate risk of death</description>
-      <guid isPermaLink="false">b2b316ca-3484-4c6c-89e9-dc4c1633bc7f</guid>
-      <pubDate>Sun, 08 Mar 2026 05:00:05 +0000</pubDate>
       <source>FT</source>
     </item>
   </channel>
