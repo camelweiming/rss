@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 03:38:13 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 03:48:27 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>IRAN'S QALIBAF SAYS TEHRAN IS NOT SEEKING CEASEFIRE, AGGRESSORS SHOULD BE PUNISHED</title>
+      <link>https://nitter.net/DeItaone/status/2030730884484137266#m</link>
+      <description>&lt;p&gt;IRAN'S QALIBAF SAYS TEHRAN IS NOT SEEKING CEASEFIRE, AGGRESSORS SHOULD BE PUNISHED&lt;/p&gt;</description>
+      <guid isPermaLink="false">2030730884484137266</guid>
+      <pubDate>Sun, 08 Mar 2026 19:42:26 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>IRAN'S QALIBAF: IF THEY ATTACK IRAN'S INFRASTRUCTURE, WE WILL HIT THEIR INFRASTRUCTURE IN RETURN WITHOUT DELAY</title>
       <link>https://nitter.net/DeItaone/status/2030724944242364449#m</link>
@@ -470,14 +478,6 @@ The plan under discussion is not a large invasion, officials say, but small targ
       <guid isPermaLink="false">7c6ee5e8-c379-40c0-9d9f-d1ecc7b69261</guid>
       <pubDate>Sat, 07 Mar 2026 16:31:43 +0000</pubDate>
       <source>FT</source>
-    </item>
-    <item>
-      <title>The legacy of Holly and Jessica's murders: Soham 'won't waste its breath' on Huntley</title>
-      <link>https://www.bbc.com/news/articles/c9wnn8nn5p8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The trauma and aftermath of events in 2002 are still having an impact on the Cambridgeshire village.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c9wnn8nn5p8o#1</guid>
-      <pubDate>Sat, 07 Mar 2026 11:56:34 +0000</pubDate>
-      <source>BBC</source>
     </item>
   </channel>
 </rss>
