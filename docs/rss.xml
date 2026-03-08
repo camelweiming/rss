@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sun, 08 Mar 2026 19:54:07 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 19:58:58 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Tehran residents warned of acid rain after oil storage attack</title>
+      <link>https://www.ft.com/content/d08d89bb-89f5-41c2-9835-e3ac59b67cfa</link>
+      <description>Iran’s Red Crescent Society tells locals to avoid exposure as capital is engulfed in smoke</description>
+      <guid isPermaLink="false">d08d89bb-89f5-41c2-9835-e3ac59b67cfa</guid>
+      <pubDate>Sun, 08 Mar 2026 11:39:53 +0000</pubDate>
+      <source>FT</source>
+    </item>
     <item>
       <title>PM is standing up for UK interests, says Cooper after Trump criticism</title>
       <link>https://www.bbc.com/news/articles/c05v28eqjyvo?at_medium=RSS&amp;at_campaign=rss</link>
