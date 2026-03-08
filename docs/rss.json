@@ -1,6 +1,22 @@
 {
-  "last_update_time": "2026-03-08 10:25:42",
+  "last_update_time": "2026-03-08 12:22:33",
   "rss": [
+    {
+      "guid": "https://www.bbc.com/news/articles/c3rz2d2xr8go#1",
+      "link": "https://www.bbc.com/news/articles/c3rz2d2xr8go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-08 01:18:22",
+      "source_name": "BBC",
+      "summary": "The Oscar-frontrunner says acting is \"like water to me\" as she credits her craft with helping her mental health.",
+      "title": "Jessie Buckley says acting helped her overcome eating disorder as a teenager"
+    },
+    {
+      "guid": "https://www.bbc.com/news/articles/cp9m8zmxe25o#1",
+      "link": "https://www.bbc.com/news/articles/cp9m8zmxe25o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-08 01:14:23",
+      "source_name": "BBC",
+      "summary": "A new BBC documentary charts how the murders of 16 children and their teacher in March 1996 led to a handgun ban in the UK.",
+      "title": "'Our children paid the ultimate price' – How the Dunblane school shooting changed Britain"
+    },
     {
       "guid": "0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682",
       "link": "https://www.ft.com/content/0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682",
@@ -16,6 +32,14 @@
       "source_name": "DeItaone",
       "summary": "<p>STRIKE TARGETS APARTMENT IN HOTEL BUILDING IN CENTRAL BEIRUT - SECURITY SOURCE</p>",
       "title": "STRIKE TARGETS APARTMENT IN HOTEL BUILDING IN CENTRAL BEIRUT - SECURITY SOURCE"
+    },
+    {
+      "guid": "https://www.bbc.com/news/articles/c1w5z1d447lo#1",
+      "link": "https://www.bbc.com/news/articles/c1w5z1d447lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-07 23:42:31",
+      "source_name": "BBC",
+      "summary": "After five decades hosting radio phone-ins and debates, Nicky Campbell reflects on the state of public debate",
+      "title": "How I've learned that certainty is the thing to really fear"
     },
     {
       "guid": "2030426256274084276",
@@ -376,46 +400,22 @@
       "source_name": "DeItaone",
       "summary": "<p>TRUMP: KNOCKED OUT 42 IRANIAN NAVY SHIPS IN 3 DAYS</p>",
       "title": "TRUMP: KNOCKED OUT 42 IRANIAN NAVY SHIPS IN 3 DAYS"
-    },
-    {
-      "guid": "2030292018711110095",
-      "link": "https://nitter.net/DeItaone/status/2030292018711110095#m",
-      "published": "2026-03-07 14:38:32",
-      "source_name": "DeItaone",
-      "summary": "<p>TRUMP: ANNOUNCING NEW MILITARY COALITION TO ERADICATE CARTELS</p>",
-      "title": "TRUMP: ANNOUNCING NEW MILITARY COALITION TO ERADICATE CARTELS"
-    },
-    {
-      "guid": "https://www.bbc.com/news/articles/cq6qp458zv1o#1",
-      "link": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-03-07 14:11:37",
-      "source_name": "BBC",
-      "summary": "Seyed Ali Mousavi tells Laura Kuenssberg Iran's response depends on the actions of the US and Israel.",
-      "title": "Iran will continue to defend itself against aggression, ambassador to UK says"
-    },
-    {
-      "guid": "2030283506480292098",
-      "link": "https://nitter.net/DeItaone/status/2030283506480292098#m",
-      "published": "2026-03-07 14:04:43",
-      "source_name": "DeItaone",
-      "summary": "<p>SENIOR IRANIAN REVOLUTIONARY GUARD OFFICIAL NAQDI TO STATE TV: AN OPPORTUNITY HAS ARISEN TO ELIMINATE ISRAEL</p>",
-      "title": "SENIOR IRANIAN REVOLUTIONARY GUARD OFFICIAL NAQDI TO STATE TV: AN OPPORTUNITY HAS ARISEN TO ELIMINATE ISRAEL"
     }
   ],
   "stats": [
     {
       "source": "FT",
-      "success": 37,
+      "success": 38,
       "failed": 0
     },
     {
       "source": "BBC",
-      "success": 37,
+      "success": 38,
       "failed": 0
     },
     {
       "source": "DeItaone",
-      "success": 37,
+      "success": 38,
       "failed": 0
     }
   ],
@@ -423,6 +423,6 @@
   "summary": {
     "rss_count": 50,
     "stats_count": 3,
-    "update_time": "2026-03-08 10:25:42"
+    "update_time": "2026-03-08 12:22:33"
   }
 }
