@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sun, 08 Mar 2026 20:44:10 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 20:54:09 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Explosion at US embassy in Oslo may have been terrorism, Norway police say</title>
+      <link>https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Police say they are investigating other motives after the blast caused minor damage to the embassy building.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yjegg892lo#1</guid>
+      <pubDate>Sun, 08 Mar 2026 12:30:16 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>Tehran residents warned of acid rain after oil storage attack</title>
       <link>https://www.ft.com/content/d08d89bb-89f5-41c2-9835-e3ac59b67cfa</link>
