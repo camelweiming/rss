@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sun, 08 Mar 2026 17:29:11 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 17:43:23 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>The guards rise again: the force still shaping Iran</title>
+      <link>https://www.ft.com/content/7c2b25f5-1317-450b-916a-207c0e1099a7</link>
+      <description>Should the regime survive, hardliners believe the IRGC’s influence will be ever greater</description>
+      <guid isPermaLink="false">7c2b25f5-1317-450b-916a-207c0e1099a7</guid>
+      <pubDate>Sun, 08 Mar 2026 09:15:54 +0000</pubDate>
+      <source>FT</source>
+    </item>
     <item>
       <title>‘It’s our moment’: rival exiles lobby the US to lead Iran after the war</title>
       <link>https://www.ft.com/content/a5b2e71a-a60f-4e88-b041-bba1030eb4c7</link>
