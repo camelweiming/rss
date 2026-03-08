@@ -4,8 +4,24 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 07:39:17 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 07:49:18 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>SPOT SILVER FALLS OVER 3% TO $81.34/OZ</title>
+      <link>https://nitter.net/DeItaone/status/2030790656046641444#m</link>
+      <description>&lt;p&gt;SPOT SILVER FALLS OVER 3% TO $81.34/OZ&lt;/p&gt;</description>
+      <guid isPermaLink="false">2030790656046641444</guid>
+      <pubDate>Sun, 08 Mar 2026 23:39:57 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
+    <item>
+      <title>*IRAN LAUNCHES NEW WAVE OF MISSILES AT ISRAEL: IRIB</title>
+      <link>https://nitter.net/DeItaone/status/2030789544929267763#m</link>
+      <description>&lt;p&gt;*IRAN LAUNCHES NEW WAVE OF MISSILES AT ISRAEL: IRIB&lt;/p&gt;</description>
+      <guid isPermaLink="false">2030789544929267763</guid>
+      <pubDate>Sun, 08 Mar 2026 23:35:32 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>EURO DOWN 0.77%; STERLING DOWN 0.85%</title>
       <link>https://nitter.net/DeItaone/status/2030787483919933499#m</link>
@@ -466,22 +482,6 @@ The plan under discussion is not a large invasion, officials say, but small targ
       <guid isPermaLink="false">2030540959767753090</guid>
       <pubDate>Sun, 08 Mar 2026 07:07:45 +0000</pubDate>
       <source>DeItaone</source>
-    </item>
-    <item>
-      <title>Watch: 'This is a moment of grave peril', says UN humanitarian chief</title>
-      <link>https://www.bbc.com/news/videos/c9wnevqljd0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>UN Humanitarian Affairs Lead Tom Fletcher speaks to the BBC about the conflict in the Middle East.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/videos/c9wnevqljd0o#1</guid>
-      <pubDate>Sun, 08 Mar 2026 07:05:27 +0000</pubDate>
-      <source>BBC</source>
-    </item>
-    <item>
-      <title>Gulf businesses buy up political violence insurance as conflict spreads</title>
-      <link>https://www.ft.com/content/c892e180-5747-49bc-80ef-9f8b81554102</link>
-      <description>Data centres, energy projects and hotels move to limit potential losses</description>
-      <guid isPermaLink="false">c892e180-5747-49bc-80ef-9f8b81554102</guid>
-      <pubDate>Sun, 08 Mar 2026 05:00:14 +0000</pubDate>
-      <source>FT</source>
     </item>
   </channel>
 </rss>
