@@ -4,8 +4,32 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sun, 08 Mar 2026 13:33:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 14:03:23 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Gulf businesses buy up political violence insurance as conflict spreads</title>
+      <link>https://www.ft.com/content/c892e180-5747-49bc-80ef-9f8b81554102</link>
+      <description>Data centres, energy projects and hotels move to limit potential losses</description>
+      <guid isPermaLink="false">c892e180-5747-49bc-80ef-9f8b81554102</guid>
+      <pubDate>Sun, 08 Mar 2026 05:00:14 +0000</pubDate>
+      <source>FT</source>
+    </item>
+    <item>
+      <title>America chose this war — and must now choose how to end it</title>
+      <link>https://www.ft.com/content/0321036f-6fd0-415f-b016-12958cc8b04b</link>
+      <description>However this conflict concludes, the US and Iran’s new leaders will have to revisit the same issues that sparked hostilities</description>
+      <guid isPermaLink="false">0321036f-6fd0-415f-b016-12958cc8b04b</guid>
+      <pubDate>Sun, 08 Mar 2026 05:00:06 +0000</pubDate>
+      <source>FT</source>
+    </item>
+    <item>
+      <title>‘Most dangerous job on earth’: the life of an Iranian ballistic missile crew</title>
+      <link>https://www.ft.com/content/b2b316ca-3484-4c6c-89e9-dc4c1633bc7f</link>
+      <description>Tehran’s missiles are key to its retaliation against Israel and the US. But launching them brings an immediate risk of death</description>
+      <guid isPermaLink="false">b2b316ca-3484-4c6c-89e9-dc4c1633bc7f</guid>
+      <pubDate>Sun, 08 Mar 2026 05:00:05 +0000</pubDate>
+      <source>FT</source>
+    </item>
     <item>
       <title>Trump says he does not need UK aircraft carriers to win war with Iran</title>
       <link>https://www.bbc.com/news/articles/c9dn3j04lydo?at_medium=RSS&amp;at_campaign=rss</link>
