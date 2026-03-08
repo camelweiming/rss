@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 07:09:19 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 07:19:15 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>A SMALL PRICE FOR PEACE
@@ -128,6 +128,14 @@
       <description>Democrats and some Republicans fear a deepening involvement in the war with no clear exit strategy</description>
       <guid isPermaLink="false">8cc179e7-e674-44f4-9728-f8438564d072</guid>
       <pubDate>Sun, 08 Mar 2026 18:29:27 +0000</pubDate>
+      <source>FT</source>
+    </item>
+    <item>
+      <title>Ali Khamenei’s son Mojtaba becomes Iran’s supreme leader</title>
+      <link>https://www.ft.com/content/0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682</link>
+      <description>The 56-year-old cleric becomes the third leader of the Islamic republic after his father was killed in US-Israeli air strike</description>
+      <guid isPermaLink="false">0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682</guid>
+      <pubDate>Sun, 08 Mar 2026 17:49:08 +0000</pubDate>
       <source>FT</source>
     </item>
     <item>
@@ -473,14 +481,6 @@ The plan under discussion is not a large invasion, officials say, but small targ
       <description>The remarks come after a public back-and-forth between Trump and Sir Keir Starmer over UK involvement the US's joint offensive with Israel against Iran.</description>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c9dn3j04lydo#1</guid>
       <pubDate>Sun, 08 Mar 2026 01:31:10 +0000</pubDate>
-      <source>BBC</source>
-    </item>
-    <item>
-      <title>Jessie Buckley says acting helped her overcome eating disorder as a teenager</title>
-      <link>https://www.bbc.com/news/articles/c3rz2d2xr8go?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The Oscar-frontrunner says acting is "like water to me" as she credits her craft with helping her mental health.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3rz2d2xr8go#1</guid>
-      <pubDate>Sun, 08 Mar 2026 01:18:22 +0000</pubDate>
       <source>BBC</source>
     </item>
   </channel>
