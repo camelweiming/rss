@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 05:39:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 05:49:01 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>IRAN'S SECURITY CHIEF LARIJANI SAYS ASSEMBLY OF EXPERTS CHOSE NEW LEADER IN SPITE OF THREATS TO TARGET THE ASSEMBLY</title>
+      <link>https://nitter.net/DeItaone/status/2030760900953567646#m</link>
+      <description>&lt;p&gt;IRAN'S SECURITY CHIEF LARIJANI SAYS ASSEMBLY OF EXPERTS CHOSE NEW LEADER IN SPITE OF THREATS TO TARGET THE ASSEMBLY&lt;/p&gt;</description>
+      <guid isPermaLink="false">2030760900953567646</guid>
+      <pubDate>Sun, 08 Mar 2026 21:41:43 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>IRAN'S ASSEMBLY OF EXPERTS CALLS ON THE IRANIAN PEOPLE TO KEEP UNITY AND PLEDGE ALLEGIANCE TO THE NEW SUPREME LEADER -STATEMENT</title>
       <link>https://nitter.net/DeItaone/status/2030754284942291092#m</link>
@@ -469,14 +477,6 @@ The plan under discussion is not a large invasion, officials say, but small targ
       <description>&lt;p&gt;KUWAITI ARMY SAYS FUEL STORAGE TANKS BELONGING TO KUWAIT INTERNATIONAL AIRPORT WERE TARGETED IN DRONE ATTACK&lt;/p&gt;</description>
       <guid isPermaLink="false">2030425745869160865</guid>
       <pubDate>Sat, 07 Mar 2026 23:29:55 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>IRANIAN ATTACK TARGETS FACILITY NEAR BAHRAIN'S SALMAN PORT - BAHRAIN INTERIOR MINISTRY</title>
-      <link>https://nitter.net/DeItaone/status/2030419521828274365#m</link>
-      <description>&lt;p&gt;IRANIAN ATTACK TARGETS FACILITY NEAR BAHRAIN'S SALMAN PORT - BAHRAIN INTERIOR MINISTRY&lt;/p&gt;</description>
-      <guid isPermaLink="false">2030419521828274365</guid>
-      <pubDate>Sat, 07 Mar 2026 23:05:12 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
