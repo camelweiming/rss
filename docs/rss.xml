@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sun, 08 Mar 2026 17:08:44 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 17:19:11 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>‘It’s our moment’: rival exiles lobby the US to lead Iran after the war</title>
+      <link>https://www.ft.com/content/a5b2e71a-a60f-4e88-b041-bba1030eb4c7</link>
+      <description>The son of the ousted shah and a longstanding rebel group spend big in Washington in hopes of ruling in Tehran</description>
+      <guid isPermaLink="false">a5b2e71a-a60f-4e88-b041-bba1030eb4c7</guid>
+      <pubDate>Sun, 08 Mar 2026 09:00:05 +0000</pubDate>
+      <source>FT</source>
+    </item>
     <item>
       <title>*ISRAELI MINISTER  DOESN'T RULE OUT TARGETING IRAN REFINERIES</title>
       <link>https://nitter.net/DeItaone/status/2030551382097330635#m</link>
