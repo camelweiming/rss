@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 00:16:09 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 00:26:10 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>IRRADIATION FACILITY IN ISFAHAN HAS BEEN DAMAGED ON SATURDAY IN ISRAELI-U.S. STRIKES, NO RADIATION POLLUTION REPORTED - ISNA CITING NUCLEAR SECURITY CENTER</title>
@@ -13,6 +13,14 @@
       <guid isPermaLink="false">2030669865371959780</guid>
       <pubDate>Sun, 08 Mar 2026 15:39:58 +0000</pubDate>
       <source>DeItaone</source>
+    </item>
+    <item>
+      <title>Oil market braces for $100 a barrel as Middle East producers cut output</title>
+      <link>https://www.ft.com/content/56a01aa5-98af-48f0-b580-89e7bb4f59f6</link>
+      <description>Further attacks on energy infrastructure over weekend also pose new threat</description>
+      <guid isPermaLink="false">56a01aa5-98af-48f0-b580-89e7bb4f59f6</guid>
+      <pubDate>Sun, 08 Mar 2026 15:39:18 +0000</pubDate>
+      <source>FT</source>
     </item>
     <item>
       <title>🚨 IRAQI OIL PRODUCTION FROM SOUTHERN OILFIELDS FALLS TO 1.3 MILLION BPD FROM AROUND 4.3 MILLION BPD - THREE SOURCES SAY</title>
