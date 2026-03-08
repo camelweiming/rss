@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 07:19:15 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 07:29:16 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Mojtaba Khamenei’s appointment is a sign Iran’s hardline policies will continue</title>
+      <link>https://www.ft.com/content/65af8f74-ebc9-4886-a91c-059288a0c729</link>
+      <description>Selection of slain ayatollah’s son is seen as act of defiance against war launched by US and Israel</description>
+      <guid isPermaLink="false">65af8f74-ebc9-4886-a91c-059288a0c729</guid>
+      <pubDate>Sun, 08 Mar 2026 23:16:30 +0000</pubDate>
+      <source>FT</source>
+    </item>
     <item>
       <title>A SMALL PRICE FOR PEACE
 
@@ -474,14 +482,6 @@ The plan under discussion is not a large invasion, officials say, but small targ
       <guid isPermaLink="false">b2b316ca-3484-4c6c-89e9-dc4c1633bc7f</guid>
       <pubDate>Sun, 08 Mar 2026 05:00:05 +0000</pubDate>
       <source>FT</source>
-    </item>
-    <item>
-      <title>Trump says he does not need UK aircraft carriers to win war with Iran</title>
-      <link>https://www.bbc.com/news/articles/c9dn3j04lydo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The remarks come after a public back-and-forth between Trump and Sir Keir Starmer over UK involvement the US's joint offensive with Israel against Iran.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c9dn3j04lydo#1</guid>
-      <pubDate>Sun, 08 Mar 2026 01:31:10 +0000</pubDate>
-      <source>BBC</source>
     </item>
   </channel>
 </rss>
