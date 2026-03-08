@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 06:09:12 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 06:19:14 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>IRAN'S REVOLUTIONARY GUARDS SAY THEY ARE READY TO FOLLOW NEW SUPREME LEADER MOJTABA -STATEMENT</title>
@@ -37,6 +37,14 @@
       <guid isPermaLink="false">2030760900953567646</guid>
       <pubDate>Sun, 08 Mar 2026 21:41:43 +0000</pubDate>
       <source>DeItaone</source>
+    </item>
+    <item>
+      <title>Muscat airport limits private jet flights as wealthy leave the Gulf</title>
+      <link>https://www.ft.com/content/7a97be0b-114c-40b9-a8b1-a675b6e0f27d</link>
+      <description>Oman base seeks to prioritise government and commercial relief services as attempts to reopen other centres falter</description>
+      <guid isPermaLink="false">7a97be0b-114c-40b9-a8b1-a675b6e0f27d</guid>
+      <pubDate>Sun, 08 Mar 2026 21:26:53 +0000</pubDate>
+      <source>FT</source>
     </item>
     <item>
       <title>IRAN'S ASSEMBLY OF EXPERTS CALLS ON THE IRANIAN PEOPLE TO KEEP UNITY AND PLEDGE ALLEGIANCE TO THE NEW SUPREME LEADER -STATEMENT</title>
@@ -470,14 +478,6 @@ The plan under discussion is not a large invasion, officials say, but small targ
       <guid isPermaLink="false">0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682</guid>
       <pubDate>Sun, 08 Mar 2026 00:58:56 +0000</pubDate>
       <source>FT</source>
-    </item>
-    <item>
-      <title>STRIKE TARGETS APARTMENT IN HOTEL BUILDING IN CENTRAL BEIRUT - SECURITY SOURCE</title>
-      <link>https://nitter.net/DeItaone/status/2030429662317253108#m</link>
-      <description>&lt;p&gt;STRIKE TARGETS APARTMENT IN HOTEL BUILDING IN CENTRAL BEIRUT - SECURITY SOURCE&lt;/p&gt;</description>
-      <guid isPermaLink="false">2030429662317253108</guid>
-      <pubDate>Sat, 07 Mar 2026 23:45:29 +0000</pubDate>
-      <source>DeItaone</source>
     </item>
   </channel>
 </rss>
