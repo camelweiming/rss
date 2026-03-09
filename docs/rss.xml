@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 19:54:07 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 20:00:17 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Trump’s Venezuela strategy has failed in Iran</title>
+      <link>https://www.ft.com/content/7d40b920-93d8-4ee7-9387-a5793fd3e0c5</link>
+      <description>The appointment of Mojtaba Khamenei has dashed the US president’s hope of picking Iran’s new leader</description>
+      <guid isPermaLink="false">7d40b920-93d8-4ee7-9387-a5793fd3e0c5</guid>
+      <pubDate>Mon, 09 Mar 2026 11:51:18 +0000</pubDate>
+      <source>FT</source>
+    </item>
     <item>
       <title>Ukrainian drone experts to share their knowledge in the Middle East</title>
       <link>https://www.bbc.com/news/videos/cpv83ndmezno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -400,30 +408,6 @@
       <description>&lt;p&gt;🚨 IRAQI OIL PRODUCTION FROM SOUTHERN OILFIELDS FALLS TO 1.3 MILLION BPD FROM AROUND 4.3 MILLION BPD - THREE SOURCES SAY&lt;/p&gt;</description>
       <guid isPermaLink="false">2030661280697074140</guid>
       <pubDate>Sun, 08 Mar 2026 15:05:51 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>U.S. ENERGY CHIEF: GAS PRICE SPIKE WILL BE SHORT-LIVED
-
-U.S. Energy Secretary Chris Wright said rising gasoline prices linked to the Iran conflict should ease soon.
-
-Speaking on CNN and Fox News, Wright said the surge is driven mainly by uncertainty around the conflict and is likely to last weeks, not months. He expects energy shipments to continue flowing through the Strait of Hormuz.
-
-The comments follow similar remarks from President Donald Trump, who said fuel prices should fall quickly.
-
-Wright also noted the U.S. has been refilling the Strategic Petroleum Reserve and stressed that Iran’s oil and gas infrastructure is not a target of U.S. military strikes.</title>
-      <link>https://nitter.net/DeItaone/status/2030661160404406401#m</link>
-      <description>&lt;p&gt;U.S. ENERGY CHIEF: GAS PRICE SPIKE WILL BE SHORT-LIVED&lt;br /&gt;
-&lt;br /&gt;
-U.S. Energy Secretary Chris Wright said rising gasoline prices linked to the Iran conflict should ease soon.&lt;br /&gt;
-&lt;br /&gt;
-Speaking on CNN and Fox News, Wright said the surge is driven mainly by uncertainty around the conflict and is likely to last weeks, not months. He expects energy shipments to continue flowing through the Strait of Hormuz.&lt;br /&gt;
-&lt;br /&gt;
-The comments follow similar remarks from President Donald Trump, who said fuel prices should fall quickly.&lt;br /&gt;
-&lt;br /&gt;
-Wright also noted the U.S. has been refilling the Strategic Petroleum Reserve and stressed that Iran’s oil and gas infrastructure is not a target of U.S. military strikes.&lt;/p&gt;</description>
-      <guid isPermaLink="false">2030661160404406401</guid>
-      <pubDate>Sun, 08 Mar 2026 15:05:23 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
