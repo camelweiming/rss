@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 10 Mar 2026 06:27:41 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 06:28:57 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>Trump says he "doesn't know enough about the Tomahawk missile strike on the Iranian girls' school."</title>
@@ -243,6 +243,14 @@ The IDF has begun a broad wave of strikes against terror targets.'&lt;/p&gt;</de
       <source>DeItaone</source>
     </item>
     <item>
+      <title>The rise of Mojtaba Khamenei</title>
+      <link>https://www.ft.com/content/e63f1049-7e3f-4f31-885c-b676261b9b16</link>
+      <description>Iran’s new supreme leader has been shaped by decades-long ties with the powerful and hardline Revolutionary Guards</description>
+      <guid isPermaLink="false">e63f1049-7e3f-4f31-885c-b676261b9b16</guid>
+      <pubDate>Mon, 09 Mar 2026 20:32:22 +0000</pubDate>
+      <source>FT</source>
+    </item>
+    <item>
       <title>SMOKE RISES AFTER A STRIKE ON THE BAPCO OIL REFINERY IN BAHRAIN</title>
       <link>https://nitter.net/DeItaone/status/2031105095979470896#m</link>
       <description>&lt;p&gt;SMOKE RISES AFTER A STRIKE ON THE BAPCO OIL REFINERY IN BAHRAIN&lt;/p&gt;</description>
@@ -429,14 +437,6 @@ Saudi Arabia is redirecting more oil through its west-east pipeline to the Red S
       <guid isPermaLink="false">2031069281161498684</guid>
       <pubDate>Mon, 09 Mar 2026 18:07:06 +0000</pubDate>
       <source>DeItaone</source>
-    </item>
-    <item>
-      <title>G7 ‘stands ready’ to release emergency oil reserves</title>
-      <link>https://www.ft.com/content/bc3179f5-5591-489e-8ff3-179c4d1242b1</link>
-      <description>Finance ministers pledge ‘necessary measures’ to tackle surging crude prices with deal expected as soon as Tuesday</description>
-      <guid isPermaLink="false">bc3179f5-5591-489e-8ff3-179c4d1242b1</guid>
-      <pubDate>Mon, 09 Mar 2026 17:59:41 +0000</pubDate>
-      <source>FT</source>
     </item>
   </channel>
 </rss>
