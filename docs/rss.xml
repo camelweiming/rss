@@ -4,8 +4,24 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 22:29:18 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 22:35:17 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>FRENCH FINANCE MINISTER SAYS HE HOPES G7 STATEMENT ON TALKS OVER POSSIBLE RELEASE OF EMERGENCY OIL STOCKS WILL BE MADE IN COMING HOUR</title>
+      <link>https://nitter.net/DeItaone/status/2031014868971589737#m</link>
+      <description>&lt;p&gt;FRENCH FINANCE MINISTER SAYS HE HOPES G7 STATEMENT ON TALKS OVER POSSIBLE RELEASE OF EMERGENCY OIL STOCKS WILL BE MADE IN COMING HOUR&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031014868971589737</guid>
+      <pubDate>Mon, 09 Mar 2026 14:30:53 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
+    <item>
+      <title>B-52s arrive at UK air base amid conflict with Iran</title>
+      <link>https://www.bbc.com/news/articles/c93w2kgvkvgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The military bombers are capable of launching missiles more than 1,500 miles.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c93w2kgvkvgo#1</guid>
+      <pubDate>Mon, 09 Mar 2026 14:29:35 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>IRAN WARNS $200 A BARREL OIL IF STRIKES ON ITS INFRASTRUCTURE DON'T STOP -- WSJ</title>
       <link>https://nitter.net/DeItaone/status/2031012005956530592#m</link>
@@ -547,22 +563,6 @@ If the conflict eases soon, oil could drop as quickly as it spiked, creating dow
       <guid isPermaLink="false">56dd339c-51ea-41b0-983a-fe13c0d5ab54</guid>
       <pubDate>Mon, 09 Mar 2026 02:32:14 +0000</pubDate>
       <source>FT</source>
-    </item>
-    <item>
-      <title>YIELD ON 10-YR U.S. TREASURY NOTES UP 5.5 BASIS POINTS AT 4.1867%</title>
-      <link>https://nitter.net/DeItaone/status/2030818396045029833#m</link>
-      <description>&lt;p&gt;YIELD ON 10-YR U.S. TREASURY NOTES UP 5.5 BASIS POINTS AT 4.1867%&lt;/p&gt;</description>
-      <guid isPermaLink="false">2030818396045029833</guid>
-      <pubDate>Mon, 09 Mar 2026 01:30:11 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>Watch: Fire crews fight blaze near Glasgow Central Station</title>
-      <link>https://www.bbc.com/news/videos/c9wne9yxqn8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The dome of a neighbouring building has collapsed as ScotRail says no trains will operate in or out of the station on Monday.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/videos/c9wne9yxqn8o#2</guid>
-      <pubDate>Mon, 09 Mar 2026 00:53:54 +0000</pubDate>
-      <source>BBC</source>
     </item>
   </channel>
 </rss>
