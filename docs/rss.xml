@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 16:05:58 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 16:13:18 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Australia urged to protect Iranian football team after Asian Cup elimination</title>
+      <link>https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Concern has grown for team after one critic called them 'wartime traitors' for failing to salute during the Iranian anthem.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy8e978xl8o#1</guid>
+      <pubDate>Mon, 09 Mar 2026 06:51:18 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>G7 to discuss joint release of emergency oil reserves</title>
       <link>https://www.ft.com/content/e1141f96-db3e-41ef-b978-0131e91f1d82</link>
@@ -428,22 +436,6 @@ Trump added his goal is to prevent Iran from becoming a nuclear power and avoid 
       <description>&lt;p&gt;HEAVY EXPLOSIONS HEARD IN DIFFERENT PARTS OF TEHRAN - STATE MEDIA&lt;/p&gt;</description>
       <guid isPermaLink="false">2030654137772159405</guid>
       <pubDate>Sun, 08 Mar 2026 14:37:28 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*LEAVITT: CAMPAIGN AGAINST IRAN WILL CONTINUE TO BE AIR CAMPAIGN
-
-*LEAVITT ON GROUND TROOPS: TRUMP HASN'T REMOVED OPTION OFF TABLE
-
-*LEAVITT: GROUND TROOP DEPLOYMENT NOT PART OF TRUMP CURRENT PLAN</title>
-      <link>https://nitter.net/DeItaone/status/2030648435611717777#m</link>
-      <description>&lt;p&gt;*LEAVITT: CAMPAIGN AGAINST IRAN WILL CONTINUE TO BE AIR CAMPAIGN&lt;br /&gt;
-&lt;br /&gt;
-*LEAVITT ON GROUND TROOPS: TRUMP HASN'T REMOVED OPTION OFF TABLE&lt;br /&gt;
-&lt;br /&gt;
-*LEAVITT: GROUND TROOP DEPLOYMENT NOT PART OF TRUMP CURRENT PLAN&lt;/p&gt;</description>
-      <guid isPermaLink="false">2030648435611717777</guid>
-      <pubDate>Sun, 08 Mar 2026 14:14:49 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
