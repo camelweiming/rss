@@ -4,8 +4,24 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 07:59:23 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 08:09:22 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Ali Khamenei’s son Mojtaba becomes Iran’s supreme leader</title>
+      <link>https://www.ft.com/content/56dd339c-51ea-41b0-983a-fe13c0d5ab54</link>
+      <description>The 56-year-old cleric becomes the third leader of the Islamic republic after his father was killed in US-Israeli air strike</description>
+      <guid isPermaLink="false">56dd339c-51ea-41b0-983a-fe13c0d5ab54</guid>
+      <pubDate>Mon, 09 Mar 2026 00:04:42 +0000</pubDate>
+      <source>FT</source>
+    </item>
+    <item>
+      <title>Oil prices jump above $100 for first time in four years</title>
+      <link>https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Iranian oil facilities were hit as the US and Israel launched a fresh wave of airstrikes at the weekend.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c79542n0grwo#1</guid>
+      <pubDate>Sun, 08 Mar 2026 23:55:25 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>SPOT SILVER FALLS OVER 3% TO $81.34/OZ</title>
       <link>https://nitter.net/DeItaone/status/2030790656046641444#m</link>
@@ -462,26 +478,6 @@ The plan under discussion is not a large invasion, officials say, but small targ
       <guid isPermaLink="false">a5b2e71a-a60f-4e88-b041-bba1030eb4c7</guid>
       <pubDate>Sun, 08 Mar 2026 09:00:05 +0000</pubDate>
       <source>FT</source>
-    </item>
-    <item>
-      <title>*ISRAELI MINISTER  DOESN'T RULE OUT TARGETING IRAN REFINERIES</title>
-      <link>https://nitter.net/DeItaone/status/2030551382097330635#m</link>
-      <description>&lt;p&gt;*ISRAELI MINISTER  DOESN'T RULE OUT TARGETING IRAN REFINERIES&lt;/p&gt;</description>
-      <guid isPermaLink="false">2030551382097330635</guid>
-      <pubDate>Sun, 08 Mar 2026 07:49:09 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*IRAN SAYS THERE IS MAJORITY ON PICK FOR NEW SUPREME LEADER
-
-*IRAN SAYS HOPES REMAINING OBSTACLES ARE RESOLVED SOON</title>
-      <link>https://nitter.net/DeItaone/status/2030540959767753090#m</link>
-      <description>&lt;p&gt;*IRAN SAYS THERE IS MAJORITY ON PICK FOR NEW SUPREME LEADER&lt;br /&gt;
-&lt;br /&gt;
-*IRAN SAYS HOPES REMAINING OBSTACLES ARE RESOLVED SOON&lt;/p&gt;</description>
-      <guid isPermaLink="false">2030540959767753090</guid>
-      <pubDate>Sun, 08 Mar 2026 07:07:45 +0000</pubDate>
-      <source>DeItaone</source>
     </item>
   </channel>
 </rss>
