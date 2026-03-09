@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 10 Mar 2026 03:16:48 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 03:26:56 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>TRUMP SAYS  “I THINK THE (IRAN) WAR IS VERY COMPLETE, PRETTY MUCH" - CBS REPORTER ON X, CITING AN INTERVIEW</title>
+      <link>https://nitter.net/DeItaone/status/2031087988893950063#m</link>
+      <description>&lt;p&gt;TRUMP SAYS  “I THINK THE (IRAN) WAR IS VERY COMPLETE, PRETTY MUCH" - CBS REPORTER ON X, CITING AN INTERVIEW&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031087988893950063</guid>
+      <pubDate>Mon, 09 Mar 2026 19:21:26 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>RAF jets have taken out two more drones, says Healey</title>
       <link>https://www.bbc.com/news/articles/c0mgyw32j8jo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -600,14 +608,6 @@ Trump also said he is “not happy” with the recent appointment of Mojtaba Kha
 He reiterated that no decision has been made on U.S. troop deployment in Iran and kept his strategy close to the vest amid escalating geopolitical tensions.&lt;/p&gt;</description>
       <guid isPermaLink="false">2031022721673380092</guid>
       <pubDate>Mon, 09 Mar 2026 15:02:06 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>ANTHROPIC SUES US GOV'T AFTER BEING DESIGNATED 'SUPPLY CHAIN RISK' FOR REFUSING TO REMOVE GUARDRAILS – LAWSUIT</title>
-      <link>https://nitter.net/DeItaone/status/2031022598218289344#m</link>
-      <description>&lt;p&gt;ANTHROPIC SUES US GOV'T AFTER BEING DESIGNATED 'SUPPLY CHAIN RISK' FOR REFUSING TO REMOVE GUARDRAILS – LAWSUIT&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031022598218289344</guid>
-      <pubDate>Mon, 09 Mar 2026 15:01:36 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
