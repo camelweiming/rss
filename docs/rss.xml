@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 21:05:01 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 21:15:05 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>SWISS EXTENDS SUSPENSION OF FLIGHTS TO DUBAI UNTIL 15 MARCH – AND TO TEL AVIV UNTIL 2 APRIL</title>
@@ -33,6 +33,14 @@ Mohammad Baqer Qalibaf warned on X that Tehran aims to make the war so costly th
       <guid isPermaLink="false">2030991032729403608</guid>
       <pubDate>Mon, 09 Mar 2026 12:56:10 +0000</pubDate>
       <source>DeItaone</source>
+    </item>
+    <item>
+      <title>Passer-by tried to tackle vape shop blaze that led to inferno</title>
+      <link>https://www.bbc.com/news/articles/cd70wdxrrn4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Lamin Kongira told BBC Scotland News he had been walking past when a shopkeeper ran out saying "fire, fire".</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cd70wdxrrn4o#2</guid>
+      <pubDate>Mon, 09 Mar 2026 12:52:53 +0000</pubDate>
+      <source>BBC</source>
     </item>
     <item>
       <title>IRAN WAR LIFTS MARKET MELTDOWN RISK
@@ -501,14 +509,6 @@ If the conflict eases soon, oil could drop as quickly as it spiked, creating dow
       <guid isPermaLink="false">7a97be0b-114c-40b9-a8b1-a675b6e0f27d</guid>
       <pubDate>Sun, 08 Mar 2026 21:26:53 +0000</pubDate>
       <source>FT</source>
-    </item>
-    <item>
-      <title>IRAN'S ASSEMBLY OF EXPERTS CALLS ON THE IRANIAN PEOPLE TO KEEP UNITY AND PLEDGE ALLEGIANCE TO THE NEW SUPREME LEADER -STATEMENT</title>
-      <link>https://nitter.net/DeItaone/status/2030754284942291092#m</link>
-      <description>&lt;p&gt;IRAN'S ASSEMBLY OF EXPERTS CALLS ON THE IRANIAN PEOPLE TO KEEP UNITY AND PLEDGE ALLEGIANCE TO THE NEW SUPREME LEADER -STATEMENT&lt;/p&gt;</description>
-      <guid isPermaLink="false">2030754284942291092</guid>
-      <pubDate>Sun, 08 Mar 2026 21:15:25 +0000</pubDate>
-      <source>DeItaone</source>
     </item>
   </channel>
 </rss>
