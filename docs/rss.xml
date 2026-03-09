@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 13:36:19 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 13:41:08 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>G7 to discuss joint release of emergency oil reserves</title>
@@ -12,6 +12,14 @@
       <description>Middle East war has triggered surge in crude prices that threatens global economy</description>
       <guid isPermaLink="false">e1141f96-db3e-41ef-b978-0131e91f1d82</guid>
       <pubDate>Mon, 09 Mar 2026 05:19:57 +0000</pubDate>
+      <source>FT</source>
+    </item>
+    <item>
+      <title>Think geopolitics is bad? Look at geoeconomics</title>
+      <link>https://www.ft.com/content/d2b243b8-0a36-4f48-b431-53101bea9699</link>
+      <description>Markets suggest the lran ramifications are likely to drag on and spread</description>
+      <guid isPermaLink="false">d2b243b8-0a36-4f48-b431-53101bea9699</guid>
+      <pubDate>Mon, 09 Mar 2026 05:00:12 +0000</pubDate>
       <source>FT</source>
     </item>
     <item>
@@ -436,18 +444,6 @@ Trump added his goal is to prevent Iran from becoming a nuclear power and avoid 
       <description>&lt;p&gt;*WRIGHT: CHINA ABOUT TO LOSE SECOND OF 3 'GAS STATION SUPPLIERS'&lt;/p&gt;</description>
       <guid isPermaLink="false">2030648332918415452</guid>
       <pubDate>Sun, 08 Mar 2026 14:14:24 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*WRIGHT: A LARGE TANKER WENT THRU STRAIT OF HORMUZ 24HR AGO
-
-*WRIGHT: NOT TOO LONG AWAY BEFORE REGULAR SHIP TRAFFIC RESUMING</title>
-      <link>https://nitter.net/DeItaone/status/2030648292145508740#m</link>
-      <description>&lt;p&gt;*WRIGHT: A LARGE TANKER WENT THRU STRAIT OF HORMUZ 24HR AGO&lt;br /&gt;
-&lt;br /&gt;
-*WRIGHT: NOT TOO LONG AWAY BEFORE REGULAR SHIP TRAFFIC RESUMING&lt;/p&gt;</description>
-      <guid isPermaLink="false">2030648292145508740</guid>
-      <pubDate>Sun, 08 Mar 2026 14:14:15 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
