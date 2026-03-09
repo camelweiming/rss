@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 10 Mar 2026 02:56:47 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 03:06:49 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>RAF jets have taken out two more drones, says Healey</title>
+      <link>https://www.bbc.com/news/articles/c0mgyw32j8jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The defence secretary also told MPs that the warship HMS Dragon would set sail for the Mediterranean in the next couple of days.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c0mgyw32j8jo#1</guid>
+      <pubDate>Mon, 09 Mar 2026 18:49:15 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>U.S. CRUDE OIL FUTURES SETTLE AT $94.77/BBL, UP $3.87, 4.26 PCT</title>
       <link>https://nitter.net/DeItaone/status/2031076107038986654#m</link>
@@ -600,14 +608,6 @@ He reiterated that no decision has been made on U.S. troop deployment in Iran an
       <description>&lt;p&gt;ANTHROPIC SUES US GOV'T AFTER BEING DESIGNATED 'SUPPLY CHAIN RISK' FOR REFUSING TO REMOVE GUARDRAILS – LAWSUIT&lt;/p&gt;</description>
       <guid isPermaLink="false">2031022598218289344</guid>
       <pubDate>Mon, 09 Mar 2026 15:01:36 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>🚨 TRUMP: NOT HAPPY ABOUT KHAMENEI REPLACING HIS FATHER: NYP</title>
-      <link>https://nitter.net/DeItaone/status/2031022123662107055#m</link>
-      <description>&lt;p&gt;🚨 TRUMP: NOT HAPPY ABOUT KHAMENEI REPLACING HIS FATHER: NYP&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031022123662107055</guid>
-      <pubDate>Mon, 09 Mar 2026 14:59:43 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
