@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 10 Mar 2026 03:47:16 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 03:48:53 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>*TRUMP MULLS TAKING OVER STRAIT OF HORMUZ: CBS</title>
@@ -153,6 +153,14 @@ Saudi Arabia is redirecting more oil through its west-east pipeline to the Red S
       <guid isPermaLink="false">2031069281161498684</guid>
       <pubDate>Mon, 09 Mar 2026 18:07:06 +0000</pubDate>
       <source>DeItaone</source>
+    </item>
+    <item>
+      <title>G7 ‘stands ready’ to release emergency oil reserves</title>
+      <link>https://www.ft.com/content/bc3179f5-5591-489e-8ff3-179c4d1242b1</link>
+      <description>Finance ministers pledge ‘necessary measures’ to tackle surging crude prices with deal expected as soon as Tuesday</description>
+      <guid isPermaLink="false">bc3179f5-5591-489e-8ff3-179c4d1242b1</guid>
+      <pubDate>Mon, 09 Mar 2026 17:59:41 +0000</pubDate>
+      <source>FT</source>
     </item>
     <item>
       <title>LEBANON ASKED TRUMP ADMINISTRATION TO BROKER DIRECT PEACE TALKS WITH ISRAEL TO END FIGHTING -AXIOS, CITING FIVE SOURCES WITH KNOWLEDGE</title>
@@ -585,14 +593,6 @@ MONEY MARKET TRADERS PRICE IN ABOUT 25% OF A SECOND QUARTER-POINT HIKE IN 2026&l
       <guid isPermaLink="false">2031030201023389894</guid>
       <pubDate>Mon, 09 Mar 2026 15:31:49 +0000</pubDate>
       <source>DeItaone</source>
-    </item>
-    <item>
-      <title>Iranians deeply divided over Mojtaba Khamenei's rise to power</title>
-      <link>https://www.bbc.com/news/articles/cwy8ldyp2zwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>While pro-establishment crowds celebrate Khamenei's appointment as his father's successor, others believe it signals no change to how Iran is ruled.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy8ldyp2zwo#1</guid>
-      <pubDate>Mon, 09 Mar 2026 15:27:35 +0000</pubDate>
-      <source>BBC</source>
     </item>
   </channel>
 </rss>
