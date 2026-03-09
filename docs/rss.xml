@@ -4,8 +4,24 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 20:04:04 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 20:14:31 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>US 1-YEAR CPI SWAP RATE EXCEEDS 3% FOR FIRST TIME SINCE OCTOBER</title>
+      <link>https://nitter.net/DeItaone/status/2030977342676332643#m</link>
+      <description>&lt;p&gt;US 1-YEAR CPI SWAP RATE EXCEEDS 3% FOR FIRST TIME SINCE OCTOBER&lt;/p&gt;</description>
+      <guid isPermaLink="false">2030977342676332643</guid>
+      <pubDate>Mon, 09 Mar 2026 12:01:46 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
+    <item>
+      <title>STRATEGY - BOUGHT 17,994 BITCOIN FOR $1.28 BLN AT $70,946 AVG PRICE DURING MARCH 2-8, 2026 - SEC FILING</title>
+      <link>https://nitter.net/DeItaone/status/2030976709953048903#m</link>
+      <description>&lt;p&gt;STRATEGY - BOUGHT 17,994 BITCOIN FOR $1.28 BLN AT $70,946 AVG PRICE DURING MARCH 2-8, 2026 - SEC FILING&lt;/p&gt;</description>
+      <guid isPermaLink="false">2030976709953048903</guid>
+      <pubDate>Mon, 09 Mar 2026 11:59:16 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>Trump’s Venezuela strategy has failed in Iran</title>
       <link>https://www.ft.com/content/7d40b920-93d8-4ee7-9387-a5793fd3e0c5</link>
@@ -393,22 +409,6 @@
       <guid isPermaLink="false">56a01aa5-98af-48f0-b580-89e7bb4f59f6</guid>
       <pubDate>Sun, 08 Mar 2026 15:39:18 +0000</pubDate>
       <source>FT</source>
-    </item>
-    <item>
-      <title>In maps: Nine days of strikes across the Middle East</title>
-      <link>https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Israel has continued strikes across Iran and Lebanon and the Iranian regime has carried out more attacks, as the war continues for a ninth day.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g0pnnj8xyo#1</guid>
-      <pubDate>Sun, 08 Mar 2026 15:38:52 +0000</pubDate>
-      <source>BBC</source>
-    </item>
-    <item>
-      <title>🚨 IRAQI OIL PRODUCTION FROM SOUTHERN OILFIELDS FALLS TO 1.3 MILLION BPD FROM AROUND 4.3 MILLION BPD - THREE SOURCES SAY</title>
-      <link>https://nitter.net/DeItaone/status/2030661280697074140#m</link>
-      <description>&lt;p&gt;🚨 IRAQI OIL PRODUCTION FROM SOUTHERN OILFIELDS FALLS TO 1.3 MILLION BPD FROM AROUND 4.3 MILLION BPD - THREE SOURCES SAY&lt;/p&gt;</description>
-      <guid isPermaLink="false">2030661280697074140</guid>
-      <pubDate>Sun, 08 Mar 2026 15:05:51 +0000</pubDate>
-      <source>DeItaone</source>
     </item>
   </channel>
 </rss>
