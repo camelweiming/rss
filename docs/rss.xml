@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 22:35:17 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 22:45:20 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>FRENCH FINANCE MINISTER SAYS HE HOPES G7 STATEMENT ON TALKS OVER POSSIBLE RELEASE OF EMERGENCY OIL STOCKS WILL BE MADE IN COMING HOUR</title>
@@ -20,6 +20,14 @@
       <description>The military bombers are capable of launching missiles more than 1,500 miles.</description>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c93w2kgvkvgo#1</guid>
       <pubDate>Mon, 09 Mar 2026 14:29:35 +0000</pubDate>
+      <source>BBC</source>
+    </item>
+    <item>
+      <title>How the Iran war may affect your bills and finances</title>
+      <link>https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The conflict in the Middle East could raise the cost of petrol, household energy bills and even food.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c2e4ygndjpwo#1</guid>
+      <pubDate>Mon, 09 Mar 2026 14:21:08 +0000</pubDate>
       <source>BBC</source>
     </item>
     <item>
@@ -554,14 +562,6 @@ If the conflict eases soon, oil could drop as quickly as it spiked, creating dow
       <description>American consumers will feel pain at the petrol pump, but US is a net energy exporter unlike its European allies</description>
       <guid isPermaLink="false">9c17c777-378b-44ad-abf8-00d8cfb5349c</guid>
       <pubDate>Mon, 09 Mar 2026 05:00:12 +0000</pubDate>
-      <source>FT</source>
-    </item>
-    <item>
-      <title>French finance minister says ‘not there yet’ on releasing petroleum reserves</title>
-      <link>https://www.ft.com/content/56dd339c-51ea-41b0-983a-fe13c0d5ab54</link>
-      <description>Crude at highest since 2022 as Ali Khamenei’s son Mojtaba becomes Iran’s supreme leader</description>
-      <guid isPermaLink="false">56dd339c-51ea-41b0-983a-fe13c0d5ab54</guid>
-      <pubDate>Mon, 09 Mar 2026 02:32:14 +0000</pubDate>
       <source>FT</source>
     </item>
   </channel>
