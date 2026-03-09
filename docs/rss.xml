@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 16:23:20 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 16:33:20 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Gilt market slump deepens as oil price surges</title>
+      <link>https://www.ft.com/content/9b08457e-6689-4f2d-8967-816c184e4fe2</link>
+      <description>UK government bond market under renewed pressure as oil surpasses $100 a barrel</description>
+      <guid isPermaLink="false">9b08457e-6689-4f2d-8967-816c184e4fe2</guid>
+      <pubDate>Mon, 09 Mar 2026 08:19:32 +0000</pubDate>
+      <source>FT</source>
+    </item>
     <item>
       <title>Australia urged to protect Iranian football team after Asian Cup elimination</title>
       <link>https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -61,6 +69,14 @@
       <guid isPermaLink="false">2030818396045029833</guid>
       <pubDate>Mon, 09 Mar 2026 01:30:11 +0000</pubDate>
       <source>DeItaone</source>
+    </item>
+    <item>
+      <title>Watch: Fire crews fight blaze near Glasgow Central Station</title>
+      <link>https://www.bbc.com/news/videos/c9wne9yxqn8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The dome of a neighbouring building has collapsed as ScotRail says no trains will operate in or out of the station on Monday.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/videos/c9wne9yxqn8o#2</guid>
+      <pubDate>Mon, 09 Mar 2026 00:53:54 +0000</pubDate>
+      <source>BBC</source>
     </item>
     <item>
       <title>*HEGSETH TELLS CBS IRANIAN NAVY IS 'LARGELY NO MORE'</title>
@@ -420,22 +436,6 @@ In an interview with ABC News, Trump said the new leader “is going to have to 
 Trump added his goal is to prevent Iran from becoming a nuclear power and avoid repeated crises in the future, saying he does not want the U.S. to face the same threat again in five or ten years.&lt;/p&gt;</description>
       <guid isPermaLink="false">2030660853721174307</guid>
       <pubDate>Sun, 08 Mar 2026 15:04:10 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>Unanswered questions as search for Nancy Guthrie enters a new month</title>
-      <link>https://www.bbc.com/news/articles/cp32lwy4077o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The disappearance of the mother of TV presenter Savannah Guthrie captivated the US, but police have not made any arrests.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cp32lwy4077o#1</guid>
-      <pubDate>Sun, 08 Mar 2026 15:03:16 +0000</pubDate>
-      <source>BBC</source>
-    </item>
-    <item>
-      <title>HEAVY EXPLOSIONS HEARD IN DIFFERENT PARTS OF TEHRAN - STATE MEDIA</title>
-      <link>https://nitter.net/DeItaone/status/2030654137772159405#m</link>
-      <description>&lt;p&gt;HEAVY EXPLOSIONS HEARD IN DIFFERENT PARTS OF TEHRAN - STATE MEDIA&lt;/p&gt;</description>
-      <guid isPermaLink="false">2030654137772159405</guid>
-      <pubDate>Sun, 08 Mar 2026 14:37:28 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
