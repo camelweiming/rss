@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 23:05:29 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 23:15:40 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>G7 ‘stands ready’ to release emergency oil reserves</title>
+      <link>https://www.ft.com/content/bc3179f5-5591-489e-8ff3-179c4d1242b1</link>
+      <description>Finance ministers pledge ‘necessary measures’ to tackle surging crude prices but stop short of immediate deal</description>
+      <guid isPermaLink="false">bc3179f5-5591-489e-8ff3-179c4d1242b1</guid>
+      <pubDate>Mon, 09 Mar 2026 15:05:22 +0000</pubDate>
+      <source>FT</source>
+    </item>
     <item>
       <title>TRUMP SAYS NO IRAN GROUND MISSION—AND HE’S “NOT HAPPY” WITH NEW LEADER
 
@@ -147,6 +155,14 @@ Recent attacks, including Israel hitting Tehran refinery storage tanks, forced I
       <source>DeItaone</source>
     </item>
     <item>
+      <title>Five Iranian footballers 'in Australian safe house' after Asian Cup protest</title>
+      <link>https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Concern has grown for team after one critic called them 'wartime traitors' for failing to salute during the Iranian anthem.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy8e978xl8o#1</guid>
+      <pubDate>Mon, 09 Mar 2026 14:11:03 +0000</pubDate>
+      <source>BBC</source>
+    </item>
+    <item>
       <title>LESCURE: READY TO USE STRATEGIC OIL RESERVE TO STABILIZE MARKET</title>
       <link>https://nitter.net/DeItaone/status/2031008234518053218#m</link>
       <description>&lt;p&gt;LESCURE: READY TO USE STRATEGIC OIL RESERVE TO STABILIZE MARKET&lt;/p&gt;</description>
@@ -253,6 +269,14 @@ Attacks on energy infrastructure, like Qatar’s gas cuts, could further threate
       <guid isPermaLink="false">2030998960278499404</guid>
       <pubDate>Mon, 09 Mar 2026 13:27:40 +0000</pubDate>
       <source>DeItaone</source>
+    </item>
+    <item>
+      <title>Gilt market slump deepens as traders bet on BoE rate rise</title>
+      <link>https://www.ft.com/content/9b08457e-6689-4f2d-8967-816c184e4fe2</link>
+      <description>UK government bond market under renewed pressure as oil surpasses $100 a barrel</description>
+      <guid isPermaLink="false">9b08457e-6689-4f2d-8967-816c184e4fe2</guid>
+      <pubDate>Mon, 09 Mar 2026 13:24:42 +0000</pubDate>
+      <source>FT</source>
     </item>
     <item>
       <title>🚨 IRAQ'S KIRKUK CRUDE OIL FLOWS TO TURKEY'S CEYHAN PORT STOPPED ON MARCH 9 - SHIPPING SOURCE</title>
@@ -567,30 +591,6 @@ If the conflict eases soon, oil could drop as quickly as it spiked, creating dow
       <guid isPermaLink="false">2030976709953048903</guid>
       <pubDate>Mon, 09 Mar 2026 11:59:16 +0000</pubDate>
       <source>DeItaone</source>
-    </item>
-    <item>
-      <title>Trump’s Venezuela strategy has failed in Iran</title>
-      <link>https://www.ft.com/content/7d40b920-93d8-4ee7-9387-a5793fd3e0c5</link>
-      <description>The appointment of Mojtaba Khamenei has dashed the US president’s hope of picking Iran’s new leader</description>
-      <guid isPermaLink="false">7d40b920-93d8-4ee7-9387-a5793fd3e0c5</guid>
-      <pubDate>Mon, 09 Mar 2026 11:51:18 +0000</pubDate>
-      <source>FT</source>
-    </item>
-    <item>
-      <title>In maps: Ten days of strikes across the Middle East</title>
-      <link>https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Israel has continued strikes across Iran and Lebanon and the Iranian regime has carried out more attacks, as the war continues for a tenth day.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g0pnnj8xyo#1</guid>
-      <pubDate>Mon, 09 Mar 2026 11:45:19 +0000</pubDate>
-      <source>BBC</source>
-    </item>
-    <item>
-      <title>Ukrainian drone experts to share their knowledge in the Middle East</title>
-      <link>https://www.bbc.com/news/videos/cpv83ndmezno?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The BBC's Diplomatic Correspondent, James Landale, is in Ukraine to see the latest anti-drone technology the country has to offer.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/videos/cpv83ndmezno#1</guid>
-      <pubDate>Mon, 09 Mar 2026 10:15:06 +0000</pubDate>
-      <source>BBC</source>
     </item>
   </channel>
 </rss>
