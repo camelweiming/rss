@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 22:05:12 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 22:15:17 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>LESCURE: READY TO USE STRATEGIC OIL RESERVE TO STABILIZE MARKET</title>
@@ -509,6 +509,14 @@ If the conflict eases soon, oil could drop as quickly as it spiked, creating dow
       <source>FT</source>
     </item>
     <item>
+      <title>French finance minister says ‘not there yet’ on releasing petroleum reserves</title>
+      <link>https://www.ft.com/content/56dd339c-51ea-41b0-983a-fe13c0d5ab54</link>
+      <description>Crude at highest since 2022 as Ali Khamenei’s son Mojtaba becomes Iran’s supreme leader</description>
+      <guid isPermaLink="false">56dd339c-51ea-41b0-983a-fe13c0d5ab54</guid>
+      <pubDate>Mon, 09 Mar 2026 02:32:14 +0000</pubDate>
+      <source>FT</source>
+    </item>
+    <item>
       <title>YIELD ON 10-YR U.S. TREASURY NOTES UP 5.5 BASIS POINTS AT 4.1867%</title>
       <link>https://nitter.net/DeItaone/status/2030818396045029833#m</link>
       <description>&lt;p&gt;YIELD ON 10-YR U.S. TREASURY NOTES UP 5.5 BASIS POINTS AT 4.1867%&lt;/p&gt;</description>
@@ -546,14 +554,6 @@ If the conflict eases soon, oil could drop as quickly as it spiked, creating dow
       <description>&lt;p&gt;*HEGSETH SAYS TRUMP WILL 'SET THE TERMS' OF IRAN SURRENDER: CBS&lt;/p&gt;</description>
       <guid isPermaLink="false">2030798042287272107</guid>
       <pubDate>Mon, 09 Mar 2026 00:09:18 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*S. KOREA'S KOSPI FALLS MORE THAN 6% AS SAMSUNG, SK HYNIX TUMBLE</title>
-      <link>https://nitter.net/DeItaone/status/2030797443558740257#m</link>
-      <description>&lt;p&gt;*S. KOREA'S KOSPI FALLS MORE THAN 6% AS SAMSUNG, SK HYNIX TUMBLE&lt;/p&gt;</description>
-      <guid isPermaLink="false">2030797443558740257</guid>
-      <pubDate>Mon, 09 Mar 2026 00:06:55 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
