@@ -4,8 +4,28 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 23:15:40 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 23:25:35 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>OIL COULD JUMP 50% IF MIDEAST WAR SPREADS
+
+Edward Morse warns that crude prices could rise 50% if Middle East fighting widens. He notes the U.S. lags in feeling the impact, but gasoline could hit $4 a gallon as oil surges.</title>
+      <link>https://nitter.net/DeItaone/status/2031026291969872129#m</link>
+      <description>&lt;p&gt;OIL COULD JUMP 50% IF MIDEAST WAR SPREADS&lt;br /&gt;
+&lt;br /&gt;
+Edward Morse warns that crude prices could rise 50% if Middle East fighting widens. He notes the U.S. lags in feeling the impact, but gasoline could hit $4 a gallon as oil surges.&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031026291969872129</guid>
+      <pubDate>Mon, 09 Mar 2026 15:16:17 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
+    <item>
+      <title>US missile hit military base near Iran school, video analysis shows</title>
+      <link>https://www.bbc.com/news/articles/cvg548lyjnyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>A US Tomahawk missile hit a military base near a primary school in southern Iran where Iranian authorities said 168 people were killed, expert video analysis shows.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg548lyjnyo#1</guid>
+      <pubDate>Mon, 09 Mar 2026 15:09:05 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>G7 ‘stands ready’ to release emergency oil reserves</title>
       <link>https://www.ft.com/content/bc3179f5-5591-489e-8ff3-179c4d1242b1</link>
@@ -574,22 +594,6 @@ If the conflict eases soon, oil could drop as quickly as it spiked, creating dow
       <description>&lt;p&gt;NATO INTERCEPTS BALLISTIC MISSILE THAT ENTERED TURKISH AIRSPACE&lt;/p&gt;</description>
       <guid isPermaLink="false">2030978863132455191</guid>
       <pubDate>Mon, 09 Mar 2026 12:07:49 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>US 1-YEAR CPI SWAP RATE EXCEEDS 3% FOR FIRST TIME SINCE OCTOBER</title>
-      <link>https://nitter.net/DeItaone/status/2030977342676332643#m</link>
-      <description>&lt;p&gt;US 1-YEAR CPI SWAP RATE EXCEEDS 3% FOR FIRST TIME SINCE OCTOBER&lt;/p&gt;</description>
-      <guid isPermaLink="false">2030977342676332643</guid>
-      <pubDate>Mon, 09 Mar 2026 12:01:46 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>STRATEGY - BOUGHT 17,994 BITCOIN FOR $1.28 BLN AT $70,946 AVG PRICE DURING MARCH 2-8, 2026 - SEC FILING</title>
-      <link>https://nitter.net/DeItaone/status/2030976709953048903#m</link>
-      <description>&lt;p&gt;STRATEGY - BOUGHT 17,994 BITCOIN FOR $1.28 BLN AT $70,946 AVG PRICE DURING MARCH 2-8, 2026 - SEC FILING&lt;/p&gt;</description>
-      <guid isPermaLink="false">2030976709953048903</guid>
-      <pubDate>Mon, 09 Mar 2026 11:59:16 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
