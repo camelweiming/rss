@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 18:13:31 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 18:23:27 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Ukrainian drone experts to share their knowledge in the Middle East</title>
+      <link>https://www.bbc.com/news/videos/cpv83ndmezno?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The BBC's Diplomatic Correspondent, James Landale, is in Ukraine to see the latest anti-drone technology the country has to offer.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/videos/cpv83ndmezno#1</guid>
+      <pubDate>Mon, 09 Mar 2026 10:15:06 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>Gilt market slump deepens as oil price surges</title>
       <link>https://www.ft.com/content/9b08457e-6689-4f2d-8967-816c184e4fe2</link>
@@ -416,26 +424,6 @@ The comments follow similar remarks from President Donald Trump, who said fuel p
 Wright also noted the U.S. has been refilling the Strategic Petroleum Reserve and stressed that Iran’s oil and gas infrastructure is not a target of U.S. military strikes.&lt;/p&gt;</description>
       <guid isPermaLink="false">2030661160404406401</guid>
       <pubDate>Sun, 08 Mar 2026 15:05:23 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>TRUMP: IRAN’S NEXT SUPREME LEADER MUST HAVE U.S. APPROVAL
-
-President Donald Trump said Iran’s next supreme leader “won’t last long” without U.S. approval.
-
-In an interview with ABC News, Trump said the new leader “is going to have to get approval from us,” warning that without it, the leader would not remain in power.
-
-Trump added his goal is to prevent Iran from becoming a nuclear power and avoid repeated crises in the future, saying he does not want the U.S. to face the same threat again in five or ten years.</title>
-      <link>https://nitter.net/DeItaone/status/2030660853721174307#m</link>
-      <description>&lt;p&gt;TRUMP: IRAN’S NEXT SUPREME LEADER MUST HAVE U.S. APPROVAL&lt;br /&gt;
-&lt;br /&gt;
-President Donald Trump said Iran’s next supreme leader “won’t last long” without U.S. approval.&lt;br /&gt;
-&lt;br /&gt;
-In an interview with ABC News, Trump said the new leader “is going to have to get approval from us,” warning that without it, the leader would not remain in power.&lt;br /&gt;
-&lt;br /&gt;
-Trump added his goal is to prevent Iran from becoming a nuclear power and avoid repeated crises in the future, saying he does not want the U.S. to face the same threat again in five or ten years.&lt;/p&gt;</description>
-      <guid isPermaLink="false">2030660853721174307</guid>
-      <pubDate>Sun, 08 Mar 2026 15:04:10 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
