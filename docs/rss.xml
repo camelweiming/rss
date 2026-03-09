@@ -4,8 +4,32 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 20:14:31 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 20:24:32 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>IRAN'S GUARDIAN COUNCIL SAYS INTERIM LEADERSHIP COUNCIL MANDATE HAS EFFECTIVELY ENDED WITH NEW SUPREME LEADER APPOINTMENT ON MONDAY- ISNA</title>
+      <link>https://nitter.net/DeItaone/status/2030981578340331870#m</link>
+      <description>&lt;p&gt;IRAN'S GUARDIAN COUNCIL SAYS INTERIM LEADERSHIP COUNCIL MANDATE HAS EFFECTIVELY ENDED WITH NEW SUPREME LEADER APPOINTMENT ON MONDAY- ISNA&lt;/p&gt;</description>
+      <guid isPermaLink="false">2030981578340331870</guid>
+      <pubDate>Mon, 09 Mar 2026 12:18:36 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
+    <item>
+      <title>TRUMP’S CHINA VISIT CONFINED TO BEIJING DUE TO SCHEDULE, SECURITY NEEDS - SCMP</title>
+      <link>https://nitter.net/DeItaone/status/2030981255936848051#m</link>
+      <description>&lt;p&gt;TRUMP’S CHINA VISIT CONFINED TO BEIJING DUE TO SCHEDULE, SECURITY NEEDS - SCMP&lt;/p&gt;</description>
+      <guid isPermaLink="false">2030981255936848051</guid>
+      <pubDate>Mon, 09 Mar 2026 12:17:19 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
+    <item>
+      <title>NATO INTERCEPTS BALLISTIC MISSILE THAT ENTERED TURKISH AIRSPACE</title>
+      <link>https://nitter.net/DeItaone/status/2030978863132455191#m</link>
+      <description>&lt;p&gt;NATO INTERCEPTS BALLISTIC MISSILE THAT ENTERED TURKISH AIRSPACE&lt;/p&gt;</description>
+      <guid isPermaLink="false">2030978863132455191</guid>
+      <pubDate>Mon, 09 Mar 2026 12:07:49 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>US 1-YEAR CPI SWAP RATE EXCEEDS 3% FOR FIRST TIME SINCE OCTOBER</title>
       <link>https://nitter.net/DeItaone/status/2030977342676332643#m</link>
@@ -29,6 +53,14 @@
       <guid isPermaLink="false">7d40b920-93d8-4ee7-9387-a5793fd3e0c5</guid>
       <pubDate>Mon, 09 Mar 2026 11:51:18 +0000</pubDate>
       <source>FT</source>
+    </item>
+    <item>
+      <title>In maps: Ten days of strikes across the Middle East</title>
+      <link>https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Israel has continued strikes across Iran and Lebanon and the Iranian regime has carried out more attacks, as the war continues for a tenth day.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g0pnnj8xyo#1</guid>
+      <pubDate>Mon, 09 Mar 2026 11:45:19 +0000</pubDate>
+      <source>BBC</source>
     </item>
     <item>
       <title>Ukrainian drone experts to share their knowledge in the Middle East</title>
@@ -377,38 +409,6 @@
       <guid isPermaLink="false">2030685777319940118</guid>
       <pubDate>Sun, 08 Mar 2026 16:43:12 +0000</pubDate>
       <source>DeItaone</source>
-    </item>
-    <item>
-      <title>'Night turned into day': Iranians tell of strikes on oil depots</title>
-      <link>https://www.bbc.com/news/articles/clygpxq41l3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Fuel depots were hit in Tehran and Karaj overnight, with videos showing huge fires and plumes of smoke in multiple locations.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/clygpxq41l3o#1</guid>
-      <pubDate>Sun, 08 Mar 2026 16:32:57 +0000</pubDate>
-      <source>BBC</source>
-    </item>
-    <item>
-      <title>IRAQ WARNS AGAINST DANGER OF STRAIT OF HORMUZ CLOSURE AND ITS IMPACT ON IRAQ'S INTERESTS, CRISES IN ENERGY SOURCES, PRICES -FOREIGN MINISTRY</title>
-      <link>https://nitter.net/DeItaone/status/2030679250102055074#m</link>
-      <description>&lt;p&gt;IRAQ WARNS AGAINST DANGER OF STRAIT OF HORMUZ CLOSURE AND ITS IMPACT ON IRAQ'S INTERESTS, CRISES IN ENERGY SOURCES, PRICES -FOREIGN MINISTRY&lt;/p&gt;</description>
-      <guid isPermaLink="false">2030679250102055074</guid>
-      <pubDate>Sun, 08 Mar 2026 16:17:16 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>IRRADIATION FACILITY IN ISFAHAN HAS BEEN DAMAGED ON SATURDAY IN ISRAELI-U.S. STRIKES, NO RADIATION POLLUTION REPORTED - ISNA CITING NUCLEAR SECURITY CENTER</title>
-      <link>https://nitter.net/DeItaone/status/2030669865371959780#m</link>
-      <description>&lt;p&gt;IRRADIATION FACILITY IN ISFAHAN HAS BEEN DAMAGED ON SATURDAY IN ISRAELI-U.S. STRIKES, NO RADIATION POLLUTION REPORTED - ISNA CITING NUCLEAR SECURITY CENTER&lt;/p&gt;</description>
-      <guid isPermaLink="false">2030669865371959780</guid>
-      <pubDate>Sun, 08 Mar 2026 15:39:58 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>Oil market braces for $100 a barrel as Middle East producers cut output</title>
-      <link>https://www.ft.com/content/56a01aa5-98af-48f0-b580-89e7bb4f59f6</link>
-      <description>Further attacks on energy infrastructure over weekend also pose new threat</description>
-      <guid isPermaLink="false">56a01aa5-98af-48f0-b580-89e7bb4f59f6</guid>
-      <pubDate>Sun, 08 Mar 2026 15:39:18 +0000</pubDate>
-      <source>FT</source>
     </item>
   </channel>
 </rss>
