@@ -4,8 +4,24 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 21:45:11 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 21:55:12 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>🚨 *NATO SAYS HAS AGAIN INTERCEPTED A MISSILE HEADING TO TURKEY</title>
+      <link>https://nitter.net/DeItaone/status/2031001994660360258#m</link>
+      <description>&lt;p&gt;🚨 *NATO SAYS HAS AGAIN INTERCEPTED A MISSILE HEADING TO TURKEY&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031001994660360258</guid>
+      <pubDate>Mon, 09 Mar 2026 13:39:44 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
+    <item>
+      <title>*EU OPEN TO ‘FURTHER TAILOR’ MARITIME DEFENSIVE OPERATIONS</title>
+      <link>https://nitter.net/DeItaone/status/2031001101449748590#m</link>
+      <description>&lt;p&gt;*EU OPEN TO ‘FURTHER TAILOR’ MARITIME DEFENSIVE OPERATIONS&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031001101449748590</guid>
+      <pubDate>Mon, 09 Mar 2026 13:36:11 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>U.S. STOCKS EXTEND FALL, S&amp;P 500 DOWN 1.00 PCT</title>
       <link>https://nitter.net/DeItaone/status/2031000495410541044#m</link>
@@ -514,22 +530,6 @@ If the conflict eases soon, oil could drop as quickly as it spiked, creating dow
       <description>&lt;p&gt;*IRAN LAUNCHES NEW WAVE OF MISSILES AT ISRAEL: IRIB&lt;/p&gt;</description>
       <guid isPermaLink="false">2030789544929267763</guid>
       <pubDate>Sun, 08 Mar 2026 23:35:32 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>EURO DOWN 0.77%; STERLING DOWN 0.85%</title>
-      <link>https://nitter.net/DeItaone/status/2030787483919933499#m</link>
-      <description>&lt;p&gt;EURO DOWN 0.77%; STERLING DOWN 0.85%&lt;/p&gt;</description>
-      <guid isPermaLink="false">2030787483919933499</guid>
-      <pubDate>Sun, 08 Mar 2026 23:27:21 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*IDF: IDENTIFIED MISSILES LAUNCHED FROM IRAN TOWARD ISRAEL</title>
-      <link>https://nitter.net/DeItaone/status/2030784983283945652#m</link>
-      <description>&lt;p&gt;*IDF: IDENTIFIED MISSILES LAUNCHED FROM IRAN TOWARD ISRAEL&lt;/p&gt;</description>
-      <guid isPermaLink="false">2030784983283945652</guid>
-      <pubDate>Sun, 08 Mar 2026 23:17:24 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
