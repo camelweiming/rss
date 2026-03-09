@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 10 Mar 2026 02:06:42 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 02:07:41 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>LEBANON ASKED TRUMP ADMINISTRATION TO BROKER DIRECT PEACE TALKS WITH ISRAEL TO END FIGHTING -AXIOS, CITING FIVE SOURCES WITH KNOWLEDGE</title>
@@ -273,6 +273,14 @@ Key points:&lt;br /&gt;
       <guid isPermaLink="false">2031045504222536187</guid>
       <pubDate>Mon, 09 Mar 2026 16:32:37 +0000</pubDate>
       <source>DeItaone</source>
+    </item>
+    <item>
+      <title>Five Iranian footballers 'in Australian safe house' after Asian Cup protest</title>
+      <link>https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Concern has grown for team after one critic called them 'wartime traitors' for failing to salute during the Iranian anthem.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy8e978xl8o#1</guid>
+      <pubDate>Mon, 09 Mar 2026 16:29:46 +0000</pubDate>
+      <source>BBC</source>
     </item>
     <item>
       <title>IRAN WARNS OIL TANKERS TO BE ‘VERY CAREFUL’ IN HORMUZ: CNBC</title>
@@ -588,22 +596,6 @@ IEA DIRECTOR BIROL: IEA MEMBERS HOLD A FURTHER 600 MILLION BARRELS OF INDUSTRY S
       <description>&lt;p&gt;IRAN WARNS $200 A BARREL OIL IF STRIKES ON ITS INFRASTRUCTURE DON'T STOP -- WSJ&lt;/p&gt;</description>
       <guid isPermaLink="false">2031012005956530592</guid>
       <pubDate>Mon, 09 Mar 2026 14:19:31 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>IRAN WARNS OF $200 OIL
-
-An Iranian military spokesperson said oil could hit $200 a barrel if U.S. and Israeli strikes on its energy infrastructure continue.
-
-Recent attacks, including Israel hitting Tehran refinery storage tanks, forced Iran to cut fuel allowances. Since the conflict began, Iran and its proxies have targeted oil facilities in Saudi Arabia, Iraq, and Kuwait, reducing regional output.</title>
-      <link>https://nitter.net/DeItaone/status/2031011919277015470#m</link>
-      <description>&lt;p&gt;IRAN WARNS OF $200 OIL&lt;br /&gt;
-&lt;br /&gt;
-An Iranian military spokesperson said oil could hit $200 a barrel if U.S. and Israeli strikes on its energy infrastructure continue.&lt;br /&gt;
-&lt;br /&gt;
-Recent attacks, including Israel hitting Tehran refinery storage tanks, forced Iran to cut fuel allowances. Since the conflict began, Iran and its proxies have targeted oil facilities in Saudi Arabia, Iraq, and Kuwait, reducing regional output.&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031011919277015470</guid>
-      <pubDate>Mon, 09 Mar 2026 14:19:10 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
