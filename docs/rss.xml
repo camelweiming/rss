@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 10 Mar 2026 05:48:51 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 05:56:50 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>Five Iranian footballers granted Australian visas after anthem protest</title>
@@ -13,6 +13,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy8e978xl8o#1</guid>
       <pubDate>Mon, 09 Mar 2026 21:46:53 +0000</pubDate>
       <source>BBC</source>
+    </item>
+    <item>
+      <title>U.S. MILITARY HAS DAMAGED OR DESTROYED 50 IRANIAN VESSELS, CENTRAL COMMAND SAYS</title>
+      <link>https://nitter.net/DeItaone/status/2031124184009683038#m</link>
+      <description>&lt;p&gt;U.S. MILITARY HAS DAMAGED OR DESTROYED 50 IRANIAN VESSELS, CENTRAL COMMAND SAYS&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031124184009683038</guid>
+      <pubDate>Mon, 09 Mar 2026 21:45:16 +0000</pubDate>
+      <source>DeItaone</source>
     </item>
     <item>
       <title>ISLAMIC REVOLUTIONARY GUARD CORPS: ANY ARAB OR EUROPEAN COUNTRY THAT EXPELS THE AMBASSADORS OF ISRAEL AND THE UNITED STATES FROM ITS TERRITORY WILL, STARTING TOMORROW, HAVE FULL AUTHORITY AND FREEDOM TO PASS THROUGH THE STRAIT OF HORMUZ</title>
@@ -463,34 +471,6 @@ Trump, speaking to NBC News, avoided saying whether he wants the U.S. to take co
       <description>&lt;p&gt;OMAN: REGIONAL, US INTERESTS TO BE BEST SERVED BY CEASEFIRE NOW&lt;/p&gt;</description>
       <guid isPermaLink="false">2031054571095589004</guid>
       <pubDate>Mon, 09 Mar 2026 17:08:39 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>U.S. FARMERS SEEK HELP AS FERTILIZER PRICES SOAR
-
-The Strait of Hormuz disruption is sending fertilizer costs sharply higher, straining U.S. farmers ahead of planting season.
-
-Zippy Duvall urged President Donald Trump to:
-
-🔸Use the U.S. Navy to secure maritime fertilizer shipments.
-
-🔸Lift import duties on certain fertilizers, including from Morocco and Russia.
-
-Prices are climbing fast: urea +12% to $611/ton, potash +9%, ammonia +15%, while grain futures, including soybeans, hit multi-year highs.</title>
-      <link>https://nitter.net/DeItaone/status/2031054098137538863#m</link>
-      <description>&lt;p&gt;U.S. FARMERS SEEK HELP AS FERTILIZER PRICES SOAR&lt;br /&gt;
-&lt;br /&gt;
-The Strait of Hormuz disruption is sending fertilizer costs sharply higher, straining U.S. farmers ahead of planting season.&lt;br /&gt;
-&lt;br /&gt;
-Zippy Duvall urged President Donald Trump to:&lt;br /&gt;
-&lt;br /&gt;
-🔸Use the U.S. Navy to secure maritime fertilizer shipments.&lt;br /&gt;
-&lt;br /&gt;
-🔸Lift import duties on certain fertilizers, including from Morocco and Russia.&lt;br /&gt;
-&lt;br /&gt;
-Prices are climbing fast: urea +12% to $611/ton, potash +9%, ammonia +15%, while grain futures, including soybeans, hit multi-year highs.&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031054098137538863</guid>
-      <pubDate>Mon, 09 Mar 2026 17:06:46 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
