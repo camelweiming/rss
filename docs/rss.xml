@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 10 Mar 2026 03:57:16 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 04:07:20 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Iran's new leader has never been tested. He now faces an existential battle</title>
+      <link>https://www.bbc.com/news/articles/cwykdn0yn4wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Mojtaba Khamenei, 56, enters power as the Islamic republic faces its most serious crisis.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cwykdn0yn4wo#1</guid>
+      <pubDate>Mon, 09 Mar 2026 19:51:00 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>*OIL FALLS BELOW $90 A BARREL AFTER TRUMP IRAN REMARKS</title>
       <link>https://nitter.net/DeItaone/status/2031093824957694056#m</link>
@@ -556,14 +564,6 @@ Global crude briefly touched $119 a barrel, pushing gasoline costs higher. The W
       <description>&lt;p&gt;🚨 RUSSIA'S PUTIN: OIL PRODUCTION LINKED TO STRAIT OF HORMUZ RISKS COMING TO COMPLETE HALT AS EARLY AS NEXT MONTH - IFX&lt;/p&gt;</description>
       <guid isPermaLink="false">2031034713968623882</guid>
       <pubDate>Mon, 09 Mar 2026 15:49:45 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>HUNGARY PM ORBAN SAYS CAPPED FUEL PRICES WILL BE AVAILABLE FOR VEHICLES REGISTERED IN HUNGARY</title>
-      <link>https://nitter.net/DeItaone/status/2031034089256403393#m</link>
-      <description>&lt;p&gt;HUNGARY PM ORBAN SAYS CAPPED FUEL PRICES WILL BE AVAILABLE FOR VEHICLES REGISTERED IN HUNGARY&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031034089256403393</guid>
-      <pubDate>Mon, 09 Mar 2026 15:47:16 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
