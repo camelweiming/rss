@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 09:29:29 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 09:39:26 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>YIELD ON 10-YR U.S. TREASURY NOTES UP 5.5 BASIS POINTS AT 4.1867%</title>
+      <link>https://nitter.net/DeItaone/status/2030818396045029833#m</link>
+      <description>&lt;p&gt;YIELD ON 10-YR U.S. TREASURY NOTES UP 5.5 BASIS POINTS AT 4.1867%&lt;/p&gt;</description>
+      <guid isPermaLink="false">2030818396045029833</guid>
+      <pubDate>Mon, 09 Mar 2026 01:30:11 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>*HEGSETH TELLS CBS IRANIAN NAVY IS 'LARGELY NO MORE'</title>
       <link>https://nitter.net/DeItaone/status/2030799559308308935#m</link>
@@ -445,14 +453,6 @@ Average diesel prices have climbed to $4.59 per gallon, according to GasBuddy da
       <guid isPermaLink="false">d08d89bb-89f5-41c2-9835-e3ac59b67cfa</guid>
       <pubDate>Sun, 08 Mar 2026 11:39:53 +0000</pubDate>
       <source>FT</source>
-    </item>
-    <item>
-      <title>UK opens charter flights booking portal for Britons in Dubai</title>
-      <link>https://www.bbc.com/news/articles/cp8rp70x4n4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>It comes after thousands of flights had been cancelled in the Middle East in the past week.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8rp70x4n4o#1</guid>
-      <pubDate>Sun, 08 Mar 2026 11:32:56 +0000</pubDate>
-      <source>BBC</source>
     </item>
   </channel>
 </rss>
