@@ -4,8 +4,32 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 09 Mar 2026 13:21:10 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 13:31:06 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>G7 to discuss joint release of emergency oil reserves</title>
+      <link>https://www.ft.com/content/e1141f96-db3e-41ef-b978-0131e91f1d82</link>
+      <description>Middle East war has triggered surge in crude prices that threatens global economy</description>
+      <guid isPermaLink="false">e1141f96-db3e-41ef-b978-0131e91f1d82</guid>
+      <pubDate>Mon, 09 Mar 2026 05:19:57 +0000</pubDate>
+      <source>FT</source>
+    </item>
+    <item>
+      <title>Kharg Island: Iran’s oil lifeline that Trump has left untouched</title>
+      <link>https://www.ft.com/content/1355c203-43b1-4d21-8dc7-deb4f8e762b5</link>
+      <description>How US deals with crucial export hub could shed light on its longer-term strategy towards Iran</description>
+      <guid isPermaLink="false">1355c203-43b1-4d21-8dc7-deb4f8e762b5</guid>
+      <pubDate>Mon, 09 Mar 2026 05:00:12 +0000</pubDate>
+      <source>FT</source>
+    </item>
+    <item>
+      <title>Which economies will pay the biggest price for the Iran war?</title>
+      <link>https://www.ft.com/content/9c17c777-378b-44ad-abf8-00d8cfb5349c</link>
+      <description>American consumers will feel pain at the petrol pump, but US is a net energy exporter unlike its European allies</description>
+      <guid isPermaLink="false">9c17c777-378b-44ad-abf8-00d8cfb5349c</guid>
+      <pubDate>Mon, 09 Mar 2026 05:00:12 +0000</pubDate>
+      <source>FT</source>
+    </item>
     <item>
       <title>YIELD ON 10-YR U.S. TREASURY NOTES UP 5.5 BASIS POINTS AT 4.1867%</title>
       <link>https://nitter.net/DeItaone/status/2030818396045029833#m</link>
@@ -425,34 +449,6 @@ Trump added his goal is to prevent Iran from becoming a nuclear power and avoid 
       <guid isPermaLink="false">2030648292145508740</guid>
       <pubDate>Sun, 08 Mar 2026 14:14:15 +0000</pubDate>
       <source>DeItaone</source>
-    </item>
-    <item>
-      <title>DIESEL PRICES HIT HIGHEST LEVEL IN OVER THREE YEARS
-
-Average diesel prices have climbed to $4.59 per gallon, according to GasBuddy data. This surpasses the previous peak from September 2023 and marks the highest level since February 8, 2023 — 1,129 days ago.</title>
-      <link>https://nitter.net/DeItaone/status/2030646123359023562#m</link>
-      <description>&lt;p&gt;DIESEL PRICES HIT HIGHEST LEVEL IN OVER THREE YEARS&lt;br /&gt;
-&lt;br /&gt;
-Average diesel prices have climbed to $4.59 per gallon, according to GasBuddy data. This surpasses the previous peak from September 2023 and marks the highest level since February 8, 2023 — 1,129 days ago.&lt;/p&gt;</description>
-      <guid isPermaLink="false">2030646123359023562</guid>
-      <pubDate>Sun, 08 Mar 2026 14:05:38 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>Explosion at US embassy in Oslo may have been terrorism, Norway police say</title>
-      <link>https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Police say they are investigating other motives after the blast caused minor damage to the embassy building.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yjegg892lo#1</guid>
-      <pubDate>Sun, 08 Mar 2026 12:30:16 +0000</pubDate>
-      <source>BBC</source>
-    </item>
-    <item>
-      <title>Tehran residents warned of acid rain after oil storage attack</title>
-      <link>https://www.ft.com/content/d08d89bb-89f5-41c2-9835-e3ac59b67cfa</link>
-      <description>Iran’s Red Crescent Society tells locals to avoid exposure as capital is engulfed in smoke</description>
-      <guid isPermaLink="false">d08d89bb-89f5-41c2-9835-e3ac59b67cfa</guid>
-      <pubDate>Sun, 08 Mar 2026 11:39:53 +0000</pubDate>
-      <source>FT</source>
     </item>
   </channel>
 </rss>
