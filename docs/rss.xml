@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 10 Mar 2026 11:57:21 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 12:07:20 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Europe and Asia battle for LNG as Iran war chokes supply</title>
+      <link>https://www.ft.com/content/4bb22e06-0e5c-4d36-8449-b986e4357862</link>
+      <description>Ship tracking data shows gas carriers switch course as prices rise</description>
+      <guid isPermaLink="false">4bb22e06-0e5c-4d36-8449-b986e4357862</guid>
+      <pubDate>Tue, 10 Mar 2026 04:00:05 +0000</pubDate>
+      <source>FT</source>
+    </item>
     <item>
       <title>Rising prices, mixed messages: Iran war is fraught with political risk for Trump</title>
       <link>https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -401,14 +409,6 @@ The IDF has begun a broad wave of strikes against terror targets.'&lt;/p&gt;</de
       <guid isPermaLink="false">2031105095979470896</guid>
       <pubDate>Mon, 09 Mar 2026 20:29:25 +0000</pubDate>
       <source>DeItaone</source>
-    </item>
-    <item>
-      <title>G7 ‘stands ready’ to release emergency oil reserves</title>
-      <link>https://www.ft.com/content/bc3179f5-5591-489e-8ff3-179c4d1242b1</link>
-      <description>Finance ministers pledge ‘necessary measures’ to tackle surging crude prices with deal expected as soon as Tuesday</description>
-      <guid isPermaLink="false">bc3179f5-5591-489e-8ff3-179c4d1242b1</guid>
-      <pubDate>Mon, 09 Mar 2026 20:01:13 +0000</pubDate>
-      <source>FT</source>
     </item>
   </channel>
 </rss>
