@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 10 Mar 2026 21:14:10 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 21:20:02 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>$NVDA - NVIDIA - MAKES SIGNIFICANT INVESTMENT IN THINKING MACHINES LAB</title>
@@ -448,6 +448,14 @@ The firms manage tens of billions of dollars: Millennium oversees about $86.7 bi
       <source>DeItaone</source>
     </item>
     <item>
+      <title>Hegseth says US hitting Iran with ‘most intense day’ of strikes so far</title>
+      <link>https://www.ft.com/content/6fda3451-8fd3-4ec1-8ab2-17f33291ec5e</link>
+      <description>Brent crude slides and equities bounce after US president suggested conflict could end ‘very soon’</description>
+      <guid isPermaLink="false">6fda3451-8fd3-4ec1-8ab2-17f33291ec5e</guid>
+      <pubDate>Tue, 10 Mar 2026 04:05:14 +0000</pubDate>
+      <source>FT</source>
+    </item>
+    <item>
       <title>Europe and Asia battle for LNG as Iran war chokes supply</title>
       <link>https://www.ft.com/content/4bb22e06-0e5c-4d36-8449-b986e4357862</link>
       <description>Ship tracking data shows gas carriers switch course as prices rise</description>
@@ -470,14 +478,6 @@ The firms manage tens of billions of dollars: Millennium oversees about $86.7 bi
       <guid isPermaLink="false">e6f166b1-c5a1-49bb-9dd5-2d0200f8afca</guid>
       <pubDate>Tue, 10 Mar 2026 00:55:25 +0000</pubDate>
       <source>FT</source>
-    </item>
-    <item>
-      <title>Faisal Islam: Trump comments may have eased oil price spiral, but havoc remains</title>
-      <link>https://www.bbc.com/news/articles/cz7g5vv2gejo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>It has been the most volatile day of oil trading in world history, and there is much still to play out.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cz7g5vv2gejo#1</guid>
-      <pubDate>Tue, 10 Mar 2026 00:48:12 +0000</pubDate>
-      <source>BBC</source>
     </item>
   </channel>
 </rss>
