@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 10 Mar 2026 09:09:04 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 09:19:07 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Trump says Iran war will end ‘very soon’</title>
+      <link>https://www.ft.com/content/e6f166b1-c5a1-49bb-9dd5-2d0200f8afca</link>
+      <description>Oil tumbles to $90 from as high as $119 even as president gives conflicting signals on plans to end conflict</description>
+      <guid isPermaLink="false">e6f166b1-c5a1-49bb-9dd5-2d0200f8afca</guid>
+      <pubDate>Tue, 10 Mar 2026 00:55:25 +0000</pubDate>
+      <source>FT</source>
+    </item>
     <item>
       <title>Faisal Islam: Trump comments may have eased oil price spiral, but havoc remains</title>
       <link>https://www.bbc.com/news/articles/cz7g5vv2gejo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -401,14 +409,6 @@ The IDF has begun a broad wave of strikes against terror targets.'&lt;/p&gt;</de
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cwykdn0yn4wo#1</guid>
       <pubDate>Mon, 09 Mar 2026 19:51:00 +0000</pubDate>
       <source>BBC</source>
-    </item>
-    <item>
-      <title>*OIL FALLS BELOW $90 A BARREL AFTER TRUMP IRAN REMARKS</title>
-      <link>https://nitter.net/DeItaone/status/2031093824957694056#m</link>
-      <description>&lt;p&gt;*OIL FALLS BELOW $90 A BARREL AFTER TRUMP IRAN REMARKS&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031093824957694056</guid>
-      <pubDate>Mon, 09 Mar 2026 19:44:38 +0000</pubDate>
-      <source>DeItaone</source>
     </item>
   </channel>
 </rss>
