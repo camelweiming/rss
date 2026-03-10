@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 10 Mar 2026 16:38:23 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 16:48:27 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>Khamenei martyrdom narrative smooths path for son’s rise</title>
@@ -311,6 +311,14 @@
       <source>DeItaone</source>
     </item>
     <item>
+      <title>Why the price of oil matters more than you might think</title>
+      <link>https://www.bbc.com/news/articles/cr457nq7z61o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>A shock to oil supplies is rattling financial markets, driving up prices at the pump and raising fears of a bigger economic hit.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cr457nq7z61o#1</guid>
+      <pubDate>Mon, 09 Mar 2026 21:44:23 +0000</pubDate>
+      <source>BBC</source>
+    </item>
+    <item>
       <title>ISLAMIC REVOLUTIONARY GUARD CORPS: ANY ARAB OR EUROPEAN COUNTRY THAT EXPELS THE AMBASSADORS OF ISRAEL AND THE UNITED STATES FROM ITS TERRITORY WILL, STARTING TOMORROW, HAVE FULL AUTHORITY AND FREEDOM TO PASS THROUGH THE STRAIT OF HORMUZ</title>
       <link>https://nitter.net/DeItaone/status/2031122243485409697#m</link>
       <description>&lt;p&gt;ISLAMIC REVOLUTIONARY GUARD CORPS: ANY ARAB OR EUROPEAN COUNTRY THAT EXPELS THE AMBASSADORS OF ISRAEL AND THE UNITED STATES FROM ITS TERRITORY WILL, STARTING TOMORROW, HAVE FULL AUTHORITY AND FREEDOM TO PASS THROUGH THE STRAIT OF HORMUZ&lt;/p&gt;</description>
@@ -400,14 +408,6 @@ The IDF has begun a broad wave of strikes against terror targets.'</title>
 The IDF has begun a broad wave of strikes against terror targets.'&lt;/p&gt;</description>
       <guid isPermaLink="false">2031114360295195121</guid>
       <pubDate>Mon, 09 Mar 2026 21:06:14 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>Trump: "We've already won (against Iran). But we haven't won enough. We are determined to achieve total victory over this terrorist regime”</title>
-      <link>https://nitter.net/DeItaone/status/2031114065444233499#m</link>
-      <description>&lt;p&gt;Trump: "We've already won (against Iran). But we haven't won enough. We are determined to achieve total victory over this terrorist regime”&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031114065444233499</guid>
-      <pubDate>Mon, 09 Mar 2026 21:05:04 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
