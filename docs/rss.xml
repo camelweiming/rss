@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 11 Mar 2026 05:33:05 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 05:43:05 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Hereditary peers to be removed from Lords as bill passes</title>
+      <link>https://www.bbc.com/news/articles/cdxg76rgdp7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The bill abolishes the 92 seats reserved for peers who inherit their titles through their families.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxg76rgdp7o#0</guid>
+      <pubDate>Tue, 10 Mar 2026 21:35:05 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>AIR DEFENSES SHOOT DOWN DRONE TARGETING U.S. MILITARY BASE NEAR ERBIL AIRPORT IN IRAQI KURDISTAN – SECURITY SOURCES</title>
       <link>https://nitter.net/DeItaone/status/2031482450413506583#m</link>
@@ -447,38 +455,6 @@ Israel plans to increase its defense spending by ~40 billion shekels ($13B), abo
 Israel plans to increase its defense spending by ~40 billion shekels ($13B), about 2% of GDP, to fund the war with Iran, according to a finance official. The supplement is part of the 2026 revised budget, set for cabinet debate and possible approval Tuesday under PM Benjamin Netanyahu.&lt;/p&gt;</description>
       <guid isPermaLink="false">2031404697764979045</guid>
       <pubDate>Tue, 10 Mar 2026 16:19:56 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>BRENT OIL TO STAY HIGH SHORT-TERM, SLIDE BELOW $80 BY YEAR-END – EIA
-
-🔸Brent oil likely above $95/bbl over the next 2 months due to Middle East tensions; expected to drop to $70/bbl by end-2026.
-
-🔸U.S. oil production projected at 13.6 mln bpd in 2026, rising to 13.8 mln bpd in 2027.
-
-🔸Strait of Hormuz disruption will cut Middle East output temporarily; gradual recovery expected.
-
-🔸U.S. gasoline prices forecast at $3.34/gal in 2026, $3.18/gal in 2027.
-
-🔸OPEC+ unlikely to boost production significantly next year; global supply to exceed demand once Hormuz flows resume.
-
-🔸Global inventories set to grow by 1.9 mln bpd in 2026 and 3.0 mln bpd in 2027.</title>
-      <link>https://nitter.net/DeItaone/status/2031403679715123521#m</link>
-      <description>&lt;p&gt;BRENT OIL TO STAY HIGH SHORT-TERM, SLIDE BELOW $80 BY YEAR-END – EIA&lt;br /&gt;
-&lt;br /&gt;
-🔸Brent oil likely above $95/bbl over the next 2 months due to Middle East tensions; expected to drop to $70/bbl by end-2026.&lt;br /&gt;
-&lt;br /&gt;
-🔸U.S. oil production projected at 13.6 mln bpd in 2026, rising to 13.8 mln bpd in 2027.&lt;br /&gt;
-&lt;br /&gt;
-🔸Strait of Hormuz disruption will cut Middle East output temporarily; gradual recovery expected.&lt;br /&gt;
-&lt;br /&gt;
-🔸U.S. gasoline prices forecast at $3.34/gal in 2026, $3.18/gal in 2027.&lt;br /&gt;
-&lt;br /&gt;
-🔸OPEC+ unlikely to boost production significantly next year; global supply to exceed demand once Hormuz flows resume.&lt;br /&gt;
-&lt;br /&gt;
-🔸Global inventories set to grow by 1.9 mln bpd in 2026 and 3.0 mln bpd in 2027.&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031403679715123521</guid>
-      <pubDate>Tue, 10 Mar 2026 16:15:53 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
