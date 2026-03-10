@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 11 Mar 2026 03:22:22 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 03:32:27 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>*IRAN BEGINS LAYING MINES IN STRAIT OF HORMUZ: CNN</title>
+      <link>https://nitter.net/DeItaone/status/2031451069289554153#m</link>
+      <description>&lt;p&gt;*IRAN BEGINS LAYING MINES IN STRAIT OF HORMUZ: CNN&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031451069289554153</guid>
+      <pubDate>Tue, 10 Mar 2026 19:24:12 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>U.S. CRUDE OIL FUTURES SETTLE AT $83.45/BBL, DOWN $11.32, 11.94 PCT</title>
       <link>https://nitter.net/DeItaone/status/2031437932913897603#m</link>
@@ -509,14 +517,6 @@ On Kalshi, the probability has climbed to around 71% — an all-time high on the
 &lt;img src="https://nitter.net/pic/media%2FHDD05ixXYAA-4Sv.png" /&gt;</description>
       <guid isPermaLink="false">2031392771165020461</guid>
       <pubDate>Tue, 10 Mar 2026 15:32:32 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>IRAQ ATTEMPTING TO RESUME KIRKUK OIL FLOW: MINISTRY SPOKESMAN</title>
-      <link>https://nitter.net/DeItaone/status/2031391861986705820#m</link>
-      <description>&lt;p&gt;IRAQ ATTEMPTING TO RESUME KIRKUK OIL FLOW: MINISTRY SPOKESMAN&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031391861986705820</guid>
-      <pubDate>Tue, 10 Mar 2026 15:28:55 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
