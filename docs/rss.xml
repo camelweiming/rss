@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 10 Mar 2026 13:57:40 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 14:07:08 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Chris Mason: The cost of living is catapulted centre stage yet again</title>
+      <link>https://www.bbc.com/news/articles/c4gqyp8q594o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Labour faces pressure to stem the Middle East's impact on energy bills, writes the BBC's political editor.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gqyp8q594o#1</guid>
+      <pubDate>Tue, 10 Mar 2026 06:04:13 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>Can the G7 release enough oil to calm the market?</title>
       <link>https://www.ft.com/content/2ac57d2f-213f-42ee-98a9-a1e14e819915</link>
@@ -400,14 +408,6 @@ The IDF has begun a broad wave of strikes against terror targets.'&lt;/p&gt;</de
       <description>&lt;p&gt;*TRUMP ON IRAN: WILL NOT RELENT UNTIL ENEMY IS DEFEATED&lt;/p&gt;</description>
       <guid isPermaLink="false">2031112813498826821</guid>
       <pubDate>Mon, 09 Mar 2026 21:00:05 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>IRAN DEPUTY FOREIGN MINISTER GHARIBABADI TO STATE TV: SOME COUNTRIES, INCLUDING CHINA, RUSSIA, AND FRANCE, HAVE CONTACTED IRAN REGARDING A CEASEFIRE</title>
-      <link>https://nitter.net/DeItaone/status/2031108424352567641#m</link>
-      <description>&lt;p&gt;IRAN DEPUTY FOREIGN MINISTER GHARIBABADI TO STATE TV: SOME COUNTRIES, INCLUDING CHINA, RUSSIA, AND FRANCE, HAVE CONTACTED IRAN REGARDING A CEASEFIRE&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031108424352567641</guid>
-      <pubDate>Mon, 09 Mar 2026 20:42:39 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
