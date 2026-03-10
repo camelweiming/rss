@@ -4,8 +4,33 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 10 Mar 2026 21:20:02 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 21:29:52 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>JAPAN BACKS IEA'S PLAN TO COORDINATE OIL RESERVE RELEASE: KYODO</title>
+      <link>https://nitter.net/DeItaone/status/2031358494062846010#m</link>
+      <description>&lt;p&gt;JAPAN BACKS IEA'S PLAN TO COORDINATE OIL RESERVE RELEASE: KYODO&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031358494062846010</guid>
+      <pubDate>Tue, 10 Mar 2026 13:16:20 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
+    <item>
+      <title>HORMUZ SHIPPING NEARLY HALTED
+
+The Strait of Hormuz is effectively closed to most vessels as the Middle East conflict enters its second week.
+
+Inbound traffic to the Persian Gulf has been at a standstill for the past 24 hours, with only Iran-linked ships continuing to pass.</title>
+      <link>https://nitter.net/DeItaone/status/2031357571727012250#m</link>
+      <description>&lt;p&gt;HORMUZ SHIPPING NEARLY HALTED&lt;br /&gt;
+&lt;br /&gt;
+The Strait of Hormuz is effectively closed to most vessels as the Middle East conflict enters its second week.&lt;br /&gt;
+&lt;br /&gt;
+Inbound traffic to the Persian Gulf has been at a standstill for the past 24 hours, with only Iran-linked ships continuing to pass.&lt;/p&gt;
+&lt;img src="https://nitter.net/pic/media%2FHDDU7xiWoAAnUZL.jpg" /&gt;</description>
+      <guid isPermaLink="false">2031357571727012250</guid>
+      <pubDate>Tue, 10 Mar 2026 13:12:40 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>$NVDA - NVIDIA - MAKES SIGNIFICANT INVESTMENT IN THINKING MACHINES LAB</title>
       <link>https://nitter.net/DeItaone/status/2031355996954611841#m</link>
@@ -461,22 +486,6 @@ The firms manage tens of billions of dollars: Millennium oversees about $86.7 bi
       <description>Ship tracking data shows gas carriers switch course as prices rise</description>
       <guid isPermaLink="false">4bb22e06-0e5c-4d36-8449-b986e4357862</guid>
       <pubDate>Tue, 10 Mar 2026 04:00:05 +0000</pubDate>
-      <source>FT</source>
-    </item>
-    <item>
-      <title>Rising prices, mixed messages: Iran war is fraught with political risk for Trump</title>
-      <link>https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The war's price, measured in damage to the economy and in political costs to Trump, is still coming into view.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c93j2dw72q9o#1</guid>
-      <pubDate>Tue, 10 Mar 2026 02:37:46 +0000</pubDate>
-      <source>BBC</source>
-    </item>
-    <item>
-      <title>Trump says Iran war will end ‘very soon’</title>
-      <link>https://www.ft.com/content/e6f166b1-c5a1-49bb-9dd5-2d0200f8afca</link>
-      <description>Oil tumbles to $90 from as high as $119 even as president gives conflicting signals on plans to end conflict</description>
-      <guid isPermaLink="false">e6f166b1-c5a1-49bb-9dd5-2d0200f8afca</guid>
-      <pubDate>Tue, 10 Mar 2026 00:55:25 +0000</pubDate>
       <source>FT</source>
     </item>
   </channel>
