@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 11 Mar 2026 01:01:44 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 01:09:54 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Nottingham triple killer assaulted husband and wife weeks before attacks, inquiry told</title>
+      <link>https://www.bbc.com/news/articles/cze094zdelko?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Valdo Calocane attacked two colleagues weeks before he killed three people in Nottingham.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cze094zdelko#0</guid>
+      <pubDate>Tue, 10 Mar 2026 16:49:04 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>HMS Dragon sets sail from Portsmouth and heads to Cyprus</title>
       <link>https://www.bbc.com/news/videos/cjeng582d13o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -171,6 +179,14 @@ Tehran also said it is not negotiating with the U.S., despite signals from Donal
       <guid isPermaLink="false">2031398316131467306</guid>
       <pubDate>Tue, 10 Mar 2026 15:54:34 +0000</pubDate>
       <source>DeItaone</source>
+    </item>
+    <item>
+      <title>America has become an agent of chaos in world energy markets</title>
+      <link>https://www.ft.com/content/4cfd839b-37b0-4614-812a-928cbda7d2f3</link>
+      <description>A succession of US foreign policy choices has destabilised the oil industry</description>
+      <guid isPermaLink="false">4cfd839b-37b0-4614-812a-928cbda7d2f3</guid>
+      <pubDate>Tue, 10 Mar 2026 15:48:39 +0000</pubDate>
+      <source>FT</source>
     </item>
     <item>
       <title>SPOT GOLD GAINS NEARLY 2% TO $5,234.06/OZ</title>
@@ -541,35 +557,6 @@ About 32% are invested in or considering crypto, while a similar share are parti
       <description>&lt;p&gt;HEGSETH: THE AFTERMATH OF IRAN IS GOING TO BE UNDER AMERICA'S INTERESTS&lt;/p&gt;</description>
       <guid isPermaLink="false">2031347680832553254</guid>
       <pubDate>Tue, 10 Mar 2026 12:33:22 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>DRONE STRIKE HALTS UAE’S LARGEST REFINERY
-
-The UAE’s largest refinery has halted operations after a drone strike sparked a fire nearby, according to people familiar with the situation.
-
-State producer Abu Dhabi National Oil Company is assessing damage at the Ruwais Refinery, which can process 922,000 barrels of oil per day, making it one of the world’s largest.
-
-The shutdown adds to widening energy disruptions across the Persian Gulf, after Saudi Arabia halted its largest refinery and Qatar closed the world’s biggest LNG export facility following similar drone strikes.</title>
-      <link>https://nitter.net/DeItaone/status/2031347458744226260#m</link>
-      <description>&lt;p&gt;DRONE STRIKE HALTS UAE’S LARGEST REFINERY&lt;br /&gt;
-&lt;br /&gt;
-The UAE’s largest refinery has halted operations after a drone strike sparked a fire nearby, according to people familiar with the situation.&lt;br /&gt;
-&lt;br /&gt;
-State producer Abu Dhabi National Oil Company is assessing damage at the Ruwais Refinery, which can process 922,000 barrels of oil per day, making it one of the world’s largest.&lt;br /&gt;
-&lt;br /&gt;
-The shutdown adds to widening energy disruptions across the Persian Gulf, after Saudi Arabia halted its largest refinery and Qatar closed the world’s biggest LNG export facility following similar drone strikes.&lt;/p&gt;
-&lt;img src="https://nitter.net/pic/media%2FHDDLvfyaMAQw8P5.jpg" /&gt;</description>
-      <guid isPermaLink="false">2031347458744226260</guid>
-      <pubDate>Tue, 10 Mar 2026 12:32:29 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>🚨 IRAN'S SECURITY CHIEF LARIJANI: STRAIT OF HORMUZ WILL EITHER BE A STRAIT OF PEACE AND PROSPERITY FOR ALL OR WILL BE A STRAIT OF DEFEAT AND SUFFERING FOR 'WARMONGERS'</title>
-      <link>https://nitter.net/DeItaone/status/2031346897491816733#m</link>
-      <description>&lt;p&gt;🚨 IRAN'S SECURITY CHIEF LARIJANI: STRAIT OF HORMUZ WILL EITHER BE A STRAIT OF PEACE AND PROSPERITY FOR ALL OR WILL BE A STRAIT OF DEFEAT AND SUFFERING FOR 'WARMONGERS'&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031346897491816733</guid>
-      <pubDate>Tue, 10 Mar 2026 12:30:15 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
