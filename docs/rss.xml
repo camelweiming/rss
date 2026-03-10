@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 10 Mar 2026 21:49:58 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 21:59:58 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>CITADEL LOST 2% LAST WEEK, EXODUSPOINT ERASED YTD GAINS</title>
+      <link>https://nitter.net/DeItaone/status/2031367476609490958#m</link>
+      <description>&lt;p&gt;CITADEL LOST 2% LAST WEEK, EXODUSPOINT ERASED YTD GAINS&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031367476609490958</guid>
+      <pubDate>Tue, 10 Mar 2026 13:52:02 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>🚨 ELON MUSK: 𝕏 MONEY EARLY PUBLIC ACCESS WILL LAUNCH NEXT MONTH</title>
       <link>https://nitter.net/DeItaone/status/2031363491815186716#m</link>
@@ -479,14 +487,6 @@ The firms manage tens of billions of dollars: Millennium oversees about $86.7 bi
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cg5nelp5enpo#2</guid>
       <pubDate>Tue, 10 Mar 2026 06:00:04 +0000</pubDate>
       <source>BBC</source>
-    </item>
-    <item>
-      <title>Can the G7 release enough oil to calm the market?</title>
-      <link>https://www.ft.com/content/2ac57d2f-213f-42ee-98a9-a1e14e819915</link>
-      <description>Analysts are sceptical that releasing strategic reserves would solve the problems in the Gulf</description>
-      <guid isPermaLink="false">2ac57d2f-213f-42ee-98a9-a1e14e819915</guid>
-      <pubDate>Tue, 10 Mar 2026 05:00:27 +0000</pubDate>
-      <source>FT</source>
     </item>
   </channel>
 </rss>
