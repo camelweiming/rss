@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 10 Mar 2026 12:07:20 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 12:17:21 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>IRAN’S AMBASSADOR TO CHINA: PASSAGE THROUGH THE STRAIT OF HORMUZ WILL BE CONTROLLED, BUT THE STRAIT WILL NOT BE CLOSED</title>
+      <link>https://nitter.net/DeItaone/status/2031219866183622668#m</link>
+      <description>&lt;p&gt;IRAN’S AMBASSADOR TO CHINA: PASSAGE THROUGH THE STRAIT OF HORMUZ WILL BE CONTROLLED, BUT THE STRAIT WILL NOT BE CLOSED&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031219866183622668</guid>
+      <pubDate>Tue, 10 Mar 2026 04:05:28 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>Europe and Asia battle for LNG as Iran war chokes supply</title>
       <link>https://www.ft.com/content/4bb22e06-0e5c-4d36-8449-b986e4357862</link>
@@ -401,14 +409,6 @@ The IDF has begun a broad wave of strikes against terror targets.'&lt;/p&gt;</de
       <guid isPermaLink="false">e63f1049-7e3f-4f31-885c-b676261b9b16</guid>
       <pubDate>Mon, 09 Mar 2026 20:32:22 +0000</pubDate>
       <source>FT</source>
-    </item>
-    <item>
-      <title>SMOKE RISES AFTER A STRIKE ON THE BAPCO OIL REFINERY IN BAHRAIN</title>
-      <link>https://nitter.net/DeItaone/status/2031105095979470896#m</link>
-      <description>&lt;p&gt;SMOKE RISES AFTER A STRIKE ON THE BAPCO OIL REFINERY IN BAHRAIN&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031105095979470896</guid>
-      <pubDate>Mon, 09 Mar 2026 20:29:25 +0000</pubDate>
-      <source>DeItaone</source>
     </item>
   </channel>
 </rss>
