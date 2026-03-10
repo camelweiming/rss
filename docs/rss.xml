@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 10 Mar 2026 15:38:19 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 15:48:16 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>Khamenei martyrdom narrative smooths path for son’s rise</title>
@@ -12,6 +12,14 @@
       <description>Regime invokes religious history to galvanise support from Shia groups after Ayatollah Ali Khamenei’s assassination</description>
       <guid isPermaLink="false">fd25b7fe-39ed-4a07-88f2-8db009a2867c</guid>
       <pubDate>Tue, 10 Mar 2026 07:01:16 +0000</pubDate>
+      <source>FT</source>
+    </item>
+    <item>
+      <title>The thing that everyone expected to happen has happened</title>
+      <link>https://www.ft.com/content/4629b1a0-be76-4ccb-830f-678696395fd9</link>
+      <description>Trump wants the war to be over</description>
+      <guid isPermaLink="false">4629b1a0-be76-4ccb-830f-678696395fd9</guid>
+      <pubDate>Tue, 10 Mar 2026 06:30:07 +0000</pubDate>
       <source>FT</source>
     </item>
     <item>
@@ -400,14 +408,6 @@ The IDF has begun a broad wave of strikes against terror targets.'&lt;/p&gt;</de
       <description>&lt;p&gt;Trump: "We've already won (against Iran). But we haven't won enough. We are determined to achieve total victory over this terrorist regime”&lt;/p&gt;</description>
       <guid isPermaLink="false">2031114065444233499</guid>
       <pubDate>Mon, 09 Mar 2026 21:05:04 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*TRUMP: WE HAVEN'T WON ENOUGH</title>
-      <link>https://nitter.net/DeItaone/status/2031113291083153589#m</link>
-      <description>&lt;p&gt;*TRUMP: WE HAVEN'T WON ENOUGH&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031113291083153589</guid>
-      <pubDate>Mon, 09 Mar 2026 21:01:59 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
