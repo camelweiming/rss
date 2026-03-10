@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 11 Mar 2026 04:03:03 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 04:12:30 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>TRUMP: IF MINES ARE NOT REMOVED FORTHWITH, MILITARY CONSEQUENCES TO IRAN WILL BE AT A LEVEL NEVER SEEN BEFORE.</title>
@@ -42,6 +42,14 @@
       <description>The justice secretary says the limits are required to stem a growing backlog of cases in crown courts.</description>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cpw0eg9q7kwo#0</guid>
       <pubDate>Tue, 10 Mar 2026 19:39:19 +0000</pubDate>
+      <source>BBC</source>
+    </item>
+    <item>
+      <title>Steve Rosenberg: Russia seeks diplomatic and economic gains from Iran war</title>
+      <link>https://www.bbc.com/news/articles/c4gjyg0djvmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>President Putin pits himself as a potential mediator but that's not an easy sell, writes the BBC's Russia editor.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gjyg0djvmo#0</guid>
+      <pubDate>Tue, 10 Mar 2026 19:35:29 +0000</pubDate>
       <source>BBC</source>
     </item>
     <item>
@@ -504,14 +512,6 @@ Tehran also said it is not negotiating with the U.S., despite signals from Donal
       <description>&lt;p&gt;WITKOFF: HAVE DESTROYED ALMOST ALL OF IRAN'S ENRICHMENT CAPABILITY&lt;/p&gt;</description>
       <guid isPermaLink="false">2031398581777596866</guid>
       <pubDate>Tue, 10 Mar 2026 15:55:38 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>TRUMP ENVOY WITKOFF: WILL PROBABLY MAKE TRIP TO ISRAEL NEXT WEEK-CNBC INTERVIEW</title>
-      <link>https://nitter.net/DeItaone/status/2031398316131467306#m</link>
-      <description>&lt;p&gt;TRUMP ENVOY WITKOFF: WILL PROBABLY MAKE TRIP TO ISRAEL NEXT WEEK-CNBC INTERVIEW&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031398316131467306</guid>
-      <pubDate>Tue, 10 Mar 2026 15:54:34 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
