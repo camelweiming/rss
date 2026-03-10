@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 10 Mar 2026 08:49:03 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 08:59:03 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Faisal Islam: Trump comments may have eased oil price spiral, but havoc remains</title>
+      <link>https://www.bbc.com/news/articles/cz7g5vv2gejo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>It has been the most volatile day of oil trading in world history, and there is much still to play out.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cz7g5vv2gejo#1</guid>
+      <pubDate>Tue, 10 Mar 2026 00:48:12 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>S&amp;P 500 EMINIS FALL 0.5%, NASDAQ FUTURES DOWN 0.6%</title>
       <link>https://nitter.net/DeItaone/status/2031162217794539608#m</link>
@@ -400,14 +408,6 @@ The IDF has begun a broad wave of strikes against terror targets.'&lt;/p&gt;</de
       <description>&lt;p&gt;*OIL FALLS BELOW $90 A BARREL AFTER TRUMP IRAN REMARKS&lt;/p&gt;</description>
       <guid isPermaLink="false">2031093824957694056</guid>
       <pubDate>Mon, 09 Mar 2026 19:44:38 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>OIL FUTURES EXTEND LOSSES IN POST SETTLEMENT TRADE, U.S. CRUDE AND HEATING OIL PRICES FALL OVER 10%</title>
-      <link>https://nitter.net/DeItaone/status/2031093310748492239#m</link>
-      <description>&lt;p&gt;OIL FUTURES EXTEND LOSSES IN POST SETTLEMENT TRADE, U.S. CRUDE AND HEATING OIL PRICES FALL OVER 10%&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031093310748492239</guid>
-      <pubDate>Mon, 09 Mar 2026 19:42:35 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
