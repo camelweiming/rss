@@ -4,8 +4,24 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 10 Mar 2026 22:20:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 22:30:10 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>OIL COULD SOAR TO $150 AMID HORMUZ BLOCKADE
+
+The US-Israel conflict with Iran has shut the Strait of Hormuz, risking the largest oil disruption in history. Experts warn prices could hit $150 per barrel by month’s end.
+
+Amena Bakr of Kpler said halted production and ongoing strait closures outweigh Donald Trump’s reassurances about naval protection, leaving the market confidence low despite prices briefly falling below $100.</title>
+      <link>https://nitter.net/DeItaone/status/2031372871931433395#m</link>
+      <description>&lt;p&gt;OIL COULD SOAR TO $150 AMID HORMUZ BLOCKADE&lt;br /&gt;
+&lt;br /&gt;
+The US-Israel conflict with Iran has shut the Strait of Hormuz, risking the largest oil disruption in history. Experts warn prices could hit $150 per barrel by month’s end.&lt;br /&gt;
+&lt;br /&gt;
+Amena Bakr of Kpler said halted production and ongoing strait closures outweigh Donald Trump’s reassurances about naval protection, leaving the market confidence low despite prices briefly falling below $100.&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031372871931433395</guid>
+      <pubDate>Tue, 10 Mar 2026 14:13:28 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>ISRAELI FOREIGN MINISTER: WE WILL CONTINUE UNTIL THE MINUTE THAT WE AND OUR PARTNERS THINK IS APPROPRIATE TO STOP</title>
       <link>https://nitter.net/DeItaone/status/2031371834101309944#m</link>
@@ -479,14 +495,6 @@ The firms manage tens of billions of dollars: Millennium oversees about $86.7 bi
       <guid isPermaLink="false">2a83b917-62f3-4294-875c-a397fc68c652</guid>
       <pubDate>Tue, 10 Mar 2026 09:24:50 +0000</pubDate>
       <source>FT</source>
-    </item>
-    <item>
-      <title>Olivia Dean to headline final day of Radio 1's Big Weekend 2026</title>
-      <link>https://www.bbc.com/news/articles/cvgjqv9xyj9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The annual music festival will take place in Sunderland's Herrington Country Park from 22 to 24 May.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgjqv9xyj9o#0</guid>
-      <pubDate>Tue, 10 Mar 2026 09:23:47 +0000</pubDate>
-      <source>BBC</source>
     </item>
   </channel>
 </rss>
