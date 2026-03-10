@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 11 Mar 2026 00:41:17 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 00:51:16 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>FOUR IRANIAN DIPLOMATS KILLED IN LEBANON ON SUNDAY IN ISRAELI ATTACK - NOURNEWS CITING DIPLOMAT</title>
+      <link>https://nitter.net/DeItaone/status/2031407986095120742#m</link>
+      <description>&lt;p&gt;FOUR IRANIAN DIPLOMATS KILLED IN LEBANON ON SUNDAY IN ISRAELI ATTACK - NOURNEWS CITING DIPLOMAT&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031407986095120742</guid>
+      <pubDate>Tue, 10 Mar 2026 16:33:00 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>HORMUZ CLOSURE CRIPPLES FOOD SECURITY
 
@@ -198,6 +206,14 @@ On Kalshi, the probability has climbed to around 71% — an all-time high on the
       <guid isPermaLink="false">2031391861986705820</guid>
       <pubDate>Tue, 10 Mar 2026 15:28:55 +0000</pubDate>
       <source>DeItaone</source>
+    </item>
+    <item>
+      <title>Italy buys rare Caravaggio portrait for €30m</title>
+      <link>https://www.bbc.com/news/articles/c93j2ekgwqko?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The purchase is part of wider plans to prevent major artworks from being bought by private collectors.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c93j2ekgwqko#0</guid>
+      <pubDate>Tue, 10 Mar 2026 15:18:00 +0000</pubDate>
+      <source>BBC</source>
     </item>
     <item>
       <title>EU URGES MEMBER STATES TO LOWER TAXES ON ENERGY</title>
@@ -554,22 +570,6 @@ The shutdown adds to widening energy disruptions across the Persian Gulf, after 
       <description>&lt;p&gt;SPAIN'S FM ALBARES:GROUND INVASION OF LEBANON BY ISRAEL WOULD BE "TREMENDOUS MISTAKE"&lt;/p&gt;</description>
       <guid isPermaLink="false">2031346718432690499</guid>
       <pubDate>Tue, 10 Mar 2026 12:29:32 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>ADNOC'S RUWAIS REFINERY HAS BEEN SHUT AS A PRECAUTIONARY MEASURE - SOURCE</title>
-      <link>https://nitter.net/DeItaone/status/2031346010128076859#m</link>
-      <description>&lt;p&gt;ADNOC'S RUWAIS REFINERY HAS BEEN SHUT AS A PRECAUTIONARY MEASURE - SOURCE&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031346010128076859</guid>
-      <pubDate>Tue, 10 Mar 2026 12:26:44 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>GERMAN CHANCELLOR MERZ: CONCERNED THAT THERE IS NO COMMON PLAN TO END WAR AGAIN IRAN</title>
-      <link>https://nitter.net/DeItaone/status/2031345548230287391#m</link>
-      <description>&lt;p&gt;GERMAN CHANCELLOR MERZ: CONCERNED THAT THERE IS NO COMMON PLAN TO END WAR AGAIN IRAN&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031345548230287391</guid>
-      <pubDate>Tue, 10 Mar 2026 12:24:53 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
