@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 10 Mar 2026 15:08:13 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 15:18:13 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Khamenei martyrdom narrative smooths path for son’s rise</title>
+      <link>https://www.ft.com/content/fd25b7fe-39ed-4a07-88f2-8db009a2867c</link>
+      <description>Regime invokes religious history to galvanise support from Shia groups after Ayatollah Ali Khamenei’s assassination</description>
+      <guid isPermaLink="false">fd25b7fe-39ed-4a07-88f2-8db009a2867c</guid>
+      <pubDate>Tue, 10 Mar 2026 07:01:16 +0000</pubDate>
+      <source>FT</source>
+    </item>
     <item>
       <title>Chris Mason: The cost of living is catapulted centre stage yet again</title>
       <link>https://www.bbc.com/news/articles/c4gqyp8q594o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -400,14 +408,6 @@ The IDF has begun a broad wave of strikes against terror targets.'&lt;/p&gt;</de
       <description>&lt;p&gt;*TRUMP: WE HAVEN'T WON ENOUGH&lt;/p&gt;</description>
       <guid isPermaLink="false">2031113291083153589</guid>
       <pubDate>Mon, 09 Mar 2026 21:01:59 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*TRUMP ON IRAN: WILL NOT RELENT UNTIL ENEMY IS DEFEATED</title>
-      <link>https://nitter.net/DeItaone/status/2031112813498826821#m</link>
-      <description>&lt;p&gt;*TRUMP ON IRAN: WILL NOT RELENT UNTIL ENEMY IS DEFEATED&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031112813498826821</guid>
-      <pubDate>Mon, 09 Mar 2026 21:00:05 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
