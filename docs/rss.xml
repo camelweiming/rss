@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 11 Mar 2026 03:02:24 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 03:12:24 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>U.S. CRUDE OIL FUTURES SETTLE AT $83.45/BBL, DOWN $11.32, 11.94 PCT</title>
@@ -109,6 +109,14 @@ The U.S. government has urged Israel not to carry out further strikes on Iran’
       <guid isPermaLink="false">2031430002684616863</guid>
       <pubDate>Tue, 10 Mar 2026 18:00:29 +0000</pubDate>
       <source>DeItaone</source>
+    </item>
+    <item>
+      <title>Glasgow Central's main station to remain closed until next week</title>
+      <link>https://www.bbc.com/news/articles/cvgjqzl7wrzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>A huge fire destroyed a neighbouring building but Network Rail staff believe the station has not been seriously damaged.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgjqzl7wrzo#0</guid>
+      <pubDate>Tue, 10 Mar 2026 17:53:17 +0000</pubDate>
+      <source>BBC</source>
     </item>
     <item>
       <title>IRGC SPOKESPERSON DENIES U.S. CLAIM OF ESCORTING OIL TANKER IN STRAIT OF HORMUZ</title>
@@ -229,6 +237,14 @@ A supertanker carrying 2 million barrels of Iranian oil passed through the Strai
       <guid isPermaLink="false">2031419501015650484</guid>
       <pubDate>Tue, 10 Mar 2026 17:18:45 +0000</pubDate>
       <source>DeItaone</source>
+    </item>
+    <item>
+      <title>The Brits travelling in their thousands to 'Costa del Cheltenham'</title>
+      <link>https://www.bbc.com/sport/horse-racing/articles/czx77n5j7y2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Thousands of Brits have travelled to Costa Blanca to enjoy Cheltenham Festival, the pinnacle event of the jump-racing calendar.</description>
+      <guid isPermaLink="false">https://www.bbc.com/sport/horse-racing/articles/czx77n5j7y2o#0</guid>
+      <pubDate>Tue, 10 Mar 2026 17:16:55 +0000</pubDate>
+      <source>BBC</source>
     </item>
     <item>
       <title>The ‘number station’ sending mystery messages to Iran</title>
@@ -501,22 +517,6 @@ On Kalshi, the probability has climbed to around 71% — an all-time high on the
       <description>&lt;p&gt;IRAQ ATTEMPTING TO RESUME KIRKUK OIL FLOW: MINISTRY SPOKESMAN&lt;/p&gt;</description>
       <guid isPermaLink="false">2031391861986705820</guid>
       <pubDate>Tue, 10 Mar 2026 15:28:55 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>Italy buys rare Caravaggio portrait for €30m</title>
-      <link>https://www.bbc.com/news/articles/c93j2ekgwqko?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The purchase is part of wider plans to prevent major artworks from being bought by private collectors.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c93j2ekgwqko#0</guid>
-      <pubDate>Tue, 10 Mar 2026 15:18:00 +0000</pubDate>
-      <source>BBC</source>
-    </item>
-    <item>
-      <title>EU URGES MEMBER STATES TO LOWER TAXES ON ENERGY</title>
-      <link>https://nitter.net/DeItaone/status/2031385717541052715#m</link>
-      <description>&lt;p&gt;EU URGES MEMBER STATES TO LOWER TAXES ON ENERGY&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031385717541052715</guid>
-      <pubDate>Tue, 10 Mar 2026 15:04:31 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
