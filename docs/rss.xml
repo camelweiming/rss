@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 11 Mar 2026 03:52:30 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 04:02:32 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>TRUMP: IF MINES ARE NOT REMOVED FORTHWITH, MILITARY CONSEQUENCES TO IRAN WILL BE AT A LEVEL NEVER SEEN BEFORE.</title>
+      <link>https://nitter.net/DeItaone/status/2031456823413260388#m</link>
+      <description>&lt;p&gt;TRUMP: IF MINES ARE NOT REMOVED FORTHWITH, MILITARY CONSEQUENCES TO IRAN WILL BE AT A LEVEL NEVER SEEN BEFORE.&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031456823413260388</guid>
+      <pubDate>Tue, 10 Mar 2026 19:47:04 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>*TRUMP: IF IRAN HAS PUT MINES IN THE HORMUZ WE WANT THEM REMOVED</title>
       <link>https://nitter.net/DeItaone/status/2031455709221552615#m</link>
@@ -505,14 +513,6 @@ Tehran also said it is not negotiating with the U.S., despite signals from Donal
       <guid isPermaLink="false">2031398316131467306</guid>
       <pubDate>Tue, 10 Mar 2026 15:54:34 +0000</pubDate>
       <source>DeItaone</source>
-    </item>
-    <item>
-      <title>America has become an agent of chaos in world energy markets</title>
-      <link>https://www.ft.com/content/4cfd839b-37b0-4614-812a-928cbda7d2f3</link>
-      <description>A succession of US foreign policy choices has destabilised the oil industry</description>
-      <guid isPermaLink="false">4cfd839b-37b0-4614-812a-928cbda7d2f3</guid>
-      <pubDate>Tue, 10 Mar 2026 15:48:39 +0000</pubDate>
-      <source>FT</source>
     </item>
   </channel>
 </rss>
