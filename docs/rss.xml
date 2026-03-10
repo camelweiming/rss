@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 10 Mar 2026 19:49:08 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 19:59:14 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>*IRAN'S IRIB: EXPLOSION OF AN OIL TANKER NEAR ABU DHABI</title>
@@ -36,6 +36,14 @@
       <description>A prison inmate has been charged with the murder of Soham killer Ian Huntley, police say.</description>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg8ll4l7d9o#2</guid>
       <pubDate>Tue, 10 Mar 2026 10:46:51 +0000</pubDate>
+      <source>BBC</source>
+    </item>
+    <item>
+      <title>Five Iranian footballers granted Australian visas after anthem protest</title>
+      <link>https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Concern has grown for team after one critic called them "wartime traitors" for failing to salute during the Iranian anthem.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy8e978xl8o#1</guid>
+      <pubDate>Tue, 10 Mar 2026 10:38:32 +0000</pubDate>
       <source>BBC</source>
     </item>
     <item>
@@ -416,14 +424,6 @@ The firms manage tens of billions of dollars: Millennium oversees about $86.7 bi
       <description>&lt;p&gt;Trump: We are waiving certain oil related sanctions, going to take sanctions off on certain countries&lt;/p&gt;</description>
       <guid isPermaLink="false">2031129567625163080</guid>
       <pubDate>Mon, 09 Mar 2026 22:06:40 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*TRUMP: WAIVING SOME OIL-RELATED SANCTIONS</title>
-      <link>https://nitter.net/DeItaone/status/2031129423420789181#m</link>
-      <description>&lt;p&gt;*TRUMP: WAIVING SOME OIL-RELATED SANCTIONS&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031129423420789181</guid>
-      <pubDate>Mon, 09 Mar 2026 22:06:05 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
