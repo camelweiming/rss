@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 11 Mar 2026 05:17:18 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 05:23:02 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Israel rejects Lebanon’s request for ‘cessation’ in fighting to allow for talks</title>
+      <link>https://www.ft.com/content/e6a01a17-1c56-487f-bcc0-c448edb87332</link>
+      <description>Meeting between two longstanding enemies could take place in Cyprus</description>
+      <guid isPermaLink="false">e6a01a17-1c56-487f-bcc0-c448edb87332</guid>
+      <pubDate>Tue, 10 Mar 2026 21:02:14 +0000</pubDate>
+      <source>FT</source>
+    </item>
     <item>
       <title>TRUMP: WE HAVE HIT, AND COMPLETELY DESTROYED, 10 INACTIVE MINE LAYING BOATS AND/OR SHIPS</title>
       <link>https://nitter.net/DeItaone/status/2031465426501382535#m</link>
@@ -479,31 +487,6 @@ The senator criticized the rationale for U.S. strikes and said prolonged militar
       <description>&lt;p&gt;WITKOFF: RUSSIANS SAID THEY HAVE NOT BEEN SHARING INTEL W/ IRAN&lt;/p&gt;</description>
       <guid isPermaLink="false">2031401548278792609</guid>
       <pubDate>Tue, 10 Mar 2026 16:07:25 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>PSILOCYBIN BEATS NICOTINE PATCHES IN QUITTING SMOKING
-
-A study published in JAMA Network Open found a single dose of psilocybin—the active compound in psychedelic mushrooms—was far more effective than nicotine patches at helping smokers quit.
-
-In a trial of 82 adults, over 40% of participants who received psilocybin were smoke-free after six months, compared with about 10% using nicotine patches, with both groups receiving therapy.
-
-Lead researcher Matthew Johnson of Johns Hopkins University said the drug may help by altering brain communication and self-perception, potentially breaking addictive patterns.
-
-The findings add momentum to growing research into psychedelic-assisted treatments, though larger trials are still needed.</title>
-      <link>https://nitter.net/DeItaone/status/2031400558863548795#m</link>
-      <description>&lt;p&gt;PSILOCYBIN BEATS NICOTINE PATCHES IN QUITTING SMOKING&lt;br /&gt;
-&lt;br /&gt;
-A study published in JAMA Network Open found a single dose of psilocybin—the active compound in psychedelic mushrooms—was far more effective than nicotine patches at helping smokers quit.&lt;br /&gt;
-&lt;br /&gt;
-In a trial of 82 adults, over 40% of participants who received psilocybin were smoke-free after six months, compared with about 10% using nicotine patches, with both groups receiving therapy.&lt;br /&gt;
-&lt;br /&gt;
-Lead researcher Matthew Johnson of Johns Hopkins University said the drug may help by altering brain communication and self-perception, potentially breaking addictive patterns.&lt;br /&gt;
-&lt;br /&gt;
-The findings add momentum to growing research into psychedelic-assisted treatments, though larger trials are still needed.&lt;/p&gt;
-&lt;img src="https://nitter.net/pic/media%2FHDD71pzWcAAHmiS.jpg" /&gt;</description>
-      <guid isPermaLink="false">2031400558863548795</guid>
-      <pubDate>Tue, 10 Mar 2026 16:03:29 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
