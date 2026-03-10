@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 10 Mar 2026 20:29:43 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 20:39:45 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>ADNOC'S RUWAIS REFINERY HAS BEEN SHUT AS A PRECAUTIONARY MEASURE - SOURCE</title>
@@ -21,6 +21,14 @@
       <guid isPermaLink="false">2031345548230287391</guid>
       <pubDate>Tue, 10 Mar 2026 12:24:53 +0000</pubDate>
       <source>DeItaone</source>
+    </item>
+    <item>
+      <title>Taco on Iran will come too late for Trump</title>
+      <link>https://www.ft.com/content/2f3efdcd-2bd6-4417-b8e2-97b748d3cb62</link>
+      <description>The US president has already done lasting damage to international trust in America</description>
+      <guid isPermaLink="false">2f3efdcd-2bd6-4417-b8e2-97b748d3cb62</guid>
+      <pubDate>Tue, 10 Mar 2026 12:24:47 +0000</pubDate>
+      <source>FT</source>
     </item>
     <item>
       <title>AMAZON TARGETS $25B-$30B IN DOLLAR BONDS, E10B IN EURO OFFERING</title>
@@ -428,14 +436,6 @@ The firms manage tens of billions of dollars: Millennium oversees about $86.7 bi
       <description>&lt;p&gt;Trump: Don't want to say if new supreme leader has target on his back&lt;/p&gt;</description>
       <guid isPermaLink="false">2031134449757253919</guid>
       <pubDate>Mon, 09 Mar 2026 22:26:04 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>TRUMP: I WANT TO KEEP OPEN STRAIT OF HORMUZ</title>
-      <link>https://nitter.net/DeItaone/status/2031134083749720227#m</link>
-      <description>&lt;p&gt;TRUMP: I WANT TO KEEP OPEN STRAIT OF HORMUZ&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031134083749720227</guid>
-      <pubDate>Mon, 09 Mar 2026 22:24:36 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
