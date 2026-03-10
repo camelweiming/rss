@@ -4,8 +4,32 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 10 Mar 2026 13:07:25 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 13:17:25 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Can the G7 release enough oil to calm the market?</title>
+      <link>https://www.ft.com/content/2ac57d2f-213f-42ee-98a9-a1e14e819915</link>
+      <description>Analysts are sceptical that releasing strategic reserves would solve the problems in the Gulf</description>
+      <guid isPermaLink="false">2ac57d2f-213f-42ee-98a9-a1e14e819915</guid>
+      <pubDate>Tue, 10 Mar 2026 05:00:27 +0000</pubDate>
+      <source>FT</source>
+    </item>
+    <item>
+      <title>The handymen and drivers keeping Tehran running</title>
+      <link>https://www.ft.com/content/a49da063-ac4d-4d04-9ba5-58209835ed93</link>
+      <description>Even under bombardment, workers across Iran’s capital are delivering food and fixing potholes</description>
+      <guid isPermaLink="false">a49da063-ac4d-4d04-9ba5-58209835ed93</guid>
+      <pubDate>Tue, 10 Mar 2026 05:00:17 +0000</pubDate>
+      <source>FT</source>
+    </item>
+    <item>
+      <title>Israel expects Lebanon offensive to outlast Iran conflict</title>
+      <link>https://www.ft.com/content/364a246a-8837-4de0-82d8-53d982844bfa</link>
+      <description>IDF preparing extended campaign against militant group Hizbollah, according to people familiar with discussions</description>
+      <guid isPermaLink="false">364a246a-8837-4de0-82d8-53d982844bfa</guid>
+      <pubDate>Tue, 10 Mar 2026 05:00:17 +0000</pubDate>
+      <source>FT</source>
+    </item>
     <item>
       <title>IRAN’S AMBASSADOR TO CHINA: PASSAGE THROUGH THE STRAIT OF HORMUZ WILL BE CONTROLLED, BUT THE STRAIT WILL NOT BE CLOSED</title>
       <link>https://nitter.net/DeItaone/status/2031219866183622668#m</link>
@@ -385,30 +409,6 @@ The IDF has begun a broad wave of strikes against terror targets.'&lt;/p&gt;</de
       <guid isPermaLink="false">2031108424352567641</guid>
       <pubDate>Mon, 09 Mar 2026 20:42:39 +0000</pubDate>
       <source>DeItaone</source>
-    </item>
-    <item>
-      <title>IRAN’S GHARIBABADI: OUR FIRST CONDITION FOR A CEASEFIRE IS NO FURTHER AGGRESSION</title>
-      <link>https://nitter.net/DeItaone/status/2031107628118511674#m</link>
-      <description>&lt;p&gt;IRAN’S GHARIBABADI: OUR FIRST CONDITION FOR A CEASEFIRE IS NO FURTHER AGGRESSION&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031107628118511674</guid>
-      <pubDate>Mon, 09 Mar 2026 20:39:29 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>US ENERGY SECRETARY WRIGHT SAYS 'WE ARE TALKING' ABOUT COORDINATING RELEASES FROM STRATEGIC PETROLEUM</title>
-      <link>https://nitter.net/DeItaone/status/2031106236251259168#m</link>
-      <description>&lt;p&gt;US ENERGY SECRETARY WRIGHT SAYS 'WE ARE TALKING' ABOUT COORDINATING RELEASES FROM STRATEGIC PETROLEUM&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031106236251259168</guid>
-      <pubDate>Mon, 09 Mar 2026 20:33:57 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>The rise of Mojtaba Khamenei</title>
-      <link>https://www.ft.com/content/e63f1049-7e3f-4f31-885c-b676261b9b16</link>
-      <description>Iran’s new supreme leader has been shaped by decades-long ties with the powerful and hardline Revolutionary Guards</description>
-      <guid isPermaLink="false">e63f1049-7e3f-4f31-885c-b676261b9b16</guid>
-      <pubDate>Mon, 09 Mar 2026 20:32:22 +0000</pubDate>
-      <source>FT</source>
     </item>
   </channel>
 </rss>
