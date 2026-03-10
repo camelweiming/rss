@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 11 Mar 2026 00:51:16 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 01:01:44 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>HMS Dragon sets sail from Portsmouth and heads to Cyprus</title>
+      <link>https://www.bbc.com/news/videos/cjeng582d13o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The UK has deployed the Type 45 Destroyer to the Mediterranean region, after an Iranian drone struck the runway at the RAF Akrotiri base in Cyprus on 1 March.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/videos/cjeng582d13o#0</guid>
+      <pubDate>Tue, 10 Mar 2026 16:47:23 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>FOUR IRANIAN DIPLOMATS KILLED IN LEBANON ON SUNDAY IN ISRAELI ATTACK - NOURNEWS CITING DIPLOMAT</title>
       <link>https://nitter.net/DeItaone/status/2031407986095120742#m</link>
@@ -562,14 +570,6 @@ The shutdown adds to widening energy disruptions across the Persian Gulf, after 
       <description>&lt;p&gt;🚨 IRAN'S SECURITY CHIEF LARIJANI: STRAIT OF HORMUZ WILL EITHER BE A STRAIT OF PEACE AND PROSPERITY FOR ALL OR WILL BE A STRAIT OF DEFEAT AND SUFFERING FOR 'WARMONGERS'&lt;/p&gt;</description>
       <guid isPermaLink="false">2031346897491816733</guid>
       <pubDate>Tue, 10 Mar 2026 12:30:15 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>SPAIN'S FM ALBARES:GROUND INVASION OF LEBANON BY ISRAEL WOULD BE "TREMENDOUS MISTAKE"</title>
-      <link>https://nitter.net/DeItaone/status/2031346718432690499#m</link>
-      <description>&lt;p&gt;SPAIN'S FM ALBARES:GROUND INVASION OF LEBANON BY ISRAEL WOULD BE "TREMENDOUS MISTAKE"&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031346718432690499</guid>
-      <pubDate>Tue, 10 Mar 2026 12:29:32 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
