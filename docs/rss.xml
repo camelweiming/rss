@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 10 Mar 2026 08:08:59 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 08:19:01 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>NORTH KOREA'S KIM YO JONG SAYS JOINT U.S.-SOUTH KOREA DRILLS WILL HURT REGIONAL STABILITY</title>
@@ -379,6 +379,14 @@ The IDF has begun a broad wave of strikes against terror targets.'&lt;/p&gt;</de
       <source>DeItaone</source>
     </item>
     <item>
+      <title>British aircraft carrier will not be sent to Middle East, say officials</title>
+      <link>https://www.ft.com/content/2d5ccfbd-fe50-41e5-aa82-fa4c27464e73</link>
+      <description>Move follows Trump’s criticism of Starmer for supposedly wanting to join Iran war after it had already been ‘won’</description>
+      <guid isPermaLink="false">2d5ccfbd-fe50-41e5-aa82-fa4c27464e73</guid>
+      <pubDate>Mon, 09 Mar 2026 19:35:53 +0000</pubDate>
+      <source>FT</source>
+    </item>
+    <item>
       <title>*TRUMP MULLS TAKING OVER STRAIT OF HORMUZ: CBS</title>
       <link>https://nitter.net/DeItaone/status/2031091463165968486#m</link>
       <description>&lt;p&gt;*TRUMP MULLS TAKING OVER STRAIT OF HORMUZ: CBS&lt;/p&gt;</description>
@@ -400,14 +408,6 @@ The IDF has begun a broad wave of strikes against terror targets.'&lt;/p&gt;</de
       <description>&lt;p&gt;ISRAELI FOREIGN MINISTER SAYS THERE HAVE BEEN MORE ATTACKS AGAINST ISRAEL FROM LEBANON THAN FROM IRAN OVER PAST WEEK - POST ON X&lt;/p&gt;</description>
       <guid isPermaLink="false">2031090801850143044</guid>
       <pubDate>Mon, 09 Mar 2026 19:32:37 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>KREMLIN: PUTIN HAS PUT FORWARD SEVERAL PROPOSALS TO END THE IRAN CONFLICT QUICKLY</title>
-      <link>https://nitter.net/DeItaone/status/2031089989753160074#m</link>
-      <description>&lt;p&gt;KREMLIN: PUTIN HAS PUT FORWARD SEVERAL PROPOSALS TO END THE IRAN CONFLICT QUICKLY&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031089989753160074</guid>
-      <pubDate>Mon, 09 Mar 2026 19:29:24 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
