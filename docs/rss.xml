@@ -4,8 +4,24 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 07:17:27 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 07:27:25 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>USTR Greer: US Initiating Section 301 Investigation Into 16 Trading Partners Including China, Eu, Mexico, Vietnam, India, And Japan</title>
+      <link>https://nitter.net/DeItaone/status/2031871772727923040#m</link>
+      <description>&lt;p&gt;USTR Greer: US Initiating Section 301 Investigation Into 16 Trading Partners Including China, Eu, Mexico, Vietnam, India, And Japan&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031871772727923040</guid>
+      <pubDate>Wed, 11 Mar 2026 23:15:55 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
+    <item>
+      <title>USTR GREER: EU HAS DONE 'APPROXIMATELY ZERO PERCENT' OF WHAT WAS AGREED IN BI-LAT TRADE DEAL</title>
+      <link>https://nitter.net/DeItaone/status/2031870844989845565#m</link>
+      <description>&lt;p&gt;USTR GREER: EU HAS DONE 'APPROXIMATELY ZERO PERCENT' OF WHAT WAS AGREED IN BI-LAT TRADE DEAL&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031870844989845565</guid>
+      <pubDate>Wed, 11 Mar 2026 23:12:14 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>U.S. INTELLIGENCE FINDS IRAN GOVERNMENT NOT AT RISK OF COLLAPSE -SOURCES</title>
       <link>https://nitter.net/DeItaone/status/2031868698646950014#m</link>
@@ -414,22 +430,6 @@ Shipping companies are pausing or rerouting services based on risk assessments a
       <guid isPermaLink="false">2031771999664541939</guid>
       <pubDate>Wed, 11 Mar 2026 16:39:27 +0000</pubDate>
       <source>DeItaone</source>
-    </item>
-    <item>
-      <title>TRUMP: I THINK OIL COMPANIES SHOULD USE STRAIT OF HORMUZ</title>
-      <link>https://nitter.net/DeItaone/status/2031771901337473401#m</link>
-      <description>&lt;p&gt;TRUMP: I THINK OIL COMPANIES SHOULD USE STRAIT OF HORMUZ&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031771901337473401</guid>
-      <pubDate>Wed, 11 Mar 2026 16:39:04 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>Inflation fears push US and German borrowing costs to conflict highs</title>
-      <link>https://www.ft.com/content/ad111a3e-ee44-4614-8be1-bef695cdc51b</link>
-      <description>400mn barrels of crude made available as governments race to tackle energy shock</description>
-      <guid isPermaLink="false">ad111a3e-ee44-4614-8be1-bef695cdc51b</guid>
-      <pubDate>Wed, 11 Mar 2026 16:38:43 +0000</pubDate>
-      <source>FT</source>
     </item>
   </channel>
 </rss>
