@@ -4,8 +4,52 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 11 Mar 2026 21:56:30 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 22:06:27 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>🚨 *TRUMP SAYS WAR WITH IRAN WILL END SOON: AXIOS</title>
+      <link>https://nitter.net/DeItaone/status/2031732467279814967#m</link>
+      <description>&lt;p&gt;🚨 *TRUMP SAYS WAR WITH IRAN WILL END SOON: AXIOS&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031732467279814967</guid>
+      <pubDate>Wed, 11 Mar 2026 14:02:22 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
+    <item>
+      <title>🚨 TRUMP TELLS AXIOS IRAN WAR WILL END SOON, "ANY TIME I WANT IT TO END, IT WILL END"</title>
+      <link>https://nitter.net/DeItaone/status/2031732415777907009#m</link>
+      <description>&lt;p&gt;🚨 TRUMP TELLS AXIOS IRAN WAR WILL END SOON, "ANY TIME I WANT IT TO END, IT WILL END"&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031732415777907009</guid>
+      <pubDate>Wed, 11 Mar 2026 14:02:10 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
+    <item>
+      <title>*IEA MEMBERS AGREED TO RELEASE 400M BARRELS OF OIL: STATEMENT</title>
+      <link>https://nitter.net/DeItaone/status/2031732301684416806#m</link>
+      <description>&lt;p&gt;*IEA MEMBERS AGREED TO RELEASE 400M BARRELS OF OIL: STATEMENT&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031732301684416806</guid>
+      <pubDate>Wed, 11 Mar 2026 14:01:43 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
+    <item>
+      <title>🚨 TRUMP TELLS AXIOS THERE'S "PRACTICALLY NOTHING LEFT" TO TARGET IN IRAN</title>
+      <link>https://nitter.net/DeItaone/status/2031732154107871380#m</link>
+      <description>&lt;p&gt;🚨 TRUMP TELLS AXIOS THERE'S "PRACTICALLY NOTHING LEFT" TO TARGET IN IRAN&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031732154107871380</guid>
+      <pubDate>Wed, 11 Mar 2026 14:01:07 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
+    <item>
+      <title>*OMAN: DRONES STRUCK FUEL TANKS AT SALALAH PORT
+
+*OMAN: NO HUMAN CASUALTIES FROM SALALAH PORT INCIDENT</title>
+      <link>https://nitter.net/DeItaone/status/2031731701139849368#m</link>
+      <description>&lt;p&gt;*OMAN: DRONES STRUCK FUEL TANKS AT SALALAH PORT&lt;br /&gt;
+&lt;br /&gt;
+*OMAN: NO HUMAN CASUALTIES FROM SALALAH PORT INCIDENT&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031731701139849368</guid>
+      <pubDate>Wed, 11 Mar 2026 13:59:19 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>GOLDMAN WARNS OF POTENTIAL ‘EXTREME’ STOCK RALLY
 
@@ -361,6 +405,14 @@ Iran will switch from "reciprocal hits" after attacks to continuous strikes on a
       <source>DeItaone</source>
     </item>
     <item>
+      <title>Weather warnings issued as gales set to batter parts of the UK</title>
+      <link>https://www.bbc.com/weather/articles/cly877pe9l8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Strong winds are likely across many parts of the UK on Thursday before turning colder with some wintry showers at the end of the week, as Simon King explains.</description>
+      <guid isPermaLink="false">https://www.bbc.com/weather/articles/cly877pe9l8o#0</guid>
+      <pubDate>Wed, 11 Mar 2026 12:04:37 +0000</pubDate>
+      <source>BBC</source>
+    </item>
+    <item>
       <title>Teenage girl stabbed at high school</title>
       <link>https://www.bbc.com/news/articles/c15x1wnd7yqo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>The BBC is told students have been placed under lockdown conditions in the school buildings.</description>
@@ -495,54 +547,6 @@ Iran will switch from "reciprocal hits" after attacks to continuous strikes on a
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c24dm9vgrz7o#0</guid>
       <pubDate>Wed, 11 Mar 2026 09:59:01 +0000</pubDate>
       <source>BBC</source>
-    </item>
-    <item>
-      <title>IEA preparing record release of oil reserves</title>
-      <link>https://www.ft.com/content/894b1636-caaa-4f30-a171-549f5bd00738</link>
-      <description>Plan underlines fears for the global economy from energy shock triggered by the Middle East war</description>
-      <guid isPermaLink="false">894b1636-caaa-4f30-a171-549f5bd00738</guid>
-      <pubDate>Wed, 11 Mar 2026 08:34:16 +0000</pubDate>
-      <source>FT</source>
-    </item>
-    <item>
-      <title>Inside the Russian explosives plot that targeted the UK</title>
-      <link>https://www.bbc.com/news/articles/cpd83zwqlvno?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Aleksandr Suranovas, charged with carrying out an act of terrorism for Russia, speaks to the BBC.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cpd83zwqlvno#0</guid>
-      <pubDate>Wed, 11 Mar 2026 06:00:08 +0000</pubDate>
-      <source>BBC</source>
-    </item>
-    <item>
-      <title>Gulf disruption chokes sulphur flows supporting swaths of global industry</title>
-      <link>https://www.ft.com/content/dd2498cc-d221-4645-9fae-34d1d832c15d</link>
-      <description>Shortage spurs surge in prices and threatens sectors from fertiliser to microchips as impact of war in Iran widens</description>
-      <guid isPermaLink="false">dd2498cc-d221-4645-9fae-34d1d832c15d</guid>
-      <pubDate>Wed, 11 Mar 2026 05:00:30 +0000</pubDate>
-      <source>FT</source>
-    </item>
-    <item>
-      <title>The economic consequences of war with Iran</title>
-      <link>https://www.ft.com/content/dab7d625-77f8-40ff-aeb9-451f81772125</link>
-      <description>There are lasting lessons about energy resilience to be learnt from this conflict</description>
-      <guid isPermaLink="false">dab7d625-77f8-40ff-aeb9-451f81772125</guid>
-      <pubDate>Wed, 11 Mar 2026 05:00:30 +0000</pubDate>
-      <source>FT</source>
-    </item>
-    <item>
-      <title>Iranians rethink the price of regime change</title>
-      <link>https://www.ft.com/content/4e048ed0-9bba-4392-8cee-7f1337c0b211</link>
-      <description>Destructive US and Israeli war and Islamic republic’s resilience have alarmed even those who supported foreign intervention</description>
-      <guid isPermaLink="false">4e048ed0-9bba-4392-8cee-7f1337c0b211</guid>
-      <pubDate>Wed, 11 Mar 2026 05:00:21 +0000</pubDate>
-      <source>FT</source>
-    </item>
-    <item>
-      <title>Lasers, radars and drones: Middle East war spurs hunt for cheaper air defence</title>
-      <link>https://www.ft.com/content/1d283f95-0f06-48be-8181-a79e254e0faf</link>
-      <description>Complex systems built to counter enemy aircraft and large missiles are not cost effective for modern warfare</description>
-      <guid isPermaLink="false">1d283f95-0f06-48be-8181-a79e254e0faf</guid>
-      <pubDate>Wed, 11 Mar 2026 05:00:21 +0000</pubDate>
-      <source>FT</source>
     </item>
   </channel>
 </rss>
