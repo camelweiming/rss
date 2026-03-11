@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 11 Mar 2026 16:37:44 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 16:45:26 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>IEA preparing record release of oil reserves</title>
+      <link>https://www.ft.com/content/894b1636-caaa-4f30-a171-549f5bd00738</link>
+      <description>Plan underlines fears for the global economy from energy shock triggered by the Middle East war</description>
+      <guid isPermaLink="false">894b1636-caaa-4f30-a171-549f5bd00738</guid>
+      <pubDate>Wed, 11 Mar 2026 08:34:16 +0000</pubDate>
+      <source>FT</source>
+    </item>
     <item>
       <title>Inside the Russian explosives plot that targeted the UK</title>
       <link>https://www.bbc.com/news/articles/cpd83zwqlvno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -430,18 +438,6 @@ Morgan Stanley estimates only 3 crude/refined product tankers exited the Persian
       <description>&lt;p&gt;TRUMP ORDER CUTTING TIES WITH ANTHROPIC LIKELY COMING LATER THIS WEEK- CBS NEWS&lt;/p&gt;</description>
       <guid isPermaLink="false">2031420049752310062</guid>
       <pubDate>Tue, 10 Mar 2026 17:20:56 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>IRAN SHIPS OIL THROUGH HORMUZ DESPITE STRIKES
-
-A supertanker carrying 2 million barrels of Iranian oil passed through the Strait of Hormuz to China, marking the sixth Iranian vessel since February 28. At least 11 million barrels have been shipped to Asia amid ongoing U.S.-Israeli strikes, with Iran also moving gas and oil products through the critical waterway.</title>
-      <link>https://nitter.net/DeItaone/status/2031419986225275158#m</link>
-      <description>&lt;p&gt;IRAN SHIPS OIL THROUGH HORMUZ DESPITE STRIKES&lt;br /&gt;
-&lt;br /&gt;
-A supertanker carrying 2 million barrels of Iranian oil passed through the Strait of Hormuz to China, marking the sixth Iranian vessel since February 28. At least 11 million barrels have been shipped to Asia amid ongoing U.S.-Israeli strikes, with Iran also moving gas and oil products through the critical waterway.&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031419986225275158</guid>
-      <pubDate>Tue, 10 Mar 2026 17:20:41 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
