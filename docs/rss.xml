@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 00:36:52 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 00:46:58 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>A 'weirdly rushed' appointment - and other key takeaways from Mandelson files</title>
+      <link>https://www.bbc.com/news/articles/cm2rg8z6p1vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>A batch of documents has revealed new details about the appointment of Lord Mandelson as ambassador.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2rg8z6p1vo#0</guid>
+      <pubDate>Wed, 11 Mar 2026 16:39:47 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>JMIC: NO CONFIRMED EVIDENCE OF MINES IN THE STRAIT OF HORMUZ</title>
       <link>https://nitter.net/DeItaone/status/2031770783769309242#m</link>
@@ -476,14 +484,6 @@ A ceasefire in the Iran conflict or positive headlines could trigger 2–3% inde
 &lt;img src="https://nitter.net/pic/media%2FHDImJvYXsAAr_IE.png" /&gt;</description>
       <guid isPermaLink="false">2031728336402084080</guid>
       <pubDate>Wed, 11 Mar 2026 13:45:57 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>$TSLA - TESLA SHARES HIT TWO-WEEK HIGH, LAST UP 2.6%; CO'S CHINA-MADE EV SALES JUMP 91% IN FEBRUARY</title>
-      <link>https://nitter.net/DeItaone/status/2031728107225313694#m</link>
-      <description>&lt;p&gt;&lt;a href="https://nitter.net/search?f=tweets&amp;amp;q=%23TSLA"&gt;$TSLA&lt;/a&gt; - TESLA SHARES HIT TWO-WEEK HIGH, LAST UP 2.6%; CO'S CHINA-MADE EV SALES JUMP 91% IN FEBRUARY&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031728107225313694</guid>
-      <pubDate>Wed, 11 Mar 2026 13:45:03 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
