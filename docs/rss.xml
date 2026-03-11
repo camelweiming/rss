@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 06:27:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 06:37:21 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>IRANIAN EXPLOSIVE-LADEN BOATS HIT TWO FUEL TANKERS IN IRAQI WATERS, INITIAL INVESTIGATION FROM IRAQI SECURITY OFFICIALS SHOWS</title>
+      <link>https://nitter.net/DeItaone/status/2031860988094414983#m</link>
+      <description>&lt;p&gt;IRANIAN EXPLOSIVE-LADEN BOATS HIT TWO FUEL TANKERS IN IRAQI WATERS, INITIAL INVESTIGATION FROM IRAQI SECURITY OFFICIALS SHOWS&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031860988094414983</guid>
+      <pubDate>Wed, 11 Mar 2026 22:33:04 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>TWO FOREIGN TANKERS CARRYING IRAQI FUEL OIL WERE SUBJECTED TO UNIDENTIFIED ATTACKS INSIDE TERRITORIAL WATERS, CAUSING THEM TO CATCH FIRE - IRAQI PORT OFFICIAL TO REUTERS</title>
       <link>https://nitter.net/DeItaone/status/2031851096839164321#m</link>
@@ -421,14 +429,6 @@ Shipping companies are pausing or rerouting services based on risk assessments a
       <description>&lt;p&gt;TRUMP ON SPAIN: NOT COOPERATING&lt;/p&gt;</description>
       <guid isPermaLink="false">2031766384984678882</guid>
       <pubDate>Wed, 11 Mar 2026 16:17:09 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>TRUMP: I AM NOT WORRIED ABOUT AN IRAN-BACKED DOMESTIC TERROR ATTACK</title>
-      <link>https://nitter.net/DeItaone/status/2031766243376517212#m</link>
-      <description>&lt;p&gt;TRUMP: I AM NOT WORRIED ABOUT AN IRAN-BACKED DOMESTIC TERROR ATTACK&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031766243376517212</guid>
-      <pubDate>Wed, 11 Mar 2026 16:16:35 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
