@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 05:57:08 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 06:07:21 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>TWO FOREIGN TANKERS CARRYING IRAQI FUEL OIL WERE SUBJECTED TO UNIDENTIFIED ATTACKS INSIDE TERRITORIAL WATERS, CAUSING THEM TO CATCH FIRE - IRAQI PORT OFFICIAL TO REUTERS</title>
+      <link>https://nitter.net/DeItaone/status/2031851096839164321#m</link>
+      <description>&lt;p&gt;TWO FOREIGN TANKERS CARRYING IRAQI FUEL OIL WERE SUBJECTED TO UNIDENTIFIED ATTACKS INSIDE TERRITORIAL WATERS, CAUSING THEM TO CATCH FIRE - IRAQI PORT OFFICIAL TO REUTERS&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031851096839164321</guid>
+      <pubDate>Wed, 11 Mar 2026 21:53:46 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>IRAN'S REVOLUTIONARY GUARDS SAYS IT CARRIED OUT A JOINT OPERATION WITH LEBANON'S HEZBOLLAH AGAINST ISRAEL</title>
       <link>https://nitter.net/DeItaone/status/2031846612612337996#m</link>
@@ -421,14 +429,6 @@ Shipping companies are pausing or rerouting services based on risk assessments a
       <description>&lt;p&gt;TRUMP: I AM NOT WORRIED ABOUT AN IRAN-BACKED DOMESTIC TERROR ATTACK&lt;/p&gt;</description>
       <guid isPermaLink="false">2031766243376517212</guid>
       <pubDate>Wed, 11 Mar 2026 16:16:35 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>TRUMP: US TOOK OUT JUST ABOUT ALL OF IRAN'S MINE SHIPS</title>
-      <link>https://nitter.net/DeItaone/status/2031765637760979299#m</link>
-      <description>&lt;p&gt;TRUMP: US TOOK OUT JUST ABOUT ALL OF IRAN'S MINE SHIPS&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031765637760979299</guid>
-      <pubDate>Wed, 11 Mar 2026 16:14:11 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
