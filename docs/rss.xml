@@ -4,8 +4,32 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 11 Mar 2026 13:10:25 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 13:14:50 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Gulf disruption chokes sulphur flows supporting swaths of global industry</title>
+      <link>https://www.ft.com/content/dd2498cc-d221-4645-9fae-34d1d832c15d</link>
+      <description>Shortage spurs surge in prices and threatens sectors from fertiliser to microchips as impact of war in Iran widens</description>
+      <guid isPermaLink="false">dd2498cc-d221-4645-9fae-34d1d832c15d</guid>
+      <pubDate>Wed, 11 Mar 2026 05:00:30 +0000</pubDate>
+      <source>FT</source>
+    </item>
+    <item>
+      <title>The economic consequences of war with Iran</title>
+      <link>https://www.ft.com/content/dab7d625-77f8-40ff-aeb9-451f81772125</link>
+      <description>There are lasting lessons about energy resilience to be learnt from this conflict</description>
+      <guid isPermaLink="false">dab7d625-77f8-40ff-aeb9-451f81772125</guid>
+      <pubDate>Wed, 11 Mar 2026 05:00:30 +0000</pubDate>
+      <source>FT</source>
+    </item>
+    <item>
+      <title>Lasers, radars and drones: Middle East war spurs hunt for cheaper air defence</title>
+      <link>https://www.ft.com/content/1d283f95-0f06-48be-8181-a79e254e0faf</link>
+      <description>Complex systems built to counter enemy aircraft and large missiles are not cost effective for modern warfare</description>
+      <guid isPermaLink="false">1d283f95-0f06-48be-8181-a79e254e0faf</guid>
+      <pubDate>Wed, 11 Mar 2026 05:00:21 +0000</pubDate>
+      <source>FT</source>
+    </item>
     <item>
       <title>Government approves Met request to ban Al Quds Day march</title>
       <link>https://www.bbc.com/news/articles/cm28gmlvedro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -419,30 +443,6 @@ A supertanker carrying 2 million barrels of Iranian oil passed through the Strai
       <guid isPermaLink="false">https://www.bbc.com/sport/horse-racing/articles/czx77n5j7y2o#0</guid>
       <pubDate>Tue, 10 Mar 2026 17:16:55 +0000</pubDate>
       <source>BBC</source>
-    </item>
-    <item>
-      <title>The ‘number station’ sending mystery messages to Iran</title>
-      <link>https://www.ft.com/content/86c4a4ca-ca06-4fc8-90fe-4f46357b804f</link>
-      <description>Radio station is broadcasting apparent coded messages in Farsi, echoing the cold war</description>
-      <guid isPermaLink="false">86c4a4ca-ca06-4fc8-90fe-4f46357b804f</guid>
-      <pubDate>Tue, 10 Mar 2026 17:13:03 +0000</pubDate>
-      <source>FT</source>
-    </item>
-    <item>
-      <title>SUPERTANKER SAILS THROUGH STRAIT OF HORMUZ WITH 2 MILLION BBLS OF IRANIAN OIL, ADDING TO AT LEAST 5 OTHER IRAN OIL SHIPMENTS SINCE FEB. 28 - SHIP TRACKERS</title>
-      <link>https://nitter.net/DeItaone/status/2031417462806261806#m</link>
-      <description>&lt;p&gt;SUPERTANKER SAILS THROUGH STRAIT OF HORMUZ WITH 2 MILLION BBLS OF IRANIAN OIL, ADDING TO AT LEAST 5 OTHER IRAN OIL SHIPMENTS SINCE FEB. 28 - SHIP TRACKERS&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031417462806261806</guid>
-      <pubDate>Tue, 10 Mar 2026 17:10:39 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>OIL FUTURES EXTEND LOSSES, U.S. AND BRENT CRUDE DOWN BY $14 A BARREL</title>
-      <link>https://nitter.net/DeItaone/status/2031417184346423539#m</link>
-      <description>&lt;p&gt;OIL FUTURES EXTEND LOSSES, U.S. AND BRENT CRUDE DOWN BY $14 A BARREL&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031417184346423539</guid>
-      <pubDate>Tue, 10 Mar 2026 17:09:33 +0000</pubDate>
-      <source>DeItaone</source>
     </item>
   </channel>
 </rss>
