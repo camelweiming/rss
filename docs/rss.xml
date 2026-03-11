@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 04:07:09 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 04:17:13 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Mandelson papers: what do they show?</title>
+      <link>https://www.ft.com/content/cd45e89b-ecce-4bb1-9821-9811e1ef32c9</link>
+      <description>Top Starmer aide warned US envoy’s appointment was ‘weirdly rushed’, while disgraced peer sought £547,000 payout</description>
+      <guid isPermaLink="false">cd45e89b-ecce-4bb1-9821-9811e1ef32c9</guid>
+      <pubDate>Wed, 11 Mar 2026 19:41:45 +0000</pubDate>
+      <source>FT</source>
+    </item>
     <item>
       <title>IRAN'S FOREIGN MINISTER ON X: A BRANCH OF IRAN'S OLDEST BANK WAS BOMBED WHILE FULL OF EMPLOYEES, IRANIAN ARMED FORCES WILL EXACT RETRIBUTION FOR THIS 'CRIME'</title>
       <link>https://nitter.net/DeItaone/status/2031808132905660551#m</link>
@@ -433,22 +441,6 @@ German Foreign Minister Johann Wadephul says the Strait of Hormuz is currently u
 German Foreign Minister Johann Wadephul says the Strait of Hormuz is currently unnavigable, with no shipping movement and no protection available. He warns the blockage threatens energy security for Asia and Europe and says only diplomacy, not military action, can restore safe passage.&lt;/p&gt;</description>
       <guid isPermaLink="false">2031754448628850956</guid>
       <pubDate>Wed, 11 Mar 2026 15:29:43 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>U.S. FERTILIZER STOCKS RISE AS MIDDLE EAST CONFLICT CONTINUES TO DISRUPT SHIPPING THROUGH STRAIT OF HORMUZ
-
-🔸CF INDUSTRIES CLIMBS 7.6%
-🔸MOSAIC RISES 6.2%
-🔸U.S.-LISTED SHARES OF NUTRIEN UP 3.2%</title>
-      <link>https://nitter.net/DeItaone/status/2031754147859513609#m</link>
-      <description>&lt;p&gt;U.S. FERTILIZER STOCKS RISE AS MIDDLE EAST CONFLICT CONTINUES TO DISRUPT SHIPPING THROUGH STRAIT OF HORMUZ&lt;br /&gt;
-&lt;br /&gt;
-🔸CF INDUSTRIES CLIMBS 7.6%&lt;br /&gt;
-🔸MOSAIC RISES 6.2%&lt;br /&gt;
-🔸U.S.-LISTED SHARES OF NUTRIEN UP 3.2%&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031754147859513609</guid>
-      <pubDate>Wed, 11 Mar 2026 15:28:31 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
