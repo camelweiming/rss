@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 11 Mar 2026 23:06:35 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 23:08:17 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>🚨 NO OIL WILL PASS THROUGH IRAQ-TURKEY PIPELINE UNLESS BAGHDAD GOVERNMENT GIVES KURDISTAN IMMEDIATE DOLLAR RELIEF - SENIOR KRG OFFICIAL TELLS REUTERS
@@ -41,6 +41,14 @@ Officials say the error reflects human and procedural failures, not new technolo
       <guid isPermaLink="false">2031746347804618908</guid>
       <pubDate>Wed, 11 Mar 2026 14:57:31 +0000</pubDate>
       <source>DeItaone</source>
+    </item>
+    <item>
+      <title>Boy, 16, arrested after girl is stabbed at school</title>
+      <link>https://www.bbc.com/news/articles/c15x1wnd7yqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Sources tell the BBC that pupils had to hide under their desks as the incident unfolded.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c15x1wnd7yqo#0</guid>
+      <pubDate>Wed, 11 Mar 2026 14:53:56 +0000</pubDate>
+      <source>BBC</source>
     </item>
     <item>
       <title>CITI TELLS STAFF TODAY TO EVACUATE OFFICES IN DUBAI'S DIFC, OUD METHA- MEMO TO EMPLOYEES SHOWS</title>
@@ -585,14 +593,6 @@ Iran will switch from "reciprocal hits" after attacks to continuous strikes on a
 "Get ready for the oil barrel to be at $200 because the oil price depends on the regional security which you have destabilised," he added&lt;/p&gt;</description>
       <guid isPermaLink="false">2031704078250627322</guid>
       <pubDate>Wed, 11 Mar 2026 12:09:34 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>QATAR: THE THREAT LEVEL IS HIGH, ASK PEOPLE TO STAY HOME</title>
-      <link>https://nitter.net/DeItaone/status/2031703616612946363#m</link>
-      <description>&lt;p&gt;QATAR: THE THREAT LEVEL IS HIGH, ASK PEOPLE TO STAY HOME&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031703616612946363</guid>
-      <pubDate>Wed, 11 Mar 2026 12:07:44 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
