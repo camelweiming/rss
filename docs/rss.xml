@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 03:07:05 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 03:17:05 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>IRAN'S FOREIGN MINISTER ON X: A BRANCH OF IRAN'S OLDEST BANK WAS BOMBED WHILE FULL OF EMPLOYEES, IRANIAN ARMED FORCES WILL EXACT RETRIBUTION FOR THIS 'CRIME'</title>
@@ -113,6 +113,14 @@ The probes may target issues such as industrial overcapacity, digital trade rule
       <guid isPermaLink="false">2031794936794804259</guid>
       <pubDate>Wed, 11 Mar 2026 18:10:36 +0000</pubDate>
       <source>DeItaone</source>
+    </item>
+    <item>
+      <title>IEA releases record oil reserves to counter Iran war energy shock</title>
+      <link>https://www.ft.com/content/9b623bca-bc3a-4081-b1c7-f57d83ea225e</link>
+      <description>Unprecedented move underscores fears of threat to global economy from Middle East war</description>
+      <guid isPermaLink="false">9b623bca-bc3a-4081-b1c7-f57d83ea225e</guid>
+      <pubDate>Wed, 11 Mar 2026 18:05:44 +0000</pubDate>
+      <source>FT</source>
     </item>
     <item>
       <title>🚨 U.S. STATE DEPT: IRAN AND IRAN-ALIGNED TERRORIST MILITIAS MAY BE PLANNING TO TARGET U.S.-OWNED OIL AND ENERGY INFRASTRUCTURE IN IRAQ</title>
@@ -441,14 +449,6 @@ German Foreign Minister Johann Wadephul says the Strait of Hormuz is currently u
 🔸U.S.-LISTED SHARES OF NUTRIEN UP 3.2%&lt;/p&gt;</description>
       <guid isPermaLink="false">2031754147859513609</guid>
       <pubDate>Wed, 11 Mar 2026 15:28:31 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>MACRON: WILL TAKE FEW WEEKS TO COORDINATE HORMUZ SHIP ESCORTS</title>
-      <link>https://nitter.net/DeItaone/status/2031753982171902204#m</link>
-      <description>&lt;p&gt;MACRON: WILL TAKE FEW WEEKS TO COORDINATE HORMUZ SHIP ESCORTS&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031753982171902204</guid>
-      <pubDate>Wed, 11 Mar 2026 15:27:52 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
