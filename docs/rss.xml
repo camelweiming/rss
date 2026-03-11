@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 11 Mar 2026 09:24:25 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 09:34:26 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Trump administration’s mixed messaging sparks wild swings in oil markets</title>
+      <link>https://www.ft.com/content/26f34fbf-226e-4957-beda-a9dbd2e0477a</link>
+      <description>Confusion over US naval escorts in Strait of Hormuz exposes lack of clarity over war aims</description>
+      <guid isPermaLink="false">26f34fbf-226e-4957-beda-a9dbd2e0477a</guid>
+      <pubDate>Wed, 11 Mar 2026 00:30:17 +0000</pubDate>
+      <source>FT</source>
+    </item>
     <item>
       <title>Jeffrey Epstein had two key aides - why do they still control his money and secrets?</title>
       <link>https://www.bbc.com/news/articles/cdjm7rxjxneo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -435,14 +443,6 @@ A supertanker carrying 2 million barrels of Iranian oil passed through the Strai
       <guid isPermaLink="false">2031415015119446101</guid>
       <pubDate>Tue, 10 Mar 2026 17:00:56 +0000</pubDate>
       <source>DeItaone</source>
-    </item>
-    <item>
-      <title>Nottingham triple killer assaulted husband and wife weeks before attacks, inquiry told</title>
-      <link>https://www.bbc.com/news/articles/cze094zdelko?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Valdo Calocane attacked two colleagues weeks before he killed three people in Nottingham.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cze094zdelko#0</guid>
-      <pubDate>Tue, 10 Mar 2026 16:49:04 +0000</pubDate>
-      <source>BBC</source>
     </item>
   </channel>
 </rss>
