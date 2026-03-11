@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 11 Mar 2026 13:44:57 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 13:54:56 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>Gulf disruption chokes sulphur flows supporting swaths of global industry</title>
@@ -20,6 +20,14 @@
       <description>There are lasting lessons about energy resilience to be learnt from this conflict</description>
       <guid isPermaLink="false">dab7d625-77f8-40ff-aeb9-451f81772125</guid>
       <pubDate>Wed, 11 Mar 2026 05:00:30 +0000</pubDate>
+      <source>FT</source>
+    </item>
+    <item>
+      <title>Iranians rethink the price of regime change</title>
+      <link>https://www.ft.com/content/4e048ed0-9bba-4392-8cee-7f1337c0b211</link>
+      <description>Destructive US and Israeli war and Islamic republic’s resilience have alarmed even those who supported foreign intervention</description>
+      <guid isPermaLink="false">4e048ed0-9bba-4392-8cee-7f1337c0b211</guid>
+      <pubDate>Wed, 11 Mar 2026 05:00:21 +0000</pubDate>
       <source>FT</source>
     </item>
     <item>
@@ -435,14 +443,6 @@ A supertanker carrying 2 million barrels of Iranian oil passed through the Strai
       <guid isPermaLink="false">2031419501015650484</guid>
       <pubDate>Tue, 10 Mar 2026 17:18:45 +0000</pubDate>
       <source>DeItaone</source>
-    </item>
-    <item>
-      <title>The Brits travelling in their thousands to 'Costa del Cheltenham'</title>
-      <link>https://www.bbc.com/sport/horse-racing/articles/czx77n5j7y2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Thousands of Brits have travelled to Costa Blanca to enjoy Cheltenham Festival, the pinnacle event of the jump-racing calendar.</description>
-      <guid isPermaLink="false">https://www.bbc.com/sport/horse-racing/articles/czx77n5j7y2o#0</guid>
-      <pubDate>Tue, 10 Mar 2026 17:16:55 +0000</pubDate>
-      <source>BBC</source>
     </item>
   </channel>
 </rss>
