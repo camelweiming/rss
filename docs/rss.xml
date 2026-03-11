@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 11 Mar 2026 19:59:18 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 20:06:11 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>Teenage girl stabbed at high school</title>
@@ -13,6 +13,22 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c15x1wnd7yqo#0</guid>
       <pubDate>Wed, 11 Mar 2026 11:53:09 +0000</pubDate>
       <source>BBC</source>
+    </item>
+    <item>
+      <title>ISRAEL ASSESSES THAT TRUMP NOT CLOSE TO INSTRUCTING END TO WAR - TWO ISRAELI OFFICIALS</title>
+      <link>https://nitter.net/DeItaone/status/2031699496984252722#m</link>
+      <description>&lt;p&gt;ISRAEL ASSESSES THAT TRUMP NOT CLOSE TO INSTRUCTING END TO WAR - TWO ISRAELI OFFICIALS&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031699496984252722</guid>
+      <pubDate>Wed, 11 Mar 2026 11:51:21 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
+    <item>
+      <title>ISRAELI OFFICIALS ACKNOWLEDGE NO CERTAINTY THAT WAR ON IRAN WILL LEAD TO COLLAPSE OF ITS CLERICAL SYSTEM - SENIOR ISRAELI OFFICIAL</title>
+      <link>https://nitter.net/DeItaone/status/2031699333960147287#m</link>
+      <description>&lt;p&gt;ISRAELI OFFICIALS ACKNOWLEDGE NO CERTAINTY THAT WAR ON IRAN WILL LEAD TO COLLAPSE OF ITS CLERICAL SYSTEM - SENIOR ISRAELI OFFICIAL&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031699333960147287</guid>
+      <pubDate>Wed, 11 Mar 2026 11:50:43 +0000</pubDate>
+      <source>DeItaone</source>
     </item>
     <item>
       <title>*US ASKED ROMANIA TO TEMPORARILY HOST ITS REFUELING PLANES</title>
@@ -402,22 +418,6 @@ The U.S. government has urged Israel not to carry out further strikes on Iran’
       <description>&lt;p&gt;WHITE HOUSE ON IRAN: TRUMP IS NOT AFRAID TO USE ADDITIONAL OPTIONS ON ENERGY&lt;/p&gt;</description>
       <guid isPermaLink="false">2031435478092664851</guid>
       <pubDate>Tue, 10 Mar 2026 18:22:14 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>WHITE HOUSE ON IRAN: PRESIDENT AND ENERGY TEAM CLOSELY WATCH MARKETS, ADDITIONAL OPTIONS BEING DRAWN UP</title>
-      <link>https://nitter.net/DeItaone/status/2031435432378921108#m</link>
-      <description>&lt;p&gt;WHITE HOUSE ON IRAN: PRESIDENT AND ENERGY TEAM CLOSELY WATCH MARKETS, ADDITIONAL OPTIONS BEING DRAWN UP&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031435432378921108</guid>
-      <pubDate>Tue, 10 Mar 2026 18:22:03 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>U.S. MILITARY HAS NOT ESCORTED ANY SHIPS THROUGH STRAIT OF HORMUZ SO FAR - U.S. OFFICIAL TELLS REUTERS</title>
-      <link>https://nitter.net/DeItaone/status/2031431419927449737#m</link>
-      <description>&lt;p&gt;U.S. MILITARY HAS NOT ESCORTED ANY SHIPS THROUGH STRAIT OF HORMUZ SO FAR - U.S. OFFICIAL TELLS REUTERS&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031431419927449737</guid>
-      <pubDate>Tue, 10 Mar 2026 18:06:07 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
