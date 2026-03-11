@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 04:47:13 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 04:51:58 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>PENTAGON: THE IRAN WAR COST MORE THAN $11 BLN IN THE FIRST WEEK, SOURCES SAY</title>
+      <link>https://nitter.net/DeItaone/status/2031834018950299695#m</link>
+      <description>&lt;p&gt;PENTAGON: THE IRAN WAR COST MORE THAN $11 BLN IN THE FIRST WEEK, SOURCES SAY&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031834018950299695</guid>
+      <pubDate>Wed, 11 Mar 2026 20:45:54 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>US COMMITTED TO EU TRADE DEAL, TOP TRUMP OFFICIAL TELLS BRUSSELS - POLITICO</title>
       <link>https://nitter.net/DeItaone/status/2031831438132183316#m</link>
@@ -425,14 +433,6 @@ Iran’s Islamic Revolutionary Guard Corps says it has high-speed missiles launc
       <description>&lt;p&gt;&lt;a href="https://nitter.net/search?f=tweets&amp;amp;q=%23MCD"&gt;$MCD&lt;/a&gt; - McDonald's to Offer New Menu of Items Costing $3 and Less, Sources Say&lt;/p&gt;</description>
       <guid isPermaLink="false">2031762461712413075</guid>
       <pubDate>Wed, 11 Mar 2026 16:01:33 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>$MCD - McDonald's Planning New $4 Breakfast Meal Deals, Sources Say</title>
-      <link>https://nitter.net/DeItaone/status/2031762158024040479#m</link>
-      <description>&lt;p&gt;&lt;a href="https://nitter.net/search?f=tweets&amp;amp;q=%23MCD"&gt;$MCD&lt;/a&gt; - McDonald's Planning New $4 Breakfast Meal Deals, Sources Say&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031762158024040479</guid>
-      <pubDate>Wed, 11 Mar 2026 16:00:21 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
