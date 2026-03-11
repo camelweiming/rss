@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 11 Mar 2026 12:14:47 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 12:24:45 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Government approves Met request to ban Al Quds Day march</title>
+      <link>https://www.bbc.com/news/articles/cm28gmlvedro?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The government grants a request from the Metropolitan Police to ban a march due to take place in London on Sunday.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cm28gmlvedro#0</guid>
+      <pubDate>Wed, 11 Mar 2026 04:14:17 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>Trump administration’s mixed messaging sparks wild swings in oil markets</title>
       <link>https://www.ft.com/content/26f34fbf-226e-4957-beda-a9dbd2e0477a</link>
@@ -435,14 +443,6 @@ A supertanker carrying 2 million barrels of Iranian oil passed through the Strai
       <guid isPermaLink="false">2031417184346423539</guid>
       <pubDate>Tue, 10 Mar 2026 17:09:33 +0000</pubDate>
       <source>DeItaone</source>
-    </item>
-    <item>
-      <title>HMS Dragon departs UK for eastern Mediterranean</title>
-      <link>https://www.bbc.com/news/articles/c0k1yyg475ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The Type 45 frigate's main role will be protecting RAF Akrotiri, which was hit with an Iranian-made drone.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c0k1yyg475ko#0</guid>
-      <pubDate>Tue, 10 Mar 2026 17:08:52 +0000</pubDate>
-      <source>BBC</source>
     </item>
   </channel>
 </rss>
