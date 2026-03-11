@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 00:56:57 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 01:03:10 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Mandelson appointment ‘weirdly rushed’, top UK official warned</title>
+      <link>https://www.ft.com/content/2fcc55b1-90a3-4157-9ee9-5a370553f35b</link>
+      <description>Disgraced peer demanded £547,000 after being sacked as Britain’s ambassador to US, official documents show</description>
+      <guid isPermaLink="false">2fcc55b1-90a3-4157-9ee9-5a370553f35b</guid>
+      <pubDate>Wed, 11 Mar 2026 16:48:53 +0000</pubDate>
+      <source>FT</source>
+    </item>
     <item>
       <title>TRUMP ON SPAIN: THEY HAVE BEEN BAD, IT MAY CUT OFF TRADE WITH SPAIN</title>
       <link>https://nitter.net/DeItaone/status/2031773592262734250#m</link>
@@ -463,14 +471,6 @@ U.S. and Israeli officials, however, plan at least two more weeks of strikes. CE
       <description>&lt;p&gt;IEA SAYS IT HAS PROPOSED LARGEST RELEASE OF STRATEGIC OIL RESERVES IN HISTORY&lt;/p&gt;</description>
       <guid isPermaLink="false">2031733081896255497</guid>
       <pubDate>Wed, 11 Mar 2026 14:04:49 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>🚨 *OFFICIALS PREPARE FOR AT LEAST TWO MORE WEEKS OF STRIKES: AXIOS</title>
-      <link>https://nitter.net/DeItaone/status/2031732954498531640#m</link>
-      <description>&lt;p&gt;🚨 *OFFICIALS PREPARE FOR AT LEAST TWO MORE WEEKS OF STRIKES: AXIOS&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031732954498531640</guid>
-      <pubDate>Wed, 11 Mar 2026 14:04:18 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
