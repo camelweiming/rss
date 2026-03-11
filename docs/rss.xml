@@ -4,8 +4,24 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 11 Mar 2026 08:03:12 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 08:13:15 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>University tuition fees system is a 'mess', says Clegg</title>
+      <link>https://www.bbc.com/news/articles/c1e9yyg23dyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The ex-deputy PM told the BBC he would "take on the chin" any criticism surrounding his involvement</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1e9yyg23dyo#0</guid>
+      <pubDate>Wed, 11 Mar 2026 00:02:43 +0000</pubDate>
+      <source>BBC</source>
+    </item>
+    <item>
+      <title>Oil swings as traders parse mixed messages on Strait of Hormuz</title>
+      <link>https://www.ft.com/content/ad111a3e-ee44-4614-8be1-bef695cdc51b</link>
+      <description>White House says US energy secretary’s claim that navy escorted tanker through key waterway was wrong</description>
+      <guid isPermaLink="false">ad111a3e-ee44-4614-8be1-bef695cdc51b</guid>
+      <pubDate>Tue, 10 Mar 2026 23:55:56 +0000</pubDate>
+      <source>FT</source>
+    </item>
     <item>
       <title>First Mandelson files expected to be published on Wednesday</title>
       <link>https://www.bbc.com/news/articles/c4gqj5z4qwqo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -427,31 +443,6 @@ A supertanker carrying 2 million barrels of Iranian oil passed through the Strai
       <guid isPermaLink="false">https://www.bbc.com/news/videos/cjeng582d13o#0</guid>
       <pubDate>Tue, 10 Mar 2026 16:47:23 +0000</pubDate>
       <source>BBC</source>
-    </item>
-    <item>
-      <title>FOUR IRANIAN DIPLOMATS KILLED IN LEBANON ON SUNDAY IN ISRAELI ATTACK - NOURNEWS CITING DIPLOMAT</title>
-      <link>https://nitter.net/DeItaone/status/2031407986095120742#m</link>
-      <description>&lt;p&gt;FOUR IRANIAN DIPLOMATS KILLED IN LEBANON ON SUNDAY IN ISRAELI ATTACK - NOURNEWS CITING DIPLOMAT&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031407986095120742</guid>
-      <pubDate>Tue, 10 Mar 2026 16:33:00 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>HORMUZ CLOSURE CRIPPLES FOOD SECURITY
-
-UN Trade and Development warns the Strait of Hormuz disruption—traffic down 97%—is spiking energy, fertilizer, transport, and insurance costs, echoing Covid-19 and Ukraine war shocks. 
-
-With 20% of global oil/LNG and one-third of seaborne fertilizer (16 million tonnes in 2024) routed through the strait, food prices surge hardest on vulnerable developing nations facing debt burdens and soaring borrowing costs. Poorest countries like Sudan, Somalia, and others face acute fertilizer shortages.</title>
-      <link>https://nitter.net/DeItaone/status/2031405524437102991#m</link>
-      <description>&lt;p&gt;HORMUZ CLOSURE CRIPPLES FOOD SECURITY&lt;br /&gt;
-&lt;br /&gt;
-UN Trade and Development warns the Strait of Hormuz disruption—traffic down 97%—is spiking energy, fertilizer, transport, and insurance costs, echoing Covid-19 and Ukraine war shocks. &lt;br /&gt;
-&lt;br /&gt;
-With 20% of global oil/LNG and one-third of seaborne fertilizer (16 million tonnes in 2024) routed through the strait, food prices surge hardest on vulnerable developing nations facing debt burdens and soaring borrowing costs. Poorest countries like Sudan, Somalia, and others face acute fertilizer shortages.&lt;/p&gt;
-&lt;img src="https://nitter.net/pic/media%2FHDEAjiCaMAUH3p_.jpg" /&gt;</description>
-      <guid isPermaLink="false">2031405524437102991</guid>
-      <pubDate>Tue, 10 Mar 2026 16:23:13 +0000</pubDate>
-      <source>DeItaone</source>
     </item>
   </channel>
 </rss>
