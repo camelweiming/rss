@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 11 Mar 2026 22:13:30 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 22:16:33 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Government loses appeal over Kneecap terror charge</title>
+      <link>https://www.bbc.com/news/articles/c5yjdpy7vvro?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Liam Óg Ó hAnnaidh, known as Mo Chara, had been accused of showing support for proscribed organisation Hezbollah following a gig in London in 2024.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yjdpy7vvro#0</guid>
+      <pubDate>Wed, 11 Mar 2026 14:07:02 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>🚨 *TRUMP SAYS WAR WITH IRAN WILL END SOON: AXIOS</title>
       <link>https://nitter.net/DeItaone/status/2031732467279814967#m</link>
@@ -538,14 +546,6 @@ Iran will switch from "reciprocal hits" after attacks to continuous strikes on a
       <description>Songs in 16 languages featured in the global chart last year, as genres like Brazilian Funk explode.</description>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c9v04gney9yo#0</guid>
       <pubDate>Wed, 11 Mar 2026 10:30:18 +0000</pubDate>
-      <source>BBC</source>
-    </item>
-    <item>
-      <title>Mortgage rates rise and deals pulled over Iran war turmoil</title>
-      <link>https://www.bbc.com/news/articles/c24dm9vgrz7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Average mortgage rates hit highest since last August in the biggest upheaval since the mini-Budget.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c24dm9vgrz7o#0</guid>
-      <pubDate>Wed, 11 Mar 2026 09:59:01 +0000</pubDate>
       <source>BBC</source>
     </item>
   </channel>
