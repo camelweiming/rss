@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 11 Mar 2026 13:54:56 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 14:02:55 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Inside the Russian explosives plot that targeted the UK</title>
+      <link>https://www.bbc.com/news/articles/cpd83zwqlvno?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Aleksandr Suranovas, charged with carrying out an act of terrorism for Russia, speaks to the BBC.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cpd83zwqlvno#0</guid>
+      <pubDate>Wed, 11 Mar 2026 06:00:08 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>Gulf disruption chokes sulphur flows supporting swaths of global industry</title>
       <link>https://www.ft.com/content/dd2498cc-d221-4645-9fae-34d1d832c15d</link>
@@ -434,14 +442,6 @@ A supertanker carrying 2 million barrels of Iranian oil passed through the Strai
       <description>&lt;p&gt;OIL FUTURES EXTEND LOSSES, U.S. AND BRENT CRUDE DOWN BY $16 A BARREL&lt;/p&gt;</description>
       <guid isPermaLink="false">2031419824060952910</guid>
       <pubDate>Tue, 10 Mar 2026 17:20:02 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>OIL FUTURES EXTEND LOSSES, U.S. AND BRENT CRUDE DOWN BY $15 A BARREL, U.S. HEATING OIL DOWN BY 10%</title>
-      <link>https://nitter.net/DeItaone/status/2031419501015650484#m</link>
-      <description>&lt;p&gt;OIL FUTURES EXTEND LOSSES, U.S. AND BRENT CRUDE DOWN BY $15 A BARREL, U.S. HEATING OIL DOWN BY 10%&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031419501015650484</guid>
-      <pubDate>Tue, 10 Mar 2026 17:18:45 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
