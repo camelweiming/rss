@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 01:58:37 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 02:07:01 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>🚨 U.S. STATE DEPT: IRAN AND IRAN-ALIGNED TERRORIST MILITIAS MAY BE PLANNING TO TARGET U.S.-OWNED OIL AND ENERGY INFRASTRUCTURE IN IRAQ</title>
+      <link>https://nitter.net/DeItaone/status/2031791605762412596#m</link>
+      <description>&lt;p&gt;🚨 U.S. STATE DEPT: IRAN AND IRAN-ALIGNED TERRORIST MILITIAS MAY BE PLANNING TO TARGET U.S.-OWNED OIL AND ENERGY INFRASTRUCTURE IN IRAQ&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031791605762412596</guid>
+      <pubDate>Wed, 11 Mar 2026 17:57:22 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>*IDF DETECTS LAUNCH OF MISSILES FROM IRAN, WORKING TO INTERCEPT</title>
       <link>https://nitter.net/DeItaone/status/2031787632817016835#m</link>
@@ -442,17 +450,6 @@ Officials say the error reflects human and procedural failures, not new technolo
       <guid isPermaLink="false">https://www.bbc.com/news/articles/czj18j09wvro#0</guid>
       <pubDate>Wed, 11 Mar 2026 14:49:28 +0000</pubDate>
       <source>BBC</source>
-    </item>
-    <item>
-      <title>Pinned: Rubio has overtaken J.D. Vance as the favorite to win the 2028 U.S. presidential election
-https://kalshi.com/markets/kxpresperson/pres-person/kxpresperson-28?utm_source=walterbloomberg</title>
-      <link>https://nitter.net/DeItaone/status/2031741511432282446#m</link>
-      <description>&lt;p&gt;Rubio has overtaken J.D. Vance as the favorite to win the 2028 U.S. presidential election&lt;br /&gt;
-&lt;a href="https://kalshi.com/markets/kxpresperson/pres-person/kxpresperson-28?utm_source=walterbloomberg"&gt;kalshi.com/markets/kxpresper…&lt;/a&gt;&lt;/p&gt;
-&lt;img src="https://nitter.net/pic/media%2FHDIyF2eWQAAtN9n.png" /&gt;</description>
-      <guid isPermaLink="false">2031741511432282446</guid>
-      <pubDate>Wed, 11 Mar 2026 14:38:18 +0000</pubDate>
-      <source>DeItaone</source>
     </item>
   </channel>
 </rss>
