@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 11 Mar 2026 18:06:13 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 18:15:32 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Mortgage rates rise and deals pulled over Iran war turmoil</title>
+      <link>https://www.bbc.com/news/articles/c24dm9vgrz7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Average mortgage rates hit highest since last August in the biggest upheaval since the mini-Budget.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c24dm9vgrz7o#0</guid>
+      <pubDate>Wed, 11 Mar 2026 09:59:01 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>IEA preparing record release of oil reserves</title>
       <link>https://www.ft.com/content/894b1636-caaa-4f30-a171-549f5bd00738</link>
@@ -430,14 +438,6 @@ Morgan Stanley estimates only 3 crude/refined product tankers exited the Persian
       <description>&lt;p&gt;U.S. ENERGY SECRETARY CHRIS WRIGHT: U.S. NAVY SUCCESSFULLY ESCORTED AN OIL TANKER THROUGH THE STRAIT OF HORMUZ TO ENSURE OIL REMAINS FLOWING TO GLOBAL MARKETS&lt;/p&gt;</description>
       <guid isPermaLink="false">2031420277184147622</guid>
       <pubDate>Tue, 10 Mar 2026 17:21:50 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>TRUMP ORDER CUTTING TIES WITH ANTHROPIC LIKELY COMING LATER THIS WEEK- CBS NEWS</title>
-      <link>https://nitter.net/DeItaone/status/2031420049752310062#m</link>
-      <description>&lt;p&gt;TRUMP ORDER CUTTING TIES WITH ANTHROPIC LIKELY COMING LATER THIS WEEK- CBS NEWS&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031420049752310062</guid>
-      <pubDate>Tue, 10 Mar 2026 17:20:56 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
