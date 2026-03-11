@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 11 Mar 2026 19:16:08 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 19:26:07 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Gulf food supplies rerouted as Iran threats hit Hormuz shipping</title>
+      <link>https://www.ft.com/content/e7345712-e99d-4567-b4fc-c7d20ab1faf3</link>
+      <description>Disruption risks causing shortages in region which imports 90 per cent of its food</description>
+      <guid isPermaLink="false">e7345712-e99d-4567-b4fc-c7d20ab1faf3</guid>
+      <pubDate>Wed, 11 Mar 2026 11:00:04 +0000</pubDate>
+      <source>FT</source>
+    </item>
     <item>
       <title>IEA TO ANNOUNCE RECOMMENDATION ON RESERVE RELEASE 1PM GMT: RTRS</title>
       <link>https://nitter.net/DeItaone/status/2031683121582665987#m</link>
@@ -419,14 +427,6 @@ Morgan Stanley estimates only 3 crude/refined product tankers exited the Persian
       <description>&lt;p&gt;*OIL TRADERS LINE UP $7 BILLION IN CREDIT TO WEATHER WAR TURMOIL&lt;/p&gt;</description>
       <guid isPermaLink="false">2031424160782516690</guid>
       <pubDate>Tue, 10 Mar 2026 17:37:16 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>🚨 U.S. ENERGY SECRETARY CHRIS WRIGHT REMOVES POST ABOUT NAVY ESCORTING OIL TANKER THROUGH THE STRAIT OF HORMUZ</title>
-      <link>https://nitter.net/DeItaone/status/2031423843546370192#m</link>
-      <description>&lt;p&gt;🚨 U.S. ENERGY SECRETARY CHRIS WRIGHT REMOVES POST ABOUT NAVY ESCORTING OIL TANKER THROUGH THE STRAIT OF HORMUZ&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031423843546370192</guid>
-      <pubDate>Tue, 10 Mar 2026 17:36:00 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
