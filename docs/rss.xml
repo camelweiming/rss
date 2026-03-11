@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 11 Mar 2026 10:54:34 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 11:04:41 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>Trump administration’s mixed messaging sparks wild swings in oil markets</title>
@@ -13,6 +13,14 @@
       <guid isPermaLink="false">26f34fbf-226e-4957-beda-a9dbd2e0477a</guid>
       <pubDate>Wed, 11 Mar 2026 00:30:17 +0000</pubDate>
       <source>FT</source>
+    </item>
+    <item>
+      <title>Iran war cost will be passed to consumers, shipping giant boss tells BBC</title>
+      <link>https://www.bbc.com/news/articles/c5ykzyd0rkyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The head of the world's second biggest shipping firm called for freedom of navigation to be restored.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ykzyd0rkyo#0</guid>
+      <pubDate>Wed, 11 Mar 2026 00:27:15 +0000</pubDate>
+      <source>BBC</source>
     </item>
     <item>
       <title>Jeffrey Epstein had two key aides - why do they still control his money and secrets?</title>
@@ -434,14 +442,6 @@ A supertanker carrying 2 million barrels of Iranian oil passed through the Strai
       <description>&lt;p&gt;OIL FUTURES EXTEND LOSSES, U.S. AND BRENT CRUDE DOWN BY $12 A BARREL AFTER U.S. PRESIDENT DONALD TRUMP PREDICTED THE WAR WITH IRAN COULD END SOON&lt;/p&gt;</description>
       <guid isPermaLink="false">2031415075563516085</guid>
       <pubDate>Tue, 10 Mar 2026 17:01:10 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>TRUMP EXPECTED TO HOLD EVENT IN KENTUCKY ON WEDNESDAY - FOX NEWS</title>
-      <link>https://nitter.net/DeItaone/status/2031415015119446101#m</link>
-      <description>&lt;p&gt;TRUMP EXPECTED TO HOLD EVENT IN KENTUCKY ON WEDNESDAY - FOX NEWS&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031415015119446101</guid>
-      <pubDate>Tue, 10 Mar 2026 17:00:56 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
