@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 11 Mar 2026 16:05:23 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 16:15:24 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>Inside the Russian explosives plot that targeted the UK</title>
@@ -84,6 +84,14 @@
       <description>Richard Kahn and Darren Indyke administer Epstein’s estate - court filings allege complicity in his crimes.</description>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cdjm7rxjxneo#0</guid>
       <pubDate>Wed, 11 Mar 2026 00:10:20 +0000</pubDate>
+      <source>BBC</source>
+    </item>
+    <item>
+      <title>The Aldi-style disruptors who could be about to shake up the vets market</title>
+      <link>https://www.bbc.com/news/articles/cj6dw3r09x0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>As pet owners complain of rising prices, independent practices want to take on the big chains.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cj6dw3r09x0o#0</guid>
+      <pubDate>Wed, 11 Mar 2026 00:05:06 +0000</pubDate>
       <source>BBC</source>
     </item>
     <item>
@@ -434,14 +442,6 @@ A supertanker carrying 2 million barrels of Iranian oil passed through the Strai
 A supertanker carrying 2 million barrels of Iranian oil passed through the Strait of Hormuz to China, marking the sixth Iranian vessel since February 28. At least 11 million barrels have been shipped to Asia amid ongoing U.S.-Israeli strikes, with Iran also moving gas and oil products through the critical waterway.&lt;/p&gt;</description>
       <guid isPermaLink="false">2031419986225275158</guid>
       <pubDate>Tue, 10 Mar 2026 17:20:41 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>OIL FUTURES EXTEND LOSSES, U.S. AND BRENT CRUDE DOWN BY $16 A BARREL</title>
-      <link>https://nitter.net/DeItaone/status/2031419824060952910#m</link>
-      <description>&lt;p&gt;OIL FUTURES EXTEND LOSSES, U.S. AND BRENT CRUDE DOWN BY $16 A BARREL&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031419824060952910</guid>
-      <pubDate>Tue, 10 Mar 2026 17:20:02 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
