@@ -4,8 +4,24 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 02:17:03 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 02:27:04 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Mandelson’s appointment as ambassador was ‘weirdly rushed’, Starmer aide warned</title>
+      <link>https://www.ft.com/content/61088b66-8e53-4536-9245-d8557be708d9</link>
+      <description>Files related to former minister’s role in Washington reveal his £75,000 pay-off included a discretionary payment</description>
+      <guid isPermaLink="false">61088b66-8e53-4536-9245-d8557be708d9</guid>
+      <pubDate>Wed, 11 Mar 2026 18:20:14 +0000</pubDate>
+      <source>FT</source>
+    </item>
+    <item>
+      <title>IRAN'S PRESIDENT SAYS ONLY WAY TO END WAR IS RECOGNIZING IRAN'S LEGITIMATE RIGHTS, PAYMENT OF REPARATIONS AND FIRM INTERNATIONAL GURANATEES AGAINST FUTURE AGGRESSION -POST ON X</title>
+      <link>https://nitter.net/DeItaone/status/2031794936794804259#m</link>
+      <description>&lt;p&gt;IRAN'S PRESIDENT SAYS ONLY WAY TO END WAR IS RECOGNIZING IRAN'S LEGITIMATE RIGHTS, PAYMENT OF REPARATIONS AND FIRM INTERNATIONAL GURANATEES AGAINST FUTURE AGGRESSION -POST ON X&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031794936794804259</guid>
+      <pubDate>Wed, 11 Mar 2026 18:10:36 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>🚨 U.S. STATE DEPT: IRAN AND IRAN-ALIGNED TERRORIST MILITIAS MAY BE PLANNING TO TARGET U.S.-OWNED OIL AND ENERGY INFRASTRUCTURE IN IRAQ</title>
       <link>https://nitter.net/DeItaone/status/2031791605762412596#m</link>
@@ -434,22 +450,6 @@ Officials say the error reflects human and procedural failures, not new technolo
       <guid isPermaLink="false">2031744758847303737</guid>
       <pubDate>Wed, 11 Mar 2026 14:51:13 +0000</pubDate>
       <source>DeItaone</source>
-    </item>
-    <item>
-      <title>EU WEIGHS LIFTING RUSSIA SANCTIONS AGAINST OIL TRADER NIELS TROOST - FT</title>
-      <link>https://nitter.net/DeItaone/status/2031744647144288674#m</link>
-      <description>&lt;p&gt;EU WEIGHS LIFTING RUSSIA SANCTIONS AGAINST OIL TRADER NIELS TROOST - FT&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031744647144288674</guid>
-      <pubDate>Wed, 11 Mar 2026 14:50:46 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>Tourist attractions call for changes to weather apps over 'misleading' rain icons</title>
-      <link>https://www.bbc.com/news/articles/czj18j09wvro?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Chester Zoo is leading a call for a change in the way "rain icons" are used in weather forecasts.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/czj18j09wvro#0</guid>
-      <pubDate>Wed, 11 Mar 2026 14:49:28 +0000</pubDate>
-      <source>BBC</source>
     </item>
   </channel>
 </rss>
