@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 07:27:25 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 07:37:28 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>USTR Greer: US Initiating Section 301 Investigation Into 16 Trading Partners Including China, Eu, Mexico, Vietnam, India, And Japan</title>
@@ -172,6 +172,14 @@
       <description>Top Starmer aide warned US envoy’s appointment was ‘weirdly rushed’, while disgraced peer sought £547,000 payout</description>
       <guid isPermaLink="false">cd45e89b-ecce-4bb1-9821-9811e1ef32c9</guid>
       <pubDate>Wed, 11 Mar 2026 19:41:45 +0000</pubDate>
+      <source>FT</source>
+    </item>
+    <item>
+      <title>Oil prices edge higher against backdrop of historic reserves release</title>
+      <link>https://www.ft.com/content/ad111a3e-ee44-4614-8be1-bef695cdc51b</link>
+      <description>400mn barrels of crude made available as governments race to tackle energy shock</description>
+      <guid isPermaLink="false">ad111a3e-ee44-4614-8be1-bef695cdc51b</guid>
+      <pubDate>Wed, 11 Mar 2026 19:37:59 +0000</pubDate>
       <source>FT</source>
     </item>
     <item>
@@ -422,14 +430,6 @@ Shipping companies are pausing or rerouting services based on risk assessments a
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2rg8z6p1vo#0</guid>
       <pubDate>Wed, 11 Mar 2026 16:39:47 +0000</pubDate>
       <source>BBC</source>
-    </item>
-    <item>
-      <title>TRUMP ON MILITARY ACTION TO END IRAN OPERATION: MORE OF SAME</title>
-      <link>https://nitter.net/DeItaone/status/2031771999664541939#m</link>
-      <description>&lt;p&gt;TRUMP ON MILITARY ACTION TO END IRAN OPERATION: MORE OF SAME&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031771999664541939</guid>
-      <pubDate>Wed, 11 Mar 2026 16:39:27 +0000</pubDate>
-      <source>DeItaone</source>
     </item>
   </channel>
 </rss>
