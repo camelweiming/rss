@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 02:37:06 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 02:47:02 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>ISRAELI MILITARY SPOKESPERSON: WE WILL CONTINUE STRIKING HEZBOLLAH UNTIL IT IS DISARMED</title>
@@ -114,6 +114,14 @@ Shipping companies are pausing or rerouting services based on risk assessments a
       <guid isPermaLink="false">2031779667053543613</guid>
       <pubDate>Wed, 11 Mar 2026 17:09:55 +0000</pubDate>
       <source>DeItaone</source>
+    </item>
+    <item>
+      <title>Prison inmate charged with Huntley murder appears in court</title>
+      <link>https://www.bbc.com/news/articles/cr5l9d1dv9eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Ian Huntley had been serving a life sentence with a minimum term of 40 years for the murders of 10-year-olds Holly Wells and Jessica Chapman.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cr5l9d1dv9eo#0</guid>
+      <pubDate>Wed, 11 Mar 2026 17:04:45 +0000</pubDate>
+      <source>BBC</source>
     </item>
     <item>
       <title>TRUMP SAYS ON REOPENING STRAIT OF HORMUZ: IT'S WORKING OUT VERY WELL</title>
@@ -433,22 +441,6 @@ SECURITY GUARANTEES FOR IOCS IN KRG TO RESTART PRODUCTION ALSO NEEDED - SENIOR K
       <description>&lt;p&gt;🚨 U.S. CENTRAL COMMAND WARNS CIVILIANS IN IRAN TO AVOID PORT FACILITIES WHERE IRANIAN NAVAL FORCES ARE OPERATING&lt;/p&gt;</description>
       <guid isPermaLink="false">2031746743214162176</guid>
       <pubDate>Wed, 11 Mar 2026 14:59:06 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>U.S. MILITARY MISTAKENLY STRIKES SCHOOL IN IRAN
-
-A preliminary U.S. investigation finds the Feb. 28 Tomahawk missile strike on Shajarah Tayyebeh Elementary School in Minab was a targeting error. Outdated data from the Defense Intelligence Agency led Central Command to strike a building formerly part of a nearby naval base, killing at least 175 people, mostly children.
-
-Officials say the error reflects human and procedural failures, not new technology. Satellite imagery and videos confirm U.S. responsibility. The investigation is ongoing, with questions about why data wasn’t verified. President Donald Trump initially blamed Iran but says he will accept the findings.</title>
-      <link>https://nitter.net/DeItaone/status/2031746347804618908#m</link>
-      <description>&lt;p&gt;U.S. MILITARY MISTAKENLY STRIKES SCHOOL IN IRAN&lt;br /&gt;
-&lt;br /&gt;
-A preliminary U.S. investigation finds the Feb. 28 Tomahawk missile strike on Shajarah Tayyebeh Elementary School in Minab was a targeting error. Outdated data from the Defense Intelligence Agency led Central Command to strike a building formerly part of a nearby naval base, killing at least 175 people, mostly children.&lt;br /&gt;
-&lt;br /&gt;
-Officials say the error reflects human and procedural failures, not new technology. Satellite imagery and videos confirm U.S. responsibility. The investigation is ongoing, with questions about why data wasn’t verified. President Donald Trump initially blamed Iran but says he will accept the findings.&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031746347804618908</guid>
-      <pubDate>Wed, 11 Mar 2026 14:57:31 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
