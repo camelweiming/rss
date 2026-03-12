@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 13 Mar 2026 01:18:21 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 01:28:19 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>ISRAELI MILITARY SAYS IT HAS STRUCK BASIJ ROADBLOCKS AND SOLDIERS ESTABLISHED RECENTLY IN TEHRAN</title>
+      <link>https://nitter.net/DeItaone/status/2032143352297128036#m</link>
+      <description>&lt;p&gt;ISRAELI MILITARY SAYS IT HAS STRUCK BASIJ ROADBLOCKS AND SOLDIERS ESTABLISHED RECENTLY IN TEHRAN&lt;/p&gt;</description>
+      <guid isPermaLink="false">2032143352297128036</guid>
+      <pubDate>Thu, 12 Mar 2026 17:15:05 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>IRAN SECURITY CHIEF SAYS WAR WON'T END SOON: WSJ</title>
       <link>https://nitter.net/DeItaone/status/2032140412312277503#m</link>
@@ -522,14 +530,6 @@ WRIGHT: I WILL PERSONALLY APPROVE FUTURE POSTS SO IT DOES NOT HAPPEN AGAIN</titl
 WRIGHT: I WILL PERSONALLY APPROVE FUTURE POSTS SO IT DOES NOT HAPPEN AGAIN&lt;/p&gt;</description>
       <guid isPermaLink="false">2032097099307716745</guid>
       <pubDate>Thu, 12 Mar 2026 14:11:17 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>WRIGHT: U.S. PLANS TO HAVE MORE BARRELS OF OIL IN STRATEGIC RESERVE A YEAR FROM NOW DESPITE RELEASE</title>
-      <link>https://nitter.net/DeItaone/status/2032096925311275378#m</link>
-      <description>&lt;p&gt;WRIGHT: U.S. PLANS TO HAVE MORE BARRELS OF OIL IN STRATEGIC RESERVE A YEAR FROM NOW DESPITE RELEASE&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032096925311275378</guid>
-      <pubDate>Thu, 12 Mar 2026 14:10:36 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
