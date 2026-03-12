@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 22:58:04 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 23:08:08 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>x.com/i/article/203210671194…</title>
@@ -50,6 +50,14 @@ Defense officials expect up to $50 billion more may be requested to replenish mu
       <guid isPermaLink="false">2032105504206430433</guid>
       <pubDate>Thu, 12 Mar 2026 14:44:41 +0000</pubDate>
       <source>DeItaone</source>
+    </item>
+    <item>
+      <title>‘Sitting ducks’: Oil tankers trapped in Gulf as Iran widens attacks on shipping</title>
+      <link>https://www.ft.com/content/f45188dd-57d4-4d5d-90e0-59190543b1ae</link>
+      <description>Tanker operators face growing risks whether they stay or flee through Strait of Hormuz</description>
+      <guid isPermaLink="false">f45188dd-57d4-4d5d-90e0-59190543b1ae</guid>
+      <pubDate>Thu, 12 Mar 2026 14:43:48 +0000</pubDate>
+      <source>FT</source>
     </item>
     <item>
       <title>US NAVAL FORCES CENTRAL COMMAND: ON MARCH 12, USS GERALD FORD EXPERIENCED A FIRE THAT ORIGINATED IN SHIP’S MAIN LAUNDRY SPACES</title>
@@ -311,6 +319,14 @@ Daily LNG freight rates have jumped above $200,000 from under $98,000, while tra
       <source>DeItaone</source>
     </item>
     <item>
+      <title>Lloyds, Bank of Scotland and Halifax apps showed customers other users' transactions</title>
+      <link>https://www.bbc.com/news/articles/c4g23npxpwgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The Lloyds Banking Group customers reported being able to view payments and charges from other sources.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g23npxpwgo#0</guid>
+      <pubDate>Thu, 12 Mar 2026 13:20:32 +0000</pubDate>
+      <source>BBC</source>
+    </item>
+    <item>
       <title>🚨 IRAN'S LEADER MOJTABA KHAMENEI SAYS CLOSURE OF STRAIT OF HORMUZ SHOULD BE CONTINUED AS A TOOL TO PRESSURE ENEMY</title>
       <link>https://nitter.net/DeItaone/status/2032084213915123848#m</link>
       <description>&lt;p&gt;🚨 IRAN'S LEADER MOJTABA KHAMENEI SAYS CLOSURE OF STRAIT OF HORMUZ SHOULD BE CONTINUED AS A TOOL TO PRESSURE ENEMY&lt;/p&gt;</description>
@@ -530,22 +546,6 @@ With inflation stickier, the bank expects the Federal Reserve to delay its first
       <description>&lt;p&gt;FIRST MESSAGE FROM IRAN'S NEW SUPREME LEADER MOJTABA KHAMENEI WITHIN MINUTES&lt;/p&gt;</description>
       <guid isPermaLink="false">2032065991492931916</guid>
       <pubDate>Thu, 12 Mar 2026 12:07:40 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>WRIGHT: UNLIKELY OIL WILL GET TO $200 A BARREL</title>
-      <link>https://nitter.net/DeItaone/status/2032064067771269157#m</link>
-      <description>&lt;p&gt;WRIGHT: UNLIKELY OIL WILL GET TO $200 A BARREL&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032064067771269157</guid>
-      <pubDate>Thu, 12 Mar 2026 12:00:02 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>U.S. ENERGY SECRETARY WRIGHT: SHORT-TERM DISRUPTION IS NEEDED FOR LONG-TERM ENERGY SECURITY</title>
-      <link>https://nitter.net/DeItaone/status/2032063626970791940#m</link>
-      <description>&lt;p&gt;U.S. ENERGY SECRETARY WRIGHT: SHORT-TERM DISRUPTION IS NEEDED FOR LONG-TERM ENERGY SECURITY&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032063626970791940</guid>
-      <pubDate>Thu, 12 Mar 2026 11:58:17 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
