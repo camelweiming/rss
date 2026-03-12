@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 13 Mar 2026 06:08:42 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 06:18:48 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Boy charged over stabbing of teenage girl at Norfolk school</title>
+      <link>https://www.bbc.com/news/articles/cx247vd1v48o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Armed police were scrambled to the scene and pictured as they entered classrooms.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx247vd1v48o#0</guid>
+      <pubDate>Thu, 12 Mar 2026 22:16:02 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>WHITE HOUSE CONSIDERING DEFUNDING A PROGRAM THAT AIMS TO PROTECT MINORITY VOTERS' RIGHTS -CBS NEWS</title>
       <link>https://nitter.net/DeItaone/status/2032212033442050370#m</link>
@@ -449,14 +457,6 @@ Billionaire investor Leon Cooperman warns that stocks are overpriced and vulnera
 “Good news is treated with a yawn; bad news can send stocks down 15–20%,” he said, emphasizing that markets aren’t pricing in global uncertainty properly.&lt;/p&gt;</description>
       <guid isPermaLink="false">2032130230454755589</guid>
       <pubDate>Thu, 12 Mar 2026 16:22:56 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>BESSENT TO TRAVEL TO FRANCE MARCH 15-16 TO MEET WITH CHINESE VICE PREMIER HE LIFENG</title>
-      <link>https://nitter.net/DeItaone/status/2032127519160172937#m</link>
-      <description>&lt;p&gt;BESSENT TO TRAVEL TO FRANCE MARCH 15-16 TO MEET WITH CHINESE VICE PREMIER HE LIFENG&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032127519160172937</guid>
-      <pubDate>Thu, 12 Mar 2026 16:12:10 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
