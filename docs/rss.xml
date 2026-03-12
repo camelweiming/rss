@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 13 Mar 2026 02:48:27 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 02:58:29 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>BRENT CRUDE FUTURES SETTLE AT $100.46/BBL, UP $8.48, 9.22 PCT</title>
+      <link>https://nitter.net/DeItaone/status/2032167104548319363#m</link>
+      <description>&lt;p&gt;BRENT CRUDE FUTURES SETTLE AT $100.46/BBL, UP $8.48, 9.22 PCT&lt;/p&gt;</description>
+      <guid isPermaLink="false">2032167104548319363</guid>
+      <pubDate>Thu, 12 Mar 2026 18:49:28 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>U.S. CRUDE OIL FUTURES SETTLE AT $95.73/BBL, UP $8.48, 9.72 PCT</title>
       <link>https://nitter.net/DeItaone/status/2032162445460910100#m</link>
@@ -514,14 +522,6 @@ Defense officials expect up to $50 billion more may be requested to replenish mu
       <description>&lt;p&gt;US NAVAL FORCES CENTRAL COMMAND: ON MARCH 12, USS GERALD FORD EXPERIENCED A FIRE THAT ORIGINATED IN SHIP’S MAIN LAUNDRY SPACES&lt;/p&gt;</description>
       <guid isPermaLink="false">2032103279300120688</guid>
       <pubDate>Thu, 12 Mar 2026 14:35:51 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>🚨 *USS GERALD R. FORD EXPERIENCED A FIRE, NOT COMBAT-RELATED</title>
-      <link>https://nitter.net/DeItaone/status/2032102991830921627#m</link>
-      <description>&lt;p&gt;🚨 *USS GERALD R. FORD EXPERIENCED A FIRE, NOT COMBAT-RELATED&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032102991830921627</guid>
-      <pubDate>Thu, 12 Mar 2026 14:34:42 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
