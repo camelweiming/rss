@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 22:13:40 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 22:23:44 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>WRIGHT: U.S. PLANS TO HAVE MORE BARRELS OF OIL IN STRATEGIC RESERVE A YEAR FROM NOW DESPITE RELEASE</title>
@@ -508,10 +508,10 @@ With inflation stickier, the bank expects the Federal Reserve to delay its first
       <source>FT</source>
     </item>
     <item>
-      <title>Military briefing: the closest US-Israel war yet</title>
-      <link>https://www.ft.com/content/8d0105cf-e7af-47d5-8757-8447d1986010</link>
-      <description>Not since the Suez Crisis has the IDF fought alongside an ally in a major military offensive</description>
-      <guid isPermaLink="false">8d0105cf-e7af-47d5-8757-8447d1986010</guid>
+      <title>Which chokepoint wins in a game of geoeconomic Top Trumps?</title>
+      <link>https://www.ft.com/content/b9f1b5ed-3bd4-4e03-9f11-a9681127befc</link>
+      <description>It depends on its damage to the target, potential for blowback and durability</description>
+      <guid isPermaLink="false">b9f1b5ed-3bd4-4e03-9f11-a9681127befc</guid>
       <pubDate>Thu, 12 Mar 2026 05:00:14 +0000</pubDate>
       <source>FT</source>
     </item>
