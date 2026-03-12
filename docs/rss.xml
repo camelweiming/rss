@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 13 Mar 2026 07:38:54 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 07:48:57 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Suspect dead after ramming vehicle into Jewish temple in Michigan</title>
+      <link>https://www.bbc.com/news/articles/cx28zd30078o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Police have not named the suspect or identified a motive for driving a vehicle into the synagogue, where it caught fire.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx28zd30078o#0</guid>
+      <pubDate>Thu, 12 Mar 2026 23:33:14 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>Boy charged over stabbing of teenage girl at Norfolk school</title>
       <link>https://www.bbc.com/news/articles/cx247vd1v48o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -441,22 +449,6 @@ Iran’s Ali Larijani told Donald Trump that a quick victory is impossible, warn
       <description>&lt;p&gt;*IRAN'S TOP SECURITY OFFICIAL TO TRUMP: WE WILL NOT RELENT&lt;/p&gt;</description>
       <guid isPermaLink="false">2032130444804661348</guid>
       <pubDate>Thu, 12 Mar 2026 16:23:47 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>COOPERMAN: MARKETS TOO HIGH AMID GEOPOLITICAL RISKS
-
-Billionaire investor Leon Cooperman warns that stocks are overpriced and vulnerable to a correction, citing geopolitical tensions and weak U.S. leadership. He points to risks from Iran, rising volatility, and potential stagflation or recession, noting the S&amp;P 500 trades at its highest earnings multiple since 2020.
-
-“Good news is treated with a yawn; bad news can send stocks down 15–20%,” he said, emphasizing that markets aren’t pricing in global uncertainty properly.</title>
-      <link>https://nitter.net/DeItaone/status/2032130230454755589#m</link>
-      <description>&lt;p&gt;COOPERMAN: MARKETS TOO HIGH AMID GEOPOLITICAL RISKS&lt;br /&gt;
-&lt;br /&gt;
-Billionaire investor Leon Cooperman warns that stocks are overpriced and vulnerable to a correction, citing geopolitical tensions and weak U.S. leadership. He points to risks from Iran, rising volatility, and potential stagflation or recession, noting the S&amp;amp;P 500 trades at its highest earnings multiple since 2020.&lt;br /&gt;
-&lt;br /&gt;
-“Good news is treated with a yawn; bad news can send stocks down 15–20%,” he said, emphasizing that markets aren’t pricing in global uncertainty properly.&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032130230454755589</guid>
-      <pubDate>Thu, 12 Mar 2026 16:22:56 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
