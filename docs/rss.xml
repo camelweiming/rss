@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 13 Mar 2026 04:38:34 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 04:48:33 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Married at First Sight star says cancer has spread</title>
+      <link>https://www.bbc.com/news/articles/c4g8qpp3mpeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The dating coach was diagnosed with bowel cancer in December 2023 but says treatment has been unsuccessful.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g8qpp3mpeo#0</guid>
+      <pubDate>Thu, 12 Mar 2026 20:32:05 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>PM says Mandelson appointment was mistake as No 10 denies cover-up</title>
       <link>https://www.bbc.com/news/articles/c875nzlv7ddo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -464,14 +472,6 @@ U.S. residential heating oil prices have climbed above $5 a gallon — a level n
 &lt;/blockquote&gt;</description>
       <guid isPermaLink="false">2032116049970180279</guid>
       <pubDate>Thu, 12 Mar 2026 15:26:35 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>WHITE HOUSE'S LEAVITT: US IS CONSIDERING WAIVING THE JONES ACT FOR A LIMITED PERIOD OF TIME</title>
-      <link>https://nitter.net/DeItaone/status/2032115948560298129#m</link>
-      <description>&lt;p&gt;WHITE HOUSE'S LEAVITT: US IS CONSIDERING WAIVING THE JONES ACT FOR A LIMITED PERIOD OF TIME&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032115948560298129</guid>
-      <pubDate>Thu, 12 Mar 2026 15:26:11 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
