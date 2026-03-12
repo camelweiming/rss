@@ -4,8 +4,32 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 10:27:43 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 10:37:41 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Oil continues to rise despite deal to release record amount of reserves</title>
+      <link>https://www.bbc.com/news/articles/c1w5141vx53o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>It comes as Iranian attacks on ships intensify in the crucial Strait of Hormuz waterway.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1w5141vx53o#0</guid>
+      <pubDate>Thu, 12 Mar 2026 02:29:27 +0000</pubDate>
+      <source>BBC</source>
+    </item>
+    <item>
+      <title>UAE REPORTS NEW WAVE OF IRANIAN MISSILE AND DRONE ATTACK</title>
+      <link>https://nitter.net/DeItaone/status/2031919104198586840#m</link>
+      <description>&lt;p&gt;UAE REPORTS NEW WAVE OF IRANIAN MISSILE AND DRONE ATTACK&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031919104198586840</guid>
+      <pubDate>Thu, 12 Mar 2026 02:24:00 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
+    <item>
+      <title>*OMAN SAID TO EVACUATE SHIPS FROM MINA AL FAHAL OIL TERMINAL</title>
+      <link>https://nitter.net/DeItaone/status/2031919048389242894#m</link>
+      <description>&lt;p&gt;*OMAN SAID TO EVACUATE SHIPS FROM MINA AL FAHAL OIL TERMINAL&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031919048389242894</guid>
+      <pubDate>Thu, 12 Mar 2026 02:23:47 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>*US OFFICIALS SAID IRAN LAID MINES IN STRAIT OF HORMUZ: WSJ
 
@@ -410,30 +434,6 @@ Shipping companies are pausing or rerouting services based on risk assessments a
       <guid isPermaLink="false">2031779667053543613</guid>
       <pubDate>Wed, 11 Mar 2026 17:09:55 +0000</pubDate>
       <source>DeItaone</source>
-    </item>
-    <item>
-      <title>Prison inmate charged with Huntley murder appears in court</title>
-      <link>https://www.bbc.com/news/articles/cr5l9d1dv9eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Ian Huntley had been serving a life sentence with a minimum term of 40 years for the murders of 10-year-olds Holly Wells and Jessica Chapman.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cr5l9d1dv9eo#0</guid>
-      <pubDate>Wed, 11 Mar 2026 17:04:45 +0000</pubDate>
-      <source>BBC</source>
-    </item>
-    <item>
-      <title>TRUMP SAYS ON REOPENING STRAIT OF HORMUZ: IT'S WORKING OUT VERY WELL</title>
-      <link>https://nitter.net/DeItaone/status/2031777773157511464#m</link>
-      <description>&lt;p&gt;TRUMP SAYS ON REOPENING STRAIT OF HORMUZ: IT'S WORKING OUT VERY WELL&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031777773157511464</guid>
-      <pubDate>Wed, 11 Mar 2026 17:02:24 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>Mandelson appointment ‘weirdly rushed’, top UK official warned</title>
-      <link>https://www.ft.com/content/2fcc55b1-90a3-4157-9ee9-5a370553f35b</link>
-      <description>Disgraced peer demanded £547,000 after being sacked as Britain’s ambassador to US, official documents show</description>
-      <guid isPermaLink="false">2fcc55b1-90a3-4157-9ee9-5a370553f35b</guid>
-      <pubDate>Wed, 11 Mar 2026 16:48:53 +0000</pubDate>
-      <source>FT</source>
     </item>
   </channel>
 </rss>
