@@ -4,8 +4,40 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 13:18:06 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 13:28:06 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Supertankers rush to Red Sea port as Iran war chokes Gulf oil exports</title>
+      <link>https://www.ft.com/content/87c3dc86-052c-4fb1-b03e-2987ae79bcd7</link>
+      <description>Saudi pipeline allows ships to avoid perilous Strait of Hormuz but they must now brave notorious hotspot for Houthi attacks</description>
+      <guid isPermaLink="false">87c3dc86-052c-4fb1-b03e-2987ae79bcd7</guid>
+      <pubDate>Thu, 12 Mar 2026 05:00:23 +0000</pubDate>
+      <source>FT</source>
+    </item>
+    <item>
+      <title>The AI-driven ‘kill chain’ transforming how the US wages war</title>
+      <link>https://www.ft.com/content/fedb262e-e6db-40bc-a4d0-080812f0f82b</link>
+      <description>Systems from Palantir and Anthropic are helping to turn torrents of battlefield data into thousands of strikes</description>
+      <guid isPermaLink="false">fedb262e-e6db-40bc-a4d0-080812f0f82b</guid>
+      <pubDate>Thu, 12 Mar 2026 05:00:23 +0000</pubDate>
+      <source>FT</source>
+    </item>
+    <item>
+      <title>Military briefing: the closest US-Israel war yet</title>
+      <link>https://www.ft.com/content/8d0105cf-e7af-47d5-8757-8447d1986010</link>
+      <description>Not since the Suez Crisis has the IDF fought alongside an ally in a major military offensive</description>
+      <guid isPermaLink="false">8d0105cf-e7af-47d5-8757-8447d1986010</guid>
+      <pubDate>Thu, 12 Mar 2026 05:00:14 +0000</pubDate>
+      <source>FT</source>
+    </item>
+    <item>
+      <title>Which chokepoint wins in a game of geoeconomic Top Trumps?</title>
+      <link>https://www.ft.com/content/b9f1b5ed-3bd4-4e03-9f11-a9681127befc</link>
+      <description>It depends on its damage to the target, potential for blowback and durability</description>
+      <guid isPermaLink="false">b9f1b5ed-3bd4-4e03-9f11-a9681127befc</guid>
+      <pubDate>Thu, 12 Mar 2026 05:00:14 +0000</pubDate>
+      <source>FT</source>
+    </item>
     <item>
       <title>Oil continues to rise despite deal to release record amount of reserves</title>
       <link>https://www.bbc.com/news/articles/c1w5141vx53o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -388,51 +420,6 @@ The probes may target issues such as industrial overcapacity, digital trade rule
       <description>&lt;p&gt;*IDF DETECTS LAUNCH OF MISSILES FROM IRAN, WORKING TO INTERCEPT&lt;/p&gt;</description>
       <guid isPermaLink="false">2031787632817016835</guid>
       <pubDate>Wed, 11 Mar 2026 17:41:35 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>R to @DeItaone: source: https://abcnews.com/US/fbi-warns-iran-aspired-attack-california-drones-retaliation/story?id=130973820</title>
-      <link>https://nitter.net/DeItaone/status/2031787147833774168#m</link>
-      <description>&lt;p&gt;source: &lt;a href="https://abcnews.com/US/fbi-warns-iran-aspired-attack-california-drones-retaliation/story?id=130973820"&gt;abcnews.com/US/fbi-warns-ira…&lt;/a&gt;&lt;/p&gt;
-&lt;img src="https://nitter.net/pic/card_img%2F2031786222981365760%2F95NlvyIP%3Fformat%3Djpg%26name%3D800x419" /&gt;</description>
-      <guid isPermaLink="false">2031787147833774168</guid>
-      <pubDate>Wed, 11 Mar 2026 17:39:39 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>🚨FBI WARNS IRAN MAY TARGET CALIFORNIA WITH DRONES
-
-The Federal Bureau of Investigation warned California police that Iran may launch drone attacks from a vessel off the U.S. West Coast in retaliation for American strikes. The alert said Tehran had aspired to carry out a surprise UAV attack on unspecified targets in California, though timing and details remain unclear.
-
-Officials also flagged growing drone threats from Mexican cartels, raising concerns about potential attacks on U.S. forces and law enforcement near the southern border.</title>
-      <link>https://nitter.net/DeItaone/status/2031787071590056413#m</link>
-      <description>&lt;p&gt;🚨FBI WARNS IRAN MAY TARGET CALIFORNIA WITH DRONES&lt;br /&gt;
-&lt;br /&gt;
-The Federal Bureau of Investigation warned California police that Iran may launch drone attacks from a vessel off the U.S. West Coast in retaliation for American strikes. The alert said Tehran had aspired to carry out a surprise UAV attack on unspecified targets in California, though timing and details remain unclear.&lt;br /&gt;
-&lt;br /&gt;
-Officials also flagged growing drone threats from Mexican cartels, raising concerns about potential attacks on U.S. forces and law enforcement near the southern border.&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031787071590056413</guid>
-      <pubDate>Wed, 11 Mar 2026 17:39:21 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>🚨🚨 FBI HAS WARNED POLICE DEPARTMENTS IN CALIFORNIA THAT IRAN WANTS TO RETALIATE FOR AMERICAN ATTACKS BY LAUNCHING OFFENSIVE DRONES AGAINST THE WEST COAST -ABC NEWS</title>
-      <link>https://nitter.net/DeItaone/status/2031786519627743704#m</link>
-      <description>&lt;p&gt;🚨🚨 FBI HAS WARNED POLICE DEPARTMENTS IN CALIFORNIA THAT IRAN WANTS TO RETALIATE FOR AMERICAN ATTACKS BY LAUNCHING OFFENSIVE DRONES AGAINST THE WEST COAST -ABC NEWS&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031786519627743704</guid>
-      <pubDate>Wed, 11 Mar 2026 17:37:09 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>About 20,000 seafarers aboard vessels in the Middle East face serious security risks as the conflict continues, according to the World Shipping Council. CEO Joe Kramek said some crew members have already been killed, urging carriers to prioritize safety.
-
-Shipping companies are pausing or rerouting services based on risk assessments as conditions deteriorate.</title>
-      <link>https://nitter.net/DeItaone/status/2031779957634973838#m</link>
-      <description>&lt;p&gt;About 20,000 seafarers aboard vessels in the Middle East face serious security risks as the conflict continues, according to the World Shipping Council. CEO Joe Kramek said some crew members have already been killed, urging carriers to prioritize safety.&lt;br /&gt;
-&lt;br /&gt;
-Shipping companies are pausing or rerouting services based on risk assessments as conditions deteriorate.&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031779957634973838</guid>
-      <pubDate>Wed, 11 Mar 2026 17:11:05 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
