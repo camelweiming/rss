@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 13 Mar 2026 05:58:42 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 06:01:50 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>WHITE HOUSE CONSIDERING DEFUNDING A PROGRAM THAT AIMS TO PROTECT MINORITY VOTERS' RIGHTS -CBS NEWS</title>
@@ -117,6 +117,14 @@
       <guid isPermaLink="false">2032188573097546141</guid>
       <pubDate>Thu, 12 Mar 2026 20:14:46 +0000</pubDate>
       <source>DeItaone</source>
+    </item>
+    <item>
+      <title>UK troops at Iraq base shot down Iranian drones, Healey says</title>
+      <link>https://www.bbc.com/news/articles/c0e531gve7do?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>British forces based in Iraq shot down two drones overnight, Defence Secretary John Healey has confirmed.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c0e531gve7do#0</guid>
+      <pubDate>Thu, 12 Mar 2026 20:12:43 +0000</pubDate>
+      <source>BBC</source>
     </item>
     <item>
       <title>US INTERVENTION IN OIL FUTURES WOULD BE ‘BIBLICAL DISASTER’, CME WARNS</title>
@@ -449,18 +457,6 @@ Billionaire investor Leon Cooperman warns that stocks are overpriced and vulnera
       <description>&lt;p&gt;BESSENT TO TRAVEL TO FRANCE MARCH 15-16 TO MEET WITH CHINESE VICE PREMIER HE LIFENG&lt;/p&gt;</description>
       <guid isPermaLink="false">2032127519160172937</guid>
       <pubDate>Thu, 12 Mar 2026 16:12:10 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>U.S. HEATING OIL HITS $5+ — TIGHT OIL SUPPLY BLOWS PRICES UP
-
-U.S. residential heating oil prices have climbed above $5 a gallon — a level not seen since late 2022 — as the ongoing conflict involving Iran disrupts global crude and diesel flows through key routes like the Strait of Hormuz. This squeeze on supply has pushed energy markets higher and fed through into heating fuel costs.</title>
-      <link>https://nitter.net/DeItaone/status/2032127084949110957#m</link>
-      <description>&lt;p&gt;U.S. HEATING OIL HITS $5+ — TIGHT OIL SUPPLY BLOWS PRICES UP&lt;br /&gt;
-&lt;br /&gt;
-U.S. residential heating oil prices have climbed above $5 a gallon — a level not seen since late 2022 — as the ongoing conflict involving Iran disrupts global crude and diesel flows through key routes like the Strait of Hormuz. This squeeze on supply has pushed energy markets higher and fed through into heating fuel costs.&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032127084949110957</guid>
-      <pubDate>Thu, 12 Mar 2026 16:10:26 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
