@@ -4,8 +4,20 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 13 Mar 2026 00:08:15 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 00:18:18 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>U.S. HEATING OIL HITS $5+ — TIGHT OIL SUPPLY BLOWS PRICES UP
+
+U.S. residential heating oil prices have climbed above $5 a gallon — a level not seen since late 2022 — as the ongoing conflict involving Iran disrupts global crude and diesel flows through key routes like the Strait of Hormuz. This squeeze on supply has pushed energy markets higher and fed through into heating fuel costs.</title>
+      <link>https://nitter.net/DeItaone/status/2032127084949110957#m</link>
+      <description>&lt;p&gt;U.S. HEATING OIL HITS $5+ — TIGHT OIL SUPPLY BLOWS PRICES UP&lt;br /&gt;
+&lt;br /&gt;
+U.S. residential heating oil prices have climbed above $5 a gallon — a level not seen since late 2022 — as the ongoing conflict involving Iran disrupts global crude and diesel flows through key routes like the Strait of Hormuz. This squeeze on supply has pushed energy markets higher and fed through into heating fuel costs.&lt;/p&gt;</description>
+      <guid isPermaLink="false">2032127084949110957</guid>
+      <pubDate>Thu, 12 Mar 2026 16:10:26 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>UK troops at Iraq base shoot down Iranian drones, Healey says</title>
       <link>https://www.bbc.com/news/articles/c0e531gve7do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -13,6 +25,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c0e531gve7do#0</guid>
       <pubDate>Thu, 12 Mar 2026 16:05:45 +0000</pubDate>
       <source>BBC</source>
+    </item>
+    <item>
+      <title>US Centcom: Hit approximately 6,000 targets in Iran, more than 60 ships, and more than 30 minelayers damaged or destroyed</title>
+      <link>https://nitter.net/DeItaone/status/2032125191229169994#m</link>
+      <description>&lt;p&gt;US Centcom: Hit approximately 6,000 targets in Iran, more than 60 ships, and more than 30 minelayers damaged or destroyed&lt;/p&gt;</description>
+      <guid isPermaLink="false">2032125191229169994</guid>
+      <pubDate>Thu, 12 Mar 2026 16:02:55 +0000</pubDate>
+      <source>DeItaone</source>
     </item>
     <item>
       <title>IRANIAN STATE MEDIA SAYS WIFE OF IRAN'S LATE SUPREME LEADER ALI KHAMENEI IS ALIVE, REPORTS OF HER DEATH WERE INCORRECT</title>
@@ -508,34 +528,6 @@ The Federal Reserve may delay rate cuts to September and December as inflation s
       <description>&lt;p&gt;U.S. STOCKS EXTEND FALL, NASDAQ DOWN 1.00 PCT&lt;/p&gt;</description>
       <guid isPermaLink="false">2032087293872234799</guid>
       <pubDate>Thu, 12 Mar 2026 13:32:19 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>HALF OF GLOBAL LNG TANKERS STRANDED IN THE GULF
-
-About 20 LNG carriers — nearly half the global charter fleet — are stuck in the Persian Gulf, as conflict restricts passage through the Strait of Hormuz, according to ship brokers.
-
-Around 20% of global LNG exports come from Gulf producers, including facilities run by QatarEnergy, some of which have halted output after attacks.
-
-Daily LNG freight rates have jumped above $200,000 from under $98,000, while traders expect further price gains after this week’s 40% surge in Asia and Europe.</title>
-      <link>https://nitter.net/DeItaone/status/2032086619004579982#m</link>
-      <description>&lt;p&gt;HALF OF GLOBAL LNG TANKERS STRANDED IN THE GULF&lt;br /&gt;
-&lt;br /&gt;
-About 20 LNG carriers — nearly half the global charter fleet — are stuck in the Persian Gulf, as conflict restricts passage through the Strait of Hormuz, according to ship brokers.&lt;br /&gt;
-&lt;br /&gt;
-Around 20% of global LNG exports come from Gulf producers, including facilities run by QatarEnergy, some of which have halted output after attacks.&lt;br /&gt;
-&lt;br /&gt;
-Daily LNG freight rates have jumped above $200,000 from under $98,000, while traders expect further price gains after this week’s 40% surge in Asia and Europe.&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032086619004579982</guid>
-      <pubDate>Thu, 12 Mar 2026 13:29:38 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>🚨 IRAN’S KHAMENEI SAYS IRAN WILL SEEK COMPENSATION FROM ENEMIES OR DESTROY THEIR ASSETS ACCORDINGLY</title>
-      <link>https://nitter.net/DeItaone/status/2032086483981779363#m</link>
-      <description>&lt;p&gt;🚨 IRAN’S KHAMENEI SAYS IRAN WILL SEEK COMPENSATION FROM ENEMIES OR DESTROY THEIR ASSETS ACCORDINGLY&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032086483981779363</guid>
-      <pubDate>Thu, 12 Mar 2026 13:29:06 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
