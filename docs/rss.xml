@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 08:07:27 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 08:11:58 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Epstein used modelling agent to recruit girls, Brazilian women tell BBC</title>
+      <link>https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Modelling agent used businesses to recruit girls and arrange US visas to visit Jeffrey Epstein, Brazilian women tell BBC.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cr4576v66kno#0</guid>
+      <pubDate>Thu, 12 Mar 2026 00:05:52 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>Hundreds of GPs tell BBC they have never refused a sick note over mental health concerns</title>
       <link>https://www.bbc.com/news/articles/c20lew24kngo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -422,14 +430,6 @@ Shipping companies are pausing or rerouting services based on risk assessments a
       <guid isPermaLink="false">2031773592262734250</guid>
       <pubDate>Wed, 11 Mar 2026 16:45:47 +0000</pubDate>
       <source>DeItaone</source>
-    </item>
-    <item>
-      <title>Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large</title>
-      <link>https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The US president might learn that starting wars is much easier than ending them, writes the BBC's international editor.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0znx4xrl9o#0</guid>
-      <pubDate>Wed, 11 Mar 2026 16:45:28 +0000</pubDate>
-      <source>BBC</source>
     </item>
   </channel>
 </rss>
