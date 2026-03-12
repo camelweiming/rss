@@ -4,8 +4,24 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 23:48:10 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 23:58:13 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>IRANIAN STATE MEDIA SAYS WIFE OF IRAN'S LATE SUPREME LEADER ALI KHAMENEI IS ALIVE, REPORTS OF HER DEATH WERE INCORRECT</title>
+      <link>https://nitter.net/DeItaone/status/2032122284660384199#m</link>
+      <description>&lt;p&gt;IRANIAN STATE MEDIA SAYS WIFE OF IRAN'S LATE SUPREME LEADER ALI KHAMENEI IS ALIVE, REPORTS OF HER DEATH WERE INCORRECT&lt;/p&gt;</description>
+      <guid isPermaLink="false">2032122284660384199</guid>
+      <pubDate>Thu, 12 Mar 2026 15:51:22 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
+    <item>
+      <title>*IRAN ALLOWED SOME SHIPS TO CROSS STRAIT, DEPUTY FM SAYS: AFP</title>
+      <link>https://nitter.net/DeItaone/status/2032120127303368801#m</link>
+      <description>&lt;p&gt;*IRAN ALLOWED SOME SHIPS TO CROSS STRAIT, DEPUTY FM SAYS: AFP&lt;/p&gt;</description>
+      <guid isPermaLink="false">2032120127303368801</guid>
+      <pubDate>Thu, 12 Mar 2026 15:42:47 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>*IRAN DEPUTY FM SAYS NOT LAYING MINES IN HORMUZ STRAIT: AFP</title>
       <link>https://nitter.net/DeItaone/status/2032119507943141766#m</link>
@@ -521,22 +537,6 @@ Daily LNG freight rates have jumped above $200,000 from under $98,000, while tra
       <guid isPermaLink="false">2032084647710953754</guid>
       <pubDate>Thu, 12 Mar 2026 13:21:48 +0000</pubDate>
       <source>DeItaone</source>
-    </item>
-    <item>
-      <title>🚨IRAN'S LEADER MOJTABA KHAMENEI: ALL US BASES SHOULD IMMEDIATELY BE CLOSED IN THE REGION AND THOSE BASES WILL BE ATTACKED</title>
-      <link>https://nitter.net/DeItaone/status/2032084436863344785#m</link>
-      <description>&lt;p&gt;🚨IRAN'S LEADER MOJTABA KHAMENEI: ALL US BASES SHOULD IMMEDIATELY BE CLOSED IN THE REGION AND THOSE BASES WILL BE ATTACKED&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032084436863344785</guid>
-      <pubDate>Thu, 12 Mar 2026 13:20:58 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>Lloyds, Bank of Scotland and Halifax apps showed customers other users' transactions</title>
-      <link>https://www.bbc.com/news/articles/c4g23npxpwgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The Lloyds Banking Group customers reported being able to view payments and charges from other sources.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g23npxpwgo#0</guid>
-      <pubDate>Thu, 12 Mar 2026 13:20:32 +0000</pubDate>
-      <source>BBC</source>
     </item>
   </channel>
 </rss>
