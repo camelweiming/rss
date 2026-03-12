@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 17:00:21 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 17:10:25 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Hizbollah’s war with Israel deepens its isolation in Lebanon</title>
+      <link>https://www.ft.com/content/037f1db8-1183-498e-9c25-4239e574cf15</link>
+      <description>Widespread opposition to conflict and mass displacement stoke sectarian tensions</description>
+      <guid isPermaLink="false">037f1db8-1183-498e-9c25-4239e574cf15</guid>
+      <pubDate>Thu, 12 Mar 2026 05:00:23 +0000</pubDate>
+      <source>FT</source>
+    </item>
     <item>
       <title>Supertankers rush to Red Sea port as Iran war chokes Gulf oil exports</title>
       <link>https://www.ft.com/content/87c3dc86-052c-4fb1-b03e-2987ae79bcd7</link>
@@ -413,14 +421,6 @@ The probes may target issues such as industrial overcapacity, digital trade rule
       <guid isPermaLink="false">9b623bca-bc3a-4081-b1c7-f57d83ea225e</guid>
       <pubDate>Wed, 11 Mar 2026 18:05:44 +0000</pubDate>
       <source>FT</source>
-    </item>
-    <item>
-      <title>🚨 U.S. STATE DEPT: IRAN AND IRAN-ALIGNED TERRORIST MILITIAS MAY BE PLANNING TO TARGET U.S.-OWNED OIL AND ENERGY INFRASTRUCTURE IN IRAQ</title>
-      <link>https://nitter.net/DeItaone/status/2031791605762412596#m</link>
-      <description>&lt;p&gt;🚨 U.S. STATE DEPT: IRAN AND IRAN-ALIGNED TERRORIST MILITIAS MAY BE PLANNING TO TARGET U.S.-OWNED OIL AND ENERGY INFRASTRUCTURE IN IRAQ&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031791605762412596</guid>
-      <pubDate>Wed, 11 Mar 2026 17:57:22 +0000</pubDate>
-      <source>DeItaone</source>
     </item>
   </channel>
 </rss>
