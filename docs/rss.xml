@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 13 Mar 2026 02:38:27 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 02:48:27 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>U.S. CRUDE OIL FUTURES SETTLE AT $95.73/BBL, UP $8.48, 9.72 PCT</title>
+      <link>https://nitter.net/DeItaone/status/2032162445460910100#m</link>
+      <description>&lt;p&gt;U.S. CRUDE OIL FUTURES SETTLE AT $95.73/BBL, UP $8.48, 9.72 PCT&lt;/p&gt;</description>
+      <guid isPermaLink="false">2032162445460910100</guid>
+      <pubDate>Thu, 12 Mar 2026 18:30:57 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>US CBP DEVELOPING FOUR-PART SYSTEM FOR TARIFF REFUNDS - COURT FILING
 
@@ -514,26 +522,6 @@ Defense officials expect up to $50 billion more may be requested to replenish mu
       <description>&lt;p&gt;🚨 *USS GERALD R. FORD EXPERIENCED A FIRE, NOT COMBAT-RELATED&lt;/p&gt;</description>
       <guid isPermaLink="false">2032102991830921627</guid>
       <pubDate>Thu, 12 Mar 2026 14:34:42 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>ISRAEL CONSIDERS MAJOR GROUND OPERATION IN LEBANON
-
-Israel signals a potential large-scale ground offensive against Hezbollah after the group launched 200+ rockets and drones in recent attacks.
-
-Defense Minister Israel Katz says the military will seize territory directly, sending additional brigades north.
-
-Strikes across southern Lebanon, especially Beirut’s Dahieh district, have killed ~700, while hundreds of thousands flee, as the conflict escalates with no clear resolution in sight.</title>
-      <link>https://nitter.net/DeItaone/status/2032102159949410316#m</link>
-      <description>&lt;p&gt;ISRAEL CONSIDERS MAJOR GROUND OPERATION IN LEBANON&lt;br /&gt;
-&lt;br /&gt;
-Israel signals a potential large-scale ground offensive against Hezbollah after the group launched 200+ rockets and drones in recent attacks.&lt;br /&gt;
-&lt;br /&gt;
-Defense Minister Israel Katz says the military will seize territory directly, sending additional brigades north.&lt;br /&gt;
-&lt;br /&gt;
-Strikes across southern Lebanon, especially Beirut’s Dahieh district, have killed ~700, while hundreds of thousands flee, as the conflict escalates with no clear resolution in sight.&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032102159949410316</guid>
-      <pubDate>Thu, 12 Mar 2026 14:31:24 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
