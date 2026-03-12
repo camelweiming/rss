@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 23:31:28 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 23:38:10 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Russia rakes in $150mn a day in extra revenue from surging oil prices</title>
+      <link>https://www.ft.com/content/dd973148-b6a1-4096-97da-3090a058fe08</link>
+      <description>Middle East conflict boosts Vladimir Putin’s war chest as tankers carrying Russian oil head to India</description>
+      <guid isPermaLink="false">dd973148-b6a1-4096-97da-3090a058fe08</guid>
+      <pubDate>Thu, 12 Mar 2026 15:24:51 +0000</pubDate>
+      <source>FT</source>
+    </item>
     <item>
       <title>- ISRAELI MILITARY SAYS IT HAS BEGUN A WAVE OF STRIKES IN BEIRUT</title>
       <link>https://nitter.net/DeItaone/status/2032114728336494899#m</link>
@@ -21,6 +29,14 @@
       <guid isPermaLink="false">87a06d69-7cb2-4aaf-82ff-da0bf8be43d4</guid>
       <pubDate>Thu, 12 Mar 2026 15:19:08 +0000</pubDate>
       <source>FT</source>
+    </item>
+    <item>
+      <title>PM says Mandelson appointment was mistake as No 10 denies cover-up</title>
+      <link>https://www.bbc.com/news/articles/c875nzlv7ddo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Documents show Sir Keir Starmer was warned the peer's relationship with Jeffrey Epstein posed a "reputational risk".</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c875nzlv7ddo#0</guid>
+      <pubDate>Thu, 12 Mar 2026 15:17:09 +0000</pubDate>
+      <source>BBC</source>
     </item>
     <item>
       <title>TRADERS DOUBT FED WILL CUT RATES IN 2026
@@ -337,6 +353,14 @@ Analyst Eric Lee says de-escalation is expected once U.S./Israel objectives are 
       <source>DeItaone</source>
     </item>
     <item>
+      <title>Fire-ravaged remains of Glasgow building to be demolished</title>
+      <link>https://www.bbc.com/news/articles/cn71n7krrk4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Glasgow City Council said the decision was made due to public safety concerns.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn71n7krrk4o#0</guid>
+      <pubDate>Thu, 12 Mar 2026 13:54:28 +0000</pubDate>
+      <source>BBC</source>
+    </item>
+    <item>
       <title>RECESSION RISK RISES AS OIL SURGES
 
 Kalshi traders now see a 31% chance of a U.S. recession in 2026, up ~11 points amid oil volatility.
@@ -514,42 +538,6 @@ Officials in the Trump administration say the war’s main objective is to degra
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cq8g9e812z3o#0</guid>
       <pubDate>Thu, 12 Mar 2026 13:02:21 +0000</pubDate>
       <source>BBC</source>
-    </item>
-    <item>
-      <title>HORMUZ OIL SHOCK LIKELY SHORT-LIVED: BLACKROCK
-
-Jean Boivin of the BlackRock Investment Institute says the oil supply shock from the Iran conflict should be temporary, lasting weeks rather than months.
-
-Tanker flows through the Strait of Hormuz are running at about 16% of normal levels, which Boivin called “a massive shock for now.”
-
-However, he expects higher oil prices and market adjustments to prevent a prolonged disruption.</title>
-      <link>https://nitter.net/DeItaone/status/2032078609247097048#m</link>
-      <description>&lt;p&gt;HORMUZ OIL SHOCK LIKELY SHORT-LIVED: BLACKROCK&lt;br /&gt;
-&lt;br /&gt;
-Jean Boivin of the BlackRock Investment Institute says the oil supply shock from the Iran conflict should be temporary, lasting weeks rather than months.&lt;br /&gt;
-&lt;br /&gt;
-Tanker flows through the Strait of Hormuz are running at about 16% of normal levels, which Boivin called “a massive shock for now.”&lt;br /&gt;
-&lt;br /&gt;
-However, he expects higher oil prices and market adjustments to prevent a prolonged disruption.&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032078609247097048</guid>
-      <pubDate>Thu, 12 Mar 2026 12:57:49 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>IRAQ'S OIL MINISTER:  WE WILL SIGN AN AGREEMENT REGARDING OIL EXPORTS VIA THE CEYHAN PIPELINE</title>
-      <link>https://nitter.net/DeItaone/status/2032078334935331155#m</link>
-      <description>&lt;p&gt;IRAQ'S OIL MINISTER:  WE WILL SIGN AN AGREEMENT REGARDING OIL EXPORTS VIA THE CEYHAN PIPELINE&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032078334935331155</guid>
-      <pubDate>Thu, 12 Mar 2026 12:56:43 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>IRAQ'S OIL MINISTER: THE TANKERS TARGETED ON WEDNESDAY  DID NOT BELONG TO IRAQ AND WERE CARRYING NAPHTHA</title>
-      <link>https://nitter.net/DeItaone/status/2032077884727173620#m</link>
-      <description>&lt;p&gt;IRAQ'S OIL MINISTER: THE TANKERS TARGETED ON WEDNESDAY  DID NOT BELONG TO IRAQ AND WERE CARRYING NAPHTHA&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032077884727173620</guid>
-      <pubDate>Thu, 12 Mar 2026 12:54:56 +0000</pubDate>
-      <source>DeItaone</source>
     </item>
   </channel>
 </rss>
