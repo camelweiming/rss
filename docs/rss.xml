@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 13 Mar 2026 04:28:31 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 04:38:03 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>PM says Mandelson appointment was mistake as No 10 denies cover-up</title>
+      <link>https://www.bbc.com/news/articles/c875nzlv7ddo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Documents show Sir Keir Starmer was warned the peer's relationship with Jeffrey Epstein posed a "reputational risk".</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c875nzlv7ddo#0</guid>
+      <pubDate>Thu, 12 Mar 2026 20:31:41 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>TRUMP: THE SITUATION WITH IRAN IS MOVING ALONG RAPIDLY</title>
       <link>https://nitter.net/DeItaone/status/2032190620400230456#m</link>
@@ -69,6 +77,14 @@ While attacks have dropped sharply and much of Iran’s air defenses are damaged
       <guid isPermaLink="false">2032183753594798478</guid>
       <pubDate>Thu, 12 Mar 2026 19:55:37 +0000</pubDate>
       <source>DeItaone</source>
+    </item>
+    <item>
+      <title>US intervention in oil futures would be ‘biblical disaster’, CME warns</title>
+      <link>https://www.ft.com/content/823657f2-4f8b-4325-88db-fbbdba6c9e17</link>
+      <description>Terry Duffy says any attempt by the government to lower prices using derivatives market would erode confidence</description>
+      <guid isPermaLink="false">823657f2-4f8b-4325-88db-fbbdba6c9e17</guid>
+      <pubDate>Thu, 12 Mar 2026 19:54:14 +0000</pubDate>
+      <source>FT</source>
     </item>
     <item>
       <title>NETANYAHU, ASKED ABOUT MOJTABA KHAMENEI AND HEZBOLLAH LEADER QASSEM, SAYS: I WOULDN'T TAKE OUT ANY LIFE INSURANCE ON THOSE LEADERS</title>
@@ -456,22 +472,6 @@ U.S. residential heating oil prices have climbed above $5 a gallon — a level n
       <description>&lt;p&gt;WHITE HOUSE'S LEAVITT: US IS CONSIDERING WAIVING THE JONES ACT FOR A LIMITED PERIOD OF TIME&lt;/p&gt;</description>
       <guid isPermaLink="false">2032115948560298129</guid>
       <pubDate>Thu, 12 Mar 2026 15:26:11 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>Russia rakes in $150mn a day in extra revenue from surging oil prices</title>
-      <link>https://www.ft.com/content/dd973148-b6a1-4096-97da-3090a058fe08</link>
-      <description>Middle East conflict boosts Vladimir Putin’s war chest as tankers carrying Russian oil head to India</description>
-      <guid isPermaLink="false">dd973148-b6a1-4096-97da-3090a058fe08</guid>
-      <pubDate>Thu, 12 Mar 2026 15:24:51 +0000</pubDate>
-      <source>FT</source>
-    </item>
-    <item>
-      <title>- ISRAELI MILITARY SAYS IT HAS BEGUN A WAVE OF STRIKES IN BEIRUT</title>
-      <link>https://nitter.net/DeItaone/status/2032114728336494899#m</link>
-      <description>&lt;p&gt;- ISRAELI MILITARY SAYS IT HAS BEGUN A WAVE OF STRIKES IN BEIRUT&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032114728336494899</guid>
-      <pubDate>Thu, 12 Mar 2026 15:21:20 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
