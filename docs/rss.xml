@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 15:48:21 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 15:58:20 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>Supertankers rush to Red Sea port as Iran war chokes Gulf oil exports</title>
@@ -37,6 +37,14 @@
       <guid isPermaLink="false">b9f1b5ed-3bd4-4e03-9f11-a9681127befc</guid>
       <pubDate>Thu, 12 Mar 2026 05:00:14 +0000</pubDate>
       <source>FT</source>
+    </item>
+    <item>
+      <title>'It was the stuff of dreams' - Liza Tarbuck leaves Radio 2 Saturday show</title>
+      <link>https://www.bbc.com/news/articles/c2lrq2n7l9eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Shaun Keaveny, host of The Rock Show, will stand in for her until the end of the end of the month.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c2lrq2n7l9eo#0</guid>
+      <pubDate>Thu, 12 Mar 2026 04:14:37 +0000</pubDate>
+      <source>BBC</source>
     </item>
     <item>
       <title>Oil continues to rise despite deal to release record amount of reserves</title>
@@ -412,14 +420,6 @@ The probes may target issues such as industrial overcapacity, digital trade rule
       <description>&lt;p&gt;🚨 U.S. STATE DEPT: IRAN AND IRAN-ALIGNED TERRORIST MILITIAS MAY BE PLANNING TO TARGET U.S.-OWNED OIL AND ENERGY INFRASTRUCTURE IN IRAQ&lt;/p&gt;</description>
       <guid isPermaLink="false">2031791605762412596</guid>
       <pubDate>Wed, 11 Mar 2026 17:57:22 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*IDF DETECTS LAUNCH OF MISSILES FROM IRAN, WORKING TO INTERCEPT</title>
-      <link>https://nitter.net/DeItaone/status/2031787632817016835#m</link>
-      <description>&lt;p&gt;*IDF DETECTS LAUNCH OF MISSILES FROM IRAN, WORKING TO INTERCEPT&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031787632817016835</guid>
-      <pubDate>Wed, 11 Mar 2026 17:41:35 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
