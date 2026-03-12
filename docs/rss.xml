@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 23:58:13 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 00:08:15 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>UK troops at Iraq base shoot down Iranian drones, Healey says</title>
+      <link>https://www.bbc.com/news/articles/c0e531gve7do?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>British forces based in Iraq shot down two drones overnight, Defence Secretary John Healey has confirmed.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c0e531gve7do#0</guid>
+      <pubDate>Thu, 12 Mar 2026 16:05:45 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>IRANIAN STATE MEDIA SAYS WIFE OF IRAN'S LATE SUPREME LEADER ALI KHAMENEI IS ALIVE, REPORTS OF HER DEATH WERE INCORRECT</title>
       <link>https://nitter.net/DeItaone/status/2032122284660384199#m</link>
@@ -528,14 +536,6 @@ Daily LNG freight rates have jumped above $200,000 from under $98,000, while tra
       <description>&lt;p&gt;🚨 IRAN’S KHAMENEI SAYS IRAN WILL SEEK COMPENSATION FROM ENEMIES OR DESTROY THEIR ASSETS ACCORDINGLY&lt;/p&gt;</description>
       <guid isPermaLink="false">2032086483981779363</guid>
       <pubDate>Thu, 12 Mar 2026 13:29:06 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>KHAMENEI: STRAIT OF HORMUZ SHOULD STAY CLOSED</title>
-      <link>https://nitter.net/DeItaone/status/2032084647710953754#m</link>
-      <description>&lt;p&gt;KHAMENEI: STRAIT OF HORMUZ SHOULD STAY CLOSED&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032084647710953754</guid>
-      <pubDate>Thu, 12 Mar 2026 13:21:48 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
