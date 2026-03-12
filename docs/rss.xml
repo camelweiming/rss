@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 13 Mar 2026 07:48:57 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 07:55:54 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>Suspect dead after ramming vehicle into Jewish temple in Michigan</title>
@@ -13,6 +13,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cx28zd30078o#0</guid>
       <pubDate>Thu, 12 Mar 2026 23:33:14 +0000</pubDate>
       <source>BBC</source>
+    </item>
+    <item>
+      <title>Oil pushes above $100 as Strait of Hormuz crisis intensifies</title>
+      <link>https://www.ft.com/content/d213e507-905e-440b-987e-66bfc1acdffe</link>
+      <description>US launches rescue effort after refuelling aircraft went down ‘in friendly airspace’ over western Iraq</description>
+      <guid isPermaLink="false">d213e507-905e-440b-987e-66bfc1acdffe</guid>
+      <pubDate>Thu, 12 Mar 2026 23:24:13 +0000</pubDate>
+      <source>FT</source>
     </item>
     <item>
       <title>Boy charged over stabbing of teenage girl at Norfolk school</title>
@@ -441,14 +449,6 @@ Iran’s Ali Larijani told Donald Trump that a quick victory is impossible, warn
       <description>&lt;p&gt;🚨 IRAN'S TOP SECURITY OFFICIAL LARIJANI IN RESPONSE TO TRUMP: 'WE WILL NOT RELENT UNTIL MAKING YOU SORRY FOR THIS GRAVE MISCALCULATION'&lt;/p&gt;</description>
       <guid isPermaLink="false">2032131044292366835</guid>
       <pubDate>Thu, 12 Mar 2026 16:26:10 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*IRAN'S TOP SECURITY OFFICIAL TO TRUMP: WE WILL NOT RELENT</title>
-      <link>https://nitter.net/DeItaone/status/2032130444804661348#m</link>
-      <description>&lt;p&gt;*IRAN'S TOP SECURITY OFFICIAL TO TRUMP: WE WILL NOT RELENT&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032130444804661348</guid>
-      <pubDate>Thu, 12 Mar 2026 16:23:47 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
