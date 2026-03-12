@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 08:00:37 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 08:07:27 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Hundreds of GPs tell BBC they have never refused a sick note over mental health concerns</title>
+      <link>https://www.bbc.com/news/articles/c20lew24kngo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The number of fit notes issued has been rising, with more than 11.2m approved in England last year.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c20lew24kngo#0</guid>
+      <pubDate>Thu, 12 Mar 2026 00:01:53 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>Chris Mason: Some nuggets but no huge revelations in first batch of Mandelson files</title>
       <link>https://www.bbc.com/news/articles/c627x7g2l4vo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -422,14 +430,6 @@ Shipping companies are pausing or rerouting services based on risk assessments a
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0znx4xrl9o#0</guid>
       <pubDate>Wed, 11 Mar 2026 16:45:28 +0000</pubDate>
       <source>BBC</source>
-    </item>
-    <item>
-      <title>🚨 TRUMP ON HITTING IRAN: NOT FINISHED YET</title>
-      <link>https://nitter.net/DeItaone/status/2031773418656297305#m</link>
-      <description>&lt;p&gt;🚨 TRUMP ON HITTING IRAN: NOT FINISHED YET&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031773418656297305</guid>
-      <pubDate>Wed, 11 Mar 2026 16:45:06 +0000</pubDate>
-      <source>DeItaone</source>
     </item>
   </channel>
 </rss>
