@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 18:20:27 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 18:30:26 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>Lloyds, Bank of Scotland and Halifax apps showing customers other users' transactions</title>
@@ -13,6 +13,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g23npxpwgo#0</guid>
       <pubDate>Thu, 12 Mar 2026 10:19:11 +0000</pubDate>
       <source>BBC</source>
+    </item>
+    <item>
+      <title>Iran war causing ‘largest disruption in history’ to oil supplies, says IEA</title>
+      <link>https://www.ft.com/content/32726bce-ec4e-4251-8f33-10c15806fbc6</link>
+      <description>Global crude output will fall to lowest level in four years, energy agency warns in report</description>
+      <guid isPermaLink="false">32726bce-ec4e-4251-8f33-10c15806fbc6</guid>
+      <pubDate>Thu, 12 Mar 2026 09:53:39 +0000</pubDate>
+      <source>FT</source>
     </item>
     <item>
       <title>Minister defends PM's handling of Mandelson appointment</title>
@@ -28,6 +36,14 @@
       <description>Police Scotland has been fined £66,000 by a watchdog after it failed to protect sensitive personal information.</description>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cq8g9e812z3o#0</guid>
       <pubDate>Thu, 12 Mar 2026 07:44:46 +0000</pubDate>
+      <source>BBC</source>
+    </item>
+    <item>
+      <title>Draper fights to 'mind-blowing' win over Djokovic</title>
+      <link>https://www.bbc.com/sport/tennis/articles/cly09grr65xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Jack Draper produces a superb fightback to beat Novak Djokovic and reach the Indian Wells fourth round - a result he believes could be "a real big moment" in his season.</description>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cly09grr65xo#0</guid>
+      <pubDate>Thu, 12 Mar 2026 07:41:51 +0000</pubDate>
       <source>BBC</source>
     </item>
     <item>
@@ -404,22 +420,6 @@ The probes may target issues such as industrial overcapacity, digital trade rule
       <description>&lt;p&gt;U.S. INTERIOR SECRETARY SAYS  IT'S REASONABLE TO EXPECT THAT VENEZUELA COULD BE A 4 MILLION BARREL OIL DAY CONTRIBUTOR&lt;/p&gt;</description>
       <guid isPermaLink="false">2031800902365896822</guid>
       <pubDate>Wed, 11 Mar 2026 18:34:18 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>Starmer was warned of 'reputational risk' over Mandelson's links with Epstein, files show</title>
-      <link>https://www.bbc.com/news/articles/cd70lgywgqqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Documents also suggest the peer explored the possibility of a £500,000 severance payment after being sacked as US ambassador.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cd70lgywgqqo#0</guid>
-      <pubDate>Wed, 11 Mar 2026 18:30:20 +0000</pubDate>
-      <source>BBC</source>
-    </item>
-    <item>
-      <title>ISRAELI MILITARY SPOKESPERSON: WE ARE PREPARED TO CONTINUE THE WAR WITH IRAN AS LONG AS NECESSARY</title>
-      <link>https://nitter.net/DeItaone/status/2031799678233174199#m</link>
-      <description>&lt;p&gt;ISRAELI MILITARY SPOKESPERSON: WE ARE PREPARED TO CONTINUE THE WAR WITH IRAN AS LONG AS NECESSARY&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031799678233174199</guid>
-      <pubDate>Wed, 11 Mar 2026 18:29:26 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
