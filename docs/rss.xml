@@ -4,8 +4,24 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 13 Mar 2026 05:48:37 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 05:58:42 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>WHITE HOUSE CONSIDERING DEFUNDING A PROGRAM THAT AIMS TO PROTECT MINORITY VOTERS' RIGHTS -CBS NEWS</title>
+      <link>https://nitter.net/DeItaone/status/2032212033442050370#m</link>
+      <description>&lt;p&gt;WHITE HOUSE CONSIDERING DEFUNDING A PROGRAM THAT AIMS TO PROTECT MINORITY VOTERS' RIGHTS -CBS NEWS&lt;/p&gt;</description>
+      <guid isPermaLink="false">2032212033442050370</guid>
+      <pubDate>Thu, 12 Mar 2026 21:48:00 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
+    <item>
+      <title>U.S. MILITARY SAYS IT IS AWARE OF THE LOSS OF A U.S. KC-135 REFUELING AIRCRAFT</title>
+      <link>https://nitter.net/DeItaone/status/2032210713200984336#m</link>
+      <description>&lt;p&gt;U.S. MILITARY SAYS IT IS AWARE OF THE LOSS OF A U.S. KC-135 REFUELING AIRCRAFT&lt;/p&gt;</description>
+      <guid isPermaLink="false">2032210713200984336</guid>
+      <pubDate>Thu, 12 Mar 2026 21:42:45 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>BESSENT: WE KNOW IRAN HASN'T MINED THE HORMUZ STRAIT</title>
       <link>https://nitter.net/DeItaone/status/2032206686673395875#m</link>
@@ -445,22 +461,6 @@ U.S. residential heating oil prices have climbed above $5 a gallon — a level n
 U.S. residential heating oil prices have climbed above $5 a gallon — a level not seen since late 2022 — as the ongoing conflict involving Iran disrupts global crude and diesel flows through key routes like the Strait of Hormuz. This squeeze on supply has pushed energy markets higher and fed through into heating fuel costs.&lt;/p&gt;</description>
       <guid isPermaLink="false">2032127084949110957</guid>
       <pubDate>Thu, 12 Mar 2026 16:10:26 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>UK troops at Iraq base shoot down Iranian drones, Healey says</title>
-      <link>https://www.bbc.com/news/articles/c0e531gve7do?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>British forces based in Iraq shot down two drones overnight, Defence Secretary John Healey has confirmed.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c0e531gve7do#0</guid>
-      <pubDate>Thu, 12 Mar 2026 16:05:45 +0000</pubDate>
-      <source>BBC</source>
-    </item>
-    <item>
-      <title>US Centcom: Hit approximately 6,000 targets in Iran, more than 60 ships, and more than 30 minelayers damaged or destroyed</title>
-      <link>https://nitter.net/DeItaone/status/2032125191229169994#m</link>
-      <description>&lt;p&gt;US Centcom: Hit approximately 6,000 targets in Iran, more than 60 ships, and more than 30 minelayers damaged or destroyed&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032125191229169994</guid>
-      <pubDate>Thu, 12 Mar 2026 16:02:55 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
