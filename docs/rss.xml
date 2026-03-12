@@ -4,8 +4,24 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 13 Mar 2026 05:08:35 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 05:18:37 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Oil pushes above $100 as Strait of Hormuz crisis intensifies</title>
+      <link>https://www.ft.com/content/87a06d69-7cb2-4aaf-82ff-da0bf8be43d4</link>
+      <description>Brent settles in triple-digit territory for first time since 2022 as Iran’s new leader calls for vital waterway to ‘remain closed’</description>
+      <guid isPermaLink="false">87a06d69-7cb2-4aaf-82ff-da0bf8be43d4</guid>
+      <pubDate>Thu, 12 Mar 2026 21:08:46 +0000</pubDate>
+      <source>FT</source>
+    </item>
+    <item>
+      <title>DRONE ATTACK WOUNDS SIX FRENCH SOLDIERS AT JOINT PESHMERGA-FRANCE BASE IN MAKHMOUR IN NORTHERN IRAQ -ERBIL GOVERNOR STATEMENT, SECURITY SOURCE</title>
+      <link>https://nitter.net/DeItaone/status/2032202001170231642#m</link>
+      <description>&lt;p&gt;DRONE ATTACK WOUNDS SIX FRENCH SOLDIERS AT JOINT PESHMERGA-FRANCE BASE IN MAKHMOUR IN NORTHERN IRAQ -ERBIL GOVERNOR STATEMENT, SECURITY SOURCE&lt;/p&gt;</description>
+      <guid isPermaLink="false">2032202001170231642</guid>
+      <pubDate>Thu, 12 Mar 2026 21:08:08 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>Married at First Sight star says cancer has spread</title>
       <link>https://www.bbc.com/news/articles/c4g8qpp3mpeo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -445,33 +461,6 @@ U.S. residential heating oil prices have climbed above $5 a gallon — a level n
       <description>&lt;p&gt;ISRAELI AIR STRIKES HIT BUILDING IN CENTRAL BEIRUT, LESS THAN A KILOMETER FROM GOVERNMENT HEADQUARTERS, REUTERS FOOTAGE SHOWS&lt;/p&gt;</description>
       <guid isPermaLink="false">2032118959487488160</guid>
       <pubDate>Thu, 12 Mar 2026 15:38:09 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>SAUDI ARAMCO IN TALKS TO BUY UKRAINIAN DRONES TO PROTECT OIL FIELDS</title>
-      <link>https://nitter.net/DeItaone/status/2032118658328076568#m</link>
-      <description>&lt;p&gt;SAUDI ARAMCO IN TALKS TO BUY UKRAINIAN DRONES TO PROTECT OIL FIELDS&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032118658328076568</guid>
-      <pubDate>Thu, 12 Mar 2026 15:36:57 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>WHITE HOUSE'S LEAVITT: THIS ACTION HAS NOT BEEN FINALIZED</title>
-      <link>https://nitter.net/DeItaone/status/2032116049970180279#m</link>
-      <description>&lt;p&gt;WHITE HOUSE'S LEAVITT: THIS ACTION HAS NOT BEEN FINALIZED&lt;/p&gt;
-&lt;hr /&gt;
-&lt;blockquote&gt;
-&lt;b&gt;*Walter Bloomberg (@DeItaone)&lt;/b&gt;
-&lt;p&gt;
-&lt;p&gt;WHITE HOUSE'S LEAVITT: US IS CONSIDERING WAIVING THE JONES ACT FOR A LIMITED PERIOD OF TIME&lt;/p&gt;
-
-&lt;/p&gt;
-&lt;footer&gt;
-— &lt;cite&gt;&lt;a href="https://nitter.net/DeItaone/status/2032115948560298129#m"&gt;https://nitter.net/DeItaone/status/2032115948560298129#m&lt;/a&gt;
-&lt;/footer&gt;
-&lt;/blockquote&gt;</description>
-      <guid isPermaLink="false">2032116049970180279</guid>
-      <pubDate>Thu, 12 Mar 2026 15:26:35 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
