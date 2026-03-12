@@ -4,8 +4,20 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 09:17:31 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 09:27:33 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>*US OFFICIALS SAID IRAN LAID MINES IN STRAIT OF HORMUZ: WSJ
+
+*US ESTIMATED 10 MINES LAID IN STRAIT OF HORMUZ: WSJ</title>
+      <link>https://nitter.net/DeItaone/status/2031900312248709516#m</link>
+      <description>&lt;p&gt;*US OFFICIALS SAID IRAN LAID MINES IN STRAIT OF HORMUZ: WSJ&lt;br /&gt;
+&lt;br /&gt;
+*US ESTIMATED 10 MINES LAID IN STRAIT OF HORMUZ: WSJ&lt;/p&gt;</description>
+      <guid isPermaLink="false">2031900312248709516</guid>
+      <pubDate>Thu, 12 Mar 2026 01:09:19 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>Epstein used modelling agent to recruit girls, Brazilian women tell BBC</title>
       <link>https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -422,14 +434,6 @@ Shipping companies are pausing or rerouting services based on risk assessments a
       <guid isPermaLink="false">2fcc55b1-90a3-4157-9ee9-5a370553f35b</guid>
       <pubDate>Wed, 11 Mar 2026 16:48:53 +0000</pubDate>
       <source>FT</source>
-    </item>
-    <item>
-      <title>TRUMP ON SPAIN: THEY HAVE BEEN BAD, IT MAY CUT OFF TRADE WITH SPAIN</title>
-      <link>https://nitter.net/DeItaone/status/2031773592262734250#m</link>
-      <description>&lt;p&gt;TRUMP ON SPAIN: THEY HAVE BEEN BAD, IT MAY CUT OFF TRADE WITH SPAIN&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031773592262734250</guid>
-      <pubDate>Wed, 11 Mar 2026 16:45:47 +0000</pubDate>
-      <source>DeItaone</source>
     </item>
   </channel>
 </rss>
