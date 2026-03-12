@@ -4,8 +4,24 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 17:20:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 17:30:24 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Minister defends PM's handling of Mandelson appointment</title>
+      <link>https://www.bbc.com/news/articles/c875nzlv7ddo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Documents show Sir Keir Starmer was warned the peer's relationship with Jeffrey Epstein posed a "reputational risk".</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c875nzlv7ddo#0</guid>
+      <pubDate>Thu, 12 Mar 2026 09:22:07 +0000</pubDate>
+      <source>BBC</source>
+    </item>
+    <item>
+      <title>My phone contents were shared with the police colleague I accused of rape</title>
+      <link>https://www.bbc.com/news/articles/cq8g9e812z3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Police Scotland has been fined £66,000 by a watchdog after it failed to protect sensitive personal information.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cq8g9e812z3o#0</guid>
+      <pubDate>Thu, 12 Mar 2026 07:44:46 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>Hizbollah’s war with Israel deepens its isolation in Lebanon</title>
       <link>https://www.ft.com/content/037f1db8-1183-498e-9c25-4239e574cf15</link>
@@ -404,22 +420,6 @@ The probes may target issues such as industrial overcapacity, digital trade rule
       <description>Files related to former minister’s role in Washington reveal his £75,000 pay-off included a discretionary payment</description>
       <guid isPermaLink="false">61088b66-8e53-4536-9245-d8557be708d9</guid>
       <pubDate>Wed, 11 Mar 2026 18:20:14 +0000</pubDate>
-      <source>FT</source>
-    </item>
-    <item>
-      <title>IRAN'S PRESIDENT SAYS ONLY WAY TO END WAR IS RECOGNIZING IRAN'S LEGITIMATE RIGHTS, PAYMENT OF REPARATIONS AND FIRM INTERNATIONAL GURANATEES AGAINST FUTURE AGGRESSION -POST ON X</title>
-      <link>https://nitter.net/DeItaone/status/2031794936794804259#m</link>
-      <description>&lt;p&gt;IRAN'S PRESIDENT SAYS ONLY WAY TO END WAR IS RECOGNIZING IRAN'S LEGITIMATE RIGHTS, PAYMENT OF REPARATIONS AND FIRM INTERNATIONAL GURANATEES AGAINST FUTURE AGGRESSION -POST ON X&lt;/p&gt;</description>
-      <guid isPermaLink="false">2031794936794804259</guid>
-      <pubDate>Wed, 11 Mar 2026 18:10:36 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>IEA releases record oil reserves to counter Iran war energy shock</title>
-      <link>https://www.ft.com/content/9b623bca-bc3a-4081-b1c7-f57d83ea225e</link>
-      <description>Unprecedented move underscores fears of threat to global economy from Middle East war</description>
-      <guid isPermaLink="false">9b623bca-bc3a-4081-b1c7-f57d83ea225e</guid>
-      <pubDate>Wed, 11 Mar 2026 18:05:44 +0000</pubDate>
       <source>FT</source>
     </item>
   </channel>
