@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 13 Mar 2026 00:28:15 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 00:38:17 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>🚨 IRAN'S TOP SECURITY OFFICIAL LARIJANI IN RESPONSE TO TRUMP: 'WE WILL NOT RELENT UNTIL MAKING YOU SORRY FOR THIS GRAVE MISCALCULATION'</title>
@@ -295,6 +295,14 @@ Analyst Homayoun Falakshahi warns impact depends on timing and logistics, and st
       <source>DeItaone</source>
     </item>
     <item>
+      <title>British man charged in Dubai for alleged filming of Iranian missiles</title>
+      <link>https://www.bbc.com/news/articles/c743g4yn4k8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Foreign Office officials are understood to be supporting his family.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c743g4yn4k8o#0</guid>
+      <pubDate>Thu, 12 Mar 2026 14:53:43 +0000</pubDate>
+      <source>BBC</source>
+    </item>
+    <item>
       <title>x.com/i/article/203210671194…</title>
       <link>https://nitter.net/DeItaone/status/2032107675752783945#m</link>
       <description>&lt;p&gt;&lt;a href="http://x.com/i/article/2032106711943684096"&gt;x.com/i/article/203210671194…&lt;/a&gt;&lt;/p&gt;</description>
@@ -528,14 +536,6 @@ The Federal Reserve may delay rate cuts to September and December as inflation s
       <description>&lt;p&gt;TWO DRONES TARGET AN IRAQI ARMY HEADQUARTERS EAST OF MOSUL - SECURITY SOURCES&lt;/p&gt;</description>
       <guid isPermaLink="false">2032092140486943012</guid>
       <pubDate>Thu, 12 Mar 2026 13:51:35 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>S&amp;P 500, NASDAQ 100 EXTEND DROP TO SESSION LOWS; BOTH DOWN 1%</title>
-      <link>https://nitter.net/DeItaone/status/2032090982158577993#m</link>
-      <description>&lt;p&gt;S&amp;amp;P 500, NASDAQ 100 EXTEND DROP TO SESSION LOWS; BOTH DOWN 1%&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032090982158577993</guid>
-      <pubDate>Thu, 12 Mar 2026 13:46:59 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
