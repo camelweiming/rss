@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 13 Mar 2026 01:08:33 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 01:18:21 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>IRAN SECURITY CHIEF SAYS WAR WON'T END SOON: WSJ</title>
+      <link>https://nitter.net/DeItaone/status/2032140412312277503#m</link>
+      <description>&lt;p&gt;IRAN SECURITY CHIEF SAYS WAR WON'T END SOON: WSJ&lt;/p&gt;</description>
+      <guid isPermaLink="false">2032140412312277503</guid>
+      <pubDate>Thu, 12 Mar 2026 17:03:24 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>DIESEL HITS $5+ IN 8 STATES, CALIFORNIA TOPS $6
 
@@ -522,14 +530,6 @@ WRIGHT: I WILL PERSONALLY APPROVE FUTURE POSTS SO IT DOES NOT HAPPEN AGAIN&lt;/p
       <description>&lt;p&gt;WRIGHT: U.S. PLANS TO HAVE MORE BARRELS OF OIL IN STRATEGIC RESERVE A YEAR FROM NOW DESPITE RELEASE&lt;/p&gt;</description>
       <guid isPermaLink="false">2032096925311275378</guid>
       <pubDate>Thu, 12 Mar 2026 14:10:36 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>WRIGHT: U.S. HAS 415 MILLION BARRELS OF OIL IN STORAGE RIGHT NOW</title>
-      <link>https://nitter.net/DeItaone/status/2032096594791743578#m</link>
-      <description>&lt;p&gt;WRIGHT: U.S. HAS 415 MILLION BARRELS OF OIL IN STORAGE RIGHT NOW&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032096594791743578</guid>
-      <pubDate>Thu, 12 Mar 2026 14:09:17 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
