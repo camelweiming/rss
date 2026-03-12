@@ -4,8 +4,24 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 13 Mar 2026 02:08:26 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 02:18:24 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>TESLA GRANTED LICENCE TO SUPPLY ELECTRICITY IN UK: FT</title>
+      <link>https://nitter.net/DeItaone/status/2032156735150907657#m</link>
+      <description>&lt;p&gt;TESLA GRANTED LICENCE TO SUPPLY ELECTRICITY IN UK: FT&lt;/p&gt;</description>
+      <guid isPermaLink="false">2032156735150907657</guid>
+      <pubDate>Thu, 12 Mar 2026 18:08:15 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
+    <item>
+      <title>TESLA CONVERTS XAI INVESTMENT INTO SPACEX STAKE AHEAD OF IPO</title>
+      <link>https://nitter.net/DeItaone/status/2032155889054929045#m</link>
+      <description>&lt;p&gt;TESLA CONVERTS XAI INVESTMENT INTO SPACEX STAKE AHEAD OF IPO&lt;/p&gt;</description>
+      <guid isPermaLink="false">2032155889054929045</guid>
+      <pubDate>Thu, 12 Mar 2026 18:04:54 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>DIMON SOUNDS ALARM AS JPMORGAN CUTS PRIVATE CREDIT EXPOSURE
 
@@ -518,22 +534,6 @@ FIRST TIME A BIG TECH COMPANY FACES A TRIAL REQUEST AFTER PREVIOUSLY SETTLING A 
 FIRST TIME A BIG TECH COMPANY FACES A TRIAL REQUEST AFTER PREVIOUSLY SETTLING A TAX CASE WITH ITALY'S REVENUE AGENCY&lt;/p&gt;</description>
       <guid isPermaLink="false">2032099817921425862</guid>
       <pubDate>Thu, 12 Mar 2026 14:22:05 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>$TSLA $LCID - LUCID EXEC SAYS ROBOTAXI “RAPID SCALING” EXPECTED IN NEXT 2-5 YEARS</title>
-      <link>https://nitter.net/DeItaone/status/2032098984626372718#m</link>
-      <description>&lt;p&gt;&lt;a href="https://nitter.net/search?f=tweets&amp;amp;q=%23TSLA"&gt;$TSLA&lt;/a&gt; &lt;a href="https://nitter.net/search?f=tweets&amp;amp;q=%23LCID"&gt;$LCID&lt;/a&gt; - LUCID EXEC SAYS ROBOTAXI “RAPID SCALING” EXPECTED IN NEXT 2-5 YEARS&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032098984626372718</guid>
-      <pubDate>Thu, 12 Mar 2026 14:18:47 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*CHINA, CUBA AGREE TO BOOST BILATERAL TIES: CCTV</title>
-      <link>https://nitter.net/DeItaone/status/2032098083790561289#m</link>
-      <description>&lt;p&gt;*CHINA, CUBA AGREE TO BOOST BILATERAL TIES: CCTV&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032098083790561289</guid>
-      <pubDate>Thu, 12 Mar 2026 14:15:12 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
