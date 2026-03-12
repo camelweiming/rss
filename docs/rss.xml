@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 12 Mar 2026 18:10:27 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 18:20:27 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Lloyds, Bank of Scotland and Halifax apps showing customers other users' transactions</title>
+      <link>https://www.bbc.com/news/articles/c4g23npxpwgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The Lloyds Banking Group customers reported being able to view payments and charges from other sources.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g23npxpwgo#0</guid>
+      <pubDate>Thu, 12 Mar 2026 10:19:11 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>Minister defends PM's handling of Mandelson appointment</title>
       <link>https://www.bbc.com/news/articles/c875nzlv7ddo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -413,14 +421,6 @@ The probes may target issues such as industrial overcapacity, digital trade rule
       <guid isPermaLink="false">2031799678233174199</guid>
       <pubDate>Wed, 11 Mar 2026 18:29:26 +0000</pubDate>
       <source>DeItaone</source>
-    </item>
-    <item>
-      <title>Mandelson’s appointment as ambassador was ‘weirdly rushed’, Starmer aide warned</title>
-      <link>https://www.ft.com/content/61088b66-8e53-4536-9245-d8557be708d9</link>
-      <description>Files related to former minister’s role in Washington reveal his £75,000 pay-off included a discretionary payment</description>
-      <guid isPermaLink="false">61088b66-8e53-4536-9245-d8557be708d9</guid>
-      <pubDate>Wed, 11 Mar 2026 18:20:14 +0000</pubDate>
-      <source>FT</source>
     </item>
   </channel>
 </rss>
