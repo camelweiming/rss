@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 13 Mar 2026 08:09:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 08:29:12 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Winners, Sinners and record breakers: 17 fun facts about this year's Oscars</title>
+      <link>https://www.bbc.com/news/articles/c1je21lgn5zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Sinners, Marty Supreme, Hamnet and One Battle After Another are among the films in contention this year.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1je21lgn5zo#0</guid>
+      <pubDate>Fri, 13 Mar 2026 00:02:30 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>*TREASURY: LICENSE AUTHORIZING SALE OF CRUDE OIL FROM RUSSIA</title>
       <link>https://nitter.net/DeItaone/status/2032241988393652660#m</link>
@@ -13,6 +21,14 @@
       <guid isPermaLink="false">2032241988393652660</guid>
       <pubDate>Thu, 12 Mar 2026 23:47:01 +0000</pubDate>
       <source>DeItaone</source>
+    </item>
+    <item>
+      <title>US has burned through ‘years’ of munitions since start of Iran war</title>
+      <link>https://www.ft.com/content/14713f6f-a1a6-4477-bd10-d3780fbc8ab5</link>
+      <description>Rapid depletion of stockpile including Tomahawk missiles raises pressure on Trump over cost of conflict</description>
+      <guid isPermaLink="false">14713f6f-a1a6-4477-bd10-d3780fbc8ab5</guid>
+      <pubDate>Thu, 12 Mar 2026 23:37:07 +0000</pubDate>
+      <source>FT</source>
     </item>
     <item>
       <title>Suspect dead after ramming vehicle into Jewish temple in Michigan</title>
@@ -430,26 +446,6 @@ While the administration calls the spike “short-term,” public frustration is
       <guid isPermaLink="false">2032134292260692221</guid>
       <pubDate>Thu, 12 Mar 2026 16:39:05 +0000</pubDate>
       <source>DeItaone</source>
-    </item>
-    <item>
-      <title>IRAN'S TOP SECURITY OFFICIAL
-
-Iran’s Ali Larijani told Donald Trump that a quick victory is impossible, warning Washington it will face consequences for starting the conflict. “Starting a war is easy, but it cannot be won with a few tweets. We will not relent,” he said on X.</title>
-      <link>https://nitter.net/DeItaone/status/2032133017045475381#m</link>
-      <description>&lt;p&gt;IRAN'S TOP SECURITY OFFICIAL&lt;br /&gt;
-&lt;br /&gt;
-Iran’s Ali Larijani told Donald Trump that a quick victory is impossible, warning Washington it will face consequences for starting the conflict. “Starting a war is easy, but it cannot be won with a few tweets. We will not relent,” he said on X.&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032133017045475381</guid>
-      <pubDate>Thu, 12 Mar 2026 16:34:01 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>What on earth is going on with the oil price?</title>
-      <link>https://www.bbc.com/news/articles/ce3g49w5zxwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Oil price moves have made headlines since the Iran conflict started - but why have there been such sharp swings?</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3g49w5zxwo#0</guid>
-      <pubDate>Thu, 12 Mar 2026 16:30:30 +0000</pubDate>
-      <source>BBC</source>
     </item>
   </channel>
 </rss>
