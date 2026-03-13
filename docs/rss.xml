@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 13 Mar 2026 10:29:18 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 10:39:16 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>TRUMP BELIEVES MOJTABA KHAMENEI IS INJURED BUT ALIVE: FOX</title>
+      <link>https://nitter.net/DeItaone/status/2032279725150818608#m</link>
+      <description>&lt;p&gt;TRUMP BELIEVES MOJTABA KHAMENEI IS INJURED BUT ALIVE: FOX&lt;/p&gt;</description>
+      <guid isPermaLink="false">2032279725150818608</guid>
+      <pubDate>Fri, 13 Mar 2026 02:16:59 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>Winners, Sinners and record breakers: 17 fun facts about this year's Oscars</title>
       <link>https://www.bbc.com/news/articles/c1je21lgn5zo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -438,14 +446,6 @@ While the administration calls the spike “short-term,” public frustration is
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g23npxpwgo#0</guid>
       <pubDate>Thu, 12 Mar 2026 16:41:42 +0000</pubDate>
       <source>BBC</source>
-    </item>
-    <item>
-      <title>🚨 IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS MANY SHIPS CAN STILL PASS THROUGH STRAIT OF HORMUZ IF THEY COORDINATE WITH IRANIAN NAVY - MEHR</title>
-      <link>https://nitter.net/DeItaone/status/2032134292260692221#m</link>
-      <description>&lt;p&gt;🚨 IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS MANY SHIPS CAN STILL PASS THROUGH STRAIT OF HORMUZ IF THEY COORDINATE WITH IRANIAN NAVY - MEHR&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032134292260692221</guid>
-      <pubDate>Thu, 12 Mar 2026 16:39:05 +0000</pubDate>
-      <source>DeItaone</source>
     </item>
   </channel>
 </rss>
