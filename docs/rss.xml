@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 13 Mar 2026 10:49:20 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 10:59:20 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Oil price profiteering will not be tolerated, says Miliband</title>
+      <link>https://www.bbc.com/news/articles/crk83e2g65no?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Ed Miliband says the competition watchdog is primed to intervene if firms use the oil price shock to "rip off" customers.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/crk83e2g65no#0</guid>
+      <pubDate>Fri, 13 Mar 2026 02:54:39 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>TRUMP BELIEVES MOJTABA KHAMENEI IS INJURED BUT ALIVE: FOX</title>
       <link>https://nitter.net/DeItaone/status/2032279725150818608#m</link>
@@ -438,14 +446,6 @@ While the administration calls the spike “short-term,” public frustration is
       <guid isPermaLink="false">2032135603681444095</guid>
       <pubDate>Thu, 12 Mar 2026 16:44:17 +0000</pubDate>
       <source>DeItaone</source>
-    </item>
-    <item>
-      <title>Lloyds, Bank of Scotland and Halifax apps showed customers other users' transactions</title>
-      <link>https://www.bbc.com/news/articles/c4g23npxpwgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The Lloyds Banking Group customers reported being able to view payments and charges from other sources.</description>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g23npxpwgo#0</guid>
-      <pubDate>Thu, 12 Mar 2026 16:41:42 +0000</pubDate>
-      <source>BBC</source>
     </item>
   </channel>
 </rss>
