@@ -1,9 +1,6 @@
 # RSS 源配置
 RSS_SOURCES = {
-    "FT": "https://www.ft.com/?format=rss",
-    "BBC": "https://www.bbc.com/news/rss.xml",
     "DeItaone": "https://nitter.net/DeItaone/rss"
-    # "36kr": "https://36kr.com/feed"
 }
 
 
