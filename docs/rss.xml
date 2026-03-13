@@ -4,8 +4,24 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 13 Mar 2026 15:09:42 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 15:40:43 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>UK economy failed to grow in January ahead of Iran war</title>
+      <link>https://www.bbc.com/news/articles/c75e06e0kd7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Analysts had been expecting 0.2% growth for the UK economy at the beginning of the year.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c75e06e0kd7o#0</guid>
+      <pubDate>Fri, 13 Mar 2026 07:38:45 +0000</pubDate>
+      <source>BBC</source>
+    </item>
+    <item>
+      <title>Rescue operations under way after US refuelling plane crashes in Iraq</title>
+      <link>https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The US Central Command says rescue efforts are under way after a refuelling aircraft went down over western Iraq.</description>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy0dz5ql17vo#0</guid>
+      <pubDate>Fri, 13 Mar 2026 07:05:37 +0000</pubDate>
+      <source>BBC</source>
+    </item>
     <item>
       <title>The Iranian school bombing and the information war</title>
       <link>https://www.ft.com/content/c0d36dc5-9668-4607-bccb-3c423e6d3865</link>
@@ -404,30 +420,6 @@ US CBP SAYS THE FOUR PARTS ARE BETWEEN 40% TO 80% COMPLETE - COURT FILING&lt;/p&
       <description>&lt;p&gt;TESLA CONVERTS XAI INVESTMENT INTO SPACEX STAKE AHEAD OF IPO&lt;/p&gt;</description>
       <guid isPermaLink="false">2032155889054929045</guid>
       <pubDate>Thu, 12 Mar 2026 18:04:54 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>DIMON SOUNDS ALARM AS JPMORGAN CUTS PRIVATE CREDIT EXPOSURE
-
-Jamie Dimon, CEO of JPMorgan, has begun reducing the bank’s $27 billion in loans to private lenders, a move that started in September. The early pullback signals tightening credit conditions and reinforces Dimon’s warnings about risks building in credit markets.</title>
-      <link>https://nitter.net/DeItaone/status/2032153697556312463#m</link>
-      <description>&lt;p&gt;DIMON SOUNDS ALARM AS JPMORGAN CUTS PRIVATE CREDIT EXPOSURE&lt;br /&gt;
-&lt;br /&gt;
-Jamie Dimon, CEO of JPMorgan, has begun reducing the bank’s $27 billion in loans to private lenders, a move that started in September. The early pullback signals tightening credit conditions and reinforces Dimon’s warnings about risks building in credit markets.&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032153697556312463</guid>
-      <pubDate>Thu, 12 Mar 2026 17:56:11 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>USO ETF NEARS 7-YEAR HIGH AS OIL SURGES
-
-The U.S. Oil Fund (USO) is set to hit its highest price since 2018, rising over 40% this month amid Middle East tensions and oil nearing $100 a barrel, closing Thursday at $116.60.</title>
-      <link>https://nitter.net/DeItaone/status/2032147745008472240#m</link>
-      <description>&lt;p&gt;USO ETF NEARS 7-YEAR HIGH AS OIL SURGES&lt;br /&gt;
-&lt;br /&gt;
-The U.S. Oil Fund (USO) is set to hit its highest price since 2018, rising over 40% this month amid Middle East tensions and oil nearing $100 a barrel, closing Thursday at $116.60.&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032147745008472240</guid>
-      <pubDate>Thu, 12 Mar 2026 17:32:32 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
