@@ -4,7 +4,7 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 13 Mar 2026 13:29:30 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 13:39:31 +0800</lastBuildDate>
     <language>zh-CN</language>
     <item>
       <title>The Iranian school bombing and the information war</title>
@@ -12,6 +12,14 @@
       <description>Evidence suggests that the US was most likely to be behind the attack that killed over 100 children</description>
       <guid isPermaLink="false">c0d36dc5-9668-4607-bccb-3c423e6d3865</guid>
       <pubDate>Fri, 13 Mar 2026 05:00:29 +0000</pubDate>
+      <source>FT</source>
+    </item>
+    <item>
+      <title>Iran is playing a long game</title>
+      <link>https://www.ft.com/content/93b7b65d-074b-4e8b-807f-5c27c7362213</link>
+      <description>An asymmetric war that brings the global economy to a standstill could exhaust the US and force a ceasefire</description>
+      <guid isPermaLink="false">93b7b65d-074b-4e8b-807f-5c27c7362213</guid>
+      <pubDate>Fri, 13 Mar 2026 05:00:20 +0000</pubDate>
       <source>FT</source>
     </item>
     <item>
@@ -420,14 +428,6 @@ The U.S. Oil Fund (USO) is set to hit its highest price since 2018, rising over 
       <description>&lt;p&gt;ISRAELI MILITARY SAYS IT HAS STRUCK BASIJ ROADBLOCKS AND SOLDIERS ESTABLISHED RECENTLY IN TEHRAN&lt;/p&gt;</description>
       <guid isPermaLink="false">2032143352297128036</guid>
       <pubDate>Thu, 12 Mar 2026 17:15:05 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>IRAN SECURITY CHIEF SAYS WAR WON'T END SOON: WSJ</title>
-      <link>https://nitter.net/DeItaone/status/2032140412312277503#m</link>
-      <description>&lt;p&gt;IRAN SECURITY CHIEF SAYS WAR WON'T END SOON: WSJ&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032140412312277503</guid>
-      <pubDate>Thu, 12 Mar 2026 17:03:24 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
