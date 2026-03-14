@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sat, 14 Mar 2026 22:36:01 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 22:41:05 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>IRAQI ELECTRICITY MINISTRY SAYS TOTAL IRANIAN GAS SUPPLIES ROSE FROM 6 MLN TO 18 MLN CUBIC METRES IN THE PAST WEEK</title>
+      <link>https://nitter.net/DeItaone/status/2032827622359511232#m</link>
+      <description>&lt;p&gt;IRAQI ELECTRICITY MINISTRY SAYS TOTAL IRANIAN GAS SUPPLIES ROSE FROM 6 MLN TO 18 MLN CUBIC METRES IN THE PAST WEEK&lt;/p&gt;</description>
+      <guid isPermaLink="false">2032827622359511232</guid>
+      <pubDate>Sat, 14 Mar 2026 14:34:07 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>IRAN REVOLUTIONARY GUARDS SPOKESPERSON SAYS BRANCHES OF U.S. BANKS TARGETED IN GULF IN RETALIATION FOR ATTACKS ON IRANIAN BANKS - IRANIAN STATE MEDIA</title>
       <link>https://nitter.net/DeItaone/status/2032822361980879232#m</link>
@@ -489,18 +497,6 @@ U.S. and Israeli military operations against Iran have continued since February 
       <description>&lt;p&gt;*TRUMP: ECONOMY WILL BOUNCE RIGHT BACK WHEN IRAN WAR IS OVER&lt;/p&gt;</description>
       <guid isPermaLink="false">2032468407765938684</guid>
       <pubDate>Fri, 13 Mar 2026 14:46:44 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*TRUMP: WE'RE DOING WELL ECONOMICALLY WITH CHINA
-  
-*TRUMP ON CHINA: WE'VE HAD A GOOD RELATIONSHIP</title>
-      <link>https://nitter.net/DeItaone/status/2032467592540033533#m</link>
-      <description>&lt;p&gt;*TRUMP: WE'RE DOING WELL ECONOMICALLY WITH CHINA&lt;br /&gt;
-  &lt;br /&gt;
-*TRUMP ON CHINA: WE'VE HAD A GOOD RELATIONSHIP&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032467592540033533</guid>
-      <pubDate>Fri, 13 Mar 2026 14:43:30 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
