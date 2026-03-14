@@ -4,8 +4,17 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sun, 15 Mar 2026 06:26:02 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 06:31:05 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>R to @DeItaone: Image</title>
+      <link>https://nitter.net/DeItaone/status/2032944901671788846#m</link>
+      <description>&lt;p&gt;&lt;/p&gt;
+&lt;img src="https://nitter.net/pic/media%2FHDZ4nI5WkAEFIhK.jpg" /&gt;</description>
+      <guid isPermaLink="false">2032944901671788846</guid>
+      <pubDate>Sat, 14 Mar 2026 22:20:09 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>ISRAEL IS RUNNING CRITICALLY LOW ON INTERCEPTORS- SEMAFOR</title>
       <link>https://nitter.net/DeItaone/status/2032918189349232670#m</link>
@@ -456,26 +465,6 @@ Hartnett cited soaring oil prices, a protracted Iran war, and global instability
       <description>&lt;p&gt;ELON MUSK HAS ORDERED ANOTHER ROUND OF JOB CUTS AT XAI  - FT&lt;/p&gt;</description>
       <guid isPermaLink="false">2032481477619785958</guid>
       <pubDate>Fri, 13 Mar 2026 15:38:40 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>IRAN WAR DISRUPTS ZINC SUPPLIES TO CHINA
-
-China’s zinc smelters face raw-material shortages after shipments from Iran were halted amid the ongoing conflict, compounding delays from Russia’s new Ozernoye mine.
-
-Iran and Russia together supply about 15% of China’s zinc feedstock. Port closures at Bandar Abbas in the Strait of Hormuz and canceled cargoes from Oman have tightened supplies, forcing Chinese buyers to seek alternatives for May and June.
-
-Industry analysts warn the conflict could ripple through other commodities markets, with aluminum, nickel, copper, and fertilizers already seeing price pressures.</title>
-      <link>https://nitter.net/DeItaone/status/2032480764663660852#m</link>
-      <description>&lt;p&gt;IRAN WAR DISRUPTS ZINC SUPPLIES TO CHINA&lt;br /&gt;
-&lt;br /&gt;
-China’s zinc smelters face raw-material shortages after shipments from Iran were halted amid the ongoing conflict, compounding delays from Russia’s new Ozernoye mine.&lt;br /&gt;
-&lt;br /&gt;
-Iran and Russia together supply about 15% of China’s zinc feedstock. Port closures at Bandar Abbas in the Strait of Hormuz and canceled cargoes from Oman have tightened supplies, forcing Chinese buyers to seek alternatives for May and June.&lt;br /&gt;
-&lt;br /&gt;
-Industry analysts warn the conflict could ripple through other commodities markets, with aluminum, nickel, copper, and fertilizers already seeing price pressures.&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032480764663660852</guid>
-      <pubDate>Fri, 13 Mar 2026 15:35:50 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
