@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sun, 15 Mar 2026 22:55:49 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 23:01:03 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>OIL FROM IEA EMERGENCY RESERVES WILL SOON START FLOWING TO GLOBAL MARKETS - IEA STATEMENT</title>
+      <link>https://nitter.net/DeItaone/status/2033196430366503243#m</link>
+      <description>&lt;p&gt;OIL FROM IEA EMERGENCY RESERVES WILL SOON START FLOWING TO GLOBAL MARKETS - IEA STATEMENT&lt;/p&gt;</description>
+      <guid isPermaLink="false">2033196430366503243</guid>
+      <pubDate>Sun, 15 Mar 2026 14:59:38 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>ISRAELI MILITARY SAYS IT EXPANDING SCOPE OF STRIKES AGAINST IRANIAN INFRASTRUCTURE IN ADDITIONAL AREAS IN WESTERN AND CENTRAL IRAN</title>
       <link>https://nitter.net/DeItaone/status/2033190900675805627#m</link>
@@ -503,14 +511,6 @@ Iran will never obtain a nuclear weapon or threaten the United States, the Middl
       <description>&lt;p&gt;*US INVOKES DEFENSE PRODUCTION ACT FOR SABLE OFFSHORE CORP.&lt;/p&gt;</description>
       <guid isPermaLink="false">2032567586928628039</guid>
       <pubDate>Fri, 13 Mar 2026 21:20:50 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>U.S. COMMERCE DEPARTMENT WITHDRAWS PLANNED RULE ON AI CHIP EXPORTS -- GOVERNMENT WEBSITE</title>
-      <link>https://nitter.net/DeItaone/status/2032566513618637230#m</link>
-      <description>&lt;p&gt;U.S. COMMERCE DEPARTMENT WITHDRAWS PLANNED RULE ON AI CHIP EXPORTS -- GOVERNMENT WEBSITE&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032566513618637230</guid>
-      <pubDate>Fri, 13 Mar 2026 21:16:34 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
