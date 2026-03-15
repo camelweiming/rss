@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 16 Mar 2026 07:16:05 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 07:21:04 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>S&amp;P 500 EMINIS BOUNCE 0.3%, NASDAQ FUTURES ADD 0.3%</title>
+      <link>https://nitter.net/DeItaone/status/2033318541244395733#m</link>
+      <description>&lt;p&gt;S&amp;amp;P 500 EMINIS BOUNCE 0.3%, NASDAQ FUTURES ADD 0.3%&lt;/p&gt;</description>
+      <guid isPermaLink="false">2033318541244395733</guid>
+      <pubDate>Sun, 15 Mar 2026 23:04:52 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>US–CHINA TRADE TALKS IN PARIS SHOW PROGRESS
 
@@ -507,14 +515,6 @@ Separately, Trump criticized Ukrainian President Volodymyr Zelenskyy, saying he 
 — President Donald J. Trump&lt;/p&gt;</description>
       <guid isPermaLink="false">2032604046444605687</guid>
       <pubDate>Fri, 13 Mar 2026 23:45:43 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*TRUMP: US 'OBLITERATED' MILITARY TARGETS ON IRAN'S KHARG ISLAND</title>
-      <link>https://nitter.net/DeItaone/status/2032592010578731255#m</link>
-      <description>&lt;p&gt;*TRUMP: US 'OBLITERATED' MILITARY TARGETS ON IRAN'S KHARG ISLAND&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032592010578731255</guid>
-      <pubDate>Fri, 13 Mar 2026 22:57:53 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
