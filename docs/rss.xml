@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sun, 15 Mar 2026 18:41:01 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 18:45:59 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>*ALUMINIUM BAHRAIN SUSPENDS 19% OF TOTAL PRODUCTION CAPACITY</title>
+      <link>https://nitter.net/DeItaone/status/2033129840677646367#m</link>
+      <description>&lt;p&gt;*ALUMINIUM BAHRAIN SUSPENDS 19% OF TOTAL PRODUCTION CAPACITY&lt;/p&gt;</description>
+      <guid isPermaLink="false">2033129840677646367</guid>
+      <pubDate>Sun, 15 Mar 2026 10:35:02 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>R to @DeItaone: Source: https://www.nbcnews.com/politics/donald-trump/iran-negotiate-ceasefire-deal-trump-kharg-hormuz-oil-rcna263474</title>
       <link>https://nitter.net/DeItaone/status/2032969235345907984#m</link>
@@ -483,14 +491,6 @@ Those sought include Mojtaba Khamenei, Ali Asghar Hejazi, and Esmail Khatib, alo
 &lt;img src="https://nitter.net/pic/media%2FHDTzztsacAAZuHI.jpg" /&gt;</description>
       <guid isPermaLink="false">2032517439699787897</guid>
       <pubDate>Fri, 13 Mar 2026 18:01:34 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>ERDOGAN: TURKEY WILL NOT GET DRAGGED INTO IRAN WAR, BUT IS PREPARED AGAINST ALL THREATS</title>
-      <link>https://nitter.net/DeItaone/status/2032514578261688643#m</link>
-      <description>&lt;p&gt;ERDOGAN: TURKEY WILL NOT GET DRAGGED INTO IRAN WAR, BUT IS PREPARED AGAINST ALL THREATS&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032514578261688643</guid>
-      <pubDate>Fri, 13 Mar 2026 17:50:12 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
