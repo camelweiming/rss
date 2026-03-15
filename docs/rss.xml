@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 16 Mar 2026 00:11:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 00:16:01 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>ROCKETS TARGET U.S. DIPLOMATIC FACILITY NEAR BAGHDAD INTERNATIONAL AIRPORT - POLICE SOURCES</title>
+      <link>https://nitter.net/DeItaone/status/2033214493958853057#m</link>
+      <description>&lt;p&gt;ROCKETS TARGET U.S. DIPLOMATIC FACILITY NEAR BAGHDAD INTERNATIONAL AIRPORT - POLICE SOURCES&lt;/p&gt;</description>
+      <guid isPermaLink="false">2033214493958853057</guid>
+      <pubDate>Sun, 15 Mar 2026 16:11:25 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>*ARAGHCHI: OPEN TO NATIONS WANTING TO DISCUSS SAFE HORMUZ PASSAGE</title>
       <link>https://nitter.net/DeItaone/status/2033210052278915402#m</link>
@@ -507,14 +515,6 @@ Iran will never obtain a nuclear weapon or threaten the United States, the Middl
 *FAA CITES CHEMICAL SMELL AT REGION'S AIR-TRAFFIC CONTROL CENTER&lt;/p&gt;</description>
       <guid isPermaLink="false">2032579068588417471</guid>
       <pubDate>Fri, 13 Mar 2026 22:06:28 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*TRUMP ADMINISTRATION SET TO GET $10B FEE FOR TIKTOK DEAL: WSJ</title>
-      <link>https://nitter.net/DeItaone/status/2032579000850120990#m</link>
-      <description>&lt;p&gt;*TRUMP ADMINISTRATION SET TO GET $10B FEE FOR TIKTOK DEAL: WSJ&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032579000850120990</guid>
-      <pubDate>Fri, 13 Mar 2026 22:06:11 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
