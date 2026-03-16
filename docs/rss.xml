@@ -4,8 +4,24 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 17 Mar 2026 00:46:58 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 00:52:01 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>EU'S KALLAS: THIS IS NOT EUROPE'S WAR</title>
+      <link>https://nitter.net/DeItaone/status/2033586428374917248#m</link>
+      <description>&lt;p&gt;EU'S KALLAS: THIS IS NOT EUROPE'S WAR&lt;/p&gt;</description>
+      <guid isPermaLink="false">2033586428374917248</guid>
+      <pubDate>Mon, 16 Mar 2026 16:49:21 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
+    <item>
+      <title>TRUMP: FLORIDA REP. DUNN HAS A TERMINAL DIAGNOSIS, EXPECTED TO BE DEAD BY JUNE</title>
+      <link>https://nitter.net/DeItaone/status/2033584119309910346#m</link>
+      <description>&lt;p&gt;TRUMP: FLORIDA REP. DUNN HAS A TERMINAL DIAGNOSIS, EXPECTED TO BE DEAD BY JUNE&lt;/p&gt;</description>
+      <guid isPermaLink="false">2033584119309910346</guid>
+      <pubDate>Mon, 16 Mar 2026 16:40:10 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>OIL PRICES PARE LOSSES, BRENT CRUDE BRIEFLY TURNS POSITIVE AS US PRESIDENT TRUMP REPEATS CALL TO OTHER NATIONS TO HELP REOPEN THE STRAIT OF HORMUZ</title>
       <link>https://nitter.net/DeItaone/status/2033582433317085498#m</link>
@@ -513,22 +529,6 @@ The transit followed a recent call between Indian Prime Minister Narendra Modi a
       <description>&lt;p&gt;ISRAELI MILITARY SAYS IT DESTROYED A COMPOUND IN TEHRAN USED TO 'DEVELOP SATELLITE ATTACK CAPABILITIES IN SPACE'&lt;/p&gt;</description>
       <guid isPermaLink="false">2033514784004440500</guid>
       <pubDate>Mon, 16 Mar 2026 12:04:40 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>NASDAQ 100 FUTURES EXTEND GAINS TO SESSION HIGH OF ABOUT 1%</title>
-      <link>https://nitter.net/DeItaone/status/2033514537366790480#m</link>
-      <description>&lt;p&gt;NASDAQ 100 FUTURES EXTEND GAINS TO SESSION HIGH OF ABOUT 1%&lt;/p&gt;</description>
-      <guid isPermaLink="false">2033514537366790480</guid>
-      <pubDate>Mon, 16 Mar 2026 12:03:41 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>$MSTR - MICROSTRATEGY PURCHASES 22,337 BTC ($1.5B) AT $70,194 AVG AS STRC PRODUCT GAINS TRACTION: FILING</title>
-      <link>https://nitter.net/DeItaone/status/2033514195149320661#m</link>
-      <description>&lt;p&gt;&lt;a href="https://nitter.net/search?f=tweets&amp;amp;q=%23MSTR"&gt;$MSTR&lt;/a&gt; - MICROSTRATEGY PURCHASES 22,337 BTC ($1.5B) AT $70,194 AVG AS STRC PRODUCT GAINS TRACTION: FILING&lt;/p&gt;</description>
-      <guid isPermaLink="false">2033514195149320661</guid>
-      <pubDate>Mon, 16 Mar 2026 12:02:19 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
