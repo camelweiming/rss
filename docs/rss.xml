@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 17 Mar 2026 03:02:03 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 03:07:00 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>EXPLOSION HEARD NEAR U.S. EMBASSY IN BAGHDAD, SIRENS SOUND - REUTERS WITNESS</title>
+      <link>https://nitter.net/DeItaone/status/2033619946085732558#m</link>
+      <description>&lt;p&gt;EXPLOSION HEARD NEAR U.S. EMBASSY IN BAGHDAD, SIRENS SOUND - REUTERS WITNESS&lt;/p&gt;</description>
+      <guid isPermaLink="false">2033619946085732558</guid>
+      <pubDate>Mon, 16 Mar 2026 19:02:32 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>IRAN’S SUPREME LEADER SURVIVED STRIKE BY MINUTES
 
@@ -504,14 +512,6 @@ In a post on Truth Social, Trump said the briefing will take place before his 11
 He did not specify the topic of the news conference.&lt;/p&gt;</description>
       <guid isPermaLink="false">2033535714386653476</guid>
       <pubDate>Mon, 16 Mar 2026 13:27:50 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>U.S. CRUDE FUTURES  FALL MORE THAN $4 TO INTRA-DAY LOW OF $94.31 PER BARREL</title>
-      <link>https://nitter.net/DeItaone/status/2033534746303623200#m</link>
-      <description>&lt;p&gt;U.S. CRUDE FUTURES  FALL MORE THAN $4 TO INTRA-DAY LOW OF $94.31 PER BARREL&lt;/p&gt;</description>
-      <guid isPermaLink="false">2033534746303623200</guid>
-      <pubDate>Mon, 16 Mar 2026 13:23:59 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
