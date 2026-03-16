@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 16 Mar 2026 17:47:13 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 17:52:08 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>IRAN FM: 'WE DID NOT REQUEST A CEASEFIRE AND WILL CONTINUE THE RESISTANCE'</title>
+      <link>https://nitter.net/DeItaone/status/2033479765445763086#m</link>
+      <description>&lt;p&gt;IRAN FM: 'WE DID NOT REQUEST A CEASEFIRE AND WILL CONTINUE THE RESISTANCE'&lt;/p&gt;</description>
+      <guid isPermaLink="false">2033479765445763086</guid>
+      <pubDate>Mon, 16 Mar 2026 09:45:30 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>*TRUMP TELLS NATO TO HELP US IN IRAN: FT
 
@@ -509,14 +517,6 @@ Separately, Trump criticized Ukrainian President Volodymyr Zelenskyy, saying he 
       <description>&lt;p&gt;TRUMP: SAUDI ARABIA BASE WAS HIT A FEW DAYS AGO, BUT PLANES WERE NOT "STRUCK" OR "DESTROYED&lt;/p&gt;</description>
       <guid isPermaLink="false">2032813562788204700</guid>
       <pubDate>Sat, 14 Mar 2026 13:38:15 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>IRAN WARNS RESIDENTS TO LEAVE AREAS NEAR JEBEL ALI PORT IN DUBAI, KHALIFA PORT IN ABU DHABI AND UAE'S FUJAIRAH PORT - IRANIAN NEWS AGENCIES</title>
-      <link>https://nitter.net/DeItaone/status/2032810338857451696#m</link>
-      <description>&lt;p&gt;IRAN WARNS RESIDENTS TO LEAVE AREAS NEAR JEBEL ALI PORT IN DUBAI, KHALIFA PORT IN ABU DHABI AND UAE'S FUJAIRAH PORT - IRANIAN NEWS AGENCIES&lt;/p&gt;</description>
-      <guid isPermaLink="false">2032810338857451696</guid>
-      <pubDate>Sat, 14 Mar 2026 13:25:27 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
