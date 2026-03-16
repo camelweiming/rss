@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 16 Mar 2026 21:47:02 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 21:52:01 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>*US EYES ZAMBIA'S CRITICAL MINERALS IN EXCHANGE FOR HIV AID: NYT</title>
+      <link>https://nitter.net/DeItaone/status/2033538644011601967#m</link>
+      <description>&lt;p&gt;*US EYES ZAMBIA'S CRITICAL MINERALS IN EXCHANGE FOR HIV AID: NYT&lt;/p&gt;</description>
+      <guid isPermaLink="false">2033538644011601967</guid>
+      <pubDate>Mon, 16 Mar 2026 13:39:28 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>U.S. STOCKS EXTEND GAINS, NASDAQ UP 1.00%</title>
       <link>https://nitter.net/DeItaone/status/2033536490345566381#m</link>
@@ -526,14 +534,6 @@ Technical-level negotiations will continue Monday to refine the details.&lt;/p&g
       <description>&lt;p&gt;ISRAEL'S GLZ RADIO: ENERGY MINISTER COHEN SAYS GOVT CONSIDERING CANCELING GAS DEAL WITH LEBANON&lt;/p&gt;</description>
       <guid isPermaLink="false">2033165624004710691</guid>
       <pubDate>Sun, 15 Mar 2026 12:57:13 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*UAE SAYS 4 MISSILES, 6 DRONES TARGET COUNTRY SUNDAY</title>
-      <link>https://nitter.net/DeItaone/status/2033152324684689915#m</link>
-      <description>&lt;p&gt;*UAE SAYS 4 MISSILES, 6 DRONES TARGET COUNTRY SUNDAY&lt;/p&gt;</description>
-      <guid isPermaLink="false">2033152324684689915</guid>
-      <pubDate>Sun, 15 Mar 2026 12:04:23 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
