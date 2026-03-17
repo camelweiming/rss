@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 17 Mar 2026 23:52:10 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 23:57:12 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>🚨 TRUMP: WE DON'T NEED ANY HELP ESCORTING SHIPS THROUGH STRAIT OF HORMUZ</title>
+      <link>https://nitter.net/DeItaone/status/2033934699987410968#m</link>
+      <description>&lt;p&gt;🚨 TRUMP: WE DON'T NEED ANY HELP ESCORTING SHIPS THROUGH STRAIT OF HORMUZ&lt;/p&gt;</description>
+      <guid isPermaLink="false">2033934699987410968</guid>
+      <pubDate>Tue, 17 Mar 2026 15:53:15 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>TRUMP, ASKED ON CUBA: BELIEVE I'LL HAVE THE HONOR OF TAKING IT</title>
       <link>https://nitter.net/DeItaone/status/2033652338158645488#m</link>
@@ -499,14 +507,6 @@ Despite the dispute, Sánchez said allies should remain honest with one another 
       <description>&lt;p&gt;TRUMP SAYS COST OF CONFLICT “NEGLIGIBLE”&lt;/p&gt;</description>
       <guid isPermaLink="false">2033543094730133620</guid>
       <pubDate>Mon, 16 Mar 2026 13:57:09 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>TRUMP SAYS WAR WILL END SOON</title>
-      <link>https://nitter.net/DeItaone/status/2033543041076658186#m</link>
-      <description>&lt;p&gt;TRUMP SAYS WAR WILL END SOON&lt;/p&gt;</description>
-      <guid isPermaLink="false">2033543041076658186</guid>
-      <pubDate>Mon, 16 Mar 2026 13:56:57 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
