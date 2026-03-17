@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 18 Mar 2026 03:52:11 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 03:57:10 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>PENTAGON WANTS TO MASS PRODUCE KAMIKAZE ATTACK DRONES IT USED TO STRIKE IRAN - WSJ</title>
+      <link>https://nitter.net/DeItaone/status/2033994768913461478#m</link>
+      <description>&lt;p&gt;PENTAGON WANTS TO MASS PRODUCE KAMIKAZE ATTACK DRONES IT USED TO STRIKE IRAN - WSJ&lt;/p&gt;</description>
+      <guid isPermaLink="false">2033994768913461478</guid>
+      <pubDate>Tue, 17 Mar 2026 19:51:57 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>'WE'RE IN THE PROCESS OF RESTARTING OUR MANUFACTURING' FOR H200 CHINA CHIPS - NVIDIA CEO JENSEN HUANG AT PRESS CONF</title>
       <link>https://nitter.net/DeItaone/status/2033988821495292231#m</link>
@@ -485,14 +493,6 @@ Trump also said U.S. forces destroyed Iranian mine-laying ships to help reopen t
       <description>&lt;p&gt;TRUMP: ALL OF IRAN'S LEADERS ARE DEAD 'AS FAR AS WE KNOW'&lt;/p&gt;</description>
       <guid isPermaLink="false">2033589839061303651</guid>
       <pubDate>Mon, 16 Mar 2026 17:02:54 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>EU'S KALLAS: THIS IS NOT EUROPE'S WAR</title>
-      <link>https://nitter.net/DeItaone/status/2033586428374917248#m</link>
-      <description>&lt;p&gt;EU'S KALLAS: THIS IS NOT EUROPE'S WAR&lt;/p&gt;</description>
-      <guid isPermaLink="false">2033586428374917248</guid>
-      <pubDate>Mon, 16 Mar 2026 16:49:21 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
