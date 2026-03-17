@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 18 Mar 2026 04:07:06 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 04:12:12 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>NVIDIA CEO SAYS HE IS 100% COMMITTED TO ISRAEL AND WILL HAVE STAFF THERE FOR A VERY LONG TIME - PRESS CONF</title>
+      <link>https://nitter.net/DeItaone/status/2033998286902735078#m</link>
+      <description>&lt;p&gt;NVIDIA CEO SAYS HE IS 100% COMMITTED TO ISRAEL AND WILL HAVE STAFF THERE FOR A VERY LONG TIME - PRESS CONF&lt;/p&gt;</description>
+      <guid isPermaLink="false">2033998286902735078</guid>
+      <pubDate>Tue, 17 Mar 2026 20:05:56 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>PENTAGON WANTS TO MASS PRODUCE KAMIKAZE ATTACK DRONES IT USED TO STRIKE IRAN - WSJ</title>
       <link>https://nitter.net/DeItaone/status/2033994768913461478#m</link>
@@ -485,14 +493,6 @@ Trump also said U.S. forces destroyed Iranian mine-laying ships to help reopen t
       <description>&lt;p&gt;TRUMP: 'I TALK TO EVERYBODY BECAUSE SOMETIMES GOOD THINGS COME OUT OF IT'&lt;/p&gt;</description>
       <guid isPermaLink="false">2033589888772173945</guid>
       <pubDate>Mon, 16 Mar 2026 17:03:06 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>TRUMP: ALL OF IRAN'S LEADERS ARE DEAD 'AS FAR AS WE KNOW'</title>
-      <link>https://nitter.net/DeItaone/status/2033589839061303651#m</link>
-      <description>&lt;p&gt;TRUMP: ALL OF IRAN'S LEADERS ARE DEAD 'AS FAR AS WE KNOW'&lt;/p&gt;</description>
-      <guid isPermaLink="false">2033589839061303651</guid>
-      <pubDate>Mon, 16 Mar 2026 17:02:54 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
