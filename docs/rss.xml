@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 18 Mar 2026 17:12:02 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 17:17:05 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>TURKEY SAYS NATO DEPLOYING ANOTHER PATRIOT MISSILE DEFENCE SYSTEM TO SOUTHERN PROVINCE WHERE INCIRLIK AIR BASE IS LOCATED</title>
+      <link>https://nitter.net/DeItaone/status/2034193589886971905#m</link>
+      <description>&lt;p&gt;TURKEY SAYS NATO DEPLOYING ANOTHER PATRIOT MISSILE DEFENCE SYSTEM TO SOUTHERN PROVINCE WHERE INCIRLIK AIR BASE IS LOCATED&lt;/p&gt;</description>
+      <guid isPermaLink="false">2034193589886971905</guid>
+      <pubDate>Wed, 18 Mar 2026 09:01:59 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>US TO EASE VENEZUELA SANCTIONS TO UNLOCK MORE OIL AMID IRAN WAR</title>
       <link>https://nitter.net/DeItaone/status/2034006487710748876#m</link>
@@ -489,14 +497,6 @@ Trump also said U.S. forces destroyed Iranian mine-laying ships to help reopen t
       <description>&lt;p&gt;TRUMP ON GAS PRICES:  WHEN THIS IS OVER OIL PRICES, INFLATION WILL GO DOWN RAPIDLY&lt;/p&gt;</description>
       <guid isPermaLink="false">2033592077397708834</guid>
       <pubDate>Mon, 16 Mar 2026 17:11:48 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>TRUMP ON STRAIT OF HORMUZ: SHIP OWNERS DON'T WANT TO TAKE A CHANCE</title>
-      <link>https://nitter.net/DeItaone/status/2033590392386371725#m</link>
-      <description>&lt;p&gt;TRUMP ON STRAIT OF HORMUZ: SHIP OWNERS DON'T WANT TO TAKE A CHANCE&lt;/p&gt;</description>
-      <guid isPermaLink="false">2033590392386371725</guid>
-      <pubDate>Mon, 16 Mar 2026 17:05:06 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
