@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 19 Mar 2026 00:46:47 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 00:51:51 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>SAUDI DEFENCE MINISTRY SAYS AIR DEFENCES DEALING WITH 'BALLISTIC THREAT' IN RIYADH -STATE TV</title>
+      <link>https://nitter.net/DeItaone/status/2034307193206419606#m</link>
+      <description>&lt;p&gt;SAUDI DEFENCE MINISTRY SAYS AIR DEFENCES DEALING WITH 'BALLISTIC THREAT' IN RIYADH -STATE TV&lt;/p&gt;</description>
+      <guid isPermaLink="false">2034307193206419606</guid>
+      <pubDate>Wed, 18 Mar 2026 16:33:25 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>U.S. GAS PRICES SURGE AS WAR DRIVES COSTS HIGHER
 
@@ -512,14 +520,6 @@ US producer prices rose 0.7% in February, above forecasts, with core wholesale i
       <description>&lt;p&gt;TRADERS FURTHER PARE BETS ON FED INTEREST-RATE CUT IN 2026&lt;/p&gt;</description>
       <guid isPermaLink="false">2034248363999109463</guid>
       <pubDate>Wed, 18 Mar 2026 12:39:39 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>WASHINGTON (AP) — Wholesale inflation comes in hot for February with producer prices rising 3.4%, the biggest jump in a year.</title>
-      <link>https://nitter.net/DeItaone/status/2034247375418524064#m</link>
-      <description>&lt;p&gt;WASHINGTON (AP) — Wholesale inflation comes in hot for February with producer prices rising 3.4%, the biggest jump in a year.&lt;/p&gt;</description>
-      <guid isPermaLink="false">2034247375418524064</guid>
-      <pubDate>Wed, 18 Mar 2026 12:35:43 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
