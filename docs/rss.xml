@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 18 Mar 2026 22:42:04 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 22:46:55 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>TRADERS FULLY PRICE TWO QUARTER-POINT ECB RATE HIKES IN 2026</title>
+      <link>https://nitter.net/DeItaone/status/2034277553213464975#m</link>
+      <description>&lt;p&gt;TRADERS FULLY PRICE TWO QUARTER-POINT ECB RATE HIKES IN 2026&lt;/p&gt;</description>
+      <guid isPermaLink="false">2034277553213464975</guid>
+      <pubDate>Wed, 18 Mar 2026 14:35:38 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>BRENT CRUDE FUTURES RISE $6 TO $109.63/BBL AS IRAN THREATENS TO ATTACK MIDDLE EAST ENERGY FACILITIES</title>
       <link>https://nitter.net/DeItaone/status/2034275920400286084#m</link>
@@ -502,14 +510,6 @@ Impact doesn’t mean job loss: AI augments human work, improving efficiency and
       <description>&lt;p&gt;EUROPE UNVEILS 'EU INC.' PLAN FOR STARTUPS TO RIVAL US, CHINA&lt;/p&gt;</description>
       <guid isPermaLink="false">2034231672191737865</guid>
       <pubDate>Wed, 18 Mar 2026 11:33:19 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>BRENT CRUDE TOPS $101/BBL, UP 0.25% INTRADAY</title>
-      <link>https://nitter.net/DeItaone/status/2034230617798222051#m</link>
-      <description>&lt;p&gt;BRENT CRUDE TOPS $101/BBL, UP 0.25% INTRADAY&lt;/p&gt;</description>
-      <guid isPermaLink="false">2034230617798222051</guid>
-      <pubDate>Wed, 18 Mar 2026 11:29:08 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
