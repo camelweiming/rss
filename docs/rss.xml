@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 20 Mar 2026 01:38:31 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 01:41:19 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>US ENERGY SECRETARY WRIGHT: TRUMP ADMINISTRATION HAS NO PLAN TO IMPLEMENT RESTRICTIONS ON OIL AND GAS EXPORTS</title>
+      <link>https://nitter.net/DeItaone/status/2034684179284217995#m</link>
+      <description>&lt;p&gt;US ENERGY SECRETARY WRIGHT: TRUMP ADMINISTRATION HAS NO PLAN TO IMPLEMENT RESTRICTIONS ON OIL AND GAS EXPORTS&lt;/p&gt;</description>
+      <guid isPermaLink="false">2034684179284217995</guid>
+      <pubDate>Thu, 19 Mar 2026 17:31:25 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>IRAN SAYS IT FIRED FRESH WAVE OF MISSILES AT ISRAEL: NOUR NEWS</title>
       <link>https://nitter.net/DeItaone/status/2034675347560505727#m</link>
@@ -432,14 +440,6 @@ https://x.com/i/broadcasts/1NGaraDpjPRJj</title>
       <description>&lt;p&gt;*FED SAYS IMPLICATIONS OF MIDDLE EAST DEVELOPMENTS ARE UNCERTAIN&lt;/p&gt;</description>
       <guid isPermaLink="false">2034329317107241279</guid>
       <pubDate>Wed, 18 Mar 2026 18:01:19 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*FED SAYS GOVERNOR STEPHEN MIRAN DISSENTS IN FAVOR OF RATE CUT</title>
-      <link>https://nitter.net/DeItaone/status/2034329265425072638#m</link>
-      <description>&lt;p&gt;*FED SAYS GOVERNOR STEPHEN MIRAN DISSENTS IN FAVOR OF RATE CUT&lt;/p&gt;</description>
-      <guid isPermaLink="false">2034329265425072638</guid>
-      <pubDate>Wed, 18 Mar 2026 18:01:07 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
