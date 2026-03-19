@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 20 Mar 2026 01:06:20 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 01:11:18 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>IRAN SAYS IT FIRED FRESH WAVE OF MISSILES AT ISRAEL: NOUR NEWS</title>
+      <link>https://nitter.net/DeItaone/status/2034675347560505727#m</link>
+      <description>&lt;p&gt;IRAN SAYS IT FIRED FRESH WAVE OF MISSILES AT ISRAEL: NOUR NEWS&lt;/p&gt;</description>
+      <guid isPermaLink="false">2034675347560505727</guid>
+      <pubDate>Thu, 19 Mar 2026 16:56:19 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>US HOUSEHOLD WEALTH HITS RECORD AS STOCKS DRIVE GAINS
 
@@ -432,18 +440,6 @@ https://x.com/i/broadcasts/1NGaraDpjPRJj</title>
       <description>&lt;p&gt;*FED SAYS GOVERNOR STEPHEN MIRAN DISSENTS IN FAVOR OF RATE CUT&lt;/p&gt;</description>
       <guid isPermaLink="false">2034329265425072638</guid>
       <pubDate>Wed, 18 Mar 2026 18:01:07 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>FED SIGNALS MODEST RATE CUTS, STICKY INFLATION
-
-Fed officials see rates at 3.4% in 2026 and ~3.1% longer term, with modest 25 bps cuts in 2026 and 2027. Inflation forecasts were revised higher (2.7%), while unemployment holds at 4.4% and growth edges up slightly.</title>
-      <link>https://nitter.net/DeItaone/status/2034329209351336233#m</link>
-      <description>&lt;p&gt;FED SIGNALS MODEST RATE CUTS, STICKY INFLATION&lt;br /&gt;
-&lt;br /&gt;
-Fed officials see rates at 3.4% in 2026 and ~3.1% longer term, with modest 25 bps cuts in 2026 and 2027. Inflation forecasts were revised higher (2.7%), while unemployment holds at 4.4% and growth edges up slightly.&lt;/p&gt;</description>
-      <guid isPermaLink="false">2034329209351336233</guid>
-      <pubDate>Wed, 18 Mar 2026 18:00:54 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
