@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 20 Mar 2026 03:06:18 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 03:11:20 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>NETANYAHU: THERE ARE MANY POSSIBILITIES FOR A GROUND COMPONENT, I WON'T SHARE WHAT THEY ARE</title>
+      <link>https://nitter.net/DeItaone/status/2034707687447916677#m</link>
+      <description>&lt;p&gt;NETANYAHU: THERE ARE MANY POSSIBILITIES FOR A GROUND COMPONENT, I WON'T SHARE WHAT THEY ARE&lt;/p&gt;</description>
+      <guid isPermaLink="false">2034707687447916677</guid>
+      <pubDate>Thu, 19 Mar 2026 19:04:50 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>NETANYAHU: IRAN HAS NO CAPACITY TO ENRICH URANIUM OR MAKE BALLISTIC MISSILES AFTER 20 DAYS OF WAR</title>
       <link>https://nitter.net/DeItaone/status/2034703772954292720#m</link>
@@ -449,14 +457,6 @@ Although JPMorgan still expects a recovery later in the year, supported by inves
       <description>&lt;p&gt;POWELL: WE ARE IN A DIFFICULT SITUATION&lt;/p&gt;</description>
       <guid isPermaLink="false">2034341066946515082</guid>
       <pubDate>Wed, 18 Mar 2026 18:48:01 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>POWELL: INFLATION OVERSHOOT IS MAINLY FROM GOODS AND TARIFFS</title>
-      <link>https://nitter.net/DeItaone/status/2034339667554844702#m</link>
-      <description>&lt;p&gt;POWELL: INFLATION OVERSHOOT IS MAINLY FROM GOODS AND TARIFFS&lt;/p&gt;</description>
-      <guid isPermaLink="false">2034339667554844702</guid>
-      <pubDate>Wed, 18 Mar 2026 18:42:27 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
