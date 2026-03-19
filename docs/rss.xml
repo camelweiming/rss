@@ -4,8 +4,28 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 20 Mar 2026 00:36:54 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 00:41:18 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>US HOUSEHOLD WEALTH HITS RECORD AS STOCKS DRIVE GAINS
+
+US household net worth rose $2.2 trillion to a record $184.1 trillion in Q4, fueled mainly by a $1.6 trillion surge in equity holdings as stocks rallied on AI and earnings optimism.
+
+Real estate values slipped by about $347 billion amid a weak housing market. Meanwhile, consumer borrowing grew at a modest 3.3% pace, with slower mortgage growth but stronger non-mortgage credit.
+
+Business debt growth cooled, while federal borrowing remained strong. Household deposits also climbed 3.3% to a record $20.5 trillion.</title>
+      <link>https://nitter.net/DeItaone/status/2034669638802440551#m</link>
+      <description>&lt;p&gt;US HOUSEHOLD WEALTH HITS RECORD AS STOCKS DRIVE GAINS&lt;br /&gt;
+&lt;br /&gt;
+US household net worth rose $2.2 trillion to a record $184.1 trillion in Q4, fueled mainly by a $1.6 trillion surge in equity holdings as stocks rallied on AI and earnings optimism.&lt;br /&gt;
+&lt;br /&gt;
+Real estate values slipped by about $347 billion amid a weak housing market. Meanwhile, consumer borrowing grew at a modest 3.3% pace, with slower mortgage growth but stronger non-mortgage credit.&lt;br /&gt;
+&lt;br /&gt;
+Business debt growth cooled, while federal borrowing remained strong. Household deposits also climbed 3.3% to a record $20.5 trillion.&lt;/p&gt;</description>
+      <guid isPermaLink="false">2034669638802440551</guid>
+      <pubDate>Thu, 19 Mar 2026 16:33:38 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>TRADERS NOW SEE MORE THAN 60% CHANCE OF ECB HIKE BY MAY; ROUGHLY 70 BPS OF HIKES PRICED FOR 2026, UP FROM AROUND 50 BPS ON WEDNESDAY</title>
       <link>https://nitter.net/DeItaone/status/2034666365110419542#m</link>
@@ -424,14 +444,6 @@ Fed officials see rates at 3.4% in 2026 and ~3.1% longer term, with modest 25 bp
 Fed officials see rates at 3.4% in 2026 and ~3.1% longer term, with modest 25 bps cuts in 2026 and 2027. Inflation forecasts were revised higher (2.7%), while unemployment holds at 4.4% and growth edges up slightly.&lt;/p&gt;</description>
       <guid isPermaLink="false">2034329209351336233</guid>
       <pubDate>Wed, 18 Mar 2026 18:00:54 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*FED MAINTAINS PROJECTIONS FOR ONE RATE CUT IN 2026, ONE IN 2027</title>
-      <link>https://nitter.net/DeItaone/status/2034329149691601012#m</link>
-      <description>&lt;p&gt;*FED MAINTAINS PROJECTIONS FOR ONE RATE CUT IN 2026, ONE IN 2027&lt;/p&gt;</description>
-      <guid isPermaLink="false">2034329149691601012</guid>
-      <pubDate>Wed, 18 Mar 2026 18:00:39 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
