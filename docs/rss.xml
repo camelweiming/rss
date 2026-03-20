@@ -4,8 +4,24 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 20 Mar 2026 18:06:55 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 18:11:50 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>AMAZON DEVELOPING NEW MOBILE PHONE, ITS FIRST SINCE 2014’S FIRE PHONE, SOURCES SAY</title>
+      <link>https://nitter.net/DeItaone/status/2034933232966242579#m</link>
+      <description>&lt;p&gt;AMAZON DEVELOPING NEW MOBILE PHONE, ITS FIRST SINCE 2014’S FIRE PHONE, SOURCES SAY&lt;/p&gt;</description>
+      <guid isPermaLink="false">2034933232966242579</guid>
+      <pubDate>Fri, 20 Mar 2026 10:01:04 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
+    <item>
+      <title>55% OF AMERICANS SAY RISING GASOLINE PRICES HAVE HIT THEIR HOUSEHOLD FINANCES, POLL FINDS</title>
+      <link>https://nitter.net/DeItaone/status/2034933115445981675#m</link>
+      <description>&lt;p&gt;55% OF AMERICANS SAY RISING GASOLINE PRICES HAVE HIT THEIR HOUSEHOLD FINANCES, POLL FINDS&lt;/p&gt;</description>
+      <guid isPermaLink="false">2034933115445981675</guid>
+      <pubDate>Fri, 20 Mar 2026 10:00:36 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>KALSHI IS RAISING ABOUT $1B AT $22B VALUATION: WSJ</title>
       <link>https://nitter.net/DeItaone/status/2034746316480278848#m</link>
@@ -441,22 +457,6 @@ Although JPMorgan still expects a recovery later in the year, supported by inves
       <description>&lt;p&gt;POWELL: IF WARSH ISN'T CONFIRMED BY END OF MY TERM, I WILL SERVE AS CHAIR PRO TEM&lt;/p&gt;</description>
       <guid isPermaLink="false">2034342244862292111</guid>
       <pubDate>Wed, 18 Mar 2026 18:52:42 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>U.S. STOCKS EXTEND FALL, NASDAQ DOWN 1.00 PCT</title>
-      <link>https://nitter.net/DeItaone/status/2034342053769789807#m</link>
-      <description>&lt;p&gt;U.S. STOCKS EXTEND FALL, NASDAQ DOWN 1.00 PCT&lt;/p&gt;</description>
-      <guid isPermaLink="false">2034342053769789807</guid>
-      <pubDate>Wed, 18 Mar 2026 18:51:56 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>POWELL: NO INTENTION OF LEAVING FED BOARD UNTIL DOJ PROBE IS OVER</title>
-      <link>https://nitter.net/DeItaone/status/2034341975017599150#m</link>
-      <description>&lt;p&gt;POWELL: NO INTENTION OF LEAVING FED BOARD UNTIL DOJ PROBE IS OVER&lt;/p&gt;</description>
-      <guid isPermaLink="false">2034341975017599150</guid>
-      <pubDate>Wed, 18 Mar 2026 18:51:37 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
