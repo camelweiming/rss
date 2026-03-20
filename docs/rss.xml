@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sat, 21 Mar 2026 01:26:50 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 01:31:51 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>IRAN UNWILLING TO TALK ABOUT OPENING HORMUZ WHILE UNDER ATTACK</title>
+      <link>https://nitter.net/DeItaone/status/2035041915494699182#m</link>
+      <description>&lt;p&gt;IRAN UNWILLING TO TALK ABOUT OPENING HORMUZ WHILE UNDER ATTACK&lt;/p&gt;</description>
+      <guid isPermaLink="false">2035041915494699182</guid>
+      <pubDate>Fri, 20 Mar 2026 17:12:56 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>WHITE HOUSE OFFICIAL: THE U.S. ARMY IS CAPABLE OF SEIZING IRAN'S KHARG ISLAND AT ANY TIME</title>
       <link>https://nitter.net/DeItaone/status/2035021116842840186#m</link>
@@ -547,14 +555,6 @@ Buyers are holding back, traders are cautious, and volatility has surged. While 
       <description>&lt;p&gt;NETANYAHU: NEED ALTERNATIVE ROUTES THAT AVOID HORMUZ AND RED SEA CHOKEPOINTS&lt;/p&gt;</description>
       <guid isPermaLink="false">2034708790902161791</guid>
       <pubDate>Thu, 19 Mar 2026 19:09:13 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>NETANYAHU: THERE ARE MANY POSSIBILITIES FOR A GROUND COMPONENT, I WON'T SHARE WHAT THEY ARE</title>
-      <link>https://nitter.net/DeItaone/status/2034707687447916677#m</link>
-      <description>&lt;p&gt;NETANYAHU: THERE ARE MANY POSSIBILITIES FOR A GROUND COMPONENT, I WON'T SHARE WHAT THEY ARE&lt;/p&gt;</description>
-      <guid isPermaLink="false">2034707687447916677</guid>
-      <pubDate>Thu, 19 Mar 2026 19:04:50 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
