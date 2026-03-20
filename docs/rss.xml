@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 20 Mar 2026 22:26:50 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 22:31:53 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>SPOT GOLD FALLS OVER 1% TO $4,582.55/OZ</title>
+      <link>https://nitter.net/DeItaone/status/2034997909541068984#m</link>
+      <description>&lt;p&gt;SPOT GOLD FALLS OVER 1% TO $4,582.55/OZ&lt;/p&gt;</description>
+      <guid isPermaLink="false">2034997909541068984</guid>
+      <pubDate>Fri, 20 Mar 2026 14:18:04 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>🚨 U.S. TO DEPLOY THOUSANDS OF ADDITIONAL TROOPS TO THE MIDDLE EAST, THREE U.S. OFFICIALS TELL REUTERS</title>
       <link>https://nitter.net/DeItaone/status/2034995466488721781#m</link>
@@ -558,14 +566,6 @@ Although JPMorgan still expects a recovery later in the year, supported by inves
       <description>&lt;p&gt;*TRUMP SAYS FED BUILDING PROJECT IS OUT OF CONTROL&lt;/p&gt;</description>
       <guid isPermaLink="false">2034663005560901705</guid>
       <pubDate>Thu, 19 Mar 2026 16:07:17 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*TRUMP: POWELL STUBBORN, INCOMPETENT, NOT SMART</title>
-      <link>https://nitter.net/DeItaone/status/2034662969905185279#m</link>
-      <description>&lt;p&gt;*TRUMP: POWELL STUBBORN, INCOMPETENT, NOT SMART&lt;/p&gt;</description>
-      <guid isPermaLink="false">2034662969905185279</guid>
-      <pubDate>Thu, 19 Mar 2026 16:07:08 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
