@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sun, 22 Mar 2026 01:46:22 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 01:51:23 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>TRUMP: I WILL DEPLOY ICE AGENTS TO AIRPORTS ON MONDAY IF DEMOCRATS DON'T AGREE TO FUND DHS</title>
+      <link>https://nitter.net/DeItaone/status/2035412510199763043#m</link>
+      <description>&lt;p&gt;TRUMP: I WILL DEPLOY ICE AGENTS TO AIRPORTS ON MONDAY IF DEMOCRATS DON'T AGREE TO FUND DHS&lt;/p&gt;</description>
+      <guid isPermaLink="false">2035412510199763043</guid>
+      <pubDate>Sat, 21 Mar 2026 17:45:33 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>UK CONFIRMS BASES IN CYPRUS WILL NOT BE USED FOR OFFENSIVE MILITARY ACTIONS IN IRAN - CYPRUS GOVERNMENT SPOKESPERSON</title>
       <link>https://nitter.net/DeItaone/status/2035393371313733931#m</link>
@@ -483,14 +491,6 @@ With oil already back above $100, markets are increasingly on edge—linking ene
 &lt;img src="https://nitter.net/pic/media%2FHD243oDWYAAaEC3.png" /&gt;</description>
       <guid isPermaLink="false">2034985928712757470</guid>
       <pubDate>Fri, 20 Mar 2026 13:30:28 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>TREASURY YIELDS EXTEND CLIMB, 10-YEAR TO YTD HIGH 4.32%</title>
-      <link>https://nitter.net/DeItaone/status/2034985086039339317#m</link>
-      <description>&lt;p&gt;TREASURY YIELDS EXTEND CLIMB, 10-YEAR TO YTD HIGH 4.32%&lt;/p&gt;</description>
-      <guid isPermaLink="false">2034985086039339317</guid>
-      <pubDate>Fri, 20 Mar 2026 13:27:07 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
