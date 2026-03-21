@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sun, 22 Mar 2026 00:31:22 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 00:36:24 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>UK CONFIRMS BASES IN CYPRUS WILL NOT BE USED FOR OFFENSIVE MILITARY ACTIONS IN IRAN - CYPRUS GOVERNMENT SPOKESPERSON</title>
+      <link>https://nitter.net/DeItaone/status/2035393371313733931#m</link>
+      <description>&lt;p&gt;UK CONFIRMS BASES IN CYPRUS WILL NOT BE USED FOR OFFENSIVE MILITARY ACTIONS IN IRAN - CYPRUS GOVERNMENT SPOKESPERSON&lt;/p&gt;</description>
+      <guid isPermaLink="false">2035393371313733931</guid>
+      <pubDate>Sat, 21 Mar 2026 16:29:30 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>UNNAMED IRAN MILITARY SOURCE TELLS IRANIAN NEWS AGENCY IF U.S. FOLLOWS THROUGH ON ITS THREATS OF MILITARY AGGRESSION AGAINST KHARG ISLAND, IT WILL FACE IRAN'S 'SURPRISING' REACTION</title>
       <link>https://nitter.net/DeItaone/status/2035371961677681027#m</link>
@@ -483,14 +491,6 @@ With oil already back above $100, markets are increasingly on edge—linking ene
       <description>&lt;p&gt;TREASURY YIELDS EXTEND CLIMB, 10-YEAR TO YTD HIGH 4.32%&lt;/p&gt;</description>
       <guid isPermaLink="false">2034985086039339317</guid>
       <pubDate>Fri, 20 Mar 2026 13:27:07 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>TRUMP CALLS ON CONGRESS TO PASS THE FARM BILL 'NOW'</title>
-      <link>https://nitter.net/DeItaone/status/2034984173337723348#m</link>
-      <description>&lt;p&gt;TRUMP CALLS ON CONGRESS TO PASS THE FARM BILL 'NOW'&lt;/p&gt;</description>
-      <guid isPermaLink="false">2034984173337723348</guid>
-      <pubDate>Fri, 20 Mar 2026 13:23:29 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
