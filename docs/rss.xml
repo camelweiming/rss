@@ -4,8 +4,27 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 23 Mar 2026 00:21:31 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 00:26:31 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>📈RECESSION FEARS RISE AGAIN
+
+Recession odds have jumped to 36.9%, rebounding sharply after months of decline.
+
+Markets are signaling rising uncertainty—potentially driven by geopolitical tensions and a broader risk-off mood.
+https://kalshi.com/markets/kxrecssnber/recession/kxrecssnber-26?utm_source=walterbloomberg</title>
+      <link>https://nitter.net/DeItaone/status/2035750856503570480#m</link>
+      <description>&lt;p&gt;📈RECESSION FEARS RISE AGAIN&lt;br /&gt;
+&lt;br /&gt;
+Recession odds have jumped to 36.9%, rebounding sharply after months of decline.&lt;br /&gt;
+&lt;br /&gt;
+Markets are signaling rising uncertainty—potentially driven by geopolitical tensions and a broader risk-off mood.&lt;br /&gt;
+&lt;a href="https://kalshi.com/markets/kxrecssnber/recession/kxrecssnber-26?utm_source=walterbloomberg"&gt;kalshi.com/markets/kxrecssnb…&lt;/a&gt;&lt;/p&gt;
+&lt;img src="https://nitter.net/pic/media%2FHEBwaB8XgAAI87G.png" /&gt;</description>
+      <guid isPermaLink="false">2035750856503570480</guid>
+      <pubDate>Sun, 22 Mar 2026 16:10:01 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>BITCOIN SLUMPS AS WAR FEARS SHAKE CRYPTO
 
@@ -468,26 +487,6 @@ Money markets have shifted from expecting two rate cuts this year to pricing in 
       <description>&lt;p&gt;U.S. STOCKS EXTEND FALL, NASDAQ DOWN 1.00 PCT&lt;/p&gt;</description>
       <guid isPermaLink="false">2034992581042372823</guid>
       <pubDate>Fri, 20 Mar 2026 13:56:54 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>🚨PENTAGON SENDING THOUSANDS OF ADDITIONAL MARINES TO MIDDLE EAST
-
-The Pentagon is deploying thousands of additional Marines and three warships to the Middle East, expanding its military presence.
-
-Around 2,200–2,500 Marines from the USS Boxer group are heading to the region, following a separate deployment earlier this week.
-
-The buildup comes despite President Trump saying he has no plans to put U.S. troops on the ground in Iran.</title>
-      <link>https://nitter.net/DeItaone/status/2034991071533449395#m</link>
-      <description>&lt;p&gt;🚨PENTAGON SENDING THOUSANDS OF ADDITIONAL MARINES TO MIDDLE EAST&lt;br /&gt;
-&lt;br /&gt;
-The Pentagon is deploying thousands of additional Marines and three warships to the Middle East, expanding its military presence.&lt;br /&gt;
-&lt;br /&gt;
-Around 2,200–2,500 Marines from the USS Boxer group are heading to the region, following a separate deployment earlier this week.&lt;br /&gt;
-&lt;br /&gt;
-The buildup comes despite President Trump saying he has no plans to put U.S. troops on the ground in Iran.&lt;/p&gt;</description>
-      <guid isPermaLink="false">2034991071533449395</guid>
-      <pubDate>Fri, 20 Mar 2026 13:50:54 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
