@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 24 Mar 2026 06:27:02 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 06:29:14 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>*IRAN LAUNCHES NEW WAVE OF MISSILES TOWARD ISRAEL: IRIB</title>
+      <link>https://nitter.net/DeItaone/status/2036206276955312582#m</link>
+      <description>&lt;p&gt;*IRAN LAUNCHES NEW WAVE OF MISSILES TOWARD ISRAEL: IRIB&lt;/p&gt;</description>
+      <guid isPermaLink="false">2036206276955312582</guid>
+      <pubDate>Mon, 23 Mar 2026 22:19:41 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>WHITE HOUSE EYES IRAN’S PARLIAMENT SPEAKER AS POTENTIAL US-BACKED LEADER- POLITICO</title>
       <link>https://nitter.net/DeItaone/status/2036196360857202754#m</link>
@@ -476,14 +484,6 @@ Traffic through the strait has dropped sharply—from about 100 weekly transits 
 Security risks remain high. A bulk carrier reported an explosion near the UAE coast, and Iran is reportedly charging some vessels a $2 million transit fee, though this claim is unverified.&lt;/p&gt;</description>
       <guid isPermaLink="false">2035737577018294388</guid>
       <pubDate>Sun, 22 Mar 2026 15:17:15 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>LEBANON'S PRESIDENT AOUN: ISRAEL ATTACKS ON LEBANESE INFRASTRUCTURE ARE PRELUDE TO GROUND INVASION</title>
-      <link>https://nitter.net/DeItaone/status/2035737200302637064#m</link>
-      <description>&lt;p&gt;LEBANON'S PRESIDENT AOUN: ISRAEL ATTACKS ON LEBANESE INFRASTRUCTURE ARE PRELUDE TO GROUND INVASION&lt;/p&gt;</description>
-      <guid isPermaLink="false">2035737200302637064</guid>
-      <pubDate>Sun, 22 Mar 2026 15:15:45 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
