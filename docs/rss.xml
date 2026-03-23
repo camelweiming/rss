@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 24 Mar 2026 03:12:01 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 03:17:02 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>KALSHI TO BLOCK ATHLETES, POLITICIANS FROM TRADING: AXIOS</title>
+      <link>https://nitter.net/DeItaone/status/2036157146971148453#m</link>
+      <description>&lt;p&gt;KALSHI TO BLOCK ATHLETES, POLITICIANS FROM TRADING: AXIOS&lt;/p&gt;</description>
+      <guid isPermaLink="false">2036157146971148453</guid>
+      <pubDate>Mon, 23 Mar 2026 19:04:28 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>THE STRAIT OF HORMUZ IS DOTTED WITH ABOUT A DOZEN IRANIAN MINES - CBS</title>
       <link>https://nitter.net/DeItaone/status/2036151565443104809#m</link>
@@ -476,14 +484,6 @@ Security risks remain high. A bulk carrier reported an explosion near the UAE co
       <description>&lt;p&gt;IRAN'S REVOLUTIONARY GUARDS SAY COMPANIES WITH U.S SHARES WILL BE 'COMPLETELY DESTROYED' IF ENERGY FACILITIES TARGETED - STATEMENT&lt;/p&gt;</description>
       <guid isPermaLink="false">2035730765254701508</guid>
       <pubDate>Sun, 22 Mar 2026 14:50:11 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>IRAN'S REVOLUTIONARY GUARDS: IF TRUMP EXECUTES THREATS TO TARGET IRAN'S ENERGY FACILITIES, STRAIT OF HORMUZ WILL BE COMPLETELY CLOSED - STATEMENT</title>
-      <link>https://nitter.net/DeItaone/status/2035718796711792980#m</link>
-      <description>&lt;p&gt;IRAN'S REVOLUTIONARY GUARDS: IF TRUMP EXECUTES THREATS TO TARGET IRAN'S ENERGY FACILITIES, STRAIT OF HORMUZ WILL BE COMPLETELY CLOSED - STATEMENT&lt;/p&gt;</description>
-      <guid isPermaLink="false">2035718796711792980</guid>
-      <pubDate>Sun, 22 Mar 2026 14:02:37 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
