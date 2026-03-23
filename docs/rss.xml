@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 23 Mar 2026 23:07:06 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 23:12:04 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>U.S. HOLDING NEGOTIATIONS WITH IRAN'S PARLIAMENT SPEAKER QALIBAF, ISRAELI OFFICIAL SAYS</title>
+      <link>https://nitter.net/DeItaone/status/2036096697533608404#m</link>
+      <description>&lt;p&gt;U.S. HOLDING NEGOTIATIONS WITH IRAN'S PARLIAMENT SPEAKER QALIBAF, ISRAELI OFFICIAL SAYS&lt;/p&gt;</description>
+      <guid isPermaLink="false">2036096697533608404</guid>
+      <pubDate>Mon, 23 Mar 2026 15:04:16 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>TRUMP ON IRAN, POSSIBILITY OF U.S. TROOPS: WE DON'T TALK STRATEGY</title>
       <link>https://nitter.net/DeItaone/status/2036078208433430575#m</link>
@@ -476,14 +484,6 @@ Security risks remain high. A bulk carrier reported an explosion near the UAE co
       <description>&lt;p&gt;TRUMP ON IRAN: I DON'T WANT TO DO A CEASEFIRE&lt;/p&gt;</description>
       <guid isPermaLink="false">2035080510087500028</guid>
       <pubDate>Fri, 20 Mar 2026 19:46:18 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>Trump: We don't need the Strait of Hormuz.</title>
-      <link>https://nitter.net/DeItaone/status/2035079573843378369#m</link>
-      <description>&lt;p&gt;Trump: We don't need the Strait of Hormuz.&lt;/p&gt;</description>
-      <guid isPermaLink="false">2035079573843378369</guid>
-      <pubDate>Fri, 20 Mar 2026 19:42:35 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
