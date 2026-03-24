@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 25 Mar 2026 02:56:48 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 03:01:47 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>IRAN SAYS ‘NON-HOSTILE’ SHIPS CAN TRANSIT STRAIT OF HORMUZ</title>
+      <link>https://nitter.net/DeItaone/status/2036518324972957735#m</link>
+      <description>&lt;p&gt;IRAN SAYS ‘NON-HOSTILE’ SHIPS CAN TRANSIT STRAIT OF HORMUZ&lt;/p&gt;</description>
+      <guid isPermaLink="false">2036518324972957735</guid>
+      <pubDate>Tue, 24 Mar 2026 18:59:40 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>*TRUMP ON IRAN: WE'VE WON THIS WAR
 
@@ -524,14 +532,6 @@ The move highlights growing pressure on emerging markets as conflict risks escal
 &lt;img src="https://nitter.net/pic/media%2FHELXVMQaIAUFBRH.jpg" /&gt;</description>
       <guid isPermaLink="false">2036426749580374300</guid>
       <pubDate>Tue, 24 Mar 2026 12:55:46 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>IRAN CHARGING SOME SHIPS FOR SAFE PASSAGE THROUGH HORMUZ</title>
-      <link>https://nitter.net/DeItaone/status/2036426267206025597#m</link>
-      <description>&lt;p&gt;IRAN CHARGING SOME SHIPS FOR SAFE PASSAGE THROUGH HORMUZ&lt;/p&gt;</description>
-      <guid isPermaLink="false">2036426267206025597</guid>
-      <pubDate>Tue, 24 Mar 2026 12:53:51 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
