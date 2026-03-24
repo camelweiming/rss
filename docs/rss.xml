@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 24 Mar 2026 23:56:47 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 00:01:52 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>TWO LEBANESE SECURITY SOURCES SAY IRANIAN MISSILE WAS INTERCEPTED OVER LEBANESE AIRSPACE FOR FIRST TIME</title>
+      <link>https://nitter.net/DeItaone/status/2036469892065484945#m</link>
+      <description>&lt;p&gt;TWO LEBANESE SECURITY SOURCES SAY IRANIAN MISSILE WAS INTERCEPTED OVER LEBANESE AIRSPACE FOR FIRST TIME&lt;/p&gt;</description>
+      <guid isPermaLink="false">2036469892065484945</guid>
+      <pubDate>Tue, 24 Mar 2026 15:47:12 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>IRAN WORRIES TALKS MIGHT BE A TRAP
 
@@ -603,14 +611,6 @@ Oil rose and stocks fell on the news, reflecting fears of escalation as Iran con
       <description>&lt;p&gt;TRUMP: THEY WANT TO SETTLE&lt;/p&gt;</description>
       <guid isPermaLink="false">2036122275007570095</guid>
       <pubDate>Mon, 23 Mar 2026 16:45:54 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>IRAN'S REVOLUTIONARY GUARDS SAY THEY LAUNCHED A NEW ATTACK ON TARGETS IN ISRAEL, US BASE IN THE REGION</title>
-      <link>https://nitter.net/DeItaone/status/2036112869410943379#m</link>
-      <description>&lt;p&gt;IRAN'S REVOLUTIONARY GUARDS SAY THEY LAUNCHED A NEW ATTACK ON TARGETS IN ISRAEL, US BASE IN THE REGION&lt;/p&gt;</description>
-      <guid isPermaLink="false">2036112869410943379</guid>
-      <pubDate>Mon, 23 Mar 2026 16:08:31 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
