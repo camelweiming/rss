@@ -4,8 +4,24 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 24 Mar 2026 21:56:29 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 22:01:33 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>U.S. S&amp;P GLOBAL MARCH FLASH MANUFACTURING PMI AT 52.4 (FORECAST 51.3)
+
+U.S. S&amp;P GLOBAL MARCH FLASH COMPOSITE PMI AT 51.4 (VS 51.9 IN FEBRUARY)
+
+U.S. S&amp;P GLOBAL MARCH FLASH SERVICES PMI AT 51.1 (FORECAST 51.5)</title>
+      <link>https://nitter.net/DeItaone/status/2036439314519724483#m</link>
+      <description>&lt;p&gt;U.S. S&amp;amp;P GLOBAL MARCH FLASH MANUFACTURING PMI AT 52.4 (FORECAST 51.3)&lt;br /&gt;
+&lt;br /&gt;
+U.S. S&amp;amp;P GLOBAL MARCH FLASH COMPOSITE PMI AT 51.4 (VS 51.9 IN FEBRUARY)&lt;br /&gt;
+&lt;br /&gt;
+U.S. S&amp;amp;P GLOBAL MARCH FLASH SERVICES PMI AT 51.1 (FORECAST 51.5)&lt;/p&gt;</description>
+      <guid isPermaLink="false">2036439314519724483</guid>
+      <pubDate>Tue, 24 Mar 2026 13:45:42 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>U.S. STOCKS EXTEND FALL, NASDAQ DOWN 1.00%</title>
       <link>https://nitter.net/DeItaone/status/2036438421195923484#m</link>
@@ -541,18 +557,6 @@ Oil rose and stocks fell on the news, reflecting fears of escalation as Iran con
       <description>&lt;p&gt;*GOOLSBEE: COULD SEE CIRCUMSTANCE WHERE WE'D NEED TO RAISE RATES&lt;/p&gt;</description>
       <guid isPermaLink="false">2036062217724907739</guid>
       <pubDate>Mon, 23 Mar 2026 12:47:15 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*TRUMP NOT SURE WHAT IRAN MEDIA IS TALKING ABOUT: FOX BUSINESS
-
-*TRUMP TO FOX BUSINESS: RECENT IRAN TALKS HAPPENED LAST NIGHT</title>
-      <link>https://nitter.net/DeItaone/status/2036061672142491688#m</link>
-      <description>&lt;p&gt;*TRUMP NOT SURE WHAT IRAN MEDIA IS TALKING ABOUT: FOX BUSINESS&lt;br /&gt;
-&lt;br /&gt;
-*TRUMP TO FOX BUSINESS: RECENT IRAN TALKS HAPPENED LAST NIGHT&lt;/p&gt;</description>
-      <guid isPermaLink="false">2036061672142491688</guid>
-      <pubDate>Mon, 23 Mar 2026 12:45:05 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
