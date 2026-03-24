@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 25 Mar 2026 00:56:54 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 01:01:47 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>*ARM TO SELL ITS OWN CHIPS FOR FIRST TIME IN BID FOR AI REVENUE</title>
+      <link>https://nitter.net/DeItaone/status/2036487452810948813#m</link>
+      <description>&lt;p&gt;*ARM TO SELL ITS OWN CHIPS FOR FIRST TIME IN BID FOR AI REVENUE&lt;/p&gt;</description>
+      <guid isPermaLink="false">2036487452810948813</guid>
+      <pubDate>Tue, 24 Mar 2026 16:56:59 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>TURKISH ENERGY MINISTER, ASKED ABOUT NATURAL GAS FLOW FROM IRAN, SAYS STORAGE FACILITIES ARE 71% FULL</title>
       <link>https://nitter.net/DeItaone/status/2036478532675580045#m</link>
@@ -615,14 +623,6 @@ Oil rose and stocks fell on the news, reflecting fears of escalation as Iran con
       <description>&lt;p&gt;WHITE HOUSE EYES IRAN’S PARLIAMENT SPEAKER AS POTENTIAL US-BACKED LEADER- POLITICO&lt;/p&gt;</description>
       <guid isPermaLink="false">2036196360857202754</guid>
       <pubDate>Mon, 23 Mar 2026 21:40:17 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>KALSHI TO BLOCK ATHLETES, POLITICIANS FROM TRADING: AXIOS</title>
-      <link>https://nitter.net/DeItaone/status/2036157146971148453#m</link>
-      <description>&lt;p&gt;KALSHI TO BLOCK ATHLETES, POLITICIANS FROM TRADING: AXIOS&lt;/p&gt;</description>
-      <guid isPermaLink="false">2036157146971148453</guid>
-      <pubDate>Mon, 23 Mar 2026 19:04:28 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
