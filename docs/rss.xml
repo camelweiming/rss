@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 26 Mar 2026 03:46:48 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 03:51:43 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>WHITE HOUSE HAS REJECTED AN OFFER FROM BILLIONAIRE ELON MUSK TO COVER TSA WORKERS' PAY DURING PARTIAL SHUTDOWN - CBS NEWS</title>
+      <link>https://nitter.net/DeItaone/status/2036893061976825917#m</link>
+      <description>&lt;p&gt;WHITE HOUSE HAS REJECTED AN OFFER FROM BILLIONAIRE ELON MUSK TO COVER TSA WORKERS' PAY DURING PARTIAL SHUTDOWN - CBS NEWS&lt;/p&gt;</description>
+      <guid isPermaLink="false">2036893061976825917</guid>
+      <pubDate>Wed, 25 Mar 2026 19:48:44 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>IRAN BUILDING UP DEFENSES OF KHARG ISLAND TO PROTECT AGAINST POTENTIAL US GROUND ATTACK, SOURCES SAY - CNN 
 
@@ -500,14 +508,6 @@ LEBANESE ARMY SAYS MISSILE WAS LIKELY NOT TARGETING LEBANON- POST ON X&lt;/p&gt;
       <description>&lt;p&gt;🚨IRAN SAYS TRUCE, TALKS NOT VIABLE IN CURRENT CONDITIONS: FARS&lt;/p&gt;</description>
       <guid isPermaLink="false">2036782023231021478</guid>
       <pubDate>Wed, 25 Mar 2026 12:27:30 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*IRAN SAYS US STEPPED UP EFFORTS TO SECURE CEASEFIRE: FARS</title>
-      <link>https://nitter.net/DeItaone/status/2036781475677229423#m</link>
-      <description>&lt;p&gt;*IRAN SAYS US STEPPED UP EFFORTS TO SECURE CEASEFIRE: FARS&lt;/p&gt;</description>
-      <guid isPermaLink="false">2036781475677229423</guid>
-      <pubDate>Wed, 25 Mar 2026 12:25:20 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
