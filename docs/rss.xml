@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 26 Mar 2026 01:01:49 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 01:06:45 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>UNITED NATIONS (AP) — UN chief urges US and Israel to end Iran war and Tehran to stop attacking Gulf countries, saying 'this has gone too far.'</title>
+      <link>https://nitter.net/DeItaone/status/2036849716630077866#m</link>
+      <description>&lt;p&gt;UNITED NATIONS (AP) — UN chief urges US and Israel to end Iran war and Tehran to stop attacking Gulf countries, saying 'this has gone too far.'&lt;/p&gt;</description>
+      <guid isPermaLink="false">2036849716630077866</guid>
+      <pubDate>Wed, 25 Mar 2026 16:56:29 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>SHIPS LOADED WITH LNG AND STUCK IN THE MIDDLE EAST ARE LOSING PRODUCT TO EVAPORATION- MITSUI O.S.K LINES SAYS</title>
       <link>https://nitter.net/DeItaone/status/2036847363042443639#m</link>
@@ -589,14 +597,6 @@ TRUMP ON HORMUZ: WE'LL HAVE CONTROL OF ANYTHING WE WANT&lt;/p&gt;</description>
       <description>&lt;p&gt;*TRUMP: IRAN WOULD LIKE TO MAKE A DEAL&lt;/p&gt;</description>
       <guid isPermaLink="false">2036510969912819923</guid>
       <pubDate>Tue, 24 Mar 2026 18:30:26 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>TRUMP: WE ARE ROAMING FREE OVER TEHRAN</title>
-      <link>https://nitter.net/DeItaone/status/2036510776127578164#m</link>
-      <description>&lt;p&gt;TRUMP: WE ARE ROAMING FREE OVER TEHRAN&lt;/p&gt;</description>
-      <guid isPermaLink="false">2036510776127578164</guid>
-      <pubDate>Tue, 24 Mar 2026 18:29:40 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
