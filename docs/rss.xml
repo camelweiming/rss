@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 25 Mar 2026 20:01:57 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 20:06:59 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>SPOT SILVER  RISES NEARLY 3% TO $74.55/OZ</title>
+      <link>https://nitter.net/DeItaone/status/2036772751017431229#m</link>
+      <description>&lt;p&gt;SPOT SILVER  RISES NEARLY 3% TO $74.55/OZ&lt;/p&gt;</description>
+      <guid isPermaLink="false">2036772751017431229</guid>
+      <pubDate>Wed, 25 Mar 2026 11:50:39 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>59% OF AMERICANS SAY IRAN WAR HAS 'GONE TOO FAR'
 
@@ -554,14 +562,6 @@ U.S. S&amp;amp;P GLOBAL MARCH FLASH SERVICES PMI AT 51.1 (FORECAST 51.5)&lt;/p&g
       <description>&lt;p&gt;ISRAELI MILITARY SAYS IT TARGETED FUEL STATIONS ACROSS LEBANON THAT 'FUND ACTIVITIES OF HEZBOLLAH'&lt;/p&gt;</description>
       <guid isPermaLink="false">2036436327764210014</guid>
       <pubDate>Tue, 24 Mar 2026 13:33:50 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>QATARENERGY - DECLARES FORCE MAJEURE ON LNG CONTRACTS WITH ITALY, BELGIUM, SOUTH KOREA, CHINA</title>
-      <link>https://nitter.net/DeItaone/status/2036435464568074272#m</link>
-      <description>&lt;p&gt;QATARENERGY - DECLARES FORCE MAJEURE ON LNG CONTRACTS WITH ITALY, BELGIUM, SOUTH KOREA, CHINA&lt;/p&gt;</description>
-      <guid isPermaLink="false">2036435464568074272</guid>
-      <pubDate>Tue, 24 Mar 2026 13:30:24 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
