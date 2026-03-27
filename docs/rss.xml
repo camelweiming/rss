@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sat, 28 Mar 2026 03:51:57 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 03:57:04 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>NASDAQ 100 EXTENDS DROP TO 2%</title>
+      <link>https://nitter.net/DeItaone/status/2037617770142032063#m</link>
+      <description>&lt;p&gt;NASDAQ 100 EXTENDS DROP TO 2%&lt;/p&gt;</description>
+      <guid isPermaLink="false">2037617770142032063</guid>
+      <pubDate>Fri, 27 Mar 2026 19:48:28 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>HOUTHIS IN YEMEN OFFICIALLY ANNOUNCE ENTRY INTO THE CONFLICT TO SUPPORT IRAN - THE MIDDLE EAST</title>
       <link>https://nitter.net/DeItaone/status/2037611556616143155#m</link>
@@ -466,14 +474,6 @@ Citing allied intelligence, he warned that stabilization is unlikely in the near
       <description>&lt;p&gt;🚨 TWO CHINESE CONTAINER SHIPS TURNED BACKED AFTER TRYING TO EXIT GULF VIA STRAIT OF HORMUZ ON FRIDAY, SHIP-TRACKING DATA SHOWS&lt;/p&gt;</description>
       <guid isPermaLink="false">2037524474900156628</guid>
       <pubDate>Fri, 27 Mar 2026 13:37:44 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>U.S. STOCKS EXTEND FALL, NASDAQ DOWN 1.00%</title>
-      <link>https://nitter.net/DeItaone/status/2037523919322661370#m</link>
-      <description>&lt;p&gt;U.S. STOCKS EXTEND FALL, NASDAQ DOWN 1.00%&lt;/p&gt;</description>
-      <guid isPermaLink="false">2037523919322661370</guid>
-      <pubDate>Fri, 27 Mar 2026 13:35:32 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
