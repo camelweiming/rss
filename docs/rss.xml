@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sat, 28 Mar 2026 06:11:57 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 06:17:02 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>TRUMP: CUBA IS NEXT</title>
+      <link>https://nitter.net/DeItaone/status/2037652146917666835#m</link>
+      <description>&lt;p&gt;TRUMP: CUBA IS NEXT&lt;/p&gt;</description>
+      <guid isPermaLink="false">2037652146917666835</guid>
+      <pubDate>Fri, 27 Mar 2026 22:05:04 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>TRUMP ON IRAN: IRAN HAS TO OPEN UP STRAIT OF HORMUZ</title>
       <link>https://nitter.net/DeItaone/status/2037646727683916060#m</link>
@@ -454,18 +462,6 @@ Markets are already under pressure, with major indexes nearing correction territ
       <description>&lt;p&gt;DOJ OFFICIAL SAYS FBI DIRECTOR'S PERSONAL EMAIL WAS BREACHED BY HACKERS&lt;/p&gt;</description>
       <guid isPermaLink="false">2037530423534760216</guid>
       <pubDate>Fri, 27 Mar 2026 14:01:23 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*UMICH MARCH 1-YR INFLATION EXPECTATIONS AT 3.8% VS PRELIM. 3.4%
-
-*UMICH FINAL MARCH CONSUMER SENTIMENT FALLS TO 53.3; EST. 54</title>
-      <link>https://nitter.net/DeItaone/status/2037530204009009436#m</link>
-      <description>&lt;p&gt;*UMICH MARCH 1-YR INFLATION EXPECTATIONS AT 3.8% VS PRELIM. 3.4%&lt;br /&gt;
-&lt;br /&gt;
-*UMICH FINAL MARCH CONSUMER SENTIMENT FALLS TO 53.3; EST. 54&lt;/p&gt;</description>
-      <guid isPermaLink="false">2037530204009009436</guid>
-      <pubDate>Fri, 27 Mar 2026 14:00:30 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
