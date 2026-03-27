@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 27 Mar 2026 21:51:37 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 21:56:37 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>IRAN SAYS STEEL PLANTS IN ISFAHAN TARGETED BY US-ISRAEL STRIKES</title>
+      <link>https://nitter.net/DeItaone/status/2037527844323029158#m</link>
+      <description>&lt;p&gt;IRAN SAYS STEEL PLANTS IN ISFAHAN TARGETED BY US-ISRAEL STRIKES&lt;/p&gt;</description>
+      <guid isPermaLink="false">2037527844323029158</guid>
+      <pubDate>Fri, 27 Mar 2026 13:51:08 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>MIDDLE EAST ESCALATION LIKELY, POLISH PM WARNS
 
@@ -543,14 +551,6 @@ TRUMP: BUT THEY ARE DOING IT&lt;/p&gt;</description>
       <description>&lt;p&gt;*TRUMP ON HIS GIFT FROM IRAN: 8 BOATS OF OIL ALLOWED TO SAIL&lt;/p&gt;</description>
       <guid isPermaLink="false">2037194879105638804</guid>
       <pubDate>Thu, 26 Mar 2026 15:48:03 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>TRUMP: IRAN GAVE U.S. EIGHT BOATS OF OIL</title>
-      <link>https://nitter.net/DeItaone/status/2037194645805900039#m</link>
-      <description>&lt;p&gt;TRUMP: IRAN GAVE U.S. EIGHT BOATS OF OIL&lt;/p&gt;</description>
-      <guid isPermaLink="false">2037194645805900039</guid>
-      <pubDate>Thu, 26 Mar 2026 15:47:07 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
