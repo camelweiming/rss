@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sat, 28 Mar 2026 06:56:58 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 07:01:57 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>TRUMP: I GUESS WE DON'T HAVE TO BE THERE FOR NATO</title>
+      <link>https://nitter.net/DeItaone/status/2037663012723585326#m</link>
+      <description>&lt;p&gt;TRUMP: I GUESS WE DON'T HAVE TO BE THERE FOR NATO&lt;/p&gt;</description>
+      <guid isPermaLink="false">2037663012723585326</guid>
+      <pubDate>Fri, 27 Mar 2026 22:48:14 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>TRUMP: CUBA IS NEXT</title>
       <link>https://nitter.net/DeItaone/status/2037652146917666835#m</link>
@@ -454,14 +462,6 @@ Markets are already under pressure, with major indexes nearing correction territ
 &lt;img src="https://nitter.net/pic/media%2FHEbDjKaWgAAZ2Su.png" /&gt;</description>
       <guid isPermaLink="false">2037530897872740462</guid>
       <pubDate>Fri, 27 Mar 2026 14:03:16 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>DOJ OFFICIAL SAYS FBI DIRECTOR'S PERSONAL EMAIL WAS BREACHED BY HACKERS</title>
-      <link>https://nitter.net/DeItaone/status/2037530423534760216#m</link>
-      <description>&lt;p&gt;DOJ OFFICIAL SAYS FBI DIRECTOR'S PERSONAL EMAIL WAS BREACHED BY HACKERS&lt;/p&gt;</description>
-      <guid isPermaLink="false">2037530423534760216</guid>
-      <pubDate>Fri, 27 Mar 2026 14:01:23 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
