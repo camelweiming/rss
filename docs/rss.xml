@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sat, 28 Mar 2026 05:57:02 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 06:01:56 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>TRUMP ON IRAN: IRAN HAS TO OPEN UP STRAIT OF HORMUZ</title>
+      <link>https://nitter.net/DeItaone/status/2037646727683916060#m</link>
+      <description>&lt;p&gt;TRUMP ON IRAN: IRAN HAS TO OPEN UP STRAIT OF HORMUZ&lt;/p&gt;</description>
+      <guid isPermaLink="false">2037646727683916060</guid>
+      <pubDate>Fri, 27 Mar 2026 21:43:32 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>IRANIAN MISSILE STRUCK THE PRINCE SULTAN AIR BASE IN SAUDI ARABIA ON FRIDAY WOUNDING SEVERAL U.S. SERVICE MEMBERS - WSJ</title>
       <link>https://nitter.net/DeItaone/status/2037646213512622495#m</link>
@@ -458,14 +466,6 @@ Markets are already under pressure, with major indexes nearing correction territ
 *UMICH FINAL MARCH CONSUMER SENTIMENT FALLS TO 53.3; EST. 54&lt;/p&gt;</description>
       <guid isPermaLink="false">2037530204009009436</guid>
       <pubDate>Fri, 27 Mar 2026 14:00:30 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>IRAN SAYS STEEL PLANTS IN ISFAHAN TARGETED BY US-ISRAEL STRIKES</title>
-      <link>https://nitter.net/DeItaone/status/2037527844323029158#m</link>
-      <description>&lt;p&gt;IRAN SAYS STEEL PLANTS IN ISFAHAN TARGETED BY US-ISRAEL STRIKES&lt;/p&gt;</description>
-      <guid isPermaLink="false">2037527844323029158</guid>
-      <pubDate>Fri, 27 Mar 2026 13:51:08 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
