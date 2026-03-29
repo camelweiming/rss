@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 30 Mar 2026 05:16:37 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 05:21:42 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>U.S. TO ALLOW RUSSIAN OIL TANKER TO REACH CUBA- NYT</title>
+      <link>https://nitter.net/DeItaone/status/2038363316788105709#m</link>
+      <description>&lt;p&gt;U.S. TO ALLOW RUSSIAN OIL TANKER TO REACH CUBA- NYT&lt;/p&gt;</description>
+      <guid isPermaLink="false">2038363316788105709</guid>
+      <pubDate>Sun, 29 Mar 2026 21:11:00 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>ELECTRICITY CUT IN PARTS OF TEHRAN AFTER ATTACKS ON INFRASTRUCTURE - NOURNEWS</title>
       <link>https://nitter.net/DeItaone/status/2038320837376221443#m</link>
@@ -420,14 +428,6 @@ The Iran war threatens stagflation in the EU, says Economy Commissioner Valdis D
       <description>&lt;p&gt;BARKIN: INFLATION PROGRESS 'MAY BE AT RISK OF STALLING'&lt;/p&gt;</description>
       <guid isPermaLink="false">2037545302161236325</guid>
       <pubDate>Fri, 27 Mar 2026 15:00:30 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>GERMANY FOREIGN MINISTER: FOUND COMMON LINE WITH US ON IRAN</title>
-      <link>https://nitter.net/DeItaone/status/2037542247919444255#m</link>
-      <description>&lt;p&gt;GERMANY FOREIGN MINISTER: FOUND COMMON LINE WITH US ON IRAN&lt;/p&gt;</description>
-      <guid isPermaLink="false">2037542247919444255</guid>
-      <pubDate>Fri, 27 Mar 2026 14:48:22 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
