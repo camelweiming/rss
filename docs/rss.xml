@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 31 Mar 2026 01:51:43 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 01:56:33 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>WHITE HOUSE: TRUMP WOULD BE INTERESTED IN CALLING ON ARAB COUNTRIES TO HELP PAY FOR COST OF WAR</title>
+      <link>https://nitter.net/DeItaone/status/2038672876526543268#m</link>
+      <description>&lt;p&gt;WHITE HOUSE: TRUMP WOULD BE INTERESTED IN CALLING ON ARAB COUNTRIES TO HELP PAY FOR COST OF WAR&lt;/p&gt;</description>
+      <guid isPermaLink="false">2038672876526543268</guid>
+      <pubDate>Mon, 30 Mar 2026 17:41:05 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>WHITE HOUSE: ANYTHING IRAN SAYS TO US PRIVATELY WILL BE TESTED</title>
       <link>https://nitter.net/DeItaone/status/2038671430670229765#m</link>
@@ -518,14 +526,6 @@ Analysts say flows through Hormuz remain at crisis levels, leaving a roughly 15 
       <description>&lt;p&gt;U.S. TO ALLOW RUSSIAN OIL TANKER TO REACH CUBA- NYT&lt;/p&gt;</description>
       <guid isPermaLink="false">2038363316788105709</guid>
       <pubDate>Sun, 29 Mar 2026 21:11:00 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>ELECTRICITY CUT IN PARTS OF TEHRAN AFTER ATTACKS ON INFRASTRUCTURE - NOURNEWS</title>
-      <link>https://nitter.net/DeItaone/status/2038320837376221443#m</link>
-      <description>&lt;p&gt;ELECTRICITY CUT IN PARTS OF TEHRAN AFTER ATTACKS ON INFRASTRUCTURE - NOURNEWS&lt;/p&gt;</description>
-      <guid isPermaLink="false">2038320837376221443</guid>
-      <pubDate>Sun, 29 Mar 2026 18:22:12 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
