@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 30 Mar 2026 16:46:36 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 16:51:39 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>ISRAEL'S KAN SAYS FIRE BROKE OUT AT HAIFA REFINERY FOLLOWING A HIT</title>
+      <link>https://nitter.net/DeItaone/status/2038539142670307628#m</link>
+      <description>&lt;p&gt;ISRAEL'S KAN SAYS FIRE BROKE OUT AT HAIFA REFINERY FOLLOWING A HIT&lt;/p&gt;</description>
+      <guid isPermaLink="false">2038539142670307628</guid>
+      <pubDate>Mon, 30 Mar 2026 08:49:40 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>NEW IRANIAN BALLISTIC MISSILE LAUNCH TOWARDS ISRAEL</title>
       <link>https://nitter.net/DeItaone/status/2038534600482320386#m</link>
@@ -412,18 +420,6 @@ Iran is expected to reply Friday to the U.S. 15-point peace framework via interm
       <description>&lt;p&gt;IRAN'S RESPONSE TO U.S. PEACE PROPOSAL EXPECTED FRIDAY, SOURCES SAY&lt;/p&gt;</description>
       <guid isPermaLink="false">2037548659500269749</guid>
       <pubDate>Fri, 27 Mar 2026 15:13:50 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*MOBARAKEH SAYS PART OF POWER FACILITIES, STEELMAKING AREA HIT 
-
-*DAMAGES AT MOBARAKEH PLANT HIT IN STRIKES BEING EXAMINED: ISNA</title>
-      <link>https://nitter.net/DeItaone/status/2037546707223728321#m</link>
-      <description>&lt;p&gt;*MOBARAKEH SAYS PART OF POWER FACILITIES, STEELMAKING AREA HIT &lt;br /&gt;
-&lt;br /&gt;
-*DAMAGES AT MOBARAKEH PLANT HIT IN STRIKES BEING EXAMINED: ISNA&lt;/p&gt;</description>
-      <guid isPermaLink="false">2037546707223728321</guid>
-      <pubDate>Fri, 27 Mar 2026 15:06:05 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
