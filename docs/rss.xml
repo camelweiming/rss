@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 31 Mar 2026 02:51:33 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 02:56:37 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>US OIL SETTLES ABOVE $100 A BARREL FOR FIRST TIME SINCE CONFLICT WITH IRAN</title>
+      <link>https://nitter.net/DeItaone/status/2038688268057804918#m</link>
+      <description>&lt;p&gt;US OIL SETTLES ABOVE $100 A BARREL FOR FIRST TIME SINCE CONFLICT WITH IRAN&lt;/p&gt;</description>
+      <guid isPermaLink="false">2038688268057804918</guid>
+      <pubDate>Mon, 30 Mar 2026 18:42:14 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>WHITE HOUSE: TRUMP WOULD BE INTERESTED IN CALLING ON ARAB COUNTRIES TO HELP PAY FOR COST OF WAR</title>
       <link>https://nitter.net/DeItaone/status/2038672876526543268#m</link>
@@ -518,14 +526,6 @@ Analysts say flows through Hormuz remain at crisis levels, leaving a roughly 15 
       <description>&lt;p&gt;PETROCHEMICAL PLANT TARGETED IN NORTHWESTERN TABRIZ CITY, IRANIAN STATE MEDIA REPORTS&lt;/p&gt;</description>
       <guid isPermaLink="false">2038374008173818306</guid>
       <pubDate>Sun, 29 Mar 2026 21:53:29 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>U.S. TO ALLOW RUSSIAN OIL TANKER TO REACH CUBA- NYT</title>
-      <link>https://nitter.net/DeItaone/status/2038363316788105709#m</link>
-      <description>&lt;p&gt;U.S. TO ALLOW RUSSIAN OIL TANKER TO REACH CUBA- NYT&lt;/p&gt;</description>
-      <guid isPermaLink="false">2038363316788105709</guid>
-      <pubDate>Sun, 29 Mar 2026 21:11:00 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
