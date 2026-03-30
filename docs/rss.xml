@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 31 Mar 2026 00:36:29 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 00:41:19 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>*SPACEX MULLS CUTTING ROBINHOOD, SOFI OUT OF IPO: REUTERS</title>
+      <link>https://nitter.net/DeItaone/status/2038655482240331835#m</link>
+      <description>&lt;p&gt;*SPACEX MULLS CUTTING ROBINHOOD, SOFI OUT OF IPO: REUTERS&lt;/p&gt;</description>
+      <guid isPermaLink="false">2038655482240331835</guid>
+      <pubDate>Mon, 30 Mar 2026 16:31:58 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>NATO SHOOTS DOWN FOURTH IRAN MISSILE OVER TURKEY
 
@@ -518,14 +526,6 @@ Analysts say flows through Hormuz remain at crisis levels, leaving a roughly 15 
       <description>&lt;p&gt;IRAN PARLIAMENT SPEAKER QALIBAF SAYS U.S. SPEAKS OF NEGOTIATIONS IN PUBLIC, BUT PLANS GROUND ATTACK IN SECRET - STATE MEDIA&lt;/p&gt;</description>
       <guid isPermaLink="false">2038175433338826816</guid>
       <pubDate>Sun, 29 Mar 2026 08:44:25 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>IRAN'S QALIBAF SAYS IRANIAN ARMED FORCES ARE WAITING FOR U.S. LAND ARRIVAL AND TO PUNISH THEIR REGIONAL PARTNERS - STATE MEDIA</title>
-      <link>https://nitter.net/DeItaone/status/2038175331958297039#m</link>
-      <description>&lt;p&gt;IRAN'S QALIBAF SAYS IRANIAN ARMED FORCES ARE WAITING FOR U.S. LAND ARRIVAL AND TO PUNISH THEIR REGIONAL PARTNERS - STATE MEDIA&lt;/p&gt;</description>
-      <guid isPermaLink="false">2038175331958297039</guid>
-      <pubDate>Sun, 29 Mar 2026 08:44:01 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
