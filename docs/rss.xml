@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 30 Mar 2026 17:46:37 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 17:51:36 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>IRAN'S BAGHAEI SAYS BUSHEHR NUCLEAR POWER PLANT IS STILL ACTIVE, CONDEMNS 'VERY DANGEROUS' ATTACKS BY U.S., ISRAEL</title>
+      <link>https://nitter.net/DeItaone/status/2038552718352982238#m</link>
+      <description>&lt;p&gt;IRAN'S BAGHAEI SAYS BUSHEHR NUCLEAR POWER PLANT IS STILL ACTIVE, CONDEMNS 'VERY DANGEROUS' ATTACKS BY U.S., ISRAEL&lt;/p&gt;</description>
+      <guid isPermaLink="false">2038552718352982238</guid>
+      <pubDate>Mon, 30 Mar 2026 09:43:37 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>*IRAN SAYS US DEMANDS HAVE BEEN EXCESSIVE, ILLOGICAL: TASNIM
 
@@ -427,14 +435,6 @@ Analysts say flows through Hormuz remain at crisis levels, leaving a roughly 15 
       <description>&lt;p&gt;IRAN'S YELLOWCAKE FACTORY IN ARDAKAN BOMBED, NO RELEASE OF RADIOACTIVE MATERIALS OUTSIDE COMPLEX -IRANIAN MEDIA&lt;/p&gt;</description>
       <guid isPermaLink="false">2037558600608931937</guid>
       <pubDate>Fri, 27 Mar 2026 15:53:21 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>IRAN SAYS NO RISK OF RADIATION LEAK AT KHONDAB SITE: IRNA</title>
-      <link>https://nitter.net/DeItaone/status/2037557958205231573#m</link>
-      <description>&lt;p&gt;IRAN SAYS NO RISK OF RADIATION LEAK AT KHONDAB SITE: IRNA&lt;/p&gt;</description>
-      <guid isPermaLink="false">2037557958205231573</guid>
-      <pubDate>Fri, 27 Mar 2026 15:50:47 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
