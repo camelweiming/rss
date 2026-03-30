@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 30 Mar 2026 22:31:33 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 22:36:30 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>US DOLLAR INDEX REACHES 100.56, HIGHEST SINCE MAY</title>
+      <link>https://nitter.net/DeItaone/status/2038626051128004686#m</link>
+      <description>&lt;p&gt;US DOLLAR INDEX REACHES 100.56, HIGHEST SINCE MAY&lt;/p&gt;</description>
+      <guid isPermaLink="false">2038626051128004686</guid>
+      <pubDate>Mon, 30 Mar 2026 14:35:01 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>CHINESE SHIPS EXIT HORMUZ IN RARE TRANSIT
 
@@ -493,14 +501,6 @@ Analysts say flows through Hormuz remain at crisis levels, leaving a roughly 15 
       <description>&lt;p&gt;HOUTHIS IN YEMEN OFFICIALLY ANNOUNCE ENTRY INTO THE CONFLICT TO SUPPORT IRAN - THE MIDDLE EAST&lt;/p&gt;</description>
       <guid isPermaLink="false">2037611556616143155</guid>
       <pubDate>Fri, 27 Mar 2026 19:23:46 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>TIGER WOODS INVOLVED IN ROLLOVER CRASH IN FLORIDA-ABC NEWS</title>
-      <link>https://nitter.net/DeItaone/status/2037611521564442888#m</link>
-      <description>&lt;p&gt;TIGER WOODS INVOLVED IN ROLLOVER CRASH IN FLORIDA-ABC NEWS&lt;/p&gt;</description>
-      <guid isPermaLink="false">2037611521564442888</guid>
-      <pubDate>Fri, 27 Mar 2026 19:23:38 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
