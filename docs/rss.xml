@@ -4,8 +4,32 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Mon, 30 Mar 2026 21:16:32 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 21:21:32 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>GOLDMAN: MARKETS MISREAD FED AS OIL SPIKE FUELS RATE FEARS
+
+Goldman Sachs says investors are overestimating the chance of Fed rate hikes as oil prices surge.
+
+Brent crude above $115 has fueled inflation fears and pushed traders to price a more hawkish Fed, but Goldman argues this reaction is overdone and out of line with history.
+
+The bank points to 1990, when markets expected tightening after an oil shock — but the Fed ultimately cut rates as growth weakened.
+
+Bottom line: markets are pricing higher rates, but slowing growth could force the Fed in the opposite direction.</title>
+      <link>https://nitter.net/DeItaone/status/2038605629044957499#m</link>
+      <description>&lt;p&gt;GOLDMAN: MARKETS MISREAD FED AS OIL SPIKE FUELS RATE FEARS&lt;br /&gt;
+&lt;br /&gt;
+Goldman Sachs says investors are overestimating the chance of Fed rate hikes as oil prices surge.&lt;br /&gt;
+&lt;br /&gt;
+Brent crude above $115 has fueled inflation fears and pushed traders to price a more hawkish Fed, but Goldman argues this reaction is overdone and out of line with history.&lt;br /&gt;
+&lt;br /&gt;
+The bank points to 1990, when markets expected tightening after an oil shock — but the Fed ultimately cut rates as growth weakened.&lt;br /&gt;
+&lt;br /&gt;
+Bottom line: markets are pricing higher rates, but slowing growth could force the Fed in the opposite direction.&lt;/p&gt;</description>
+      <guid isPermaLink="false">2038605629044957499</guid>
+      <pubDate>Mon, 30 Mar 2026 13:13:52 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>HORMUZ TRAFFIC STILL NEAR STANDSTILL
 
@@ -468,14 +492,6 @@ Analysts say flows through Hormuz remain at crisis levels, leaving a roughly 15 
       <description>&lt;p&gt;🚨 TRUMP: WE'RE DOING REALLY WELL IN IRAN&lt;/p&gt;</description>
       <guid isPermaLink="false">2037572993111482616</guid>
       <pubDate>Fri, 27 Mar 2026 16:50:32 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>GERMAN CHANCELLOR MERZ: US AND ISRAEL HAVE NO STRATEGY ON WHAT THEY WANT</title>
-      <link>https://nitter.net/DeItaone/status/2037572924769468816#m</link>
-      <description>&lt;p&gt;GERMAN CHANCELLOR MERZ: US AND ISRAEL HAVE NO STRATEGY ON WHAT THEY WANT&lt;/p&gt;</description>
-      <guid isPermaLink="false">2037572924769468816</guid>
-      <pubDate>Fri, 27 Mar 2026 16:50:16 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
