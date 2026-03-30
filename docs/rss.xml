@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 31 Mar 2026 01:36:38 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 01:39:53 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>WHITE HOUSE: ANYTHING IRAN SAYS TO US PRIVATELY WILL BE TESTED</title>
+      <link>https://nitter.net/DeItaone/status/2038671430670229765#m</link>
+      <description>&lt;p&gt;WHITE HOUSE: ANYTHING IRAN SAYS TO US PRIVATELY WILL BE TESTED&lt;/p&gt;</description>
+      <guid isPermaLink="false">2038671430670229765</guid>
+      <pubDate>Mon, 30 Mar 2026 17:35:20 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>RUBIO: THE US IS DISSATISFIED WITH NATO OVER IRAN CONFLICT COOPERATION. ALL OF IT WILL NEED TO BE REASSESSED AFTER THE IRAN CONFLICT</title>
       <link>https://nitter.net/DeItaone/status/2038667922864849020#m</link>
@@ -518,14 +526,6 @@ Analysts say flows through Hormuz remain at crisis levels, leaving a roughly 15 
       <description>&lt;p&gt;ELECTRICITY CUT IN PARTS OF TEHRAN AFTER ATTACKS ON INFRASTRUCTURE - NOURNEWS&lt;/p&gt;</description>
       <guid isPermaLink="false">2038320837376221443</guid>
       <pubDate>Sun, 29 Mar 2026 18:22:12 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>IRAN'S SUPREME LEADER MOJTABA KHAMENEI THANKS IRAQI PEOPLE AND RELIGIOUS LEADERSHIP FOR THEIR SUPPORT OF IRAN 'IN THE FACE OF AGGRESSION' - STATE MEDIA</title>
-      <link>https://nitter.net/DeItaone/status/2038262391931113893#m</link>
-      <description>&lt;p&gt;IRAN'S SUPREME LEADER MOJTABA KHAMENEI THANKS IRAQI PEOPLE AND RELIGIOUS LEADERSHIP FOR THEIR SUPPORT OF IRAN 'IN THE FACE OF AGGRESSION' - STATE MEDIA&lt;/p&gt;</description>
-      <guid isPermaLink="false">2038262391931113893</guid>
-      <pubDate>Sun, 29 Mar 2026 14:29:57 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
