@@ -4,8 +4,24 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 31 Mar 2026 17:41:31 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 17:46:33 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>RUSSIAN FOREIGN MINISTER LAVROV: REGIME CHANGES WE ARE WITNESSING ARE MEANT TO GAIN MORE CONTROL OVER OIL AND GAS RESOURCES</title>
+      <link>https://nitter.net/DeItaone/status/2038910650965991465#m</link>
+      <description>&lt;p&gt;RUSSIAN FOREIGN MINISTER LAVROV: REGIME CHANGES WE ARE WITNESSING ARE MEANT TO GAIN MORE CONTROL OVER OIL AND GAS RESOURCES&lt;/p&gt;</description>
+      <guid isPermaLink="false">2038910650965991465</guid>
+      <pubDate>Tue, 31 Mar 2026 09:25:54 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
+    <item>
+      <title>RUSSIA'S LAVROV: MIDDLE EAST CRISIS MAY SPILL OVER INTO A WIDER CONFLICT</title>
+      <link>https://nitter.net/DeItaone/status/2038910608523895070#m</link>
+      <description>&lt;p&gt;RUSSIA'S LAVROV: MIDDLE EAST CRISIS MAY SPILL OVER INTO A WIDER CONFLICT&lt;/p&gt;</description>
+      <guid isPermaLink="false">2038910608523895070</guid>
+      <pubDate>Tue, 31 Mar 2026 09:25:44 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>*EURO AREA PRELIM MARCH CONSUMER PRICES RISE 2.5% Y/Y  
 
@@ -519,26 +535,6 @@ Officials remain cautious, but warn higher energy costs could push inflation fur
       <description>&lt;p&gt;TRUMP ON IRAN: US IN SERIOUS DISCUSSIONS WITH A NEW, AND MORE REASONABLE, REGIME TO END OUR MILITARY OPERATIONS IN IRAN&lt;/p&gt;</description>
       <guid isPermaLink="false">2038580300792381849</guid>
       <pubDate>Mon, 30 Mar 2026 11:33:13 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*TRUMP: GREAT PROGRESS HAS BEEN MADE
-
-*TRUMP THREATENS TO OBLITERATE ALL ELECTRICITY PLANTS IN IRAN</title>
-      <link>https://nitter.net/DeItaone/status/2038580218877636708#m</link>
-      <description>&lt;p&gt;*TRUMP: GREAT PROGRESS HAS BEEN MADE&lt;br /&gt;
-&lt;br /&gt;
-*TRUMP THREATENS TO OBLITERATE ALL ELECTRICITY PLANTS IN IRAN&lt;/p&gt;</description>
-      <guid isPermaLink="false">2038580218877636708</guid>
-      <pubDate>Mon, 30 Mar 2026 11:32:53 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*TRUMP THREATENS IRAN ENERGY SITES IF HORMUZ STAYS CLOSED</title>
-      <link>https://nitter.net/DeItaone/status/2038580155342373073#m</link>
-      <description>&lt;p&gt;*TRUMP THREATENS IRAN ENERGY SITES IF HORMUZ STAYS CLOSED&lt;/p&gt;</description>
-      <guid isPermaLink="false">2038580155342373073</guid>
-      <pubDate>Mon, 30 Mar 2026 11:32:38 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
