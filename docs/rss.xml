@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 01 Apr 2026 03:51:22 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 03:56:16 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>*S&amp;P 500 INDEX EXTENDS GAIN TO RISE 3%, NASDAQ 100 UP 3.5%</title>
+      <link>https://nitter.net/DeItaone/status/2039068011693232133#m</link>
+      <description>&lt;p&gt;*S&amp;amp;P 500 INDEX EXTENDS GAIN TO RISE 3%, NASDAQ 100 UP 3.5%&lt;/p&gt;</description>
+      <guid isPermaLink="false">2039068011693232133</guid>
+      <pubDate>Tue, 31 Mar 2026 19:51:12 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>U.S. JUDGE ISSUES ORDER HALTING TRUMP'S WHITE HOUSE BALLROOM PROJECT FOR NOW</title>
       <link>https://nitter.net/DeItaone/status/2039058440027304386#m</link>
@@ -507,14 +515,6 @@ US gasoline has topped $4 per gallon for the first time since 2022, rising over 
 The spike is fueling inflation concerns, hurting consumer sentiment, and creating political pressure in the US—while government efforts so far have failed to bring prices down.&lt;/p&gt;</description>
       <guid isPermaLink="false">2038892267570610342</guid>
       <pubDate>Tue, 31 Mar 2026 08:12:52 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>EU COUNTRIES SHOULD PREPARE FOR PROLONGED DISRUPTION TO ENERGY MARKETS FROM IRAN WAR, EU ENERGY COMMISSIONER SAYS IN LETTER TO EU ENERGY MINISTERS</title>
-      <link>https://nitter.net/DeItaone/status/2038888781017727050#m</link>
-      <description>&lt;p&gt;EU COUNTRIES SHOULD PREPARE FOR PROLONGED DISRUPTION TO ENERGY MARKETS FROM IRAN WAR, EU ENERGY COMMISSIONER SAYS IN LETTER TO EU ENERGY MINISTERS&lt;/p&gt;</description>
-      <guid isPermaLink="false">2038888781017727050</guid>
-      <pubDate>Tue, 31 Mar 2026 07:59:00 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
