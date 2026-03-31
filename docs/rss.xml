@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 01 Apr 2026 06:56:18 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 07:01:30 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>TIGER WOODS: I AM STEPPING AWAY FOR A PERIOD OF TIME TO SEEK TREATMENT</title>
+      <link>https://nitter.net/DeItaone/status/2039112301073100917#m</link>
+      <description>&lt;p&gt;TIGER WOODS: I AM STEPPING AWAY FOR A PERIOD OF TIME TO SEEK TREATMENT&lt;/p&gt;</description>
+      <guid isPermaLink="false">2039112301073100917</guid>
+      <pubDate>Tue, 31 Mar 2026 22:47:12 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>TRUMP SAYS IRAN DOES NOT HAVE TO MAKE A DEAL FOR THE U.S. TO END ITS WAR</title>
       <link>https://nitter.net/DeItaone/status/2039100640765387035#m</link>
@@ -475,22 +483,6 @@ Oil prices could surge to $150–$200 a barrel if the Strait of Hormuz remains l
 Analysts warn ongoing losses of millions of barrels are tightening the market, and physical shortages—not political signals—will drive prices higher. Continued attacks and instability are already fueling sharp volatility.&lt;/p&gt;</description>
       <guid isPermaLink="false">2038898901084766488</guid>
       <pubDate>Tue, 31 Mar 2026 08:39:13 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>TRUMP OPEN TO ENDING WAR WITHOUT REOPENING HORMUZ
-
-President Trump is willing to end the Iran war without reopening the Strait of Hormuz, prioritizing a quick military win over restoring global shipping.
-
-His strategy focuses on weakening Iran’s military, then pushing diplomacy or allies to handle the strait later. Critics warn this could prolong global energy disruption, drive oil prices higher, and leave trade routes vulnerable.</title>
-      <link>https://nitter.net/DeItaone/status/2038898722902319409#m</link>
-      <description>&lt;p&gt;TRUMP OPEN TO ENDING WAR WITHOUT REOPENING HORMUZ&lt;br /&gt;
-&lt;br /&gt;
-President Trump is willing to end the Iran war without reopening the Strait of Hormuz, prioritizing a quick military win over restoring global shipping.&lt;br /&gt;
-&lt;br /&gt;
-His strategy focuses on weakening Iran’s military, then pushing diplomacy or allies to handle the strait later. Critics warn this could prolong global energy disruption, drive oil prices higher, and leave trade routes vulnerable.&lt;/p&gt;</description>
-      <guid isPermaLink="false">2038898722902319409</guid>
-      <pubDate>Tue, 31 Mar 2026 08:38:31 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
