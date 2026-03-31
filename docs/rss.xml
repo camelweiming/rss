@@ -4,8 +4,20 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 31 Mar 2026 17:06:42 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 17:11:35 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>*EURO AREA PRELIM MARCH CONSUMER PRICES RISE 2.5% Y/Y  
+
+*EURO AREA PRELIM MARCH CONSUMER PRICES RISE 1.2% M/M</title>
+      <link>https://nitter.net/DeItaone/status/2038904809571467663#m</link>
+      <description>&lt;p&gt;*EURO AREA PRELIM MARCH CONSUMER PRICES RISE 2.5% Y/Y  &lt;br /&gt;
+&lt;br /&gt;
+*EURO AREA PRELIM MARCH CONSUMER PRICES RISE 1.2% M/M&lt;/p&gt;</description>
+      <guid isPermaLink="false">2038904809571467663</guid>
+      <pubDate>Tue, 31 Mar 2026 09:02:42 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>ONE OF IRAN'S QESHM ISLAND'S DESALINATION PLANTS IS OUT OF SERVICE SINCE STRIKE, SHORT-TERM REPAIRS IMPOSSIBLE - BORNA CITING HEALTH MINISTRY OFFICIAL</title>
       <link>https://nitter.net/DeItaone/status/2038902366448103837#m</link>
@@ -527,14 +539,6 @@ Officials remain cautious, but warn higher energy costs could push inflation fur
       <description>&lt;p&gt;*TRUMP THREATENS IRAN ENERGY SITES IF HORMUZ STAYS CLOSED&lt;/p&gt;</description>
       <guid isPermaLink="false">2038580155342373073</guid>
       <pubDate>Mon, 30 Mar 2026 11:32:38 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>IRAN'S BAGHAEI SAYS TEHRAN RESPECTS NUCLEAR NON-PROLIFERATION TREATY AS LONG AS IT IS MEMBER, BUT ITS UTILITY IS UNDER QUESTION AS IRAN IS ATTACKED AND ITS RIGHTS NOT RESPECTED</title>
-      <link>https://nitter.net/DeItaone/status/2038558874223923303#m</link>
-      <description>&lt;p&gt;IRAN'S BAGHAEI SAYS TEHRAN RESPECTS NUCLEAR NON-PROLIFERATION TREATY AS LONG AS IT IS MEMBER, BUT ITS UTILITY IS UNDER QUESTION AS IRAN IS ATTACKED AND ITS RIGHTS NOT RESPECTED&lt;/p&gt;</description>
-      <guid isPermaLink="false">2038558874223923303</guid>
-      <pubDate>Mon, 30 Mar 2026 10:08:04 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
