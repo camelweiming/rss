@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 31 Mar 2026 19:36:32 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 19:41:34 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>TRUMP SAYS 'HARD PART IS DONE' ON IRAN WAR</title>
+      <link>https://nitter.net/DeItaone/status/2038941486285287483#m</link>
+      <description>&lt;p&gt;TRUMP SAYS 'HARD PART IS DONE' ON IRAN WAR&lt;/p&gt;</description>
+      <guid isPermaLink="false">2038941486285287483</guid>
+      <pubDate>Tue, 31 Mar 2026 11:28:26 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>TRUMP ON IRAN: FRANCE HAS BEEN VERY UNHELPFUL</title>
       <link>https://nitter.net/DeItaone/status/2038939737201745950#m</link>
@@ -544,14 +552,6 @@ Officials remain cautious, but warn higher energy costs could push inflation fur
       <description>&lt;p&gt;BESSENT: SEEING MORE AND MORE SHIPS GO THROUGH HORMUZ&lt;/p&gt;</description>
       <guid isPermaLink="false">2038595691727994921</guid>
       <pubDate>Mon, 30 Mar 2026 12:34:22 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>BESSENT: US WILL 'RETAKE' CONTROL OF THE STRAITS</title>
-      <link>https://nitter.net/DeItaone/status/2038595655023669333#m</link>
-      <description>&lt;p&gt;BESSENT: US WILL 'RETAKE' CONTROL OF THE STRAITS&lt;/p&gt;</description>
-      <guid isPermaLink="false">2038595655023669333</guid>
-      <pubDate>Mon, 30 Mar 2026 12:34:14 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
