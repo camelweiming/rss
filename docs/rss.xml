@@ -4,8 +4,20 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Tue, 31 Mar 2026 21:21:33 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 21:26:37 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>CHINA, PAKISTAN CALL FOR IMMEDIATE STOP TO MILITARY ACTION - XINHUA
+
+CHINA, PAKISTAN: URGE PROTECTION OF STRAIT OF HORMUZ SHIPPING LANES - XINHUA</title>
+      <link>https://nitter.net/DeItaone/status/2038968811966058560#m</link>
+      <description>&lt;p&gt;CHINA, PAKISTAN CALL FOR IMMEDIATE STOP TO MILITARY ACTION - XINHUA&lt;br /&gt;
+&lt;br /&gt;
+CHINA, PAKISTAN: URGE PROTECTION OF STRAIT OF HORMUZ SHIPPING LANES - XINHUA&lt;/p&gt;</description>
+      <guid isPermaLink="false">2038968811966058560</guid>
+      <pubDate>Tue, 31 Mar 2026 13:17:01 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>STRAIT OF HORMUZ TRAFFIC REMAINS LOW
 
@@ -499,14 +511,6 @@ POWELL: AI IS MAKING PEOPLE MORE PRODUCTIVE</title>
 POWELL: AI IS MAKING PEOPLE MORE PRODUCTIVE&lt;/p&gt;</description>
       <guid isPermaLink="false">2038633692617113917</guid>
       <pubDate>Mon, 30 Mar 2026 15:05:22 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>POWELL: THERE'S NO DENYING IT'S A CHALLENGING TIME TO ENTER THE JOB MARKET</title>
-      <link>https://nitter.net/DeItaone/status/2038633629266358780#m</link>
-      <description>&lt;p&gt;POWELL: THERE'S NO DENYING IT'S A CHALLENGING TIME TO ENTER THE JOB MARKET&lt;/p&gt;</description>
-      <guid isPermaLink="false">2038633629266358780</guid>
-      <pubDate>Mon, 30 Mar 2026 15:05:07 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
