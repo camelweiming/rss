@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 02 Apr 2026 05:41:38 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 05:46:36 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>SENIOR IRANIAN SOURCE: NO TALKS HAVE TAKEN PLACE VIA MEDIATORS FOR A TEMPORARY CEASEFIRE</title>
+      <link>https://nitter.net/DeItaone/status/2039458006195208580#m</link>
+      <description>&lt;p&gt;SENIOR IRANIAN SOURCE: NO TALKS HAVE TAKEN PLACE VIA MEDIATORS FOR A TEMPORARY CEASEFIRE&lt;/p&gt;</description>
+      <guid isPermaLink="false">2039458006195208580</guid>
+      <pubDate>Wed, 01 Apr 2026 21:40:54 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>IRANIAN FOREIGN MINISTRY SPOKESPERSON SAYS MESSAGES HAVE BEEN RECEIVED THROUGH INTERMEDIARIES, INCLUDING PAKISTAN, BUT NO DIRECT NEGOTIATION WITH THE U.S. - IRANIAN MEDIA</title>
       <link>https://nitter.net/DeItaone/status/2039454126807917049#m</link>
@@ -442,14 +450,6 @@ TRUMP SAYS OTHER NATIONS CAN REOPEN HORMUZ STRAIT: NYP&lt;br /&gt;
 TRUMP SAYS HORMUZ STRAIT WILL 'AUTOMATICALLY OPEN': NYP&lt;/p&gt;</description>
       <guid isPermaLink="false">2038997090949308833</guid>
       <pubDate>Tue, 31 Mar 2026 15:09:23 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>IRAN'S SUPREME LEADER KHAMENEI IS IN IRAN BUT IS REFRAINING FROM MAKING PUBLIC APPEARANCES - RUSSIAN ENVOY</title>
-      <link>https://nitter.net/DeItaone/status/2038987637743075662#m</link>
-      <description>&lt;p&gt;IRAN'S SUPREME LEADER KHAMENEI IS IN IRAN BUT IS REFRAINING FROM MAKING PUBLIC APPEARANCES - RUSSIAN ENVOY&lt;/p&gt;</description>
-      <guid isPermaLink="false">2038987637743075662</guid>
-      <pubDate>Tue, 31 Mar 2026 14:31:50 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
