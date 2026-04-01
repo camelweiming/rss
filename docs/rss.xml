@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 01 Apr 2026 19:41:36 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 19:46:47 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>FRANCE'S JUNIOR ARMY MINISTER: NATO IS A MILITARY ALLIANCE THAT CONCERNS THE SECURITY OF EURO-ATLANTIC AREA, NOT TO CARRY OUT OPERATION IN STRAIT OF HORMUZ THAT DOESN'T RESPECT INTERNATIONAL LAW</title>
+      <link>https://nitter.net/DeItaone/status/2039304886571913480#m</link>
+      <description>&lt;p&gt;FRANCE'S JUNIOR ARMY MINISTER: NATO IS A MILITARY ALLIANCE THAT CONCERNS THE SECURITY OF EURO-ATLANTIC AREA, NOT TO CARRY OUT OPERATION IN STRAIT OF HORMUZ THAT DOESN'T RESPECT INTERNATIONAL LAW&lt;/p&gt;</description>
+      <guid isPermaLink="false">2039304886571913480</guid>
+      <pubDate>Wed, 01 Apr 2026 11:32:28 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>*JAPAN’S NIKKEI 225 SURGES 4% ON TRUMP'S COMMENTS ON ENDING WAR</title>
       <link>https://nitter.net/DeItaone/status/2039159817365827803#m</link>
@@ -465,18 +473,6 @@ Strikes on Red Sea shipping or Saudi energy sites would hit supply, raising infl
       <description>&lt;p&gt;RUSSIA'S LAVROV: MIDDLE EAST CRISIS MAY SPILL OVER INTO A WIDER CONFLICT&lt;/p&gt;</description>
       <guid isPermaLink="false">2038910608523895070</guid>
       <pubDate>Tue, 31 Mar 2026 09:25:44 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*EURO AREA PRELIM MARCH CONSUMER PRICES RISE 2.5% Y/Y  
-
-*EURO AREA PRELIM MARCH CONSUMER PRICES RISE 1.2% M/M</title>
-      <link>https://nitter.net/DeItaone/status/2038904809571467663#m</link>
-      <description>&lt;p&gt;*EURO AREA PRELIM MARCH CONSUMER PRICES RISE 2.5% Y/Y  &lt;br /&gt;
-&lt;br /&gt;
-*EURO AREA PRELIM MARCH CONSUMER PRICES RISE 1.2% M/M&lt;/p&gt;</description>
-      <guid isPermaLink="false">2038904809571467663</guid>
-      <pubDate>Tue, 31 Mar 2026 09:02:42 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
