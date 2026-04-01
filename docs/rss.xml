@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Wed, 01 Apr 2026 21:26:34 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 21:31:36 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>IRAN'S REVOLUTIONARY GUARDS SAY THEY ATTACKED OIL TANKER AQUA ONE IN THE GULF; THE TANKER LEASED TO QATARENERGY WAS HIT IN QATARI WATERS</title>
+      <link>https://nitter.net/DeItaone/status/2039330462724682159#m</link>
+      <description>&lt;p&gt;IRAN'S REVOLUTIONARY GUARDS SAY THEY ATTACKED OIL TANKER AQUA ONE IN THE GULF; THE TANKER LEASED TO QATARENERGY WAS HIT IN QATARI WATERS&lt;/p&gt;</description>
+      <guid isPermaLink="false">2039330462724682159</guid>
+      <pubDate>Wed, 01 Apr 2026 13:14:05 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>TRUMP: WILL EXPRESS 'MY DISGUST' WITH NATO IN HIS SPEECH; SAYS HE IS 'ABSOLUTELY' CONSIDERING WITHDRAWING U.S. FROM NATO</title>
       <link>https://nitter.net/DeItaone/status/2039330278074699878#m</link>
@@ -452,14 +460,6 @@ The dispute adds to tensions with European allies, as Spain and Italy have also 
       <description>&lt;p&gt;*NVIDIA INVESTS $2B IN MARVELL TECHNOLOGY&lt;/p&gt;</description>
       <guid isPermaLink="false">2038951405407351099</guid>
       <pubDate>Tue, 31 Mar 2026 12:07:51 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>PENTAGON CHIEF HEGSETH ON IRAN:  HE VISITED MIDDLE EAST ON SATURDAY, SPOKE WITH U.S. TROOPS</title>
-      <link>https://nitter.net/DeItaone/status/2038950896856346966#m</link>
-      <description>&lt;p&gt;PENTAGON CHIEF HEGSETH ON IRAN:  HE VISITED MIDDLE EAST ON SATURDAY, SPOKE WITH U.S. TROOPS&lt;/p&gt;</description>
-      <guid isPermaLink="false">2038950896856346966</guid>
-      <pubDate>Tue, 31 Mar 2026 12:05:50 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
