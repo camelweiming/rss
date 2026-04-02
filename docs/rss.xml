@@ -4,8 +4,24 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 02 Apr 2026 21:31:35 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 21:36:35 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>U.S. STOCKS EXTEND FALL, S&amp;P 500 DOWN 1.25%</title>
+      <link>https://nitter.net/DeItaone/status/2039697106475081832#m</link>
+      <description>&lt;p&gt;U.S. STOCKS EXTEND FALL, S&amp;amp;P 500 DOWN 1.25%&lt;/p&gt;</description>
+      <guid isPermaLink="false">2039697106475081832</guid>
+      <pubDate>Thu, 02 Apr 2026 13:31:00 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
+    <item>
+      <title>US AMBASSADOR TO NATO WHITAKER: TRUMP WILL DECIDE IF US WILL STAY IN NATO</title>
+      <link>https://nitter.net/DeItaone/status/2039695434080206938#m</link>
+      <description>&lt;p&gt;US AMBASSADOR TO NATO WHITAKER: TRUMP WILL DECIDE IF US WILL STAY IN NATO&lt;/p&gt;</description>
+      <guid isPermaLink="false">2039695434080206938</guid>
+      <pubDate>Thu, 02 Apr 2026 13:24:21 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>SPOT SILVER DROPS 7% TO $69.86/OZ</title>
       <link>https://nitter.net/DeItaone/status/2039693003594342426#m</link>
@@ -568,22 +584,6 @@ Bottom line: this is a high-risk “war ends soon” trade — and so far, it’
       <description>&lt;p&gt;TRUMP: WE HAVE SOME MORE TARGETS LEFT; IF WE HAVE TO, WE'LL COME BACK TO DO SPOT HITS&lt;/p&gt;</description>
       <guid isPermaLink="false">2039330099430838417</guid>
       <pubDate>Wed, 01 Apr 2026 13:12:39 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>TRUMP: DOES NOT CARE ABOUT NUCLEAR MATERIAL; WILL WATCH BY SATELLITE</title>
-      <link>https://nitter.net/DeItaone/status/2039330020724785609#m</link>
-      <description>&lt;p&gt;TRUMP: DOES NOT CARE ABOUT NUCLEAR MATERIAL; WILL WATCH BY SATELLITE&lt;/p&gt;</description>
-      <guid isPermaLink="false">2039330020724785609</guid>
-      <pubDate>Wed, 01 Apr 2026 13:12:20 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>TRUMP: 'WE'RE GOING TO BE OUT OF IRAN PRETTY QUICKLY,' WON'T GIVE TIMELINE</title>
-      <link>https://nitter.net/DeItaone/status/2039329918853464443#m</link>
-      <description>&lt;p&gt;TRUMP: 'WE'RE GOING TO BE OUT OF IRAN PRETTY QUICKLY,' WON'T GIVE TIMELINE&lt;/p&gt;</description>
-      <guid isPermaLink="false">2039329918853464443</guid>
-      <pubDate>Wed, 01 Apr 2026 13:11:56 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
