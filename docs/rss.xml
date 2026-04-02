@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 02 Apr 2026 23:46:36 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 23:51:38 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>IRAN SAYS IT CARRIED OUT DRONE ATTACK ON U.S. FIGHTER JETS AT AL AZRAQ BASE IN JORDAN ON THURSDAY</title>
+      <link>https://nitter.net/DeItaone/status/2039729477199012235#m</link>
+      <description>&lt;p&gt;IRAN SAYS IT CARRIED OUT DRONE ATTACK ON U.S. FIGHTER JETS AT AL AZRAQ BASE IN JORDAN ON THURSDAY&lt;/p&gt;</description>
+      <guid isPermaLink="false">2039729477199012235</guid>
+      <pubDate>Thu, 02 Apr 2026 15:39:38 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>IRAN'S REVOLUTIONARY GUARDS SAY THEY STARTED ATTACK ON AMAZON CLOUD COMPUTING CENTER IN BAHRAIN - IRAN'S ISNA</title>
       <link>https://nitter.net/DeItaone/status/2039725131119857768#m</link>
@@ -591,14 +599,6 @@ Bottom line: this is a high-risk “war ends soon” trade — and so far, it’
       <description>&lt;p&gt;ZELENSKIY BEGINS HOLDING TALKS WITH U.S. NEGOTIATORS, SOURCE FAMILIAR SAYS&lt;/p&gt;</description>
       <guid isPermaLink="false">2039363182733443239</guid>
       <pubDate>Wed, 01 Apr 2026 15:24:06 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>US AND IRAN DISCUSSING CEASEFIRE FOR REOPENING STRAIT, OFFICIALS SAY – AXIOS</title>
-      <link>https://nitter.net/DeItaone/status/2039362692603920831#m</link>
-      <description>&lt;p&gt;US AND IRAN DISCUSSING CEASEFIRE FOR REOPENING STRAIT, OFFICIALS SAY – AXIOS&lt;/p&gt;</description>
-      <guid isPermaLink="false">2039362692603920831</guid>
-      <pubDate>Wed, 01 Apr 2026 15:22:10 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
