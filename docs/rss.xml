@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 02 Apr 2026 21:16:36 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 21:21:37 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>SPOT SILVER DROPS 7% TO $69.86/OZ</title>
+      <link>https://nitter.net/DeItaone/status/2039693003594342426#m</link>
+      <description>&lt;p&gt;SPOT SILVER DROPS 7% TO $69.86/OZ&lt;/p&gt;</description>
+      <guid isPermaLink="false">2039693003594342426</guid>
+      <pubDate>Thu, 02 Apr 2026 13:14:42 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>TESLA EXTENDS DECLINE TO 3.2% AS 1Q DELIVERIES DISAPPOINT</title>
       <link>https://nitter.net/DeItaone/status/2039689636314820704#m</link>
@@ -576,14 +584,6 @@ Bottom line: this is a high-risk “war ends soon” trade — and so far, it’
       <description>&lt;p&gt;TRUMP: 'WE'RE GOING TO BE OUT OF IRAN PRETTY QUICKLY,' WON'T GIVE TIMELINE&lt;/p&gt;</description>
       <guid isPermaLink="false">2039329918853464443</guid>
       <pubDate>Wed, 01 Apr 2026 13:11:56 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>TRUMP, AHEAD OF SPEECH, SAYS 'WE'VE HAD FULL REGIME CHANGE' IN IRAN</title>
-      <link>https://nitter.net/DeItaone/status/2039329841523069346#m</link>
-      <description>&lt;p&gt;TRUMP, AHEAD OF SPEECH, SAYS 'WE'VE HAD FULL REGIME CHANGE' IN IRAN&lt;/p&gt;</description>
-      <guid isPermaLink="false">2039329841523069346</guid>
-      <pubDate>Wed, 01 Apr 2026 13:11:37 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
