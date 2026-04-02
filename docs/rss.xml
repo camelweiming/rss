@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Fri, 03 Apr 2026 04:17:13 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 04:22:09 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>*HEGSETH ASKED ARMY CHIEF TO STEP DOWN: CBS</title>
+      <link>https://nitter.net/DeItaone/status/2039796180838707635#m</link>
+      <description>&lt;p&gt;*HEGSETH ASKED ARMY CHIEF TO STEP DOWN: CBS&lt;/p&gt;</description>
+      <guid isPermaLink="false">2039796180838707635</guid>
+      <pubDate>Thu, 02 Apr 2026 20:04:41 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>*SPACEX TARGETS MORE THAN $2 TRILLION VALUATION IN IPO</title>
       <link>https://nitter.net/DeItaone/status/2039792745598922902#m</link>
@@ -563,14 +571,6 @@ The Altman family disputes her claims, citing mental health concerns and describ
       <description>&lt;p&gt;U.S. S&amp;amp;P 500 E-MINI FUTURES DOWN 1%, NASDAQ 100 FUTURES DOWN 1.3%, DOW FUTURES DOWN 0.9%&lt;/p&gt;</description>
       <guid isPermaLink="false">2039614043015557593</guid>
       <pubDate>Thu, 02 Apr 2026 08:00:56 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>IRAN'S HATAMI TELLS OPERATIONAL HEADQUARTERS TO MONITOR 'ENEMY MOVEMENTS WITH UTMOST ACCURACY' TO COUNTER THEIR PLANS, ESPECIALLY GROUND ATTACK</title>
-      <link>https://nitter.net/DeItaone/status/2039613778560491693#m</link>
-      <description>&lt;p&gt;IRAN'S HATAMI TELLS OPERATIONAL HEADQUARTERS TO MONITOR 'ENEMY MOVEMENTS WITH UTMOST ACCURACY' TO COUNTER THEIR PLANS, ESPECIALLY GROUND ATTACK&lt;/p&gt;</description>
-      <guid isPermaLink="false">2039613778560491693</guid>
-      <pubDate>Thu, 02 Apr 2026 07:59:53 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
