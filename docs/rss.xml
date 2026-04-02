@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 02 Apr 2026 23:31:37 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 23:36:41 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>IRAN'S REVOLUTIONARY GUARDS SAY THEY STARTED ATTACK ON AMAZON CLOUD COMPUTING CENTER IN BAHRAIN - IRAN'S ISNA</title>
+      <link>https://nitter.net/DeItaone/status/2039725131119857768#m</link>
+      <description>&lt;p&gt;IRAN'S REVOLUTIONARY GUARDS SAY THEY STARTED ATTACK ON AMAZON CLOUD COMPUTING CENTER IN BAHRAIN - IRAN'S ISNA&lt;/p&gt;</description>
+      <guid isPermaLink="false">2039725131119857768</guid>
+      <pubDate>Thu, 02 Apr 2026 15:22:22 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>FUEL TANKER THAT REROUTED AWAY FROM CUBA IS NOW DISCHARGING AT A VENEZUELAN PORT -SHIP DATA, SOURCE</title>
       <link>https://nitter.net/DeItaone/status/2039723142701023713#m</link>
@@ -591,14 +599,6 @@ Bottom line: this is a high-risk “war ends soon” trade — and so far, it’
       <description>&lt;p&gt;US AND IRAN DISCUSSING CEASEFIRE FOR REOPENING STRAIT, OFFICIALS SAY – AXIOS&lt;/p&gt;</description>
       <guid isPermaLink="false">2039362692603920831</guid>
       <pubDate>Wed, 01 Apr 2026 15:22:10 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*SPACEX HAS FILED CONFIDENTIALLY FOR IPO</title>
-      <link>https://nitter.net/DeItaone/status/2039362647250911240#m</link>
-      <description>&lt;p&gt;*SPACEX HAS FILED CONFIDENTIALLY FOR IPO&lt;/p&gt;</description>
-      <guid isPermaLink="false">2039362647250911240</guid>
-      <pubDate>Wed, 01 Apr 2026 15:21:59 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
