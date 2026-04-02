@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Thu, 02 Apr 2026 18:17:04 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 18:21:39 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Macron says Trump's comments about his relationship are "neither elegant nor up to standard"</title>
+      <link>https://nitter.net/DeItaone/status/2039647059939082400#m</link>
+      <description>&lt;p&gt;Macron says Trump's comments about his relationship are "neither elegant nor up to standard"&lt;/p&gt;</description>
+      <guid isPermaLink="false">2039647059939082400</guid>
+      <pubDate>Thu, 02 Apr 2026 10:12:08 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>BLACKROCK BETS ON RISING EUROPEAN YIELDS
 
@@ -536,16 +544,6 @@ Trump: Iran’s new, more pragmatic leader seeks a ceasefire. The U.S. response:
       <description>&lt;p&gt;*JAPAN’S NIKKEI 225 SURGES 4% ON TRUMP'S COMMENTS ON ENDING WAR&lt;/p&gt;</description>
       <guid isPermaLink="false">2039159817365827803</guid>
       <pubDate>Wed, 01 Apr 2026 01:56:00 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*UAE PREPARING TO HELP US OPEN HORMUZ BY FORCE: WSJ
-*UAE LOBBYING FOR UNSC RESOLUTION TO AUTHORIZE ACTION: WSJ</title>
-      <link>https://nitter.net/DeItaone/status/2039159759085981876#m</link>
-      <description>&lt;p&gt;*UAE PREPARING TO HELP US OPEN HORMUZ BY FORCE: WSJ&lt;br /&gt;
-*UAE LOBBYING FOR UNSC RESOLUTION TO AUTHORIZE ACTION: WSJ&lt;/p&gt;</description>
-      <guid isPermaLink="false">2039159759085981876</guid>
-      <pubDate>Wed, 01 Apr 2026 01:55:46 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
