@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sat, 04 Apr 2026 03:21:51 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 03:26:53 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>IRAN TARGETED A10 AIRCRAFT IN SOUTHERN WATERS NEAR STRAIT OF HORMUZ - IRAN'S STATE MEDIA</title>
+      <link>https://nitter.net/DeItaone/status/2040146113022312692#m</link>
+      <description>&lt;p&gt;IRAN TARGETED A10 AIRCRAFT IN SOUTHERN WATERS NEAR STRAIT OF HORMUZ - IRAN'S STATE MEDIA&lt;/p&gt;</description>
+      <guid isPermaLink="false">2040146113022312692</guid>
+      <pubDate>Fri, 03 Apr 2026 19:15:12 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>A SECOND AIR FORCE COMBAT PLANE CRASHED IN PERSIAN GULF REGION ON FRIDAY; THE LONE PILOT WAS RESCUED -NYT, CITING TWO U.S. OFFICIALSMEAST</title>
       <link>https://nitter.net/DeItaone/status/2040137450924712430#m</link>
@@ -512,14 +520,6 @@ Until there’s clarity on de-escalation or Hormuz reopens, analysts expect cont
       <description>&lt;p&gt;Macron says Trump cannot keep "contradicting" himself every day on Iran&lt;/p&gt;</description>
       <guid isPermaLink="false">2039652460063592736</guid>
       <pubDate>Thu, 02 Apr 2026 10:33:36 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>Macron says it is unrealistic to open Hormuz Strait by force</title>
-      <link>https://nitter.net/DeItaone/status/2039652410671378674#m</link>
-      <description>&lt;p&gt;Macron says it is unrealistic to open Hormuz Strait by force&lt;/p&gt;</description>
-      <guid isPermaLink="false">2039652410671378674</guid>
-      <pubDate>Thu, 02 Apr 2026 10:33:24 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
