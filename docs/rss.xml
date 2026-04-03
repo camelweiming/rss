@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sat, 04 Apr 2026 00:31:53 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 00:36:52 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>U.S. URGES ITS CITIZENS TO DEPART LEBANON 'WHILE COMMERCIAL FLIGHT OPTIONS REMAIN AVAILABLE'</title>
+      <link>https://nitter.net/DeItaone/status/2040103997739012413#m</link>
+      <description>&lt;p&gt;U.S. URGES ITS CITIZENS TO DEPART LEBANON 'WHILE COMMERCIAL FLIGHT OPTIONS REMAIN AVAILABLE'&lt;/p&gt;</description>
+      <guid isPermaLink="false">2040103997739012413</guid>
+      <pubDate>Fri, 03 Apr 2026 16:27:51 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>US FORCES RESCUE ONE CREW MEMBER AFTER FIGHTER JET DOWNED OVER IRAN -US REPORTS CITING TWO US OFFICIALS</title>
       <link>https://nitter.net/DeItaone/status/2040097287985070107#m</link>
@@ -529,14 +537,6 @@ The shift in outlook—fewer rate cuts and potential hikes—has already paid of
 &lt;img src="https://nitter.net/pic/media%2FHE5CMSma0AA2yJ-.png" /&gt;</description>
       <guid isPermaLink="false">2039640466619084951</guid>
       <pubDate>Thu, 02 Apr 2026 09:45:56 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>GOLDMAN SACHS PARIS STAFF ALLOWED TO WORK REMOTELY ON THURSDAY AFTER ATTEMPTED ATTACK ON OTHER BANK- SOURCES</title>
-      <link>https://nitter.net/DeItaone/status/2039636736553234892#m</link>
-      <description>&lt;p&gt;GOLDMAN SACHS PARIS STAFF ALLOWED TO WORK REMOTELY ON THURSDAY AFTER ATTEMPTED ATTACK ON OTHER BANK- SOURCES&lt;/p&gt;</description>
-      <guid isPermaLink="false">2039636736553234892</guid>
-      <pubDate>Thu, 02 Apr 2026 09:31:07 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
