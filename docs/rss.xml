@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sat, 04 Apr 2026 00:01:53 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 00:06:52 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>US FORCES RESCUE ONE CREW MEMBER AFTER FIGHTER JET DOWNED OVER IRAN -US REPORTS CITING TWO US OFFICIALS</title>
+      <link>https://nitter.net/DeItaone/status/2040097287985070107#m</link>
+      <description>&lt;p&gt;US FORCES RESCUE ONE CREW MEMBER AFTER FIGHTER JET DOWNED OVER IRAN -US REPORTS CITING TWO US OFFICIALS&lt;/p&gt;</description>
+      <guid isPermaLink="false">2040097287985070107</guid>
+      <pubDate>Fri, 03 Apr 2026 16:01:11 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>ISRAELI MILITARY SAYS IT HAS BEGUN STRIKING INFRASTRUCTURE IN BEIRUT</title>
       <link>https://nitter.net/DeItaone/status/2040078547180466682#m</link>
@@ -529,14 +537,6 @@ The shift in outlook—fewer rate cuts and potential hikes—has already paid of
       <description>&lt;p&gt;GOLDMAN SACHS PARIS STAFF ALLOWED TO WORK REMOTELY ON THURSDAY AFTER ATTEMPTED ATTACK ON OTHER BANK- SOURCES&lt;/p&gt;</description>
       <guid isPermaLink="false">2039636736553234892</guid>
       <pubDate>Thu, 02 Apr 2026 09:31:07 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>*INDIA SETS VOLATILITY MARGIN ON USDINR FORWARDS TO CURB SWINGS</title>
-      <link>https://nitter.net/DeItaone/status/2039636595536495092#m</link>
-      <description>&lt;p&gt;*INDIA SETS VOLATILITY MARGIN ON USDINR FORWARDS TO CURB SWINGS&lt;/p&gt;</description>
-      <guid isPermaLink="false">2039636595536495092</guid>
-      <pubDate>Thu, 02 Apr 2026 09:30:33 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
