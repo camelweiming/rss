@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sat, 04 Apr 2026 06:51:48 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 06:56:48 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>EXPLOSIONS HEARD IN SYRIA'S DAMASCUS AND ITS COUNTRYSIDE, NATURE UNKNOWN - SYRIAN STATE TV</title>
+      <link>https://nitter.net/DeItaone/status/2040199028206448950#m</link>
+      <description>&lt;p&gt;EXPLOSIONS HEARD IN SYRIA'S DAMASCUS AND ITS COUNTRYSIDE, NATURE UNKNOWN - SYRIAN STATE TV&lt;/p&gt;</description>
+      <guid isPermaLink="false">2040199028206448950</guid>
+      <pubDate>Fri, 03 Apr 2026 22:45:28 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>TRUMP TELLS THE INDEPENDENT THAT HE ISN’T YET READY TO SAY WHAT THE U.S. WILL DO IF THE MISSING CREW MEMBER IS HARMED</title>
       <link>https://nitter.net/DeItaone/status/2040172357675835479#m</link>
@@ -480,30 +488,6 @@ Model 3/Y dominated output with 394,611 produced and 341,893 delivered, while ot
 The company also deployed 8.8 GWh of energy storage in the quarter.&lt;/p&gt;</description>
       <guid isPermaLink="false">2039689525660688843</guid>
       <pubDate>Thu, 02 Apr 2026 13:00:53 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>$TSLA
-
-TESLA 1Q MODEL 3/Y DELIVERIES 341,893, EST. 353,928
-
-TESLA 1Q MODEL 3/Y PRODUCTION 394,611, EST. 377,147
-
-TESLA 1Q OTHER MODELS PRODUCTION 13,775, +18% Q/Q
-
-TESLA 1Q OTHER MODELS DELIVERIES 16,130, EST. 12,393</title>
-      <link>https://nitter.net/DeItaone/status/2039689410518585526#m</link>
-      <description>&lt;p&gt;&lt;a href="https://nitter.net/search?f=tweets&amp;amp;q=%23TSLA"&gt;$TSLA&lt;/a&gt;&lt;br /&gt;
-&lt;br /&gt;
-TESLA 1Q MODEL 3/Y DELIVERIES 341,893, EST. 353,928&lt;br /&gt;
-&lt;br /&gt;
-TESLA 1Q MODEL 3/Y PRODUCTION 394,611, EST. 377,147&lt;br /&gt;
-&lt;br /&gt;
-TESLA 1Q OTHER MODELS PRODUCTION 13,775, +18% Q/Q&lt;br /&gt;
-&lt;br /&gt;
-TESLA 1Q OTHER MODELS DELIVERIES 16,130, EST. 12,393&lt;/p&gt;</description>
-      <guid isPermaLink="false">2039689410518585526</guid>
-      <pubDate>Thu, 02 Apr 2026 13:00:25 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
