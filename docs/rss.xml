@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sat, 04 Apr 2026 20:21:41 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 20:26:51 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>IRAN GUARDS SAY ISRAEL-LINKED VESSEL STOPPED IN STRAIT OF HORMUZ AFTER BEING HIT BY DRONE, SHIP ON FIRE - IRANIAN STATE MEDIA</title>
+      <link>https://nitter.net/DeItaone/status/2040401867927130263#m</link>
+      <description>&lt;p&gt;IRAN GUARDS SAY ISRAEL-LINKED VESSEL STOPPED IN STRAIT OF HORMUZ AFTER BEING HIT BY DRONE, SHIP ON FIRE - IRANIAN STATE MEDIA&lt;/p&gt;</description>
+      <guid isPermaLink="false">2040401867927130263</guid>
+      <pubDate>Sat, 04 Apr 2026 12:11:28 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>EXPLOSIONS HEARD IN SYRIA'S DAMASCUS AND ITS COUNTRYSIDE, NATURE UNKNOWN - SYRIAN STATE TV</title>
       <link>https://nitter.net/DeItaone/status/2040199028206448950#m</link>
@@ -468,26 +476,6 @@ The trend reflects growing expectations of prolonged disruption, reinforcing pre
       <description>&lt;p&gt;TESLA EXTENDS DECLINE TO 3.2% AS 1Q DELIVERIES DISAPPOINT&lt;/p&gt;</description>
       <guid isPermaLink="false">2039689636314820704</guid>
       <pubDate>Thu, 02 Apr 2026 13:01:19 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>$TSLA - TESLA MISSES Q1 DELIVERY EXPECTATIONS
-
-Tesla reported Q1 deliveries of 358,023 vehicles, below estimates of 368,903, despite producing 408,386 units.
-
-Model 3/Y dominated output with 394,611 produced and 341,893 delivered, while other models saw 13,775 produced and 16,130 delivered.
-
-The company also deployed 8.8 GWh of energy storage in the quarter.</title>
-      <link>https://nitter.net/DeItaone/status/2039689525660688843#m</link>
-      <description>&lt;p&gt;&lt;a href="https://nitter.net/search?f=tweets&amp;amp;q=%23TSLA"&gt;$TSLA&lt;/a&gt; - TESLA MISSES Q1 DELIVERY EXPECTATIONS&lt;br /&gt;
-&lt;br /&gt;
-Tesla reported Q1 deliveries of 358,023 vehicles, below estimates of 368,903, despite producing 408,386 units.&lt;br /&gt;
-&lt;br /&gt;
-Model 3/Y dominated output with 394,611 produced and 341,893 delivered, while other models saw 13,775 produced and 16,130 delivered.&lt;br /&gt;
-&lt;br /&gt;
-The company also deployed 8.8 GWh of energy storage in the quarter.&lt;/p&gt;</description>
-      <guid isPermaLink="false">2039689525660688843</guid>
-      <pubDate>Thu, 02 Apr 2026 13:00:53 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
