@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sat, 04 Apr 2026 22:21:40 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 22:26:44 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>Trump says Iran has 48 hours to make deal or US will unleash 'Hell'</title>
+      <link>https://nitter.net/DeItaone/status/2040432777040965793#m</link>
+      <description>&lt;p&gt;Trump says Iran has 48 hours to make deal or US will unleash 'Hell'&lt;/p&gt;</description>
+      <guid isPermaLink="false">2040432777040965793</guid>
+      <pubDate>Sat, 04 Apr 2026 14:14:18 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>TRUMP CLAIMS U.S. IS “ENDING NUCLEAR IRAN”
 
@@ -484,14 +492,6 @@ The trend reflects growing expectations of prolonged disruption, reinforcing pre
       <description>&lt;p&gt;U.S. STOCKS EXTEND FALL, S&amp;amp;P 500 DOWN 1.25%&lt;/p&gt;</description>
       <guid isPermaLink="false">2039697106475081832</guid>
       <pubDate>Thu, 02 Apr 2026 13:31:00 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>US AMBASSADOR TO NATO WHITAKER: TRUMP WILL DECIDE IF US WILL STAY IN NATO</title>
-      <link>https://nitter.net/DeItaone/status/2039695434080206938#m</link>
-      <description>&lt;p&gt;US AMBASSADOR TO NATO WHITAKER: TRUMP WILL DECIDE IF US WILL STAY IN NATO&lt;/p&gt;</description>
-      <guid isPermaLink="false">2039695434080206938</guid>
-      <pubDate>Thu, 02 Apr 2026 13:24:21 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
