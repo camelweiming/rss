@@ -4,8 +4,28 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sun, 05 Apr 2026 23:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 23:04:51 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>*FOX: TRUMP SAYS MULLING TAKING OVER OIL IF NO IRAN DEAL
+
+*TRUMP SAYS HE COULD GET DEAL W/ IRAN BY TOMORROW: FOX NEWS
+
+*TRUMP SAYS NEGOTIATORS FOR IRAN GRANTED AMNESTY FOR NOW: FOX
+
+*TRUMP MULLS 'BLOWING EVERYTHING UP' IF NO IRAN DEAL 'FAST': FOX</title>
+      <link>https://nitter.net/DeItaone/status/2040805845600997614#m</link>
+      <description>&lt;p&gt;*FOX: TRUMP SAYS MULLING TAKING OVER OIL IF NO IRAN DEAL&lt;br /&gt;
+&lt;br /&gt;
+*TRUMP SAYS HE COULD GET DEAL W/ IRAN BY TOMORROW: FOX NEWS&lt;br /&gt;
+&lt;br /&gt;
+*TRUMP SAYS NEGOTIATORS FOR IRAN GRANTED AMNESTY FOR NOW: FOX&lt;br /&gt;
+&lt;br /&gt;
+*TRUMP MULLS 'BLOWING EVERYTHING UP' IF NO IRAN DEAL 'FAST': FOX&lt;/p&gt;</description>
+      <guid isPermaLink="false">2040805845600997614</guid>
+      <pubDate>Sun, 05 Apr 2026 14:56:44 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>TRUMP SAYS HE IDEALLY WILL TAKE IRANIAN OIL IF IRAN IS UNWILLING TO MAKE AN AGREEMENT</title>
       <link>https://nitter.net/DeItaone/status/2040789454206480512#m</link>
@@ -449,14 +469,6 @@ He urged Iran to make a deal quickly, signaling that further escalation could le
       <description>&lt;p&gt;TRUMP: IT IS TIME FOR IRAN TO MAKE A DEAL BEFORE IT IS TOO LATE&lt;/p&gt;</description>
       <guid isPermaLink="false">2039744270337290381</guid>
       <pubDate>Thu, 02 Apr 2026 16:38:25 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>IRAN'S MOBARAKEH STEEL PLANT HALTS PRODUCTION: NOUR NEWS</title>
-      <link>https://nitter.net/DeItaone/status/2039735008399622332#m</link>
-      <description>&lt;p&gt;IRAN'S MOBARAKEH STEEL PLANT HALTS PRODUCTION: NOUR NEWS&lt;/p&gt;</description>
-      <guid isPermaLink="false">2039735008399622332</guid>
-      <pubDate>Thu, 02 Apr 2026 16:01:37 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
