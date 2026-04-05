@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sun, 05 Apr 2026 20:26:44 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 20:31:39 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>IRANIAN FOREIGN MINISTRY OFFICIAL SAYS RECENTLY ARRESTED IRANIANS IN THE U.S. HAVE NO FAMILIAL RELATIONSHIP WITH DECEASED IRANIAN MILITARY COMMANDER QASEM SOLEIMANI - STATE MEDIA</title>
+      <link>https://nitter.net/DeItaone/status/2040768258098213165#m</link>
+      <description>&lt;p&gt;IRANIAN FOREIGN MINISTRY OFFICIAL SAYS RECENTLY ARRESTED IRANIANS IN THE U.S. HAVE NO FAMILIAL RELATIONSHIP WITH DECEASED IRANIAN MILITARY COMMANDER QASEM SOLEIMANI - STATE MEDIA&lt;/p&gt;</description>
+      <guid isPermaLink="false">2040768258098213165</guid>
+      <pubDate>Sun, 05 Apr 2026 12:27:23 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>TRUMP TELLS IRAN TO OPEN THE STRAIT 'OR YOU'LL BE LIVING IN HELL'</title>
       <link>https://nitter.net/DeItaone/status/2040763280180867341#m</link>
@@ -469,14 +477,6 @@ They cite the ongoing military buildup and broad war objectives as key factors, 
       <description>&lt;p&gt;IRAN SAYS IT CARRIED OUT DRONE ATTACK ON U.S. FIGHTER JETS AT AL AZRAQ BASE IN JORDAN ON THURSDAY&lt;/p&gt;</description>
       <guid isPermaLink="false">2039729477199012235</guid>
       <pubDate>Thu, 02 Apr 2026 15:39:38 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>IRAN'S REVOLUTIONARY GUARDS SAY THEY STARTED ATTACK ON AMAZON CLOUD COMPUTING CENTER IN BAHRAIN - IRAN'S ISNA</title>
-      <link>https://nitter.net/DeItaone/status/2039725131119857768#m</link>
-      <description>&lt;p&gt;IRAN'S REVOLUTIONARY GUARDS SAY THEY STARTED ATTACK ON AMAZON CLOUD COMPUTING CENTER IN BAHRAIN - IRAN'S ISNA&lt;/p&gt;</description>
-      <guid isPermaLink="false">2039725131119857768</guid>
-      <pubDate>Thu, 02 Apr 2026 15:22:22 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
