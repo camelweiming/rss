@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sun, 05 Apr 2026 12:41:30 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 12:46:29 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>*MISSING US AIRMAN RESCUED AFTER JET DOWNED IN IRAN: AXIOS</title>
+      <link>https://nitter.net/DeItaone/status/2040647467113300294#m</link>
+      <description>&lt;p&gt;*MISSING US AIRMAN RESCUED AFTER JET DOWNED IN IRAN: AXIOS&lt;/p&gt;</description>
+      <guid isPermaLink="false">2040647467113300294</guid>
+      <pubDate>Sun, 05 Apr 2026 04:27:24 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>IRANIAN FOREIGN MINISTER ARAQCHI WARNS OF RISK OF RADIOLOGICAL RELEASE AFTER FOURTH ATTACK NEAR BUSHEHR NUCLEAR POWER PLANT -LETTER TO UN</title>
       <link>https://nitter.net/DeItaone/status/2040514764967686625#m</link>
@@ -469,14 +477,6 @@ They cite the ongoing military buildup and broad war objectives as key factors, 
       <description>&lt;p&gt;🚨 *IRAN: DRAFTING PROTOCOL WITH OMAN FOR HORMUZ STRAIT TRAFFIC&lt;/p&gt;</description>
       <guid isPermaLink="false">2039713648742945274</guid>
       <pubDate>Thu, 02 Apr 2026 14:36:44 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>TRUMP: WILL SOON SIGN AN ORDER TO PAY ALL OF INCREDIBLE EMPLOYEES AT DEPARTMENT OF HOMELAND SECURITY</title>
-      <link>https://nitter.net/DeItaone/status/2039713449467351271#m</link>
-      <description>&lt;p&gt;TRUMP: WILL SOON SIGN AN ORDER TO PAY ALL OF INCREDIBLE EMPLOYEES AT DEPARTMENT OF HOMELAND SECURITY&lt;/p&gt;</description>
-      <guid isPermaLink="false">2039713449467351271</guid>
-      <pubDate>Thu, 02 Apr 2026 14:35:57 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
