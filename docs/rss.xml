@@ -4,8 +4,16 @@
     <title>RSS汇总</title>
     <link>https://example.com</link>
     <description>多个RSS源的汇总</description>
-    <lastBuildDate>Sun, 05 Apr 2026 23:56:24 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 00:01:22 +0800</lastBuildDate>
     <language>zh-CN</language>
+    <item>
+      <title>HEAD OF LIBYA'S NATIONAL OIL CORPORATION SAYS OIL OUTPUT HAS RISEN TO ABOUT 1.43 MILLION BPD, THE HIGHEST LEVEL IN MORE THAN A DECADE</title>
+      <link>https://nitter.net/DeItaone/status/2040820048428736754#m</link>
+      <description>&lt;p&gt;HEAD OF LIBYA'S NATIONAL OIL CORPORATION SAYS OIL OUTPUT HAS RISEN TO ABOUT 1.43 MILLION BPD, THE HIGHEST LEVEL IN MORE THAN A DECADE&lt;/p&gt;</description>
+      <guid isPermaLink="false">2040820048428736754</guid>
+      <pubDate>Sun, 05 Apr 2026 15:53:10 +0000</pubDate>
+      <source>DeItaone</source>
+    </item>
     <item>
       <title>*FOX: TRUMP SAYS MULLING TAKING OVER OIL IF NO IRAN DEAL
 
@@ -461,14 +469,6 @@ Trump claimed a major Iranian bridge had been destroyed and warned that more str
 He urged Iran to make a deal quickly, signaling that further escalation could leave the country severely damaged.&lt;/p&gt;</description>
       <guid isPermaLink="false">2039744441058025475</guid>
       <pubDate>Thu, 02 Apr 2026 16:39:06 +0000</pubDate>
-      <source>DeItaone</source>
-    </item>
-    <item>
-      <title>TRUMP: IT IS TIME FOR IRAN TO MAKE A DEAL BEFORE IT IS TOO LATE</title>
-      <link>https://nitter.net/DeItaone/status/2039744270337290381#m</link>
-      <description>&lt;p&gt;TRUMP: IT IS TIME FOR IRAN TO MAKE A DEAL BEFORE IT IS TOO LATE&lt;/p&gt;</description>
-      <guid isPermaLink="false">2039744270337290381</guid>
-      <pubDate>Thu, 02 Apr 2026 16:38:25 +0000</pubDate>
       <source>DeItaone</source>
     </item>
   </channel>
