@@ -1,0 +1,12 @@
+# wrangler.toml - Cloudflare Worker配置
+name = "rss-proxy"  # 你的Worker名称（自定义）
+main = "src/worker.js"   # 核心代码路径
+compatibility_date = "2026-03-05"  # 兼容日期（填当前日期即可）
+
+# 可选：绑定Cloudflare账号（也可通过命令行登录）
+# account_id = "你的Cloudflare账号ID"
+# zone_id = "你的域名Zone ID（若无自定义域名可留空）"
+
+# 部署到免费的workers.dev子域名
+[env.production]
+workers_dev = true
